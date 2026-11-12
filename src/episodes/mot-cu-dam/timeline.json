@@ -1,0 +1,3958 @@
+{
+ "slug": "mot-cu-dam",
+ "title": "SẼ RA SAO NẾU BẠN CHỈ CẦN MỘT CÚ ĐẤM?",
+ "fps": 30,
+ "total": 8493,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 60,
+   "t0": 0,
+   "t1": 60,
+   "line": "Một con gián khổng lồ bò giữa phố."
+  },
+  {
+   "shot": "A2",
+   "a": 60,
+   "b": 99,
+   "t0": 0,
+   "t1": 39,
+   "line": "Mọi người bỏ chạy."
+  },
+  {
+   "shot": "A3",
+   "a": 99,
+   "b": 138,
+   "t0": 0,
+   "t1": 39,
+   "line": "Bạn nắm tay lại.",
+   "look": "fight"
+  },
+  {
+   "shot": "A4",
+   "a": 138,
+   "b": 171,
+   "t0": 0,
+   "t1": 33,
+   "line": "Một cú đấm.",
+   "look": "fight"
+  },
+  {
+   "shot": "A5",
+   "a": 171,
+   "b": 189,
+   "t0": 0,
+   "t1": 18,
+   "line": "Bùm.",
+   "look": "fight"
+  },
+  {
+   "shot": "A6",
+   "a": 189,
+   "b": 222,
+   "t0": 0,
+   "t1": 33,
+   "line": "Một con robot cao bằng"
+  },
+  {
+   "shot": "A7",
+   "a": 222,
+   "b": 257,
+   "t0": 0,
+   "t1": 35,
+   "line": "tòa nhà mười tầng."
+  },
+  {
+   "shot": "A8",
+   "a": 257,
+   "b": 286,
+   "t0": 0,
+   "t1": 29,
+   "line": "Một cú đấm.",
+   "look": "fight"
+  },
+  {
+   "shot": "A9",
+   "a": 286,
+   "b": 307,
+   "t0": 0,
+   "t1": 21,
+   "line": "Bùm.",
+   "look": "fight"
+  },
+  {
+   "shot": "A10",
+   "a": 307,
+   "b": 339,
+   "t0": 0,
+   "t1": 32,
+   "line": "Một đám mây đen che"
+  },
+  {
+   "shot": "A11",
+   "a": 339,
+   "b": 375,
+   "t0": 0,
+   "t1": 36,
+   "line": "kín cả thành phố."
+  },
+  {
+   "shot": "A12",
+   "a": 375,
+   "b": 403,
+   "t0": 0,
+   "t1": 28,
+   "line": "Một cú đấm.",
+   "look": "fight"
+  },
+  {
+   "shot": "A13",
+   "a": 403,
+   "b": 421,
+   "t0": 0,
+   "t1": 18,
+   "line": "Trời xanh trở",
+   "look": "fight"
+  },
+  {
+   "shot": "A14",
+   "a": 421,
+   "b": 442,
+   "t0": 0,
+   "t1": 21,
+   "line": "lại.",
+   "look": "fight"
+  },
+  {
+   "shot": "A15",
+   "a": 442,
+   "b": 472,
+   "t0": 0,
+   "t1": 30,
+   "line": "Ba trận đánh."
+  },
+  {
+   "shot": "A16",
+   "a": 472,
+   "b": 503,
+   "t0": 0,
+   "t1": 31,
+   "line": "Ba cú đấm."
+  },
+  {
+   "shot": "A17",
+   "a": 503,
+   "b": 549,
+   "t0": 0,
+   "t1": 46,
+   "line": "Và bạn bắt đầu thấy chán.",
+   "look": "bored"
+  },
+  {
+   "shot": "A18",
+   "a": 549,
+   "b": 586,
+   "t0": 0,
+   "t1": 37,
+   "line": "Sẽ ra sao nếu bạn có thể"
+  },
+  {
+   "shot": "A19",
+   "a": 586,
+   "b": 646,
+   "t0": 0,
+   "t1": 60,
+   "line": "hạ gục bất cứ thứ gì, chỉ bằng"
+  },
+  {
+   "shot": "A20",
+   "a": 646,
+   "b": 693,
+   "t0": 0,
+   "t1": 47,
+   "line": "một cú đấm?"
+  },
+  {
+   "shot": "A21",
+   "a": 693,
+   "b": 731,
+   "t0": 0,
+   "t1": 38,
+   "line": "Sáng nay bạn thức dậy,"
+  },
+  {
+   "shot": "A22",
+   "a": 731,
+   "b": 776,
+   "t0": 0,
+   "t1": 45,
+   "line": "mọi thứ vẫn bình thường."
+  },
+  {
+   "shot": "A23",
+   "a": 776,
+   "b": 803,
+   "t0": 0,
+   "t1": 27,
+   "line": "Trừ một điều."
+  },
+  {
+   "shot": "A24",
+   "a": 803,
+   "b": 839,
+   "t0": 0,
+   "t1": 36,
+   "line": "Chuông báo thức reo."
+  },
+  {
+   "shot": "A25",
+   "a": 839,
+   "b": 884,
+   "t0": 0,
+   "t1": 45,
+   "line": "Bạn đập nó theo thói quen."
+  },
+  {
+   "shot": "A26",
+   "a": 884,
+   "b": 915,
+   "t0": 0,
+   "t1": 31,
+   "line": "Một cú đấm.",
+   "look": "fight"
+  },
+  {
+   "shot": "A27",
+   "a": 915,
+   "b": 940,
+   "t0": 0,
+   "t1": 25,
+   "line": "Bùm.",
+   "look": "fight"
+  },
+  {
+   "shot": "A28",
+   "a": 940,
+   "b": 981,
+   "t0": 0,
+   "t1": 41,
+   "line": "Chiếc đồng hồ thành bụi.",
+   "look": "fight"
+  },
+  {
+   "shot": "A29",
+   "a": 981,
+   "b": 1014,
+   "t0": 0,
+   "t1": 33,
+   "line": "Cái bàn gãy đôi.",
+   "look": "fight"
+  },
+  {
+   "shot": "A30",
+   "a": 1014,
+   "b": 1049,
+   "t0": 0,
+   "t1": 35,
+   "line": "Mẹ bạn đứng ở cửa,"
+  },
+  {
+   "shot": "A31",
+   "a": 1049,
+   "b": 1078,
+   "t0": 0,
+   "t1": 29,
+   "line": "há hốc miệng."
+  },
+  {
+   "shot": "A32",
+   "a": 1078,
+   "b": 1112,
+   "t0": 0,
+   "t1": 34,
+   "line": "Quy tắc chỉ có một."
+  },
+  {
+   "shot": "A33",
+   "a": 1112,
+   "b": 1152,
+   "t0": 0,
+   "t1": 40,
+   "line": "Cú đấm nào của bạn cũng"
+  },
+  {
+   "shot": "A34",
+   "a": 1152,
+   "b": 1184,
+   "t0": 0,
+   "t1": 32,
+   "line": "là cú mạnh nhất."
+  },
+  {
+   "shot": "A35",
+   "a": 1184,
+   "b": 1229,
+   "t0": 0,
+   "t1": 45,
+   "line": "Không có nhẹ tay."
+  },
+  {
+   "shot": "B1",
+   "a": 1229,
+   "b": 1287,
+   "t0": 0,
+   "t1": 58,
+   "line": "Chiều đó, Mo kéo bạn ra"
+  },
+  {
+   "shot": "B2",
+   "a": 1287,
+   "b": 1334,
+   "t0": 0,
+   "t1": 47,
+   "line": "khu trò chơi."
+  },
+  {
+   "shot": "B3",
+   "a": 1334,
+   "b": 1376,
+   "t0": 0,
+   "t1": 42,
+   "line": "Máy đấm bốc."
+  },
+  {
+   "shot": "B4",
+   "a": 1376,
+   "b": 1412,
+   "t0": 0,
+   "t1": 36,
+   "line": "Kỷ lục của cả quận là chín trăm điểm."
+  },
+  {
+   "shot": "B5",
+   "a": 1412,
+   "b": 1437,
+   "t0": 0,
+   "t1": 25,
+   "line": "Mo đấm."
+  },
+  {
+   "shot": "B6",
+   "a": 1437,
+   "b": 1472,
+   "t0": 0,
+   "t1": 35,
+   "line": "Bốn trăm hai mươi."
+  },
+  {
+   "shot": "B7",
+   "a": 1472,
+   "b": 1495,
+   "t0": 0,
+   "t1": 23,
+   "line": "Đến lượt bạn."
+  },
+  {
+   "shot": "B8",
+   "a": 1495,
+   "b": 1525,
+   "t0": 0,
+   "t1": 30,
+   "line": "Một cú đấm.",
+   "look": "fight"
+  },
+  {
+   "shot": "B9",
+   "a": 1525,
+   "b": 1548,
+   "t0": 0,
+   "t1": 23,
+   "line": "Bùm.",
+   "look": "fight"
+  },
+  {
+   "shot": "B10",
+   "a": 1548,
+   "b": 1574,
+   "t0": 0,
+   "t1": 26,
+   "line": "Cái máy bay xuyên qua",
+   "look": "fight"
+  },
+  {
+   "shot": "B11",
+   "a": 1574,
+   "b": 1602,
+   "t0": 0,
+   "t1": 28,
+   "line": "bức tường.",
+   "look": "fight"
+  },
+  {
+   "shot": "B12",
+   "a": 1602,
+   "b": 1663,
+   "t0": 0,
+   "t1": 61,
+   "line": "Màn hình hiện chín chín chín chín,"
+  },
+  {
+   "shot": "B13",
+   "a": 1663,
+   "b": 1686,
+   "t0": 0,
+   "t1": 23,
+   "line": "rồi tắt luôn."
+  },
+  {
+   "shot": "B14",
+   "a": 1686,
+   "b": 1719,
+   "t0": 0,
+   "t1": 33,
+   "line": "Tối hôm sau, một"
+  },
+  {
+   "shot": "B15",
+   "a": 1719,
+   "b": 1768,
+   "t0": 0,
+   "t1": 49,
+   "line": "con gián to bằng chiếc xe buýt"
+  },
+  {
+   "shot": "B16",
+   "a": 1768,
+   "b": 1815,
+   "t0": 0,
+   "t1": 47,
+   "line": "bò lên từ miệng cống."
+  },
+  {
+   "shot": "B17",
+   "a": 1815,
+   "b": 1852,
+   "t0": 0,
+   "t1": 37,
+   "line": "Cả con phố hét lên."
+  },
+  {
+   "shot": "B18",
+   "a": 1852,
+   "b": 1881,
+   "t0": 0,
+   "t1": 29,
+   "line": "Bạn bước tới."
+  },
+  {
+   "shot": "B19",
+   "a": 1881,
+   "b": 1914,
+   "t0": 0,
+   "t1": 33,
+   "line": "Một cú đấm.",
+   "look": "fight"
+  },
+  {
+   "shot": "B20",
+   "a": 1914,
+   "b": 1936,
+   "t0": 0,
+   "t1": 22,
+   "line": "Bùm.",
+   "look": "fight"
+  },
+  {
+   "shot": "B21",
+   "a": 1936,
+   "b": 1997,
+   "t0": 0,
+   "t1": 61,
+   "line": "Con gián bay qua ba dãy nhà.",
+   "look": "fight"
+  },
+  {
+   "shot": "B22",
+   "a": 1997,
+   "b": 2053,
+   "t0": 0,
+   "t1": 56,
+   "line": "Mọi người giơ điện thoại lên quay."
+  },
+  {
+   "shot": "B23",
+   "a": 2053,
+   "b": 2082,
+   "t0": 0,
+   "t1": 29,
+   "line": "Sáng hôm sau,"
+  },
+  {
+   "shot": "B24",
+   "a": 2082,
+   "b": 2116,
+   "t0": 0,
+   "t1": 34,
+   "line": "cả nước biết mặt bạn."
+  },
+  {
+   "shot": "B25",
+   "a": 2116,
+   "b": 2180,
+   "t0": 0,
+   "t1": 64,
+   "line": "Tuần sau, một con robot mất điều khiển"
+  },
+  {
+   "shot": "B26",
+   "a": 2180,
+   "b": 2221,
+   "t0": 0,
+   "t1": 41,
+   "line": "đi giữa khu công nghiệp."
+  },
+  {
+   "shot": "B27",
+   "a": 2221,
+   "b": 2259,
+   "t0": 0,
+   "t1": 38,
+   "line": "Đạn bắn không thủng."
+  },
+  {
+   "shot": "B28",
+   "a": 2259,
+   "b": 2288,
+   "t0": 0,
+   "t1": 29,
+   "line": "Bạn nhảy lên."
+  },
+  {
+   "shot": "B29",
+   "a": 2288,
+   "b": 2321,
+   "t0": 0,
+   "t1": 33,
+   "line": "Một cú đấm.",
+   "look": "fight"
+  },
+  {
+   "shot": "B30",
+   "a": 2321,
+   "b": 2343,
+   "t0": 0,
+   "t1": 22,
+   "line": "Bùm.",
+   "look": "fight"
+  },
+  {
+   "shot": "B31",
+   "a": 2343,
+   "b": 2372,
+   "t0": 0,
+   "t1": 29,
+   "line": "Ốc vít rơi như",
+   "look": "fight"
+  },
+  {
+   "shot": "B32",
+   "a": 2372,
+   "b": 2390,
+   "t0": 0,
+   "t1": 18,
+   "line": "mưa.",
+   "look": "fight"
+  },
+  {
+   "shot": "B33",
+   "a": 2390,
+   "b": 2419,
+   "t0": 0,
+   "t1": 29,
+   "line": "Bạn đáp xuống,"
+  },
+  {
+   "shot": "B34",
+   "a": 2419,
+   "b": 2445,
+   "t0": 0,
+   "t1": 26,
+   "line": "phủi tay."
+  },
+  {
+   "shot": "C1",
+   "a": 2445,
+   "b": 2500,
+   "t0": 0,
+   "t1": 55,
+   "line": "Rồi một con bạch tuộc khổng lồ trồi lên"
+  },
+  {
+   "shot": "C2",
+   "a": 2500,
+   "b": 2562,
+   "t0": 0,
+   "t1": 62,
+   "line": "ở cảng biển, tám cái vòi quấn chặt một"
+  },
+  {
+   "shot": "C3",
+   "a": 2562,
+   "b": 2593,
+   "t0": 0,
+   "t1": 31,
+   "line": "con tàu chở hàng."
+  },
+  {
+   "shot": "C4",
+   "a": 2593,
+   "b": 2631,
+   "t0": 0,
+   "t1": 38,
+   "line": "Nó có tám cái vòi."
+  },
+  {
+   "shot": "C5",
+   "a": 2631,
+   "b": 2675,
+   "t0": 0,
+   "t1": 44,
+   "line": "Bạn chỉ cần một nắm tay.",
+   "look": "fight"
+  },
+  {
+   "shot": "C6",
+   "a": 2675,
+   "b": 2708,
+   "t0": 0,
+   "t1": 33,
+   "line": "Một cú đấm.",
+   "look": "fight"
+  },
+  {
+   "shot": "C7",
+   "a": 2708,
+   "b": 2731,
+   "t0": 0,
+   "t1": 23,
+   "line": "Bùm.",
+   "look": "fight"
+  },
+  {
+   "shot": "C8",
+   "a": 2731,
+   "b": 2787,
+   "t0": 0,
+   "t1": 56,
+   "line": "Sóng dâng cao như tòa nhà.",
+   "look": "fight"
+  },
+  {
+   "shot": "C9",
+   "a": 2787,
+   "b": 2825,
+   "t0": 0,
+   "t1": 38,
+   "line": "Con tàu được thả ra,",
+   "look": "fight"
+  },
+  {
+   "shot": "C10",
+   "a": 2825,
+   "b": 2849,
+   "t0": 0,
+   "t1": 24,
+   "line": "nguyên vẹn.",
+   "look": "fight"
+  },
+  {
+   "shot": "C11",
+   "a": 2849,
+   "b": 2886,
+   "t0": 0,
+   "t1": 37,
+   "line": "Rồi mùa mưa đến."
+  },
+  {
+   "shot": "C12",
+   "a": 2886,
+   "b": 2930,
+   "t0": 0,
+   "t1": 44,
+   "line": "Mây đen che kín thành phố,"
+  },
+  {
+   "shot": "C13",
+   "a": 2930,
+   "b": 2984,
+   "t0": 0,
+   "t1": 54,
+   "line": "ba ngày liền không thấy mặt trời."
+  },
+  {
+   "shot": "C14",
+   "a": 2984,
+   "b": 3026,
+   "t0": 0,
+   "t1": 42,
+   "line": "Bạn đấm thẳng lên trời.",
+   "look": "fight"
+  },
+  {
+   "shot": "C15",
+   "a": 3026,
+   "b": 3054,
+   "t0": 0,
+   "t1": 28,
+   "line": "Một cú đấm.",
+   "look": "fight"
+  },
+  {
+   "shot": "C16",
+   "a": 3054,
+   "b": 3074,
+   "t0": 0,
+   "t1": 20,
+   "line": "Bùm.",
+   "look": "fight"
+  },
+  {
+   "shot": "C17",
+   "a": 3074,
+   "b": 3116,
+   "t0": 0,
+   "t1": 42,
+   "line": "Mây tách ra làm đôi.",
+   "look": "fight"
+  },
+  {
+   "shot": "C18",
+   "a": 3116,
+   "b": 3151,
+   "t0": 0,
+   "t1": 35,
+   "line": "Nắng chiếu xuống.",
+   "look": "fight"
+  },
+  {
+   "shot": "C19",
+   "a": 3151,
+   "b": 3207,
+   "t0": 0,
+   "t1": 56,
+   "line": "Cả thành phố vỗ tay.",
+   "look": "fight"
+  },
+  {
+   "shot": "C20",
+   "a": 3207,
+   "b": 3236,
+   "t0": 0,
+   "t1": 29,
+   "line": "Nhưng khoan đã."
+  },
+  {
+   "shot": "C21",
+   "a": 3236,
+   "b": 3296,
+   "t0": 0,
+   "t1": 60,
+   "line": "Một cú đấm thật thì mạnh đến đâu?"
+  },
+  {
+   "shot": "C22",
+   "a": 3296,
+   "b": 3382,
+   "t0": 0,
+   "t1": 86,
+   "line": "Một võ sĩ quyền Anh Olympic đấm với lực trung bình"
+  },
+  {
+   "shot": "C23",
+   "a": 3382,
+   "b": 3433,
+   "t0": 0,
+   "t1": 51,
+   "line": "khoảng ba nghìn bốn trăm niu tơn,"
+  },
+  {
+   "shot": "C24",
+   "a": 3433,
+   "b": 3502,
+   "t0": 0,
+   "t1": 69,
+   "line": "như có gần ba trăm rưỡi ký đè xuống."
+  },
+  {
+   "shot": "C25",
+   "a": 3502,
+   "b": 3561,
+   "t0": 0,
+   "t1": 59,
+   "line": "Nắm đấm bay khoảng chín mét mỗi giây."
+  },
+  {
+   "shot": "C26",
+   "a": 3561,
+   "b": 3610,
+   "t0": 0,
+   "t1": 49,
+   "line": "Tay đấm nhanh nhất trong tự nhiên"
+  },
+  {
+   "shot": "C27",
+   "a": 3610,
+   "b": 3641,
+   "t0": 0,
+   "t1": 31,
+   "line": "là con tôm tít."
+  },
+  {
+   "shot": "C28",
+   "a": 3641,
+   "b": 3725,
+   "t0": 0,
+   "t1": 84,
+   "line": "Nó vung càng nhanh tới hai mươi ba mét mỗi giây."
+  },
+  {
+   "shot": "C29",
+   "a": 3725,
+   "b": 3797,
+   "t0": 0,
+   "t1": 72,
+   "line": "Nhanh đến mức nước quanh càng sôi lên thành bong bóng,"
+  },
+  {
+   "shot": "C30",
+   "a": 3797,
+   "b": 3834,
+   "t0": 0,
+   "t1": 37,
+   "line": "và khi bong bóng vỡ,"
+  },
+  {
+   "shot": "C31",
+   "a": 3834,
+   "b": 3890,
+   "t0": 0,
+   "t1": 56,
+   "line": "con mồi lãnh thêm một cú nữa."
+  },
+  {
+   "shot": "C32",
+   "a": 3890,
+   "b": 3933,
+   "t0": 0,
+   "t1": 43,
+   "line": "Một cú đấm thành hai."
+  },
+  {
+   "shot": "C33",
+   "a": 3933,
+   "b": 3955,
+   "t0": 0,
+   "t1": 22,
+   "line": "Đó là thật."
+  },
+  {
+   "shot": "D1",
+   "a": 3955,
+   "b": 4032,
+   "t0": 0,
+   "t1": 77,
+   "line": "Còn nắm đấm của bạn, nhanh hơn cả tốc độ âm thanh,"
+  },
+  {
+   "shot": "D2",
+   "a": 4032,
+   "b": 4090,
+   "t0": 0,
+   "t1": 58,
+   "line": "ba trăm bốn mươi ba mét mỗi giây."
+  },
+  {
+   "shot": "D3",
+   "a": 4090,
+   "b": 4162,
+   "t0": 0,
+   "t1": 72,
+   "line": "Nhanh gấp hơn ba mươi bảy lần nhà vô địch kia."
+  },
+  {
+   "shot": "D4",
+   "a": 4162,
+   "b": 4217,
+   "t0": 0,
+   "t1": 55,
+   "line": "Khi một vật vượt qua tốc độ âm thanh,"
+  },
+  {
+   "shot": "D5",
+   "a": 4217,
+   "b": 4281,
+   "t0": 0,
+   "t1": 64,
+   "line": "nó tạo ra một tiếng nổ siêu thanh."
+  },
+  {
+   "shot": "D6",
+   "a": 4281,
+   "b": 4364,
+   "t0": 0,
+   "t1": 83,
+   "line": "Tiếng roi quất chát chúa chính là một tiếng nổ như vậy,"
+  },
+  {
+   "shot": "D7",
+   "a": 4364,
+   "b": 4439,
+   "t0": 0,
+   "t1": 75,
+   "line": "vì đầu roi bay nhanh hơn âm thanh."
+  },
+  {
+   "shot": "D8",
+   "a": 4439,
+   "b": 4462,
+   "t0": 0,
+   "t1": 23,
+   "line": "Đó là thật."
+  },
+  {
+   "shot": "D9",
+   "a": 4462,
+   "b": 4497,
+   "t0": 0,
+   "t1": 35,
+   "line": "Nên mỗi lần bạn đấm,",
+   "look": "fight"
+  },
+  {
+   "shot": "D10",
+   "a": 4497,
+   "b": 4548,
+   "t0": 0,
+   "t1": 51,
+   "line": "cả con phố nghe một tiếng nổ.",
+   "look": "fight"
+  },
+  {
+   "shot": "D11",
+   "a": 4548,
+   "b": 4570,
+   "t0": 0,
+   "t1": 22,
+   "line": "Kính cửa sổ",
+   "look": "fight"
+  },
+  {
+   "shot": "D12",
+   "a": 4570,
+   "b": 4595,
+   "t0": 0,
+   "t1": 25,
+   "line": "có thể vỡ.",
+   "look": "fight"
+  },
+  {
+   "shot": "D13",
+   "a": 4595,
+   "b": 4643,
+   "t0": 0,
+   "t1": 48,
+   "line": "Và còn một định luật nữa."
+  },
+  {
+   "shot": "D14",
+   "a": 4643,
+   "b": 4688,
+   "t0": 0,
+   "t1": 45,
+   "line": "Định luật ba Niu tơn."
+  },
+  {
+   "shot": "D15",
+   "a": 4688,
+   "b": 4740,
+   "t0": 0,
+   "t1": 52,
+   "line": "Bạn đấm vào thứ gì mạnh bao nhiêu,"
+  },
+  {
+   "shot": "D16",
+   "a": 4740,
+   "b": 4825,
+   "t0": 0,
+   "t1": 85,
+   "line": "nó đẩy ngược lại tay bạn mạnh đúng bằng chừng đó."
+  },
+  {
+   "shot": "D17",
+   "a": 4825,
+   "b": 4879,
+   "t0": 0,
+   "t1": 54,
+   "line": "Tay người bình thường sẽ vỡ vụn."
+  },
+  {
+   "shot": "D18",
+   "a": 4879,
+   "b": 4926,
+   "t0": 0,
+   "t1": 47,
+   "line": "Vậy là không chỉ nắm đấm,"
+  },
+  {
+   "shot": "D19",
+   "a": 4926,
+   "b": 4968,
+   "t0": 0,
+   "t1": 42,
+   "line": "cả cơ thể bạn cũng phải"
+  },
+  {
+   "shot": "D20",
+   "a": 4968,
+   "b": 5027,
+   "t0": 0,
+   "t1": 59,
+   "line": "không thể bị phá hủy."
+  },
+  {
+   "shot": "D21",
+   "a": 5027,
+   "b": 5064,
+   "t0": 0,
+   "t1": 37,
+   "line": "Một tuần trôi qua.",
+   "look": "bored"
+  },
+  {
+   "shot": "D22",
+   "a": 5064,
+   "b": 5096,
+   "t0": 0,
+   "t1": 32,
+   "line": "Rồi một tháng.",
+   "look": "bored"
+  },
+  {
+   "shot": "D23",
+   "a": 5096,
+   "b": 5114,
+   "t0": 0,
+   "t1": 18,
+   "line": "Quái vật,",
+   "look": "bored"
+  },
+  {
+   "shot": "D24",
+   "a": 5114,
+   "b": 5135,
+   "t0": 0,
+   "t1": 21,
+   "line": "robot,",
+   "look": "bored"
+  },
+  {
+   "shot": "D25",
+   "a": 5135,
+   "b": 5162,
+   "t0": 0,
+   "t1": 27,
+   "line": "bọn cướp.",
+   "look": "bored"
+  },
+  {
+   "shot": "D26",
+   "a": 5162,
+   "b": 5223,
+   "t0": 0,
+   "t1": 61,
+   "line": "Trận nào cũng kết thúc sau một giây.",
+   "look": "bored"
+  },
+  {
+   "shot": "D27",
+   "a": 5223,
+   "b": 5276,
+   "t0": 0,
+   "t1": 53,
+   "line": "Tim bạn không còn đập nhanh nữa.",
+   "look": "bored"
+  },
+  {
+   "shot": "D28",
+   "a": 5276,
+   "b": 5305,
+   "t0": 0,
+   "t1": 29,
+   "line": "Không hồi hộp.",
+   "look": "bored"
+  },
+  {
+   "shot": "D29",
+   "a": 5305,
+   "b": 5336,
+   "t0": 0,
+   "t1": 31,
+   "line": "Không run tay.",
+   "look": "bored"
+  },
+  {
+   "shot": "D30",
+   "a": 5336,
+   "b": 5364,
+   "t0": 0,
+   "t1": 28,
+   "line": "Không gì cả.",
+   "look": "bored"
+  },
+  {
+   "shot": "D31",
+   "a": 5364,
+   "b": 5403,
+   "t0": 0,
+   "t1": 39,
+   "line": "Mo rủ bạn đá bóng.",
+   "look": "bored"
+  },
+  {
+   "shot": "D32",
+   "a": 5403,
+   "b": 5428,
+   "t0": 0,
+   "t1": 25,
+   "line": "Bạn sút.",
+   "look": "bored"
+  },
+  {
+   "shot": "D33",
+   "a": 5428,
+   "b": 5464,
+   "t0": 0,
+   "t1": 36,
+   "line": "Quả bóng nổ tung.",
+   "look": "bored"
+  },
+  {
+   "shot": "D34",
+   "a": 5464,
+   "b": 5501,
+   "t0": 0,
+   "t1": 37,
+   "line": "Mo cười trừ.",
+   "look": "bored"
+  },
+  {
+   "shot": "D35",
+   "a": 5501,
+   "b": 5521,
+   "t0": 0,
+   "t1": 20,
+   "line": "Từ đó,",
+   "look": "bored"
+  },
+  {
+   "shot": "D36",
+   "a": 5521,
+   "b": 5571,
+   "t0": 0,
+   "t1": 50,
+   "line": "chẳng ai rủ bạn chơi nữa.",
+   "look": "bored"
+  },
+  {
+   "shot": "D37",
+   "a": 5571,
+   "b": 5623,
+   "t0": 0,
+   "t1": 52,
+   "line": "Các nhà tâm lý học có một khái niệm,"
+  },
+  {
+   "shot": "D38",
+   "a": 5623,
+   "b": 5674,
+   "t0": 0,
+   "t1": 51,
+   "line": "gọi là trạng thái dòng chảy."
+  },
+  {
+   "shot": "D39",
+   "a": 5674,
+   "b": 5753,
+   "t0": 0,
+   "t1": 79,
+   "line": "Con người vui nhất khi thử thách vừa sức mình."
+  },
+  {
+   "shot": "D40",
+   "a": 5753,
+   "b": 5811,
+   "t0": 0,
+   "t1": 58,
+   "line": "Khó một chút, nhưng vẫn làm được."
+  },
+  {
+   "shot": "D41",
+   "a": 5811,
+   "b": 5850,
+   "t0": 0,
+   "t1": 39,
+   "line": "Khi mọi thứ quá dễ,"
+  },
+  {
+   "shot": "D42",
+   "a": 5850,
+   "b": 5902,
+   "t0": 0,
+   "t1": 52,
+   "line": "niềm vui biến thành nhàm chán."
+  },
+  {
+   "shot": "D43",
+   "a": 5902,
+   "b": 5931,
+   "t0": 0,
+   "t1": 29,
+   "line": "Đó là thật."
+  },
+  {
+   "shot": "D44",
+   "a": 5931,
+   "b": 5983,
+   "t0": 0,
+   "t1": 52,
+   "line": "Bạn là người mạnh nhất thế giới.",
+   "look": "bored"
+  },
+  {
+   "shot": "D45",
+   "a": 5983,
+   "b": 6062,
+   "t0": 0,
+   "t1": 79,
+   "line": "Và cũng là người chán nhất thế giới.",
+   "look": "bored"
+  },
+  {
+   "shot": "E1",
+   "a": 6062,
+   "b": 6138,
+   "t0": 0,
+   "t1": 76,
+   "line": "Rồi một buổi chiều, một người đàn ông mặc vest đứng chờ"
+  },
+  {
+   "shot": "E2",
+   "a": 6138,
+   "b": 6178,
+   "t0": 0,
+   "t1": 40,
+   "line": "trước cổng nhà bạn."
+  },
+  {
+   "shot": "E3",
+   "a": 6178,
+   "b": 6228,
+   "t0": 0,
+   "t1": 50,
+   "line": "Ông ta không cười."
+  },
+  {
+   "shot": "E4",
+   "a": 6228,
+   "b": 6294,
+   "t0": 0,
+   "t1": 66,
+   "line": "Một người đấm tan được mây, ông nói,"
+  },
+  {
+   "shot": "E5",
+   "a": 6294,
+   "b": 6346,
+   "t0": 0,
+   "t1": 52,
+   "line": "không còn là một con người nữa."
+  },
+  {
+   "shot": "E6",
+   "a": 6346,
+   "b": 6385,
+   "t0": 0,
+   "t1": 39,
+   "line": "Đó là một vũ khí."
+  },
+  {
+   "shot": "E7",
+   "a": 6385,
+   "b": 6433,
+   "t0": 0,
+   "t1": 48,
+   "line": "Ông đưa ra một bản hợp đồng."
+  },
+  {
+   "shot": "E8",
+   "a": 6433,
+   "b": 6460,
+   "t0": 0,
+   "t1": 27,
+   "line": "Bạn lắc đầu."
+  },
+  {
+   "shot": "E9",
+   "a": 6460,
+   "b": 6506,
+   "t0": 0,
+   "t1": 46,
+   "line": "Từ hôm đó, có một chiếc máy"
+  },
+  {
+   "shot": "E10",
+   "a": 6506,
+   "b": 6567,
+   "t0": 0,
+   "t1": 61,
+   "line": "bay không người lái bay theo bạn."
+  },
+  {
+   "shot": "E11",
+   "a": 6567,
+   "b": 6592,
+   "t0": 0,
+   "t1": 25,
+   "line": "Đến trường.",
+   "look": "watched"
+  },
+  {
+   "shot": "E12",
+   "a": 6592,
+   "b": 6616,
+   "t0": 0,
+   "t1": 24,
+   "line": "Ra chợ."
+  },
+  {
+   "shot": "E13",
+   "a": 6616,
+   "b": 6644,
+   "t0": 0,
+   "t1": 28,
+   "line": "Về nhà.",
+   "look": "watched"
+  },
+  {
+   "shot": "E14",
+   "a": 6644,
+   "b": 6687,
+   "t0": 0,
+   "t1": 43,
+   "line": "Ngày nào cũng vậy."
+  },
+  {
+   "shot": "E15",
+   "a": 6687,
+   "b": 6716,
+   "t0": 0,
+   "t1": 29,
+   "line": "Rồi một tối,",
+   "look": "storm"
+  },
+  {
+   "shot": "E16",
+   "a": 6716,
+   "b": 6757,
+   "t0": 0,
+   "t1": 41,
+   "line": "tin khẩn cấp vang lên.",
+   "look": "storm"
+  },
+  {
+   "shot": "E17",
+   "a": 6757,
+   "b": 6813,
+   "t0": 0,
+   "t1": 56,
+   "line": "Một cơn bão rất lớn sắp đổ bộ.",
+   "look": "storm"
+  },
+  {
+   "shot": "E18",
+   "a": 6813,
+   "b": 6866,
+   "t0": 0,
+   "t1": 53,
+   "line": "Em gái bạn vẫn còn ở trường.",
+   "look": "storm"
+  },
+  {
+   "shot": "E19",
+   "a": 6866,
+   "b": 6914,
+   "t0": 0,
+   "t1": 48,
+   "line": "Bạn lao ra giữa trời mưa,",
+   "look": "storm"
+  },
+  {
+   "shot": "E20",
+   "a": 6914,
+   "b": 6966,
+   "t0": 0,
+   "t1": 52,
+   "line": "nhìn lên đám mây xoáy khổng lồ,",
+   "look": "storm"
+  },
+  {
+   "shot": "E21",
+   "a": 6966,
+   "b": 6988,
+   "t0": 0,
+   "t1": 22,
+   "line": "và đấm.",
+   "look": "fight"
+  },
+  {
+   "shot": "E22",
+   "a": 6988,
+   "b": 7030,
+   "t0": 0,
+   "t1": 42,
+   "line": "Một cú đấm.",
+   "look": "fight"
+  },
+  {
+   "shot": "E23",
+   "a": 7030,
+   "b": 7048,
+   "t0": 0,
+   "t1": 18,
+   "line": "Bùm.",
+   "look": "fight"
+  },
+  {
+   "shot": "E24",
+   "a": 7048,
+   "b": 7088,
+   "t0": 0,
+   "t1": 40,
+   "line": "Mây mở ra một lỗ.",
+   "look": "fight"
+  },
+  {
+   "shot": "E25",
+   "a": 7088,
+   "b": 7125,
+   "t0": 0,
+   "t1": 37,
+   "line": "Rồi khép lại ngay.",
+   "look": "fight"
+  },
+  {
+   "shot": "E26",
+   "a": 7125,
+   "b": 7163,
+   "t0": 0,
+   "t1": 38,
+   "line": "Theo các nhà khí tượng Mỹ,"
+  },
+  {
+   "shot": "E27",
+   "a": 7163,
+   "b": 7231,
+   "t0": 0,
+   "t1": 68,
+   "line": "một cơn bão lớn tỏa ra năng lượng gấp khoảng"
+  },
+  {
+   "shot": "E28",
+   "a": 7231,
+   "b": 7307,
+   "t0": 0,
+   "t1": 76,
+   "line": "hai trăm lần công suất của mọi nhà máy điện trên"
+  },
+  {
+   "shot": "E29",
+   "a": 7307,
+   "b": 7346,
+   "t0": 0,
+   "t1": 39,
+   "line": "thế giới cộng lại."
+  },
+  {
+   "shot": "E30",
+   "a": 7346,
+   "b": 7373,
+   "t0": 0,
+   "t1": 27,
+   "line": "Đó là thật."
+  },
+  {
+   "shot": "E31",
+   "a": 7373,
+   "b": 7431,
+   "t0": 0,
+   "t1": 58,
+   "line": "Không có cú đấm nào thắng được nó."
+  },
+  {
+   "shot": "F1",
+   "a": 7431,
+   "b": 7461,
+   "t0": 0,
+   "t1": 30,
+   "line": "Nên lần đầu tiên,",
+   "look": "storm"
+  },
+  {
+   "shot": "F2",
+   "a": 7461,
+   "b": 7489,
+   "t0": 0,
+   "t1": 28,
+   "line": "bạn không đấm.",
+   "look": "storm"
+  },
+  {
+   "shot": "F3",
+   "a": 7489,
+   "b": 7518,
+   "t0": 0,
+   "t1": 29,
+   "line": "Bạn chạy.",
+   "look": "storm"
+  },
+  {
+   "shot": "F4",
+   "a": 7518,
+   "b": 7553,
+   "t0": 0,
+   "t1": 35,
+   "line": "Bạn giữ chặt mái",
+   "look": "storm"
+  },
+  {
+   "shot": "F5",
+   "a": 7553,
+   "b": 7579,
+   "t0": 0,
+   "t1": 26,
+   "line": "tôn sắp bay.",
+   "look": "storm"
+  },
+  {
+   "shot": "F6",
+   "a": 7579,
+   "b": 7605,
+   "t0": 0,
+   "t1": 26,
+   "line": "Bạn kéo chiếc xe",
+   "look": "storm"
+  },
+  {
+   "shot": "F7",
+   "a": 7605,
+   "b": 7645,
+   "t0": 0,
+   "t1": 40,
+   "line": "buýt kẹt giữa dòng nước.",
+   "look": "storm"
+  },
+  {
+   "shot": "F8",
+   "a": 7645,
+   "b": 7679,
+   "t0": 0,
+   "t1": 34,
+   "line": "Rồi bạn cõng em gái",
+   "look": "storm"
+  },
+  {
+   "shot": "F9",
+   "a": 7679,
+   "b": 7716,
+   "t0": 0,
+   "t1": 37,
+   "line": "về nhà, thật nhẹ,",
+   "look": "storm"
+  },
+  {
+   "shot": "F10",
+   "a": 7716,
+   "b": 7752,
+   "t0": 0,
+   "t1": 36,
+   "line": "như đang cầm một quả trứng.",
+   "look": "storm"
+  },
+  {
+   "shot": "F11",
+   "a": 7752,
+   "b": 7780,
+   "t0": 0,
+   "t1": 28,
+   "line": "",
+   "look": "storm"
+  },
+  {
+   "shot": "F12",
+   "a": 7780,
+   "b": 7806,
+   "t0": 0,
+   "t1": 26,
+   "line": "Sáng hôm sau,"
+  },
+  {
+   "shot": "F13",
+   "a": 7806,
+   "b": 7832,
+   "t0": 0,
+   "t1": 26,
+   "line": "trời quang."
+  },
+  {
+   "shot": "F14",
+   "a": 7832,
+   "b": 7875,
+   "t0": 0,
+   "t1": 43,
+   "line": "Em gái bạn giơ tay lên,"
+  },
+  {
+   "shot": "F15",
+   "a": 7875,
+   "b": 7928,
+   "t0": 0,
+   "t1": 53,
+   "line": "đòi đập tay."
+  },
+  {
+   "shot": "F16",
+   "a": 7928,
+   "b": 7944,
+   "t0": 0,
+   "t1": 16,
+   "line": "Bạn sợ."
+  },
+  {
+   "shot": "F17",
+   "a": 7944,
+   "b": 7982,
+   "t0": 0,
+   "t1": 38,
+   "line": "Bạn mở nắm tay ra,"
+  },
+  {
+   "shot": "F18",
+   "a": 7982,
+   "b": 8016,
+   "t0": 0,
+   "t1": 34,
+   "line": "và chạm thật khẽ."
+  },
+  {
+   "shot": "F19",
+   "a": 8016,
+   "b": 8047,
+   "t0": 0,
+   "t1": 31,
+   "line": "Không có tiếng nổ."
+  },
+  {
+   "shot": "F20",
+   "a": 8047,
+   "b": 8087,
+   "t0": 0,
+   "t1": 40,
+   "line": "Không có gì vỡ cả."
+  },
+  {
+   "shot": "F21",
+   "a": 8087,
+   "b": 8141,
+   "t0": 0,
+   "t1": 54,
+   "line": "Hóa ra điều khó nhất không phải"
+  },
+  {
+   "shot": "F22",
+   "a": 8141,
+   "b": 8170,
+   "t0": 0,
+   "t1": 29,
+   "line": "là đấm thật mạnh."
+  },
+  {
+   "shot": "F23",
+   "a": 8170,
+   "b": 8205,
+   "t0": 0,
+   "t1": 35,
+   "line": "Mà là biết khi nào"
+  },
+  {
+   "shot": "F24",
+   "a": 8205,
+   "b": 8242,
+   "t0": 0,
+   "t1": 37,
+   "line": "nên mở nắm tay ra."
+  },
+  {
+   "shot": "F25",
+   "a": 8242,
+   "b": 8310,
+   "t0": 0,
+   "t1": 68,
+   "line": "Vậy nếu bạn có cú đấm mạnh nhất thế giới,"
+  },
+  {
+   "shot": "F26",
+   "a": 8310,
+   "b": 8366,
+   "t0": 0,
+   "t1": 56,
+   "line": "bạn sẽ đấm thứ gì đầu tiên?"
+  },
+  {
+   "shot": "F27",
+   "a": 8366,
+   "b": 8427,
+   "t0": 0,
+   "t1": 61,
+   "line": "Viết ở phần bình luận nhé."
+  },
+  {
+   "shot": "F28",
+   "a": 8427,
+   "b": 8493,
+   "t0": 0,
+   "t1": 66,
+   "line": ""
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "key": 30,
+   "len": 60,
+   "first": 0,
+   "line": "Một con gián khổng lồ bò giữa phố.",
+   "note": "giant cockroach scuttles in on the night street"
+  },
+  {
+   "id": "A2",
+   "size": "medium",
+   "key": 18,
+   "len": 39,
+   "first": 60,
+   "line": "Mọi người bỏ chạy.",
+   "note": "crowd flees past calm Pip"
+  },
+  {
+   "id": "A3",
+   "size": "insert",
+   "key": 24,
+   "len": 39,
+   "first": 99,
+   "line": "Bạn nắm tay lại.",
+   "note": "fist clenches"
+  },
+  {
+   "id": "A4",
+   "size": "medium",
+   "key": 30,
+   "len": 33,
+   "first": 138,
+   "line": "Một cú đấm.",
+   "note": "Pip winds up, beast closing in"
+  },
+  {
+   "id": "A5",
+   "size": "close",
+   "key": 8,
+   "len": 18,
+   "first": 171,
+   "line": "Bùm.",
+   "note": "THE HIT: cockroach flies"
+  },
+  {
+   "id": "A6",
+   "size": "wide",
+   "key": 20,
+   "len": 33,
+   "first": 189,
+   "line": "Một con robot cao bằng",
+   "note": "robot stomps down the street"
+  },
+  {
+   "id": "A7",
+   "size": "wide",
+   "key": 28,
+   "len": 35,
+   "first": 222,
+   "line": "tòa nhà mười tầng.",
+   "note": "low angle up the 10-storey robot, Pip tiny"
+  },
+  {
+   "id": "A8",
+   "size": "medium",
+   "key": 26,
+   "len": 29,
+   "first": 257,
+   "line": "Một cú đấm.",
+   "note": "wind-up at the robot shin"
+  },
+  {
+   "id": "A9",
+   "size": "wide",
+   "key": 14,
+   "len": 21,
+   "first": 286,
+   "line": "Bùm.",
+   "note": "THE HIT: robot bursts"
+  },
+  {
+   "id": "A10",
+   "size": "wide",
+   "key": 20,
+   "len": 32,
+   "first": 307,
+   "line": "Một đám mây đen che",
+   "note": "black cloud deck over the city"
+  },
+  {
+   "id": "A11",
+   "size": "wide",
+   "key": 34,
+   "len": 36,
+   "first": 339,
+   "line": "kín cả thành phố.",
+   "note": "cloud ceiling swallows the sky, figures look up"
+  },
+  {
+   "id": "A12",
+   "size": "medium",
+   "key": 22,
+   "len": 28,
+   "first": 375,
+   "line": "Một cú đấm.",
+   "note": "Pip winds up at the sky"
+  },
+  {
+   "id": "A13",
+   "size": "wide",
+   "key": 8,
+   "len": 18,
+   "first": 403,
+   "line": "Trời xanh trở",
+   "note": "THE HIT: the deck splits"
+  },
+  {
+   "id": "A14",
+   "size": "wide",
+   "key": 18,
+   "len": 21,
+   "first": 421,
+   "line": "lại.",
+   "note": "blue sky returns"
+  },
+  {
+   "id": "A15",
+   "size": "wide",
+   "key": 26,
+   "len": 30,
+   "first": 442,
+   "line": "Ba trận đánh.",
+   "note": "triptych: three beaten monsters"
+  },
+  {
+   "id": "A16",
+   "size": "insert",
+   "key": 26,
+   "len": 31,
+   "first": 472,
+   "line": "Ba cú đấm.",
+   "note": "three tally strokes slam"
+  },
+  {
+   "id": "A17",
+   "size": "medium",
+   "key": 34,
+   "len": 46,
+   "first": 503,
+   "line": "Và bạn bắt đầu thấy chán.",
+   "note": "Pip bored on rubble, yawning"
+  },
+  {
+   "id": "A18",
+   "size": "wide",
+   "key": 36,
+   "len": 37,
+   "first": 549,
+   "line": "Sẽ ra sao nếu bạn có thể",
+   "note": "title card over ruined street"
+  },
+  {
+   "id": "A19",
+   "size": "medium",
+   "key": 50,
+   "len": 60,
+   "first": 586,
+   "line": "hạ gục bất cứ thứ gì, chỉ bằng",
+   "note": "push in on Pip, title stays"
+  },
+  {
+   "id": "A20",
+   "size": "insert",
+   "key": 24,
+   "len": 47,
+   "first": 646,
+   "line": "một cú đấm?",
+   "note": "fist thrusts at lens: \"một cú đấm?\""
+  },
+  {
+   "id": "A21",
+   "size": "wide",
+   "key": 32,
+   "len": 38,
+   "first": 693,
+   "line": "Sáng nay bạn thức dậy,",
+   "note": "Pip wakes and stretches"
+  },
+  {
+   "id": "A22",
+   "size": "medium",
+   "key": 30,
+   "len": 45,
+   "first": 731,
+   "line": "mọi thứ vẫn bình thường.",
+   "note": "normal morning, smiles at window"
+  },
+  {
+   "id": "A23",
+   "size": "close",
+   "key": 20,
+   "len": 27,
+   "first": 776,
+   "line": "Trừ một điều.",
+   "note": "smile drops: except one thing"
+  },
+  {
+   "id": "A24",
+   "size": "macro",
+   "key": 24,
+   "len": 36,
+   "first": 803,
+   "line": "Chuông báo thức reo.",
+   "note": "alarm clock rings and shakes"
+  },
+  {
+   "id": "A25",
+   "size": "medium",
+   "key": 12,
+   "len": 45,
+   "first": 839,
+   "line": "Bạn đập nó theo thói quen.",
+   "note": "half asleep, slaps the clock by habit"
+  },
+  {
+   "id": "A26",
+   "size": "macro",
+   "key": 30,
+   "len": 31,
+   "first": 884,
+   "line": "Một cú đấm.",
+   "note": "the fist rises over the clock"
+  },
+  {
+   "id": "A27",
+   "size": "macro",
+   "key": 9,
+   "len": 25,
+   "first": 915,
+   "line": "Bùm.",
+   "note": "THE HIT: the clock bursts"
+  },
+  {
+   "id": "A28",
+   "size": "macro",
+   "key": 30,
+   "len": 41,
+   "first": 940,
+   "line": "Chiếc đồng hồ thành bụi.",
+   "note": "clock turned to dust"
+  },
+  {
+   "id": "A29",
+   "size": "medium",
+   "key": 22,
+   "len": 33,
+   "first": 981,
+   "line": "Cái bàn gãy đôi.",
+   "note": "the table snaps in two"
+  },
+  {
+   "id": "A30",
+   "size": "medium",
+   "key": 20,
+   "len": 35,
+   "first": 1014,
+   "line": "Mẹ bạn đứng ở cửa,",
+   "note": "mum in the doorway"
+  },
+  {
+   "id": "A31",
+   "size": "close",
+   "key": 20,
+   "len": 29,
+   "first": 1049,
+   "line": "há hốc miệng.",
+   "note": "mum jaw dropped"
+  },
+  {
+   "id": "A32",
+   "size": "schematic",
+   "key": 24,
+   "len": 34,
+   "first": 1078,
+   "line": "Quy tắc chỉ có một.",
+   "note": "big 1: one rule"
+  },
+  {
+   "id": "A33",
+   "size": "schematic",
+   "key": 30,
+   "len": 40,
+   "first": 1112,
+   "line": "Cú đấm nào của bạn cũng",
+   "note": "slider zips to MAX, NHE crossed out"
+  },
+  {
+   "id": "A34",
+   "size": "schematic",
+   "key": 20,
+   "len": 32,
+   "first": 1152,
+   "line": "là cú mạnh nhất.",
+   "note": "knob stuck at MAX 100%"
+  },
+  {
+   "id": "A35",
+   "size": "medium",
+   "key": 30,
+   "len": 45,
+   "first": 1184,
+   "line": "Không có nhẹ tay.",
+   "note": "Pip stares at his fist, worried"
+  },
+  {
+   "id": "B1",
+   "size": "wide",
+   "key": 30,
+   "len": 58,
+   "first": 1229,
+   "line": "Chiều đó, Mo kéo bạn ra",
+   "note": "Mo drags Pip by the wrist to the arcade door"
+  },
+  {
+   "id": "B2",
+   "size": "wide",
+   "key": 25,
+   "len": 47,
+   "first": 1287,
+   "line": "khu trò chơi.",
+   "note": "inside the neon arcade, boxing machine glows at the back"
+  },
+  {
+   "id": "B3",
+   "size": "medium",
+   "key": 30,
+   "len": 42,
+   "first": 1334,
+   "line": "Máy đấm bốc.",
+   "note": "boxing machine push-in, Mo points"
+  },
+  {
+   "id": "B4",
+   "size": "medium",
+   "key": 22,
+   "len": 36,
+   "first": 1376,
+   "line": "Kỷ lục của cả quận là chín trăm điểm.",
+   "note": "record board KY LUC 900, Mo and Pip look up"
+  },
+  {
+   "id": "B5",
+   "size": "wide",
+   "key": 16,
+   "len": 25,
+   "first": 1412,
+   "line": "Mo đấm.",
+   "note": "Mo punches the pad"
+  },
+  {
+   "id": "B6",
+   "size": "insert",
+   "key": 28,
+   "len": 35,
+   "first": 1437,
+   "line": "Bốn trăm hai mươi.",
+   "note": "display counts up to 420, record 900 below"
+  },
+  {
+   "id": "B7",
+   "size": "wide",
+   "key": 20,
+   "len": 23,
+   "first": 1472,
+   "line": "Đến lượt bạn.",
+   "note": "Pip steps up, speed lines gather"
+  },
+  {
+   "id": "B8",
+   "size": "insert",
+   "key": 22,
+   "len": 30,
+   "first": 1495,
+   "line": "Một cú đấm.",
+   "note": "fist clenches, thrusts at lens"
+  },
+  {
+   "id": "B9",
+   "size": "wide",
+   "key": 10,
+   "len": 23,
+   "first": 1525,
+   "line": "Bùm.",
+   "note": "THE HIT: machine rips off its base"
+  },
+  {
+   "id": "B10",
+   "size": "medium",
+   "key": 10,
+   "len": 26,
+   "first": 1548,
+   "line": "Cái máy bay xuyên qua",
+   "note": "wall bursts, machine goes through"
+  },
+  {
+   "id": "B11",
+   "size": "wide",
+   "key": 16,
+   "len": 28,
+   "first": 1574,
+   "line": "bức tường.",
+   "note": "machine bursts out of the wall towards camera"
+  },
+  {
+   "id": "B12",
+   "size": "insert",
+   "key": 46,
+   "len": 61,
+   "first": 1602,
+   "line": "Màn hình hiện chín chín chín chín,",
+   "note": "display 9999, flickers, dies"
+  },
+  {
+   "id": "B13",
+   "size": "medium",
+   "key": 12,
+   "len": 23,
+   "first": 1663,
+   "line": "rồi tắt luôn.",
+   "note": "Mo jaw drops, daylight hole behind"
+  },
+  {
+   "id": "B14",
+   "size": "wide",
+   "key": 22,
+   "len": 33,
+   "first": 1686,
+   "line": "Tối hôm sau, một",
+   "note": "night street, manhole cover rattles and pops"
+  },
+  {
+   "id": "B15",
+   "size": "wide",
+   "key": 34,
+   "len": 49,
+   "first": 1719,
+   "line": "con gián to bằng chiếc xe buýt",
+   "note": "cockroach beside the bus: same size"
+  },
+  {
+   "id": "B16",
+   "size": "medium",
+   "key": 36,
+   "len": 47,
+   "first": 1768,
+   "line": "bò lên từ miệng cống.",
+   "note": "cockroach hauls itself out of the manhole"
+  },
+  {
+   "id": "B17",
+   "size": "wide",
+   "key": 20,
+   "len": 37,
+   "first": 1815,
+   "line": "Cả con phố hét lên.",
+   "note": "whole street runs screaming, bikes bolt"
+  },
+  {
+   "id": "B18",
+   "size": "wide",
+   "key": 20,
+   "len": 29,
+   "first": 1852,
+   "line": "Bạn bước tới.",
+   "note": "Pip steps forward against the stream"
+  },
+  {
+   "id": "B19",
+   "size": "wide",
+   "key": 30,
+   "len": 33,
+   "first": 1881,
+   "line": "Một cú đấm.",
+   "note": "wind-up, speed lines gather"
+  },
+  {
+   "id": "B20",
+   "size": "wide",
+   "key": 10,
+   "len": 22,
+   "first": 1914,
+   "line": "Bùm.",
+   "note": "THE HIT on the cockroach"
+  },
+  {
+   "id": "B21",
+   "size": "wide",
+   "key": 30,
+   "len": 61,
+   "first": 1936,
+   "line": "Con gián bay qua ba dãy nhà.",
+   "note": "it flies over three rows of houses, shrinking"
+  },
+  {
+   "id": "B22",
+   "size": "wide",
+   "key": 40,
+   "len": 56,
+   "first": 1997,
+   "line": "Mọi người giơ điện thoại lên quay.",
+   "note": "everyone films with REC phones"
+  },
+  {
+   "id": "B23",
+   "size": "wide",
+   "key": 20,
+   "len": 29,
+   "first": 2053,
+   "line": "Sáng hôm sau,",
+   "note": "morning, people stare at phones with Pip face"
+  },
+  {
+   "id": "B24",
+   "size": "wide",
+   "key": 30,
+   "len": 34,
+   "first": 2082,
+   "line": "cả nước biết mặt bạn.",
+   "note": "TIN NONG, Pip face on TV and phone feeds"
+  },
+  {
+   "id": "B25",
+   "size": "wide",
+   "key": 30,
+   "len": 64,
+   "first": 2116,
+   "line": "Tuần sau, một con robot mất điều khiển",
+   "note": "rogue robot marches in among factories"
+  },
+  {
+   "id": "B26",
+   "size": "wide",
+   "key": 20,
+   "len": 41,
+   "first": 2180,
+   "line": "đi giữa khu công nghiệp.",
+   "note": "factories slide past, robot stomps"
+  },
+  {
+   "id": "B27",
+   "size": "wide",
+   "key": 20,
+   "len": 38,
+   "first": 2221,
+   "line": "Đạn bắn không thủng.",
+   "note": "bullets ping off the armour"
+  },
+  {
+   "id": "B28",
+   "size": "low",
+   "key": 18,
+   "len": 29,
+   "first": 2259,
+   "line": "Bạn nhảy lên.",
+   "note": "low angle: Pip crouches and leaps"
+  },
+  {
+   "id": "B29",
+   "size": "wide",
+   "key": 30,
+   "len": 33,
+   "first": 2288,
+   "line": "Một cú đấm.",
+   "note": "mid-air, fist cocked, speed lines"
+  },
+  {
+   "id": "B30",
+   "size": "wide",
+   "key": 8,
+   "len": 22,
+   "first": 2321,
+   "line": "Bùm.",
+   "note": "THE HIT mid-air, robot bursts"
+  },
+  {
+   "id": "B31",
+   "size": "wide",
+   "key": 14,
+   "len": 29,
+   "first": 2343,
+   "line": "Ốc vít rơi như",
+   "note": "fireball fades, bolts rain"
+  },
+  {
+   "id": "B32",
+   "size": "insert",
+   "key": 10,
+   "len": 18,
+   "first": 2372,
+   "line": "mưa.",
+   "note": "bolts bounce on the tarmac"
+  },
+  {
+   "id": "B33",
+   "size": "wide",
+   "key": 14,
+   "len": 29,
+   "first": 2390,
+   "line": "Bạn đáp xuống,",
+   "note": "Pip lands, dust ring, black smoke"
+  },
+  {
+   "id": "B34",
+   "size": "medium",
+   "key": 20,
+   "len": 26,
+   "first": 2419,
+   "line": "phủi tay.",
+   "note": "Pip dusts off his hands"
+  },
+  {
+   "id": "C1",
+   "size": "wide",
+   "key": 40,
+   "len": 55,
+   "first": 2445,
+   "line": "Rồi một con bạch tuộc khổng lồ trồi lên",
+   "note": "octopus rises behind the docked ship"
+  },
+  {
+   "id": "C2",
+   "size": "medium",
+   "key": 50,
+   "len": 62,
+   "first": 2500,
+   "line": "ở cảng biển, tám cái vòi quấn chặt một",
+   "note": "8 tentacles wrap the ship"
+  },
+  {
+   "id": "C3",
+   "size": "close",
+   "key": 20,
+   "len": 31,
+   "first": 2562,
+   "line": "con tàu chở hàng.",
+   "note": "ship groans in the grip"
+  },
+  {
+   "id": "C4",
+   "size": "medium",
+   "key": 34,
+   "len": 38,
+   "first": 2593,
+   "line": "Nó có tám cái vòi.",
+   "note": "count 1..8"
+  },
+  {
+   "id": "C5",
+   "size": "wide",
+   "key": 30,
+   "len": 44,
+   "first": 2631,
+   "line": "Bạn chỉ cần một nắm tay.",
+   "note": "Pip small on the pier"
+  },
+  {
+   "id": "C6",
+   "size": "insert",
+   "key": 28,
+   "len": 33,
+   "first": 2675,
+   "line": "Một cú đấm.",
+   "note": "fist insert clench + thrust"
+  },
+  {
+   "id": "C7",
+   "size": "wide",
+   "key": 8,
+   "len": 23,
+   "first": 2708,
+   "line": "Bùm.",
+   "note": "THE HIT, shockwave over water, octopus flung"
+  },
+  {
+   "id": "C8",
+   "size": "wide",
+   "key": 40,
+   "len": 56,
+   "first": 2731,
+   "line": "Sóng dâng cao như tòa nhà.",
+   "note": "wave taller than the tower"
+  },
+  {
+   "id": "C9",
+   "size": "medium",
+   "key": 20,
+   "len": 38,
+   "first": 2787,
+   "line": "Con tàu được thả ra,",
+   "note": "ship free, bobbing; octopus a speck"
+  },
+  {
+   "id": "C10",
+   "size": "close",
+   "key": 14,
+   "len": 24,
+   "first": 2825,
+   "line": "nguyên vẹn.",
+   "note": "containers intact, tick"
+  },
+  {
+   "id": "C11",
+   "size": "close",
+   "key": 24,
+   "len": 37,
+   "first": 2849,
+   "line": "Rồi mùa mưa đến.",
+   "note": "rain on the window"
+  },
+  {
+   "id": "C12",
+   "size": "wide",
+   "key": 30,
+   "len": 44,
+   "first": 2886,
+   "line": "Mây đen che kín thành phố,",
+   "note": "cloud deck sinks"
+  },
+  {
+   "id": "C13",
+   "size": "medium",
+   "key": 50,
+   "len": 54,
+   "first": 2930,
+   "line": "ba ngày liền không thấy mặt trời.",
+   "note": "calendar crosses 3 days"
+  },
+  {
+   "id": "C14",
+   "size": "wide",
+   "key": 34,
+   "len": 42,
+   "first": 2984,
+   "line": "Bạn đấm thẳng lên trời.",
+   "note": "Pip low angle, rain, coil"
+  },
+  {
+   "id": "C15",
+   "size": "insert",
+   "key": 24,
+   "len": 28,
+   "first": 3026,
+   "line": "Một cú đấm.",
+   "note": "fist insert"
+  },
+  {
+   "id": "C16",
+   "size": "wide",
+   "key": 10,
+   "len": 20,
+   "first": 3054,
+   "line": "Bùm.",
+   "note": "uppercut at the sky, tear starts"
+  },
+  {
+   "id": "C17",
+   "size": "wide",
+   "key": 28,
+   "len": 42,
+   "first": 3074,
+   "line": "Mây tách ra làm đôi.",
+   "note": "cloud deck splits"
+  },
+  {
+   "id": "C18",
+   "size": "wide",
+   "key": 22,
+   "len": 35,
+   "first": 3116,
+   "line": "Nắng chiếu xuống.",
+   "note": "sunlight column + rainbow"
+  },
+  {
+   "id": "C19",
+   "size": "wide",
+   "key": 30,
+   "len": 56,
+   "first": 3151,
+   "line": "Cả thành phố vỗ tay.",
+   "note": "neighbours clap"
+  },
+  {
+   "id": "C20",
+   "size": "wide",
+   "key": 14,
+   "len": 29,
+   "first": 3207,
+   "line": "Nhưng khoan đã.",
+   "note": "freeze + rewind"
+  },
+  {
+   "id": "C21",
+   "size": "card",
+   "key": 40,
+   "len": 60,
+   "first": 3236,
+   "line": "Một cú đấm thật thì mạnh đến đâu?",
+   "note": "? and fist icon"
+  },
+  {
+   "id": "C22",
+   "size": "medium",
+   "key": 11,
+   "len": 86,
+   "first": 3296,
+   "line": "Một võ sĩ quyền Anh Olympic đấm với lực trung bình",
+   "note": "boxer punches force pad"
+  },
+  {
+   "id": "C23",
+   "size": "medium",
+   "key": 46,
+   "len": 51,
+   "first": 3382,
+   "line": "khoảng ba nghìn bốn trăm niu tơn,",
+   "note": "3.400 N counts"
+  },
+  {
+   "id": "C24",
+   "size": "medium",
+   "key": 50,
+   "len": 69,
+   "first": 3433,
+   "line": "như có gần ba trăm rưỡi ký đè xuống.",
+   "note": "350 kg weight presses"
+  },
+  {
+   "id": "C25",
+   "size": "wide",
+   "key": 48,
+   "len": 59,
+   "first": 3502,
+   "line": "Nắm đấm bay khoảng chín mét mỗi giây.",
+   "note": "fist 9 m/s on ruler"
+  },
+  {
+   "id": "C26",
+   "size": "wide",
+   "key": 40,
+   "len": 49,
+   "first": 3561,
+   "line": "Tay đấm nhanh nhất trong tự nhiên",
+   "note": "burrow, eyes peek"
+  },
+  {
+   "id": "C27",
+   "size": "medium",
+   "key": 26,
+   "len": 31,
+   "first": 3610,
+   "line": "là con tôm tít.",
+   "note": "shrimp reveal"
+  },
+  {
+   "id": "C28",
+   "size": "medium",
+   "key": 50,
+   "len": 84,
+   "first": 3641,
+   "line": "Nó vung càng nhanh tới hai mươi ba mét mỗi giây.",
+   "note": "club strike 23 m/s"
+  },
+  {
+   "id": "C29",
+   "size": "close",
+   "key": 60,
+   "len": 72,
+   "first": 3725,
+   "line": "Nhanh đến mức nước quanh càng sôi lên thành bong bóng,",
+   "note": "bubbles round the club"
+  },
+  {
+   "id": "C30",
+   "size": "close",
+   "key": 20,
+   "len": 37,
+   "first": 3797,
+   "line": "và khi bong bóng vỡ,",
+   "note": "bubble collapses"
+  },
+  {
+   "id": "C31",
+   "size": "medium",
+   "key": 44,
+   "len": 56,
+   "first": 3834,
+   "line": "con mồi lãnh thêm một cú nữa.",
+   "note": "prey hit twice"
+  },
+  {
+   "id": "C32",
+   "size": "card",
+   "key": 36,
+   "len": 43,
+   "first": 3890,
+   "line": "Một cú đấm thành hai.",
+   "note": "1 fist becomes 2"
+  },
+  {
+   "id": "C33",
+   "size": "card",
+   "key": 16,
+   "len": 22,
+   "first": 3933,
+   "line": "Đó là thật.",
+   "note": "tick stamp: that is real"
+  },
+  {
+   "id": "D1",
+   "size": "medium",
+   "key": 20,
+   "len": 77,
+   "first": 3955,
+   "line": "Còn nắm đấm của bạn, nhanh hơn cả tốc độ âm thanh,",
+   "note": "fist streaks at the speedometer, needle climbs"
+  },
+  {
+   "id": "D2",
+   "size": "close-up",
+   "key": 14,
+   "len": 58,
+   "first": 4032,
+   "line": "ba trăm bốn mươi ba mét mỗi giây.",
+   "note": "needle crosses 343 m/s, ring burst, big number"
+  },
+  {
+   "id": "D3",
+   "size": "wide",
+   "key": 30,
+   "len": 72,
+   "first": 4090,
+   "line": "Nhanh gấp hơn ba mươi bảy lần nhà vô địch kia.",
+   "note": "bars: boxer 9 m/s sliver vs Pip bar off screen, x37"
+  },
+  {
+   "id": "D4",
+   "size": "wide",
+   "key": 20,
+   "len": 55,
+   "first": 4162,
+   "line": "Khi một vật vượt qua tốc độ âm thanh,",
+   "note": "body near sound speed, waves bunch up"
+  },
+  {
+   "id": "D5",
+   "size": "wide",
+   "key": 22,
+   "len": 64,
+   "first": 4217,
+   "line": "nó tạo ra một tiếng nổ siêu thanh.",
+   "note": "Mach cone fans out, NO SIEU THANH"
+  },
+  {
+   "id": "D6",
+   "size": "wide",
+   "key": 17,
+   "len": 83,
+   "first": 4281,
+   "line": "Tiếng roi quất chát chúa chính là một tiếng nổ như vậy,",
+   "note": "whip in hand, loop runs out, CHAT!"
+  },
+  {
+   "id": "D7",
+   "size": "close-up",
+   "key": 30,
+   "len": 75,
+   "first": 4364,
+   "line": "vì đầu roi bay nhanh hơn âm thanh.",
+   "note": "whip tip outruns its sound"
+  },
+  {
+   "id": "D8",
+   "size": "medium",
+   "key": 8,
+   "len": 23,
+   "first": 4439,
+   "line": "Đó là thật.",
+   "note": "Do la that stamp over dimmed cone"
+  },
+  {
+   "id": "D9",
+   "size": "insert",
+   "key": 20,
+   "len": 35,
+   "first": 4462,
+   "line": "Nên mỗi lần bạn đấm,",
+   "note": "fist clenches and trembles"
+  },
+  {
+   "id": "D10",
+   "size": "wide",
+   "key": 25,
+   "len": 51,
+   "first": 4497,
+   "line": "cả con phố nghe một tiếng nổ.",
+   "note": "Pip punches on the street, boom ring races down it"
+  },
+  {
+   "id": "D11",
+   "size": "wide",
+   "key": 10,
+   "len": 22,
+   "first": 4548,
+   "line": "Kính cửa sổ",
+   "note": "every pane on the street shivers and cracks"
+  },
+  {
+   "id": "D12",
+   "size": "close-up",
+   "key": 6,
+   "len": 25,
+   "first": 4570,
+   "line": "có thể vỡ.",
+   "note": "neighbours at windows, glass shatters, funny faces"
+  },
+  {
+   "id": "D13",
+   "size": "medium",
+   "key": 16,
+   "len": 48,
+   "first": 4595,
+   "line": "Và còn một định luật nữa.",
+   "note": "Newton's cradle swings"
+  },
+  {
+   "id": "D14",
+   "size": "wide",
+   "key": 22,
+   "len": 45,
+   "first": 4643,
+   "line": "Định luật ba Niu tơn.",
+   "note": "title card DINH LUAT 3 NEWTON, two opposite arrows"
+  },
+  {
+   "id": "D15",
+   "size": "medium",
+   "key": 30,
+   "len": 52,
+   "first": 4688,
+   "line": "Bạn đấm vào thứ gì mạnh bao nhiêu,",
+   "note": "fist slams a brick wall, arrow F"
+  },
+  {
+   "id": "D16",
+   "size": "close-up",
+   "key": 60,
+   "len": 85,
+   "first": 4740,
+   "line": "nó đẩy ngược lại tay bạn mạnh đúng bằng chừng đó.",
+   "note": "equal opposite arrow pushes back, = sign"
+  },
+  {
+   "id": "D17",
+   "size": "medium",
+   "key": 34,
+   "len": 54,
+   "first": 4825,
+   "line": "Tay người bình thường sẽ vỡ vụn.",
+   "note": "X-ray of ordinary hand, knuckle bone cracks"
+  },
+  {
+   "id": "D18",
+   "size": "insert",
+   "key": 30,
+   "len": 47,
+   "first": 4879,
+   "line": "Vậy là không chỉ nắm đấm,",
+   "note": "clenched fist inside a glowing shield"
+  },
+  {
+   "id": "D19",
+   "size": "wide",
+   "key": 30,
+   "len": 42,
+   "first": 4926,
+   "line": "cả cơ thể bạn cũng phải",
+   "note": "whole body calm inside a shield outline"
+  },
+  {
+   "id": "D20",
+   "size": "close-up",
+   "key": 24,
+   "len": 59,
+   "first": 4968,
+   "line": "không thể bị phá hủy.",
+   "note": "face, chunks and sparks bounce off the shield"
+  },
+  {
+   "id": "D21",
+   "size": "medium",
+   "key": 30,
+   "len": 37,
+   "first": 5027,
+   "line": "Một tuần trôi qua.",
+   "note": "one week crossed off the wall calendar"
+  },
+  {
+   "id": "D22",
+   "size": "medium",
+   "key": 16,
+   "len": 32,
+   "first": 5064,
+   "line": "Rồi một tháng.",
+   "note": "pages rip off and fly: a month"
+  },
+  {
+   "id": "D23",
+   "size": "wide",
+   "key": 12,
+   "len": 18,
+   "first": 5096,
+   "line": "Quái vật,",
+   "note": "monster: one punch, timer chip 00:01"
+  },
+  {
+   "id": "D24",
+   "size": "wide",
+   "key": 12,
+   "len": 21,
+   "first": 5114,
+   "line": "robot,",
+   "note": "robot: one punch, timer chip 00:01"
+  },
+  {
+   "id": "D25",
+   "size": "wide",
+   "key": 14,
+   "len": 27,
+   "first": 5135,
+   "line": "bọn cướp.",
+   "note": "masked robber: one punch, timer chip 00:01"
+  },
+  {
+   "id": "D26",
+   "size": "wide",
+   "key": 46,
+   "len": 61,
+   "first": 5162,
+   "line": "Trận nào cũng kết thúc sau một giây.",
+   "note": "three beaten foes, each stamped 00:01"
+  },
+  {
+   "id": "D27",
+   "size": "medium",
+   "key": 35,
+   "len": 53,
+   "first": 5223,
+   "line": "Tim bạn không còn đập nhanh nữa.",
+   "note": "heart monitor, calm slow beats"
+  },
+  {
+   "id": "D28",
+   "size": "close-up",
+   "key": 16,
+   "len": 29,
+   "first": 5276,
+   "line": "Không hồi hộp.",
+   "note": "Pip blank face, huge, one slow blink"
+  },
+  {
+   "id": "D29",
+   "size": "close-up",
+   "key": 20,
+   "len": 31,
+   "first": 5305,
+   "line": "Không run tay.",
+   "note": "steady fist round a glass, water level"
+  },
+  {
+   "id": "D30",
+   "size": "wide",
+   "key": 12,
+   "len": 28,
+   "first": 5336,
+   "line": "Không gì cả.",
+   "note": "Pip stands in the street, nothing happens"
+  },
+  {
+   "id": "D31",
+   "size": "wide",
+   "key": 24,
+   "len": 39,
+   "first": 5364,
+   "line": "Mo rủ bạn đá bóng.",
+   "note": "Mo waves a ball at Pip"
+  },
+  {
+   "id": "D32",
+   "size": "medium",
+   "key": 19,
+   "len": 25,
+   "first": 5403,
+   "line": "Bạn sút.",
+   "note": "Pip kicks, contact at f19"
+  },
+  {
+   "id": "D33",
+   "size": "wide",
+   "key": 20,
+   "len": 36,
+   "first": 5428,
+   "line": "Quả bóng nổ tung.",
+   "note": "ball bursts into shreds in the sky"
+  },
+  {
+   "id": "D34",
+   "size": "close-up",
+   "key": 12,
+   "len": 37,
+   "first": 5464,
+   "line": "Mo cười trừ.",
+   "note": "Mo awkward smile, scrap on his curls"
+  },
+  {
+   "id": "D35",
+   "size": "wide",
+   "key": 14,
+   "len": 20,
+   "first": 5501,
+   "line": "Từ đó,",
+   "note": "kids walk away, Pip stays"
+  },
+  {
+   "id": "D36",
+   "size": "wide",
+   "key": 16,
+   "len": 50,
+   "first": 5521,
+   "line": "chẳng ai rủ bạn chơi nữa.",
+   "note": "Pip alone on the pitch"
+  },
+  {
+   "id": "D37",
+   "size": "medium",
+   "key": 30,
+   "len": 52,
+   "first": 5571,
+   "line": "Các nhà tâm lý học có một khái niệm,",
+   "note": "head with a swirl: psychology"
+  },
+  {
+   "id": "D38",
+   "size": "wide",
+   "key": 30,
+   "len": 51,
+   "first": 5623,
+   "line": "gọi là trạng thái dòng chảy.",
+   "note": "title TRANG THAI DONG CHAY over stream"
+  },
+  {
+   "id": "D39",
+   "size": "wide",
+   "key": 60,
+   "len": 79,
+   "first": 5674,
+   "line": "Con người vui nhất khi thử thách vừa sức mình.",
+   "note": "chart axes, flow channel, smiling dot rides it"
+  },
+  {
+   "id": "D40",
+   "size": "close-up",
+   "key": 34,
+   "len": 58,
+   "first": 5753,
+   "line": "Khó một chút, nhưng vẫn làm được.",
+   "note": "dot steps up one level, stays in channel"
+  },
+  {
+   "id": "D41",
+   "size": "wide",
+   "key": 30,
+   "len": 39,
+   "first": 5811,
+   "line": "Khi mọi thứ quá dễ,",
+   "note": "dot slides down-right as it gets too easy"
+  },
+  {
+   "id": "D42",
+   "size": "close-up",
+   "key": 40,
+   "len": 52,
+   "first": 5850,
+   "line": "niềm vui biến thành nhàm chán.",
+   "note": "flat dot in NHAM CHAN zone"
+  },
+  {
+   "id": "D43",
+   "size": "wide",
+   "key": 16,
+   "len": 29,
+   "first": 5902,
+   "line": "Đó là thật.",
+   "note": "Do la that tick over chart"
+  },
+  {
+   "id": "D44",
+   "size": "wide",
+   "key": 30,
+   "len": 52,
+   "first": 5931,
+   "line": "Bạn là người mạnh nhất thế giới.",
+   "note": "Pip low angle on rooftop, strongest"
+  },
+  {
+   "id": "D45",
+   "size": "medium",
+   "key": 50,
+   "len": 79,
+   "first": 5983,
+   "line": "Và cũng là người chán nhất thế giới.",
+   "note": "Pip on parapet chin on hand, most bored"
+  },
+  {
+   "id": "E1",
+   "size": "wide",
+   "key": 70,
+   "len": 76,
+   "first": 6062,
+   "line": "Rồi một buổi chiều, một người đàn ông mặc vest đứng chờ",
+   "note": "afternoon alley, suit walks up to Pip's gate"
+  },
+  {
+   "id": "E2",
+   "size": "medium",
+   "key": 30,
+   "len": 40,
+   "first": 6138,
+   "line": "trước cổng nhà bạn.",
+   "note": "suit waits at the gate, checks watch"
+  },
+  {
+   "id": "E3",
+   "size": "close-up",
+   "key": 30,
+   "len": 50,
+   "first": 6178,
+   "line": "Ông ta không cười.",
+   "note": "his unsmiling face"
+  },
+  {
+   "id": "E4",
+   "size": "insert",
+   "key": 60,
+   "len": 66,
+   "first": 6228,
+   "line": "Một người đấm tan được mây, ông nói,",
+   "note": "tablet: Pip silhouette -> weapon blueprint"
+  },
+  {
+   "id": "E5",
+   "size": "medium",
+   "key": 30,
+   "len": 52,
+   "first": 6294,
+   "line": "không còn là một con người nữa.",
+   "note": "he speaks, tablet beside him"
+  },
+  {
+   "id": "E6",
+   "size": "schematic",
+   "key": 45,
+   "len": 39,
+   "first": 6346,
+   "line": "Đó là một vũ khí.",
+   "note": "blueprint + red stamp VŨ KHÍ"
+  },
+  {
+   "id": "E7",
+   "size": "insert",
+   "key": 40,
+   "len": 48,
+   "first": 6385,
+   "line": "Ông đưa ra một bản hợp đồng.",
+   "note": "HỢP ĐỒNG held out"
+  },
+  {
+   "id": "E8",
+   "size": "medium",
+   "key": 24,
+   "len": 27,
+   "first": 6433,
+   "line": "Bạn lắc đầu.",
+   "note": "Pip shakes his head"
+  },
+  {
+   "id": "E9",
+   "size": "wide",
+   "key": 40,
+   "len": 46,
+   "first": 6460,
+   "line": "Từ hôm đó, có một chiếc máy",
+   "note": "Pip walks, drone slides in behind"
+  },
+  {
+   "id": "E10",
+   "size": "close-up",
+   "key": 40,
+   "len": 61,
+   "first": 6506,
+   "line": "bay không người lái bay theo bạn.",
+   "note": "drone close-up, red light"
+  },
+  {
+   "id": "E11",
+   "size": "medium",
+   "key": 20,
+   "len": 25,
+   "first": 6567,
+   "line": "Đến trường.",
+   "note": "drone POV: school"
+  },
+  {
+   "id": "E12",
+   "size": "wide",
+   "key": 20,
+   "len": 24,
+   "first": 6592,
+   "line": "Ra chợ.",
+   "note": "market, drone behind"
+  },
+  {
+   "id": "E13",
+   "size": "medium",
+   "key": 20,
+   "len": 28,
+   "first": 6616,
+   "line": "Về nhà.",
+   "note": "drone POV: home gate"
+  },
+  {
+   "id": "E14",
+   "size": "wide",
+   "key": 40,
+   "len": 43,
+   "first": 6644,
+   "line": "Ngày nào cũng vậy.",
+   "note": "three days, same walk, same drone"
+  },
+  {
+   "id": "E15",
+   "size": "medium",
+   "key": 30,
+   "len": 29,
+   "first": 6687,
+   "line": "Rồi một tối,",
+   "note": "Pip at the rainy window"
+  },
+  {
+   "id": "E16",
+   "size": "insert",
+   "key": 30,
+   "len": 41,
+   "first": 6716,
+   "line": "tin khẩn cấp vang lên.",
+   "note": "emergency alert phone"
+  },
+  {
+   "id": "E17",
+   "size": "schematic",
+   "key": 45,
+   "len": 56,
+   "first": 6757,
+   "line": "Một cơn bão rất lớn sắp đổ bộ.",
+   "note": "radar: spiral heading for the coast"
+  },
+  {
+   "id": "E18",
+   "size": "wide",
+   "key": 50,
+   "len": 53,
+   "first": 6813,
+   "line": "Em gái bạn vẫn còn ở trường.",
+   "note": "school in rain, sister at a lit window"
+  },
+  {
+   "id": "E19",
+   "size": "wide",
+   "key": 30,
+   "len": 48,
+   "first": 6866,
+   "line": "Bạn lao ra giữa trời mưa,",
+   "note": "Pip runs into the rain"
+  },
+  {
+   "id": "E20",
+   "size": "wide",
+   "key": 45,
+   "len": 52,
+   "first": 6914,
+   "line": "nhìn lên đám mây xoáy khổng lồ,",
+   "note": "looks up at the giant spiral"
+  },
+  {
+   "id": "E21",
+   "size": "wide",
+   "key": 22,
+   "len": 22,
+   "first": 6966,
+   "line": "và đấm.",
+   "note": "wind-up"
+  },
+  {
+   "id": "E22",
+   "size": "insert",
+   "key": 30,
+   "len": 42,
+   "first": 6988,
+   "line": "Một cú đấm.",
+   "note": "fist clenches, thrusts at lens"
+  },
+  {
+   "id": "E23",
+   "size": "wide",
+   "key": 8,
+   "len": 18,
+   "first": 7030,
+   "line": "Bùm.",
+   "note": "THE HIT on Bùm"
+  },
+  {
+   "id": "E24",
+   "size": "wide",
+   "key": 30,
+   "len": 40,
+   "first": 7048,
+   "line": "Mây mở ra một lỗ.",
+   "note": "hole opens in the spiral"
+  },
+  {
+   "id": "E25",
+   "size": "close-up",
+   "key": 30,
+   "len": 37,
+   "first": 7088,
+   "line": "Rồi khép lại ngay.",
+   "note": "Pip stares, rain on face, hole closes"
+  },
+  {
+   "id": "E26",
+   "size": "schematic",
+   "key": 36,
+   "len": 38,
+   "first": 7125,
+   "line": "Theo các nhà khí tượng Mỹ,",
+   "note": "source tag + typhoon icon draws"
+  },
+  {
+   "id": "E27",
+   "size": "schematic",
+   "key": 50,
+   "len": 68,
+   "first": 7163,
+   "line": "một cơn bão lớn tỏa ra năng lượng gấp khoảng",
+   "note": "typhoon icon glows, energy rings"
+  },
+  {
+   "id": "E28",
+   "size": "schematic",
+   "key": 50,
+   "len": 76,
+   "first": 7231,
+   "line": "hai trăm lần công suất của mọi nhà máy điện trên",
+   "note": "≈ 200 x vs power plants"
+  },
+  {
+   "id": "E29",
+   "size": "schematic",
+   "key": 36,
+   "len": 39,
+   "first": 7307,
+   "line": "thế giới cộng lại.",
+   "note": "200 plant icons pop in"
+  },
+  {
+   "id": "E30",
+   "size": "schematic",
+   "key": 20,
+   "len": 27,
+   "first": 7346,
+   "line": "Đó là thật.",
+   "note": "ĐÓ LÀ THẬT tick"
+  },
+  {
+   "id": "E31",
+   "size": "wide",
+   "key": 40,
+   "len": 58,
+   "first": 7373,
+   "line": "Không có cú đấm nào thắng được nó.",
+   "note": "tiny fist vs huge spiral"
+  },
+  {
+   "id": "F1",
+   "size": "wide",
+   "key": 20,
+   "len": 30,
+   "first": 7431,
+   "line": "Nên lần đầu tiên,",
+   "note": "typhoon street wide"
+  },
+  {
+   "id": "F2",
+   "size": "medium",
+   "key": 24,
+   "len": 28,
+   "first": 7461,
+   "line": "bạn không đấm.",
+   "note": "fist drops open"
+  },
+  {
+   "id": "F3",
+   "size": "medium",
+   "key": 16,
+   "len": 29,
+   "first": 7489,
+   "line": "Bạn chạy.",
+   "note": "runs through floodwater"
+  },
+  {
+   "id": "F4",
+   "size": "wide",
+   "key": 30,
+   "len": 35,
+   "first": 7518,
+   "line": "Bạn giữ chặt mái",
+   "note": "roof sheet lifts"
+  },
+  {
+   "id": "F5",
+   "size": "medium",
+   "key": 18,
+   "len": 26,
+   "first": 7553,
+   "line": "tôn sắp bay.",
+   "note": "pins the sheet"
+  },
+  {
+   "id": "F6",
+   "size": "wide",
+   "key": 14,
+   "len": 26,
+   "first": 7579,
+   "line": "Bạn kéo chiếc xe",
+   "note": "bus stuck"
+  },
+  {
+   "id": "F7",
+   "size": "medium",
+   "key": 30,
+   "len": 40,
+   "first": 7605,
+   "line": "buýt kẹt giữa dòng nước.",
+   "note": "one hand pulls bus"
+  },
+  {
+   "id": "F8",
+   "size": "medium",
+   "key": 30,
+   "len": 34,
+   "first": 7645,
+   "line": "Rồi bạn cõng em gái",
+   "note": "sis hops on"
+  },
+  {
+   "id": "F9",
+   "size": "medium",
+   "key": 20,
+   "len": 37,
+   "first": 7679,
+   "line": "về nhà, thật nhẹ,",
+   "note": "gentle walk home"
+  },
+  {
+   "id": "F10",
+   "size": "insert",
+   "key": 20,
+   "len": 36,
+   "first": 7716,
+   "line": "như đang cầm một quả trứng.",
+   "note": "egg in palm"
+  },
+  {
+   "id": "F11",
+   "size": "close",
+   "key": 20,
+   "len": 28,
+   "first": 7752,
+   "line": "",
+   "note": "asleep on shoulder"
+  },
+  {
+   "id": "F12",
+   "size": "wide",
+   "key": 20,
+   "len": 26,
+   "first": 7780,
+   "line": "Sáng hôm sau,",
+   "note": "dawn alley wet empty"
+  },
+  {
+   "id": "F13",
+   "size": "wide",
+   "key": 20,
+   "len": 26,
+   "first": 7806,
+   "line": "trời quang.",
+   "note": "tilt up clear sky"
+  },
+  {
+   "id": "F14",
+   "size": "medium",
+   "key": 30,
+   "len": 43,
+   "first": 7832,
+   "line": "Em gái bạn giơ tay lên,",
+   "note": "sis raises hand"
+  },
+  {
+   "id": "F15",
+   "size": "close",
+   "key": 30,
+   "len": 53,
+   "first": 7875,
+   "line": "đòi đập tay.",
+   "note": "sis hand up close"
+  },
+  {
+   "id": "F16",
+   "size": "insert",
+   "key": 8,
+   "len": 16,
+   "first": 7928,
+   "line": "Bạn sợ.",
+   "note": "fist trembles"
+  },
+  {
+   "id": "F17",
+   "size": "insert",
+   "key": 30,
+   "len": 38,
+   "first": 7944,
+   "line": "Bạn mở nắm tay ra,",
+   "note": "fist opens"
+  },
+  {
+   "id": "F18",
+   "size": "insert",
+   "key": 30,
+   "len": 34,
+   "first": 7982,
+   "line": "và chạm thật khẽ.",
+   "note": "palms meet softly"
+  },
+  {
+   "id": "F19",
+   "size": "insert",
+   "key": 20,
+   "len": 31,
+   "first": 8016,
+   "line": "Không có tiếng nổ.",
+   "note": "held beat"
+  },
+  {
+   "id": "F20",
+   "size": "wide",
+   "key": 30,
+   "len": 40,
+   "first": 8047,
+   "line": "Không có gì vỡ cả.",
+   "note": "nothing breaks, bird lands"
+  },
+  {
+   "id": "F21",
+   "size": "medium",
+   "key": 30,
+   "len": 54,
+   "first": 8087,
+   "line": "Hóa ra điều khó nhất không phải",
+   "note": "looks at open hand"
+  },
+  {
+   "id": "F22",
+   "size": "insert",
+   "key": 10,
+   "len": 29,
+   "first": 8141,
+   "line": "là đấm thật mạnh.",
+   "note": "strong fist"
+  },
+  {
+   "id": "F23",
+   "size": "medium",
+   "key": 30,
+   "len": 35,
+   "first": 8170,
+   "line": "Mà là biết khi nào",
+   "note": "both smiling push-in"
+  },
+  {
+   "id": "F24",
+   "size": "insert",
+   "key": 30,
+   "len": 37,
+   "first": 8205,
+   "line": "nên mở nắm tay ra.",
+   "note": "open hand push-in"
+  },
+  {
+   "id": "F25",
+   "size": "wide",
+   "key": 50,
+   "len": 68,
+   "first": 8242,
+   "line": "Vậy nếu bạn có cú đấm mạnh nhất thế giới,",
+   "note": "fist raised glowing"
+  },
+  {
+   "id": "F26",
+   "size": "wide",
+   "key": 40,
+   "len": 56,
+   "first": 8310,
+   "line": "bạn sẽ đấm thứ gì đầu tiên?",
+   "note": "question line 1"
+  },
+  {
+   "id": "F27",
+   "size": "wide",
+   "key": 40,
+   "len": 61,
+   "first": 8366,
+   "line": "Viết ở phần bình luận nhé.",
+   "note": "line 2"
+  },
+  {
+   "id": "F28",
+   "size": "wide",
+   "key": 30,
+   "len": 66,
+   "first": 8427,
+   "line": "",
+   "note": "kids walk off, tail"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "amp": 24,
+   "len": 12,
+   "f": 176
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.6,
+   "f": 176
+  },
+  {
+   "kind": "shake",
+   "amp": 30,
+   "len": 16,
+   "f": 291
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.7,
+   "f": 291
+  },
+  {
+   "kind": "shake",
+   "amp": 20,
+   "len": 12,
+   "f": 405
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.6,
+   "f": 405
+  },
+  {
+   "kind": "shake",
+   "amp": 22,
+   "len": 12,
+   "f": 663
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.5,
+   "f": 663
+  },
+  {
+   "kind": "shake",
+   "amp": 28,
+   "len": 14,
+   "f": 920
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.7,
+   "f": 920
+  },
+  {
+   "kind": "shake",
+   "amp": 16,
+   "len": 10,
+   "f": 987
+  },
+  {
+   "kind": "shake",
+   "amp": 10,
+   "len": 6,
+   "f": 478
+  },
+  {
+   "kind": "shake",
+   "amp": 10,
+   "len": 6,
+   "f": 487
+  },
+  {
+   "kind": "shake",
+   "amp": 12,
+   "len": 8,
+   "f": 496
+  },
+  {
+   "kind": "shake",
+   "amp": 22,
+   "len": 14,
+   "f": 1528
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.5,
+   "f": 1528
+  },
+  {
+   "kind": "shake",
+   "amp": 20,
+   "len": 14,
+   "f": 1917
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.45,
+   "f": 1917
+  },
+  {
+   "kind": "shake",
+   "amp": 28,
+   "len": 16,
+   "f": 2324
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.6,
+   "f": 2324
+  },
+  {
+   "kind": "shake",
+   "amp": 10,
+   "len": 8,
+   "f": 1421
+  },
+  {
+   "kind": "shake",
+   "amp": 14,
+   "len": 8,
+   "f": 2706
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.6,
+   "f": 2710
+  },
+  {
+   "kind": "shake",
+   "amp": 26,
+   "len": 14,
+   "f": 2710
+  },
+  {
+   "kind": "shake",
+   "amp": 14,
+   "len": 12,
+   "f": 2731
+  },
+  {
+   "kind": "shake",
+   "amp": 14,
+   "len": 8,
+   "f": 3048
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.6,
+   "f": 3056
+  },
+  {
+   "kind": "shake",
+   "amp": 22,
+   "len": 12,
+   "f": 3056
+  },
+  {
+   "kind": "flash",
+   "color": "#DFF6FF",
+   "o": 0.4,
+   "f": 3815
+  },
+  {
+   "kind": "shake",
+   "amp": 10,
+   "len": 8,
+   "f": 3842
+  },
+  {
+   "kind": "shake",
+   "amp": 10,
+   "len": 8,
+   "f": 3866
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.35,
+   "f": 4041
+  },
+  {
+   "kind": "shake",
+   "amp": 16,
+   "len": 10,
+   "f": 4298
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.4,
+   "f": 4298
+  },
+  {
+   "kind": "shake",
+   "amp": 26,
+   "len": 14,
+   "f": 4522
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.6,
+   "f": 4522
+  },
+  {
+   "kind": "shake",
+   "amp": 22,
+   "len": 12,
+   "f": 4576
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.4,
+   "f": 4576
+  },
+  {
+   "kind": "shake",
+   "amp": 14,
+   "len": 10,
+   "f": 4714
+  },
+  {
+   "kind": "shake",
+   "amp": 12,
+   "len": 10,
+   "f": 4855
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.3,
+   "f": 4855
+  },
+  {
+   "kind": "shake",
+   "amp": 8,
+   "len": 10,
+   "f": 4987
+  },
+  {
+   "kind": "shake",
+   "amp": 18,
+   "len": 10,
+   "f": 5105
+  },
+  {
+   "kind": "shake",
+   "amp": 20,
+   "len": 12,
+   "f": 5123
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.3,
+   "f": 5123
+  },
+  {
+   "kind": "shake",
+   "amp": 18,
+   "len": 10,
+   "f": 5145
+  },
+  {
+   "kind": "shake",
+   "amp": 18,
+   "len": 12,
+   "f": 5441
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.4,
+   "f": 5441
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.8,
+   "f": 7032
+  },
+  {
+   "kind": "shake",
+   "amp": 30,
+   "len": 16,
+   "f": 7032
+  },
+  {
+   "kind": "shake",
+   "amp": 14,
+   "len": 10,
+   "f": 7035
+  },
+  {
+   "kind": "flash",
+   "color": "#FFE9C8",
+   "o": 0.4,
+   "f": 7028
+  },
+  {
+   "kind": "flash",
+   "color": "#FF3B3B",
+   "o": 0.25,
+   "f": 6718
+  },
+  {
+   "kind": "flash",
+   "color": "#CFE0FF",
+   "o": 0.2,
+   "f": 6833
+  },
+  {
+   "kind": "flash",
+   "color": "#CFE0FF",
+   "o": 0.2,
+   "f": 6944
+  },
+  {
+   "kind": "flash",
+   "color": "#BFFFD6",
+   "o": 0.15,
+   "f": 7348
+  },
+  {
+   "kind": "flash",
+   "color": "#CFE0FF",
+   "o": 0.2,
+   "f": 7441
+  },
+  {
+   "kind": "flash",
+   "color": "#CFE0FF",
+   "o": 0.18,
+   "f": 7581
+  },
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 5,
+   "f": 7559
+  }
+ ],
+ "audio": {
+  "voice": "mot-cu-dam/voice.wav",
+  "sfx": "mot-cu-dam/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.5048,
+  "music": "mot-cu-dam/music.wav",
+  "musicVol": 0.3413
+ }
+}

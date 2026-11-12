@@ -1,0 +1,406 @@
+{
+ "chapter": "e",
+ "shots": [
+  {
+   "id": "E1",
+   "file": "shots-che-home-sister-and-door",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 30,
+   "note": "dark home, heater, sister in blanket, Pip enters"
+  },
+  {
+   "id": "E2",
+   "file": "shots-che-home-sister-and-door",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 30,
+   "note": "sister looks up at Pip"
+  },
+  {
+   "id": "E3",
+   "file": "shots-che-home-sister-and-door",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 20,
+   "note": "sister face: Is the Sun coming back?"
+  },
+  {
+   "id": "E4",
+   "file": "shots-che-home-sister-and-door",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 12,
+   "note": "Pip face, no answer, worried"
+  },
+  {
+   "id": "E5",
+   "file": "shots-che-home-sister-and-door",
+   "size": "insert",
+   "set": "dark",
+   "key": 20,
+   "note": "heater glowing"
+  },
+  {
+   "id": "E6",
+   "file": "shots-che-home-sister-and-door",
+   "size": "insert",
+   "set": "dark",
+   "key": 30,
+   "note": "fuel cans, 1 MONTH tag"
+  },
+  {
+   "id": "E7",
+   "file": "shots-che-home-sister-and-door",
+   "size": "medium",
+   "set": "night",
+   "key": 24,
+   "note": "neighbours window dark and frosted"
+  },
+  {
+   "id": "E8",
+   "file": "shots-che-home-sister-and-door",
+   "size": "medium",
+   "set": "door",
+   "key": 22,
+   "note": "door knocked 3x, frost"
+  },
+  {
+   "id": "E9",
+   "file": "shots-che-home-sister-and-door",
+   "size": "extreme close-up",
+   "set": "door",
+   "key": 30,
+   "note": "mitten hovering at handle"
+  },
+  {
+   "id": "E10",
+   "file": "shots-che-mum-and-space-drift",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 20,
+   "note": "mum gentle look"
+  },
+  {
+   "id": "E11",
+   "file": "shots-che-mum-and-space-drift",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 26,
+   "note": "Pip between cold door and family"
+  },
+  {
+   "id": "E12",
+   "file": "shots-che-mum-and-space-drift",
+   "size": "wide",
+   "set": "space",
+   "key": 30,
+   "note": "small dark Earth drifting"
+  },
+  {
+   "id": "E13",
+   "file": "shots-che-mum-and-space-drift",
+   "size": "close-up",
+   "set": "space",
+   "key": 30,
+   "note": "frozen Earth with city lights"
+  },
+  {
+   "id": "E14",
+   "file": "shots-che-mum-and-space-drift",
+   "size": "medium",
+   "set": "schematic",
+   "key": 36,
+   "note": "galaxy spiral"
+  },
+  {
+   "id": "E15",
+   "file": "shots-che-mum-and-space-drift",
+   "size": "medium",
+   "set": "schematic",
+   "key": 30,
+   "note": "billions of drifting planets BILLIONS?"
+  },
+  {
+   "id": "E16",
+   "file": "shots-che-mum-and-space-drift",
+   "size": "wide",
+   "set": "schematic",
+   "key": 100,
+   "note": "lone planets; Earth joins them"
+  },
+  {
+   "id": "E17",
+   "file": "shots-che-question-last-minutes-and-end-card",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 25,
+   "note": "Pip golden hour looks at camera"
+  },
+  {
+   "id": "E18",
+   "file": "shots-che-question-last-minutes-and-end-card",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 60,
+   "note": "low angle big Sun, 08:20 chip"
+  },
+  {
+   "id": "E19",
+   "file": "shots-che-question-last-minutes-and-end-card",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 20,
+   "note": "Pip gazes at Sun, thinking"
+  },
+  {
+   "id": "E20",
+   "file": "shots-che-question-last-minutes-and-end-card",
+   "size": "medium",
+   "set": "street",
+   "key": 40,
+   "note": "Pip and sister walk sunny street"
+  },
+  {
+   "id": "E21",
+   "file": "shots-che-question-last-minutes-and-end-card",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 20,
+   "note": "video call, Mo on screen"
+  },
+  {
+   "id": "E22",
+   "file": "shots-che-question-last-minutes-and-end-card",
+   "size": "wide",
+   "set": "sky",
+   "key": 30,
+   "note": "bright blue sky, birds"
+  },
+  {
+   "id": "E23",
+   "file": "shots-che-question-last-minutes-and-end-card",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 60,
+   "note": "end card: HOW WOULD YOU SPEND / YOUR LAST 8 MINUTES?"
+  },
+  {
+   "id": "E24",
+   "file": "shots-che-question-last-minutes-and-end-card",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "sun sets, fade to black"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "E1",
+   "at": "s:210.15"
+  },
+  {
+   "shot": "E2",
+   "at": "s:212.6"
+  },
+  {
+   "shot": "E3",
+   "at": "s:214.61"
+  },
+  {
+   "shot": "E4",
+   "at": "s:215.75"
+  },
+  {
+   "shot": "E5",
+   "at": "s:216.57"
+  },
+  {
+   "shot": "E6",
+   "at": "s:218.01"
+  },
+  {
+   "shot": "E7",
+   "at": "s:219.95"
+  },
+  {
+   "shot": "E8",
+   "at": "s:221.7"
+  },
+  {
+   "shot": "E9",
+   "at": "s:223.05"
+  },
+  {
+   "shot": "E10",
+   "at": "s:224.91"
+  },
+  {
+   "shot": "E11",
+   "at": "s:226.33"
+  },
+  {
+   "shot": "E12",
+   "at": "s:228.59",
+   "look": "cold"
+  },
+  {
+   "shot": "E13",
+   "at": "s:231.23",
+   "look": "cold"
+  },
+  {
+   "shot": "E14",
+   "at": "s:234.2",
+   "look": "cold"
+  },
+  {
+   "shot": "E15",
+   "at": "s:237.25",
+   "look": "cold"
+  },
+  {
+   "shot": "E16",
+   "at": "s:239.67",
+   "look": "cold"
+  },
+  {
+   "shot": "E17",
+   "at": "s:244.27"
+  },
+  {
+   "shot": "E18",
+   "at": "s:246.38"
+  },
+  {
+   "shot": "E19",
+   "at": "s:251.17"
+  },
+  {
+   "shot": "E20",
+   "at": "s:252.52"
+  },
+  {
+   "shot": "E21",
+   "at": "s:256.15"
+  },
+  {
+   "shot": "E22",
+   "at": "s:257.62"
+  },
+  {
+   "shot": "E23",
+   "at": "s:260.43"
+  },
+  {
+   "shot": "E24",
+   "at": "s:265.21"
+  }
+ ],
+ "fx": [
+  {
+   "at": "E8+14",
+   "kind": "shake",
+   "len": 4,
+   "amp": 5
+  },
+  {
+   "at": "E8+22",
+   "kind": "shake",
+   "len": 4,
+   "amp": 5
+  },
+  {
+   "at": "E8+30",
+   "kind": "shake",
+   "len": 4,
+   "amp": 5
+  },
+  {
+   "at": "E24+60",
+   "kind": "flash",
+   "color": "#FFD9A0",
+   "o": 0.12
+  }
+ ],
+ "events": [
+  [
+   "E1",
+   "room_tone",
+   0.08,
+   "onset",
+   "E12"
+  ],
+  [
+   "E1",
+   "power_hum",
+   0.05,
+   "onset",
+   "E8"
+  ],
+  [
+   "E4+3",
+   "gasp",
+   0.1
+  ],
+  [
+   "E6+46",
+   "clink",
+   0.08
+  ],
+  [
+   "E8+14",
+   "step",
+   0.14
+  ],
+  [
+   "E8+22",
+   "step",
+   0.12
+  ],
+  [
+   "E8+30",
+   "step",
+   0.1
+  ],
+  [
+   "E17",
+   "roof_wind",
+   0.08,
+   "onset",
+   "E21"
+  ],
+  [
+   "E21+38",
+   "ting",
+   0.1
+  ],
+  [
+   "E23",
+   "ding",
+   0.09
+  ],
+  [
+   "E23+8",
+   "roof_wind",
+   0.12,
+   "onset"
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "E20+2",
+   "clip": "step",
+   "n": 6,
+   "every": 9,
+   "gain": [
+    0.04,
+    0.07
+   ],
+   "pitch": [
+    0.9,
+    1.1
+   ]
+  }
+ ]
+}

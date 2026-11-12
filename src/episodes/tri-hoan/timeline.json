@@ -1,0 +1,2484 @@
+{
+ "slug": "tri-hoan",
+ "title": "SẼ RA SAO NẾU BẠN TRÌ HOÃN MỌI THỨ?",
+ "fps": 30,
+ "total": 7267,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 57,
+   "t0": 0,
+   "t1": 57,
+   "line": "Mười một giờ năm mươi chín phút đêm.",
+   "look": "alert"
+  },
+  {
+   "shot": "A2",
+   "a": 57,
+   "b": 122,
+   "t0": 0,
+   "t1": 65,
+   "line": "Hạn nộp bài là đúng nửa đêm.",
+   "look": "alert"
+  },
+  {
+   "shot": "A3",
+   "a": 122,
+   "b": 166,
+   "t0": 0,
+   "t1": 44,
+   "line": "Bạn mới viết được một dòng.",
+   "look": "night"
+  },
+  {
+   "shot": "A4",
+   "a": 166,
+   "b": 208,
+   "t0": 0,
+   "t1": 42,
+   "line": "Một tuần trước, bạn đã"
+  },
+  {
+   "shot": "A5",
+   "a": 208,
+   "b": 258,
+   "t0": 0,
+   "t1": 50,
+   "line": "tự hứa. Mai làm."
+  },
+  {
+   "shot": "A6",
+   "a": 258,
+   "b": 339,
+   "t0": 0,
+   "t1": 81,
+   "line": "Cái ngày mai đó, chưa bao giờ đến."
+  },
+  {
+   "shot": "A7",
+   "a": 339,
+   "b": 405,
+   "t0": 0,
+   "t1": 66,
+   "line": "Sẽ ra sao nếu bạn trì hoãn mọi thứ?"
+  },
+  {
+   "shot": "A8",
+   "a": 405,
+   "b": 440,
+   "t0": 0,
+   "t1": 35,
+   "line": "Không chỉ bài tập."
+  },
+  {
+   "shot": "A9",
+   "a": 440,
+   "b": 491,
+   "t0": 0,
+   "t1": 51,
+   "line": "Mà cả cuộc đời."
+  },
+  {
+   "shot": "A10",
+   "a": 491,
+   "b": 544,
+   "t0": 0,
+   "t1": 53,
+   "line": "Còn bảy ngày. Cô giáo giao",
+   "look": "c7"
+  },
+  {
+   "shot": "A11",
+   "a": 544,
+   "b": 597,
+   "t0": 0,
+   "t1": 53,
+   "line": "bài thuyết trình về hệ mặt trời.",
+   "look": "c7"
+  },
+  {
+   "shot": "A12",
+   "a": 597,
+   "b": 646,
+   "t0": 0,
+   "t1": 49,
+   "line": "Bảy ngày, dư sức.",
+   "look": "c7"
+  },
+  {
+   "shot": "A13",
+   "a": 646,
+   "b": 698,
+   "t0": 0,
+   "t1": 52,
+   "line": "Bạn mở máy, định làm,",
+   "look": "c7"
+  },
+  {
+   "shot": "A14",
+   "a": 698,
+   "b": 742,
+   "t0": 0,
+   "t1": 44,
+   "line": "rồi xem một video.",
+   "look": "c7"
+  },
+  {
+   "shot": "A15",
+   "a": 742,
+   "b": 794,
+   "t0": 0,
+   "t1": 52,
+   "line": "Rồi thêm một video nữa.",
+   "look": "c7"
+  },
+  {
+   "shot": "A16",
+   "a": 794,
+   "b": 849,
+   "t0": 0,
+   "t1": 55,
+   "line": "Hai tiếng sau, bạn đang xem người",
+   "look": "c7"
+  },
+  {
+   "shot": "A17",
+   "a": 849,
+   "b": 889,
+   "t0": 0,
+   "t1": 40,
+   "line": "ta làm xà phòng bằng tay.",
+   "look": "c7"
+  },
+  {
+   "shot": "A18",
+   "a": 889,
+   "b": 939,
+   "t0": 0,
+   "t1": 50,
+   "line": "Bạn tự nhủ. Mai làm.",
+   "look": "c7"
+  },
+  {
+   "shot": "A19",
+   "a": 939,
+   "b": 996,
+   "t0": 0,
+   "t1": 57,
+   "line": "Còn năm ngày. Lần này bạn",
+   "look": "c5"
+  },
+  {
+   "shot": "A20",
+   "a": 996,
+   "b": 1043,
+   "t0": 0,
+   "t1": 47,
+   "line": "quyết tâm ngồi vào bàn.",
+   "look": "c5"
+  },
+  {
+   "shot": "A21",
+   "a": 1043,
+   "b": 1088,
+   "t0": 0,
+   "t1": 45,
+   "line": "Nhưng bàn bừa quá.",
+   "look": "c5"
+  },
+  {
+   "shot": "A22",
+   "a": 1088,
+   "b": 1156,
+   "t0": 0,
+   "t1": 68,
+   "line": "Bạn dọn bàn. Dọn luôn tủ quần áo.",
+   "look": "c5"
+  },
+  {
+   "shot": "A23",
+   "a": 1156,
+   "b": 1205,
+   "t0": 0,
+   "t1": 49,
+   "line": "Rửa luôn chồng bát cho mẹ.",
+   "look": "c5"
+  },
+  {
+   "shot": "A24",
+   "a": 1205,
+   "b": 1250,
+   "t0": 0,
+   "t1": 45,
+   "line": "Mẹ cảm động suýt khóc.",
+   "look": "c5"
+  },
+  {
+   "shot": "A25",
+   "a": 1250,
+   "b": 1340,
+   "t0": 0,
+   "t1": 90,
+   "line": "Còn bài thuyết trình thì vẫn trắng tinh.",
+   "look": "c5"
+  },
+  {
+   "shot": "B1",
+   "a": 1340,
+   "b": 1431,
+   "t0": 0,
+   "t1": 91,
+   "line": "Nhưng bạn không lười. Các nhà tâm lý học phát hiện ra rằng,",
+   "look": "c5"
+  },
+  {
+   "shot": "B2",
+   "a": 1431,
+   "b": 1533,
+   "t0": 0,
+   "t1": 102,
+   "line": "trì hoãn không phải chuyện quản lý thời gian, mà là chuyện cảm xúc."
+  },
+  {
+   "shot": "B3",
+   "a": 1533,
+   "b": 1618,
+   "t0": 0,
+   "t1": 85,
+   "line": "Khi một việc khiến ta thấy chán, sợ, hay áp lực,",
+   "look": "c5"
+  },
+  {
+   "shot": "B4",
+   "a": 1618,
+   "b": 1664,
+   "t0": 0,
+   "t1": 46,
+   "line": "não tìm cách né nó đi,",
+   "look": "c5"
+  },
+  {
+   "shot": "B5",
+   "a": 1664,
+   "b": 1714,
+   "t0": 0,
+   "t1": 50,
+   "line": "để được dễ chịu ngay lúc đó.",
+   "look": "c5"
+  },
+  {
+   "shot": "B6",
+   "a": 1714,
+   "b": 1762,
+   "t0": 0,
+   "t1": 48,
+   "line": "Và bạn không cô đơn đâu.",
+   "look": "c5"
+  },
+  {
+   "shot": "B7",
+   "a": 1762,
+   "b": 1814,
+   "t0": 0,
+   "t1": 52,
+   "line": "Từ tám mươi đến chín mươi lăm phần trăm",
+   "look": "memory"
+  },
+  {
+   "shot": "B8",
+   "a": 1814,
+   "b": 1872,
+   "t0": 0,
+   "t1": 58,
+   "line": "sinh viên đại học có trì hoãn.",
+   "look": "memory"
+  },
+  {
+   "shot": "B9",
+   "a": 1872,
+   "b": 1900,
+   "t0": 0,
+   "t1": 28,
+   "line": "Đó là thật."
+  },
+  {
+   "shot": "B10",
+   "a": 1900,
+   "b": 1945,
+   "t0": 0,
+   "t1": 45,
+   "line": "Còn một điều lạ hơn.",
+   "look": "c5"
+  },
+  {
+   "shot": "B11",
+   "a": 1945,
+   "b": 1991,
+   "t0": 0,
+   "t1": 46,
+   "line": "Khi các nhà khoa học quét não,",
+   "look": "memory"
+  },
+  {
+   "shot": "B12",
+   "a": 1991,
+   "b": 2063,
+   "t0": 0,
+   "t1": 72,
+   "line": "họ thấy lúc bạn nghĩ về chính mình trong tương lai,",
+   "look": "memory"
+  },
+  {
+   "shot": "B13",
+   "a": 2063,
+   "b": 2170,
+   "t0": 0,
+   "t1": 107,
+   "line": "não bạn hoạt động gần giống như khi nghĩ về một người lạ.",
+   "look": "memory"
+  },
+  {
+   "shot": "B14",
+   "a": 2170,
+   "b": 2250,
+   "t0": 0,
+   "t1": 80,
+   "line": "Đó là thật. Nên mỗi lần bạn nói để mai tính,",
+   "look": "c5"
+  },
+  {
+   "shot": "B15",
+   "a": 2250,
+   "b": 2324,
+   "t0": 0,
+   "t1": 74,
+   "line": "thật ra bạn đang đẩy việc cho một người lạ.",
+   "look": "c5"
+  },
+  {
+   "shot": "B16",
+   "a": 2324,
+   "b": 2412,
+   "t0": 0,
+   "t1": 88,
+   "line": "Người lạ đó, tên là bạn của ngày mai."
+  },
+  {
+   "shot": "B17",
+   "a": 2412,
+   "b": 2475,
+   "t0": 0,
+   "t1": 63,
+   "line": "Còn một ngày. Bạn mở máy.",
+   "look": "c1"
+  },
+  {
+   "shot": "B18",
+   "a": 2475,
+   "b": 2543,
+   "t0": 0,
+   "t1": 68,
+   "line": "Mạng chậm. Pin còn mười phần trăm.",
+   "look": "c1"
+  },
+  {
+   "shot": "B19",
+   "a": 2543,
+   "b": 2631,
+   "t0": 0,
+   "t1": 88,
+   "line": "Bạn chợt nhớ ra mình chưa có tấm ảnh nào về sao Mộc.",
+   "look": "c1"
+  },
+  {
+   "shot": "B20",
+   "a": 2631,
+   "b": 2704,
+   "t0": 0,
+   "t1": 73,
+   "line": "Mười một giờ đêm. Tim đập thình thịch.",
+   "look": "c1"
+  },
+  {
+   "shot": "B21",
+   "a": 2704,
+   "b": 2772,
+   "t0": 0,
+   "t1": 68,
+   "line": "Mo nhắn tin. Xong chưa mày?",
+   "look": "c1"
+  },
+  {
+   "shot": "B22",
+   "a": 2772,
+   "b": 2821,
+   "t0": 0,
+   "t1": 49,
+   "line": "Bạn trả lời. Sắp.",
+   "look": "c1"
+  },
+  {
+   "shot": "B23",
+   "a": 2821,
+   "b": 2879,
+   "t0": 0,
+   "t1": 58,
+   "line": "Bạn thức trắng. Ba giờ sáng,",
+   "look": "night"
+  },
+  {
+   "shot": "B24",
+   "a": 2879,
+   "b": 2925,
+   "t0": 0,
+   "t1": 46,
+   "line": "bạn viết nhầm tên sao Thổ.",
+   "look": "night"
+  },
+  {
+   "shot": "B25",
+   "a": 2925,
+   "b": 2990,
+   "t0": 0,
+   "t1": 65,
+   "line": "Năm giờ sáng, máy in hết mực.",
+   "look": "alert"
+  },
+  {
+   "shot": "B26",
+   "a": 2990,
+   "b": 3066,
+   "t0": 0,
+   "t1": 76,
+   "line": "Bảy giờ, bạn chạy tới lớp với đôi mắt gấu trúc,",
+   "look": "night"
+  },
+  {
+   "shot": "B27",
+   "a": 3066,
+   "b": 3163,
+   "t0": 0,
+   "t1": 97,
+   "line": "cầm một bài thuyết trình mà chính bạn cũng không muốn xem lại.",
+   "look": "night"
+  },
+  {
+   "shot": "C1",
+   "a": 3163,
+   "b": 3209,
+   "t0": 0,
+   "t1": 46,
+   "line": "Năm một nghìn chín trăm chín mươi bảy,",
+   "look": "memory"
+  },
+  {
+   "shot": "C2",
+   "a": 3209,
+   "b": 3250,
+   "t0": 0,
+   "t1": 41,
+   "line": "hai nhà tâm lý học theo dõi",
+   "look": "memory"
+  },
+  {
+   "shot": "C3",
+   "a": 3250,
+   "b": 3301,
+   "t0": 0,
+   "t1": 51,
+   "line": "sinh viên suốt một học kỳ.",
+   "look": "memory"
+  },
+  {
+   "shot": "C4",
+   "a": 3301,
+   "b": 3370,
+   "t0": 0,
+   "t1": 69,
+   "line": "Đầu kỳ, những người hay trì hoãn",
+   "look": "memory"
+  },
+  {
+   "shot": "C5",
+   "a": 3370,
+   "b": 3438,
+   "t0": 0,
+   "t1": 68,
+   "line": "thấy thoải mái hơn, ít căng thẳng hơn.",
+   "look": "memory"
+  },
+  {
+   "shot": "C6",
+   "a": 3438,
+   "b": 3502,
+   "t0": 0,
+   "t1": 64,
+   "line": "Nhưng đến cuối kỳ, họ căng thẳng hơn,",
+   "look": "memory"
+  },
+  {
+   "shot": "C7",
+   "a": 3502,
+   "b": 3566,
+   "t0": 0,
+   "t1": 64,
+   "line": "ốm nhiều hơn, và điểm thấp hơn.",
+   "look": "memory"
+  },
+  {
+   "shot": "C8",
+   "a": 3566,
+   "b": 3590,
+   "t0": 0,
+   "t1": 24,
+   "line": "Đó là thật.",
+   "look": "memory"
+  },
+  {
+   "shot": "C9",
+   "a": 3590,
+   "b": 3651,
+   "t0": 0,
+   "t1": 61,
+   "line": "Trì hoãn không làm công việc biến mất."
+  },
+  {
+   "shot": "C10",
+   "a": 3651,
+   "b": 3736,
+   "t0": 0,
+   "t1": 85,
+   "line": "Nó chỉ dồn tất cả vào phút cuối."
+  },
+  {
+   "shot": "C11",
+   "a": 3736,
+   "b": 3776,
+   "t0": 0,
+   "t1": 40,
+   "line": "Giờ hãy tua nhanh."
+  },
+  {
+   "shot": "C12",
+   "a": 3776,
+   "b": 3825,
+   "t0": 0,
+   "t1": 49,
+   "line": "Sẽ ra sao nếu bạn trì hoãn"
+  },
+  {
+   "shot": "C13",
+   "a": 3825,
+   "b": 3863,
+   "t0": 0,
+   "t1": 38,
+   "line": "cả cuộc đời?"
+  },
+  {
+   "shot": "C14",
+   "a": 3863,
+   "b": 3909,
+   "t0": 0,
+   "t1": 46,
+   "line": "Một năm sau. Cây đàn ghi",
+   "look": "y1"
+  },
+  {
+   "shot": "C15",
+   "a": 3909,
+   "b": 3958,
+   "t0": 0,
+   "t1": 49,
+   "line": "ta bạn mua để tự học vẫn dựng",
+   "look": "y1"
+  },
+  {
+   "shot": "C16",
+   "a": 3958,
+   "b": 3999,
+   "t0": 0,
+   "t1": 41,
+   "line": "trong góc phòng,",
+   "look": "y1"
+  },
+  {
+   "shot": "C17",
+   "a": 3999,
+   "b": 4034,
+   "t0": 0,
+   "t1": 35,
+   "line": "bám một lớp bụi.",
+   "look": "y1"
+  },
+  {
+   "shot": "C18",
+   "a": 4034,
+   "b": 4057,
+   "t0": 0,
+   "t1": 23,
+   "line": "Mai tập.",
+   "look": "y1"
+  },
+  {
+   "shot": "C19",
+   "a": 4057,
+   "b": 4096,
+   "t0": 0,
+   "t1": 39,
+   "line": "Mười năm sau. Bạn",
+   "look": "y10"
+  },
+  {
+   "shot": "C20",
+   "a": 4096,
+   "b": 4160,
+   "t0": 0,
+   "t1": 64,
+   "line": "vẫn định bắt đầu tiết kiệm, từ tháng sau.",
+   "look": "y10"
+  },
+  {
+   "shot": "C21",
+   "a": 4160,
+   "b": 4216,
+   "t0": 0,
+   "t1": 56,
+   "line": "Giả sử bạn để dành một triệu đồng mỗi tháng",
+   "look": "y10"
+  },
+  {
+   "shot": "C22",
+   "a": 4216,
+   "b": 4267,
+   "t0": 0,
+   "t1": 51,
+   "line": "từ năm hai mươi hai tuổi,",
+   "look": "y10"
+  },
+  {
+   "shot": "C23",
+   "a": 4267,
+   "b": 4328,
+   "t0": 0,
+   "t1": 61,
+   "line": "với lãi khoảng sáu phần trăm một năm.",
+   "look": "y10"
+  },
+  {
+   "shot": "C24",
+   "a": 4328,
+   "b": 4387,
+   "t0": 0,
+   "t1": 59,
+   "line": "Đến sáu mươi tuổi, bạn có gần một",
+   "look": "y10"
+  },
+  {
+   "shot": "C25",
+   "a": 4387,
+   "b": 4424,
+   "t0": 0,
+   "t1": 37,
+   "line": "tỷ bảy trăm triệu đồng.",
+   "look": "y10"
+  },
+  {
+   "shot": "C26",
+   "a": 4424,
+   "b": 4473,
+   "t0": 0,
+   "t1": 49,
+   "line": "Nhưng nếu bạn trì hoãn mười năm,",
+   "look": "y10"
+  },
+  {
+   "shot": "C27",
+   "a": 4473,
+   "b": 4524,
+   "t0": 0,
+   "t1": 51,
+   "line": "bắt đầu từ ba mươi hai tuổi,",
+   "look": "y10"
+  },
+  {
+   "shot": "C28",
+   "a": 4524,
+   "b": 4590,
+   "t0": 0,
+   "t1": 66,
+   "line": "bạn chỉ có khoảng tám trăm bảy mươi triệu.",
+   "look": "y10"
+  },
+  {
+   "shot": "C29",
+   "a": 4590,
+   "b": 4686,
+   "t0": 0,
+   "t1": 96,
+   "line": "Chậm mười năm, mất gần một nửa. Đó là toán học.",
+   "look": "y10"
+  },
+  {
+   "shot": "C30",
+   "a": 4686,
+   "b": 4725,
+   "t0": 0,
+   "t1": 39,
+   "line": "Còn sức khỏe thì sao?",
+   "look": "y10"
+  },
+  {
+   "shot": "C31",
+   "a": 4725,
+   "b": 4782,
+   "t0": 0,
+   "t1": 57,
+   "line": "Một nghiên cứu ở Thụy Điển theo dõi hơn",
+   "look": "memory"
+  },
+  {
+   "shot": "C32",
+   "a": 4782,
+   "b": 4832,
+   "t0": 0,
+   "t1": 50,
+   "line": "ba nghìn năm trăm sinh viên.",
+   "look": "memory"
+  },
+  {
+   "shot": "C33",
+   "a": 4832,
+   "b": 4877,
+   "t0": 0,
+   "t1": 45,
+   "line": "Những người trì hoãn nhiều hơn,",
+   "look": "y10"
+  },
+  {
+   "shot": "C34",
+   "a": 4877,
+   "b": 4951,
+   "t0": 0,
+   "t1": 74,
+   "line": "về sau dễ bị căng thẳng, lo âu,",
+   "look": "memory"
+  },
+  {
+   "shot": "C35",
+   "a": 4951,
+   "b": 5005,
+   "t0": 0,
+   "t1": 54,
+   "line": "mất ngủ và cô đơn hơn.",
+   "look": "memory"
+  },
+  {
+   "shot": "C36",
+   "a": 5005,
+   "b": 5025,
+   "t0": 0,
+   "t1": 20,
+   "line": "Đó là thật.",
+   "look": "memory"
+  },
+  {
+   "shot": "C37",
+   "a": 5025,
+   "b": 5076,
+   "t0": 0,
+   "t1": 51,
+   "line": "Và có những thứ không chờ được.",
+   "look": "y10"
+  },
+  {
+   "shot": "C38",
+   "a": 5076,
+   "b": 5127,
+   "t0": 0,
+   "t1": 51,
+   "line": "Bạn định về quê thăm bà ngoại,",
+   "look": "y10"
+  },
+  {
+   "shot": "C39",
+   "a": 5127,
+   "b": 5193,
+   "t0": 0,
+   "t1": 66,
+   "line": "tháng sau. Rồi tháng sau nữa.",
+   "look": "y10"
+  },
+  {
+   "shot": "C40",
+   "a": 5193,
+   "b": 5232,
+   "t0": 0,
+   "t1": 39,
+   "line": "Bà vẫn ngồi ở hiên nhà,",
+   "look": "y10"
+  },
+  {
+   "shot": "C41",
+   "a": 5232,
+   "b": 5286,
+   "t0": 0,
+   "t1": 54,
+   "line": "nhìn ra cổng.",
+   "look": "y10"
+  },
+  {
+   "shot": "D1",
+   "a": 5286,
+   "b": 5338,
+   "t0": 0,
+   "t1": 52,
+   "line": "Tin tốt là, có cách.",
+   "look": "peace"
+  },
+  {
+   "shot": "D2",
+   "a": 5338,
+   "b": 5368,
+   "t0": 0,
+   "t1": 30,
+   "line": "Mẹo thứ nhất:",
+   "look": "peace"
+  },
+  {
+   "shot": "D3",
+   "a": 5368,
+   "b": 5406,
+   "t0": 0,
+   "t1": 38,
+   "line": "chỉ làm hai phút thôi.",
+   "look": "peace"
+  },
+  {
+   "shot": "D4",
+   "a": 5406,
+   "b": 5430,
+   "t0": 0,
+   "t1": 24,
+   "line": "Mở máy.",
+   "look": "peace"
+  },
+  {
+   "shot": "D5",
+   "a": 5430,
+   "b": 5467,
+   "t0": 0,
+   "t1": 37,
+   "line": "Viết đúng một câu.",
+   "look": "peace"
+  },
+  {
+   "shot": "D6",
+   "a": 5467,
+   "b": 5515,
+   "t0": 0,
+   "t1": 48,
+   "line": "Bắt đầu luôn là phần khó nhất.",
+   "look": "peace"
+  },
+  {
+   "shot": "D7",
+   "a": 5515,
+   "b": 5551,
+   "t0": 0,
+   "t1": 36,
+   "line": "Làm được hai phút,",
+   "look": "peace"
+  },
+  {
+   "shot": "D8",
+   "a": 5551,
+   "b": 5592,
+   "t0": 0,
+   "t1": 41,
+   "line": "bạn thường sẽ muốn làm tiếp.",
+   "look": "peace"
+  },
+  {
+   "shot": "D9",
+   "a": 5592,
+   "b": 5666,
+   "t0": 0,
+   "t1": 74,
+   "line": "Mẹo thứ hai: lên kế hoạch kiểu nếu, thì.",
+   "look": "peace"
+  },
+  {
+   "shot": "D10",
+   "a": 5666,
+   "b": 5702,
+   "t0": 0,
+   "t1": 36,
+   "line": "Nếu ăn tối xong,",
+   "look": "peace"
+  },
+  {
+   "shot": "D11",
+   "a": 5702,
+   "b": 5753,
+   "t0": 0,
+   "t1": 51,
+   "line": "thì mình ngồi vào bàn",
+   "look": "peace"
+  },
+  {
+   "shot": "D12",
+   "a": 5753,
+   "b": 5788,
+   "t0": 0,
+   "t1": 35,
+   "line": "mười lăm phút.",
+   "look": "peace"
+  },
+  {
+   "shot": "D13",
+   "a": 5788,
+   "b": 5835,
+   "t0": 0,
+   "t1": 47,
+   "line": "Gần một trăm nghiên cứu cho thấy,",
+   "look": "memory"
+  },
+  {
+   "shot": "D14",
+   "a": 5835,
+   "b": 5898,
+   "t0": 0,
+   "t1": 63,
+   "line": "đặt kế hoạch cụ thể như vậy giúp người",
+   "look": "memory"
+  },
+  {
+   "shot": "D15",
+   "a": 5898,
+   "b": 5960,
+   "t0": 0,
+   "t1": 62,
+   "line": "ta hoàn thành mục tiêu tốt hơn rõ rệt.",
+   "look": "memory"
+  },
+  {
+   "shot": "D16",
+   "a": 5960,
+   "b": 5989,
+   "t0": 0,
+   "t1": 29,
+   "line": "Đó là thật.",
+   "look": "memory"
+  },
+  {
+   "shot": "D17",
+   "a": 5989,
+   "b": 6050,
+   "t0": 0,
+   "t1": 61,
+   "line": "Mẹo thứ ba, nghe lạ nhất:",
+   "look": "peace"
+  },
+  {
+   "shot": "D18",
+   "a": 6050,
+   "b": 6094,
+   "t0": 0,
+   "t1": 44,
+   "line": "hãy tha thứ cho chính mình.",
+   "look": "peace"
+  },
+  {
+   "shot": "D19",
+   "a": 6094,
+   "b": 6148,
+   "t0": 0,
+   "t1": 54,
+   "line": "Một nghiên cứu ở Canada cho thấy,",
+   "look": "memory"
+  },
+  {
+   "shot": "D20",
+   "a": 6148,
+   "b": 6203,
+   "t0": 0,
+   "t1": 55,
+   "line": "sinh viên nào tự tha thứ cho mình",
+   "look": "memory"
+  },
+  {
+   "shot": "D21",
+   "a": 6203,
+   "b": 6253,
+   "t0": 0,
+   "t1": 50,
+   "line": "vì đã trì hoãn ôn thi lần đầu,",
+   "look": "memory"
+  },
+  {
+   "shot": "D22",
+   "a": 6253,
+   "b": 6314,
+   "t0": 0,
+   "t1": 61,
+   "line": "thì lần thi sau trì hoãn ít hơn.",
+   "look": "memory"
+  },
+  {
+   "shot": "D23",
+   "a": 6314,
+   "b": 6380,
+   "t0": 0,
+   "t1": 66,
+   "line": "Tự trách chỉ khiến bạn muốn trốn tiếp.",
+   "look": "peace"
+  },
+  {
+   "shot": "D24",
+   "a": 6380,
+   "b": 6429,
+   "t0": 0,
+   "t1": 49,
+   "line": "Đó là thật.",
+   "look": "memory"
+  },
+  {
+   "shot": "D25",
+   "a": 6429,
+   "b": 6487,
+   "t0": 0,
+   "t1": 58,
+   "line": "Lần này, cô giáo giao bài mới.",
+   "look": "peace"
+  },
+  {
+   "shot": "D26",
+   "a": 6487,
+   "b": 6517,
+   "t0": 0,
+   "t1": 30,
+   "line": "Còn bảy ngày.",
+   "look": "c7"
+  },
+  {
+   "shot": "D27",
+   "a": 6517,
+   "b": 6545,
+   "t0": 0,
+   "t1": 28,
+   "line": "Bạn mở máy.",
+   "look": "c7"
+  },
+  {
+   "shot": "D28",
+   "a": 6545,
+   "b": 6592,
+   "t0": 0,
+   "t1": 47,
+   "line": "Hai phút. Một câu.",
+   "look": "c7"
+  },
+  {
+   "shot": "D29",
+   "a": 6592,
+   "b": 6627,
+   "t0": 0,
+   "t1": 35,
+   "line": "Rồi một trang.",
+   "look": "c7"
+  },
+  {
+   "shot": "D30",
+   "a": 6627,
+   "b": 6656,
+   "t0": 0,
+   "t1": 29,
+   "line": "Cuối tuần, bạn",
+   "look": "peace"
+  },
+  {
+   "shot": "D31",
+   "a": 6656,
+   "b": 6687,
+   "t0": 0,
+   "t1": 31,
+   "line": "bắt xe về quê.",
+   "look": "peace"
+  },
+  {
+   "shot": "D32",
+   "a": 6687,
+   "b": 6729,
+   "t0": 0,
+   "t1": 42,
+   "line": "Bà ngoại cười móm mém,",
+   "look": "peace"
+  },
+  {
+   "shot": "D33",
+   "a": 6729,
+   "b": 6768,
+   "t0": 0,
+   "t1": 39,
+   "line": "dạy bạn gảy một bài hát cũ",
+   "look": "peace"
+  },
+  {
+   "shot": "D34",
+   "a": 6768,
+   "b": 6829,
+   "t0": 0,
+   "t1": 61,
+   "line": "trên cây đàn đã phủi sạch bụi.",
+   "look": "peace"
+  },
+  {
+   "shot": "D35",
+   "a": 6829,
+   "b": 6885,
+   "t0": 0,
+   "t1": 56,
+   "line": "Ngày mai là một ngày tuyệt vời.",
+   "look": "peace"
+  },
+  {
+   "shot": "D36",
+   "a": 6885,
+   "b": 6960,
+   "t0": 0,
+   "t1": 75,
+   "line": "Nhưng nó chưa bao giờ làm hộ ai việc gì.",
+   "look": "peace"
+  },
+  {
+   "shot": "D37",
+   "a": 6960,
+   "b": 6993,
+   "t0": 0,
+   "t1": 33,
+   "line": "Còn bạn, có việc",
+   "look": "peace"
+  },
+  {
+   "shot": "D38",
+   "a": 6993,
+   "b": 7057,
+   "t0": 0,
+   "t1": 64,
+   "line": "gì bạn đã để mai quá lâu rồi không?",
+   "look": "peace"
+  },
+  {
+   "shot": "D39",
+   "a": 7057,
+   "b": 7102,
+   "t0": 0,
+   "t1": 45,
+   "line": "Viết ở phần bình luận nhé.",
+   "look": "peace"
+  },
+  {
+   "shot": "D40",
+   "a": 7102,
+   "b": 7154,
+   "t0": 0,
+   "t1": 52,
+   "line": "Mà thôi, đừng để mai.",
+   "look": "peace"
+  },
+  {
+   "shot": "D41",
+   "a": 7154,
+   "b": 7267,
+   "t0": 0,
+   "t1": 113,
+   "line": "Viết ngay bây giờ.",
+   "look": "peace"
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "insert",
+   "key": 24,
+   "len": 57,
+   "first": 0,
+   "line": "Mười một giờ năm mươi chín phút đêm.",
+   "note": "macro digital clock 23:59 pulsing red"
+  },
+  {
+   "id": "A2",
+   "size": "wide",
+   "key": 30,
+   "len": 65,
+   "first": 57,
+   "line": "Hạn nộp bài là đúng nửa đêm.",
+   "note": "Pip hunched at desk 23:59, laptop light"
+  },
+  {
+   "id": "A3",
+   "size": "insert",
+   "key": 30,
+   "len": 44,
+   "first": 122,
+   "line": "Bạn mới viết được một dòng.",
+   "note": "slide: one line typed Hệ mặt trời là..."
+  },
+  {
+   "id": "A4",
+   "size": "medium",
+   "key": 24,
+   "len": 42,
+   "first": 166,
+   "line": "Một tuần trước, bạn đã",
+   "note": "flashback 1 TUẦN TRƯỚC: Pip leans back smug"
+  },
+  {
+   "id": "A5",
+   "size": "medium",
+   "key": 30,
+   "len": 50,
+   "first": 208,
+   "line": "tự hứa. Mai làm.",
+   "note": "arm slaps first MAI LÀM note on the laptop lid"
+  },
+  {
+   "id": "A6",
+   "size": "insert",
+   "key": 40,
+   "len": 81,
+   "first": 258,
+   "line": "Cái ngày mai đó, chưa bao giờ đến.",
+   "note": "calendar pages flip, the note curls and stays"
+  },
+  {
+   "id": "A7",
+   "size": "wide",
+   "key": 90,
+   "len": 66,
+   "first": 339,
+   "line": "Sẽ ra sao nếu bạn trì hoãn mọi thứ?",
+   "note": "TitleCard over the bedroom papered in MAI LÀM notes"
+  },
+  {
+   "id": "A8",
+   "size": "insert",
+   "key": 16,
+   "len": 35,
+   "first": 405,
+   "line": "Không chỉ bài tập.",
+   "note": "school bag with notes"
+  },
+  {
+   "id": "A9",
+   "size": "wide",
+   "key": 30,
+   "len": 51,
+   "first": 440,
+   "line": "Mà cả cuộc đời.",
+   "note": "life road covered in notes, Pip walks"
+  },
+  {
+   "id": "A10",
+   "size": "wide",
+   "key": 30,
+   "len": 53,
+   "first": 491,
+   "line": "Còn bảy ngày. Cô giáo giao",
+   "note": "teacher at the board, Pip at his desk"
+  },
+  {
+   "id": "A11",
+   "size": "insert",
+   "key": 30,
+   "len": 53,
+   "first": 544,
+   "line": "bài thuyết trình về hệ mặt trời.",
+   "note": "slide HỆ MẶT TRỜI with planets"
+  },
+  {
+   "id": "A12",
+   "size": "close-up",
+   "key": 30,
+   "len": 49,
+   "first": 597,
+   "line": "Bảy ngày, dư sức.",
+   "note": "Pip leans back: 7 ngày, dư sức"
+  },
+  {
+   "id": "A13",
+   "size": "medium",
+   "key": 30,
+   "len": 52,
+   "first": 646,
+   "line": "Bạn mở máy, định làm,",
+   "note": "Pip opens the laptop, ready"
+  },
+  {
+   "id": "A14",
+   "size": "insert",
+   "key": 30,
+   "len": 44,
+   "first": 698,
+   "line": "rồi xem một video.",
+   "note": "first video opens over the slide"
+  },
+  {
+   "id": "A15",
+   "size": "insert",
+   "key": 30,
+   "len": 52,
+   "first": 742,
+   "line": "Rồi thêm một video nữa.",
+   "note": "video rabbit hole zoom tunnel"
+  },
+  {
+   "id": "A16",
+   "size": "medium",
+   "key": 30,
+   "len": 55,
+   "first": 794,
+   "line": "Hai tiếng sau, bạn đang xem người",
+   "note": "2 GIỜ SAU: clock jumps, Pip glued"
+  },
+  {
+   "id": "A17",
+   "size": "insert",
+   "key": 20,
+   "len": 40,
+   "first": 849,
+   "line": "ta làm xà phòng bằng tay.",
+   "note": "handmade soap video"
+  },
+  {
+   "id": "A18",
+   "size": "medium",
+   "key": 30,
+   "len": 50,
+   "first": 889,
+   "line": "Bạn tự nhủ. Mai làm.",
+   "note": "Pip sighs and sticks the second note"
+  },
+  {
+   "id": "A19",
+   "size": "wide",
+   "key": 36,
+   "len": 57,
+   "first": 939,
+   "line": "Còn năm ngày. Lần này bạn",
+   "note": "Pip strides to the messy desk, determined"
+  },
+  {
+   "id": "A20",
+   "size": "medium",
+   "key": 24,
+   "len": 47,
+   "first": 996,
+   "line": "quyết tâm ngồi vào bàn.",
+   "note": "sits, cracks knuckles"
+  },
+  {
+   "id": "A21",
+   "size": "top-down",
+   "key": 22,
+   "len": 45,
+   "first": 1043,
+   "line": "Nhưng bàn bừa quá.",
+   "note": "top-down: the desk is a mess"
+  },
+  {
+   "id": "A22",
+   "size": "wide",
+   "key": 40,
+   "len": 68,
+   "first": 1088,
+   "line": "Bạn dọn bàn. Dọn luôn tủ quần áo.",
+   "note": "tidies desk then wardrobe"
+  },
+  {
+   "id": "A23",
+   "size": "medium",
+   "key": 30,
+   "len": 49,
+   "first": 1156,
+   "line": "Rửa luôn chồng bát cho mẹ.",
+   "note": "dish tower, Pip washing"
+  },
+  {
+   "id": "A24",
+   "size": "close-up",
+   "key": 18,
+   "len": 45,
+   "first": 1205,
+   "line": "Mẹ cảm động suýt khóc.",
+   "note": "mum nearly crying"
+  },
+  {
+   "id": "A25",
+   "size": "insert",
+   "key": 50,
+   "len": 90,
+   "first": 1250,
+   "line": "Còn bài thuyết trình thì vẫn trắng tinh.",
+   "note": "blank white slide, blinking cursor, a fly"
+  },
+  {
+   "id": "B1",
+   "size": "medium",
+   "key": 30,
+   "len": 91,
+   "first": 1340,
+   "line": "Nhưng bạn không lười. Các nhà tâm lý học phát hiện ra rằng,",
+   "note": "Pip at desk, LƯỜI label pops and is struck out"
+  },
+  {
+   "id": "B2",
+   "size": "card",
+   "key": 80,
+   "len": 102,
+   "first": 1431,
+   "line": "trì hoãn không phải chuyện quản lý thời gian, mà là chuyện cảm xúc.",
+   "note": "clock crossed out -> heart + brain"
+  },
+  {
+   "id": "B3",
+   "size": "medium",
+   "key": 70,
+   "len": 85,
+   "first": 1533,
+   "line": "Khi một việc khiến ta thấy chán, sợ, hay áp lực,",
+   "note": "presentation file grows a scary face, Pip shrinks back"
+  },
+  {
+   "id": "B4",
+   "size": "wide",
+   "key": 30,
+   "len": 46,
+   "first": 1618,
+   "line": "não tìm cách né nó đi,",
+   "note": "brain runs from the scary file toward the phone"
+  },
+  {
+   "id": "B5",
+   "size": "insert",
+   "key": 34,
+   "len": 50,
+   "first": 1664,
+   "line": "để được dễ chịu ngay lúc đó.",
+   "note": "smiley phone, relieved brain"
+  },
+  {
+   "id": "B6",
+   "size": "medium",
+   "key": 36,
+   "len": 48,
+   "first": 1714,
+   "line": "Và bạn không cô đơn đâu.",
+   "note": "Pip with a crowd popping in behind: not alone"
+  },
+  {
+   "id": "B7",
+   "size": "card",
+   "key": 40,
+   "len": 52,
+   "first": 1762,
+   "line": "Từ tám mươi đến chín mươi lăm phần trăm",
+   "note": "80-95% card + STEEL, 2007"
+  },
+  {
+   "id": "B8",
+   "size": "wide",
+   "key": 50,
+   "len": 58,
+   "first": 1814,
+   "line": "sinh viên đại học có trì hoãn.",
+   "note": "lecture hall seats light up"
+  },
+  {
+   "id": "B9",
+   "size": "card",
+   "key": 20,
+   "len": 28,
+   "first": 1872,
+   "line": "Đó là thật.",
+   "note": "green tick stamp ĐÓ LÀ THẬT"
+  },
+  {
+   "id": "B10",
+   "size": "close",
+   "key": 28,
+   "len": 45,
+   "first": 1900,
+   "line": "Còn một điều lạ hơn.",
+   "note": "Pip curious, ? pops"
+  },
+  {
+   "id": "B11",
+   "size": "insert",
+   "key": 30,
+   "len": 46,
+   "first": 1945,
+   "line": "Khi các nhà khoa học quét não,",
+   "note": "scanner: head slice with sweep bar"
+  },
+  {
+   "id": "B12",
+   "size": "wide",
+   "key": 55,
+   "len": 72,
+   "first": 1991,
+   "line": "họ thấy lúc bạn nghĩ về chính mình trong tương lai,",
+   "note": "scan lights up; Pip thinks of older him; HERSHFIELD tag"
+  },
+  {
+   "id": "B13",
+   "size": "wide",
+   "key": 80,
+   "len": 107,
+   "first": 2063,
+   "line": "não bạn hoạt động gần giống như khi nghĩ về một người lạ.",
+   "note": "Pip vs stranger silhouette, two scans, ≈"
+  },
+  {
+   "id": "B14",
+   "size": "medium",
+   "key": 56,
+   "len": 80,
+   "first": 2170,
+   "line": "Đó là thật. Nên mỗi lần bạn nói để mai tính,",
+   "note": "tick, then MAI LÀM note slaps on laptop"
+  },
+  {
+   "id": "B15",
+   "size": "wide",
+   "key": 52,
+   "len": 74,
+   "first": 2250,
+   "line": "thật ra bạn đang đẩy việc cho một người lạ.",
+   "note": "Pip slides box of tasks to tired older Pip"
+  },
+  {
+   "id": "B16",
+   "size": "medium",
+   "key": 60,
+   "len": 88,
+   "first": 2324,
+   "line": "Người lạ đó, tên là bạn của ngày mai.",
+   "note": "stranger silhouette + name tag BẠN CỦA NGÀY MAI"
+  },
+  {
+   "id": "B17",
+   "size": "wide",
+   "key": 52,
+   "len": 63,
+   "first": 2412,
+   "line": "Còn một ngày. Bạn mở máy.",
+   "note": "Pip opens the laptop"
+  },
+  {
+   "id": "B18",
+   "size": "insert",
+   "key": 50,
+   "len": 68,
+   "first": 2475,
+   "line": "Mạng chậm. Pin còn mười phần trăm.",
+   "note": "spinning wheel, battery 10%"
+  },
+  {
+   "id": "B19",
+   "size": "insert",
+   "key": 60,
+   "len": 88,
+   "first": 2543,
+   "line": "Bạn chợt nhớ ra mình chưa có tấm ảnh nào về sao Mộc.",
+   "note": "empty slide placeholder SAO MỘC?"
+  },
+  {
+   "id": "B20",
+   "size": "medium",
+   "key": 60,
+   "len": 73,
+   "first": 2631,
+   "line": "Mười một giờ đêm. Tim đập thình thịch.",
+   "note": "23:00, heartbeat"
+  },
+  {
+   "id": "B21",
+   "size": "insert",
+   "key": 46,
+   "len": 68,
+   "first": 2704,
+   "line": "Mo nhắn tin. Xong chưa mày?",
+   "note": "Mo: Xong chưa mày?"
+  },
+  {
+   "id": "B22",
+   "size": "medium",
+   "key": 40,
+   "len": 49,
+   "first": 2772,
+   "line": "Bạn trả lời. Sắp.",
+   "note": "nervous smile, reply Sắp"
+  },
+  {
+   "id": "B23",
+   "size": "wide",
+   "key": 40,
+   "len": 58,
+   "first": 2821,
+   "line": "Bạn thức trắng. Ba giờ sáng,",
+   "note": "wide awake at 3:00, cans"
+  },
+  {
+   "id": "B24",
+   "size": "insert",
+   "key": 36,
+   "len": 46,
+   "first": 2879,
+   "line": "bạn viết nhầm tên sao Thổ.",
+   "note": "Sao Thỗ typo squiggle"
+  },
+  {
+   "id": "B25",
+   "size": "medium",
+   "key": 40,
+   "len": 65,
+   "first": 2925,
+   "line": "Năm giờ sáng, máy in hết mực.",
+   "note": "5:00 printer out of ink, blank pages"
+  },
+  {
+   "id": "B26",
+   "size": "wide",
+   "key": 40,
+   "len": 76,
+   "first": 2990,
+   "line": "Bảy giờ, bạn chạy tới lớp với đôi mắt gấu trúc,",
+   "note": "running to class, panda eyes, 07:00"
+  },
+  {
+   "id": "B27",
+   "size": "close",
+   "key": 80,
+   "len": 97,
+   "first": 3066,
+   "line": "cầm một bài thuyết trình mà chính bạn cũng không muốn xem lại.",
+   "note": "holds messy printout, looks away"
+  },
+  {
+   "id": "C1",
+   "size": "card",
+   "key": 30,
+   "len": 46,
+   "first": 3163,
+   "line": "Năm một nghìn chín trăm chín mươi bảy,",
+   "note": "card 1997 rolls up, TICE & BAUMEISTER tag"
+  },
+  {
+   "id": "C2",
+   "size": "medium",
+   "key": 34,
+   "len": 41,
+   "first": 3209,
+   "line": "hai nhà tâm lý học theo dõi",
+   "note": "two psychologists with clipboards"
+  },
+  {
+   "id": "C3",
+   "size": "medium",
+   "key": 33,
+   "len": 51,
+   "first": 3250,
+   "line": "sinh viên suốt một học kỳ.",
+   "note": "students under a magnifier, semester bar fills"
+  },
+  {
+   "id": "C4",
+   "size": "medium",
+   "key": 45,
+   "len": 69,
+   "first": 3301,
+   "line": "Đầu kỳ, những người hay trì hoãn",
+   "note": "early term: Pip relaxed, stress gauge low"
+  },
+  {
+   "id": "C5",
+   "size": "card",
+   "key": 44,
+   "len": 68,
+   "first": 3370,
+   "line": "thấy thoải mái hơn, ít căng thẳng hơn.",
+   "note": "chart: procrastinator line under the others"
+  },
+  {
+   "id": "C6",
+   "size": "card",
+   "key": 56,
+   "len": 64,
+   "first": 3438,
+   "line": "Nhưng đến cuối kỳ, họ căng thẳng hơn,",
+   "note": "chart: end of term, orange line shoots up"
+  },
+  {
+   "id": "C7",
+   "size": "card",
+   "key": 50,
+   "len": 64,
+   "first": 3502,
+   "line": "ốm nhiều hơn, và điểm thấp hơn.",
+   "note": "thermometer then low grade sheet"
+  },
+  {
+   "id": "C8",
+   "size": "card",
+   "key": 11,
+   "len": 24,
+   "first": 3566,
+   "line": "Đó là thật.",
+   "note": "DO LA THAT stamp"
+  },
+  {
+   "id": "C9",
+   "size": "card",
+   "key": 40,
+   "len": 61,
+   "first": 3590,
+   "line": "Trì hoãn không làm công việc biến mất.",
+   "note": "task boxes pushed along days, none vanish"
+  },
+  {
+   "id": "C10",
+   "size": "card",
+   "key": 62,
+   "len": 85,
+   "first": 3651,
+   "line": "Nó chỉ dồn tất cả vào phút cuối.",
+   "note": "boxes crash into the deadline flag"
+  },
+  {
+   "id": "C11",
+   "size": "medium",
+   "key": 26,
+   "len": 40,
+   "first": 3736,
+   "line": "Giờ hãy tua nhanh.",
+   "note": "fast-forward: Pip watches the calendar spin"
+  },
+  {
+   "id": "C12",
+   "size": "close",
+   "key": 25,
+   "len": 49,
+   "first": 3776,
+   "line": "Sẽ ra sao nếu bạn trì hoãn",
+   "note": "calendar spinning, MAI LAM note riding"
+  },
+  {
+   "id": "C13",
+   "size": "close",
+   "key": 30,
+   "len": 38,
+   "first": 3825,
+   "line": "cả cuộc đời?",
+   "note": "spin brakes, push in, white out"
+  },
+  {
+   "id": "C14",
+   "size": "medium",
+   "key": 30,
+   "len": 46,
+   "first": 3863,
+   "line": "Một năm sau. Cây đàn ghi",
+   "note": "1 year on: Pip on phone, guitar at the edge"
+  },
+  {
+   "id": "C15",
+   "size": "close",
+   "key": 32,
+   "len": 49,
+   "first": 3909,
+   "line": "ta bạn mua để tự học vẫn dựng",
+   "note": "guitar standing, sparkle fades to dust"
+  },
+  {
+   "id": "C16",
+   "size": "wide",
+   "key": 27,
+   "len": 41,
+   "first": 3958,
+   "line": "trong góc phòng,",
+   "note": "pull back: guitar small in the corner"
+  },
+  {
+   "id": "C17",
+   "size": "macro",
+   "key": 23,
+   "len": 35,
+   "first": 3999,
+   "line": "bám một lớp bụi.",
+   "note": "dust film, finger swipes a clean streak"
+  },
+  {
+   "id": "C18",
+   "size": "insert",
+   "key": 20,
+   "len": 23,
+   "first": 4034,
+   "line": "Mai tập.",
+   "note": "MAI TAP note slaps on the guitar"
+  },
+  {
+   "id": "C19",
+   "size": "medium",
+   "key": 25,
+   "len": 39,
+   "first": 4057,
+   "line": "Mười năm sau. Bạn",
+   "note": "older Pip with stubble at the desk"
+  },
+  {
+   "id": "C20",
+   "size": "insert",
+   "key": 50,
+   "len": 64,
+   "first": 4096,
+   "line": "vẫn định bắt đầu tiết kiệm, từ tháng sau.",
+   "note": "empty jar, coin hovers, THANG SAU note"
+  },
+  {
+   "id": "C21",
+   "size": "card",
+   "key": 36,
+   "len": 56,
+   "first": 4160,
+   "line": "Giả sử bạn để dành một triệu đồng mỗi tháng",
+   "note": "1 TRIEU/THANG coins into jar"
+  },
+  {
+   "id": "C22",
+   "size": "card",
+   "key": 33,
+   "len": 51,
+   "first": 4216,
+   "line": "từ năm hai mươi hai tuổi,",
+   "note": "22 TUOI young Pip, start of line"
+  },
+  {
+   "id": "C23",
+   "size": "card",
+   "key": 40,
+   "len": 61,
+   "first": 4267,
+   "line": "với lãi khoảng sáu phần trăm một năm.",
+   "note": "6%/NAM coin stack sprouts"
+  },
+  {
+   "id": "C24",
+   "size": "card",
+   "key": 38,
+   "len": 59,
+   "first": 4328,
+   "line": "Đến sáu mươi tuổi, bạn có gần một",
+   "note": "curve from 22 to 60 draws on"
+  },
+  {
+   "id": "C25",
+   "size": "card",
+   "key": 22,
+   "len": 37,
+   "first": 4387,
+   "line": "tỷ bảy trăm triệu đồng.",
+   "note": "~1,7 TY slam"
+  },
+  {
+   "id": "C26",
+   "size": "card",
+   "key": 32,
+   "len": 49,
+   "first": 4424,
+   "line": "Nhưng nếu bạn trì hoãn mười năm,",
+   "note": "10 years of calendar flips, older Pip"
+  },
+  {
+   "id": "C27",
+   "size": "card",
+   "key": 33,
+   "len": 51,
+   "first": 4473,
+   "line": "bắt đầu từ ba mươi hai tuổi,",
+   "note": "second curve starts at 32, 10 NAM bracket"
+  },
+  {
+   "id": "C28",
+   "size": "card",
+   "key": 44,
+   "len": 66,
+   "first": 4524,
+   "line": "bạn chỉ có khoảng tám trăm bảy mươi triệu.",
+   "note": "second curve to ~870 TRIEU"
+  },
+  {
+   "id": "C29",
+   "size": "card",
+   "key": 84,
+   "len": 96,
+   "first": 4590,
+   "line": "Chậm mười năm, mất gần một nửa. Đó là toán học.",
+   "note": "two bars, CHAM 10 NAM = MAT GAN MOT NUA, maths tag"
+  },
+  {
+   "id": "C30",
+   "size": "medium",
+   "key": 26,
+   "len": 39,
+   "first": 4686,
+   "line": "Còn sức khỏe thì sao?",
+   "note": "older Pip tired at the night window"
+  },
+  {
+   "id": "C31",
+   "size": "card",
+   "key": 37,
+   "len": 57,
+   "first": 4725,
+   "line": "Một nghiên cứu ở Thụy Điển theo dõi hơn",
+   "note": "THUY DIEN waving flag"
+  },
+  {
+   "id": "C32",
+   "size": "card",
+   "key": 32,
+   "len": 50,
+   "first": 4782,
+   "line": "ba nghìn năm trăm sinh viên.",
+   "note": "3.500+ SINH VIEN crowd, JAMA tag"
+  },
+  {
+   "id": "C33",
+   "size": "medium",
+   "key": 29,
+   "len": 45,
+   "first": 4832,
+   "line": "Những người trì hoãn nhiều hơn,",
+   "note": "Pip buried in MAI LAM notes"
+  },
+  {
+   "id": "C34",
+   "size": "card",
+   "key": 62,
+   "len": 74,
+   "first": 4877,
+   "line": "về sau dễ bị căng thẳng, lo âu,",
+   "note": "stress + anxiety icons"
+  },
+  {
+   "id": "C35",
+   "size": "card",
+   "key": 45,
+   "len": 54,
+   "first": 4951,
+   "line": "mất ngủ và cô đơn hơn.",
+   "note": "sleepless moon + loneliness icons"
+  },
+  {
+   "id": "C36",
+   "size": "card",
+   "key": 10,
+   "len": 20,
+   "first": 5005,
+   "line": "Đó là thật.",
+   "note": "DO LA THAT stamp"
+  },
+  {
+   "id": "C37",
+   "size": "close",
+   "key": 25,
+   "len": 51,
+   "first": 5025,
+   "line": "Và có những thứ không chờ được.",
+   "note": "phone rings: BA calling, unanswered"
+  },
+  {
+   "id": "C38",
+   "size": "medium",
+   "key": 33,
+   "len": 51,
+   "first": 5076,
+   "line": "Bạn định về quê thăm bà ngoại,",
+   "note": "packed bag, THANG SAU note on calendar"
+  },
+  {
+   "id": "C39",
+   "size": "close",
+   "key": 50,
+   "len": 66,
+   "first": 5127,
+   "line": "tháng sau. Rồi tháng sau nữa.",
+   "note": "month flips twice"
+  },
+  {
+   "id": "C40",
+   "size": "wide",
+   "key": 25,
+   "len": 39,
+   "first": 5193,
+   "line": "Bà vẫn ngồi ở hiên nhà,",
+   "note": "grandma on the porch, push-in, leaves"
+  },
+  {
+   "id": "C41",
+   "size": "close",
+   "key": 35,
+   "len": 54,
+   "first": 5232,
+   "line": "nhìn ra cổng.",
+   "note": "grandma looks to the gate, drift to gate"
+  },
+  {
+   "id": "D1",
+   "size": "wide",
+   "key": 44,
+   "len": 52,
+   "first": 5286,
+   "line": "Tin tốt là, có cách.",
+   "note": "bulb pops over Pip at desk"
+  },
+  {
+   "id": "D2",
+   "size": "medium",
+   "key": 26,
+   "len": 30,
+   "first": 5338,
+   "line": "Mẹo thứ nhất:",
+   "note": "tips 1 2 3, first lit"
+  },
+  {
+   "id": "D3",
+   "size": "close",
+   "key": 30,
+   "len": 38,
+   "first": 5368,
+   "line": "chỉ làm hai phút thôi.",
+   "note": "giant 2:00 timer"
+  },
+  {
+   "id": "D4",
+   "size": "insert",
+   "key": 22,
+   "len": 24,
+   "first": 5406,
+   "line": "Mở máy.",
+   "note": "laptop lid opens"
+  },
+  {
+   "id": "D5",
+   "size": "close",
+   "key": 32,
+   "len": 37,
+   "first": 5430,
+   "line": "Viết đúng một câu.",
+   "note": "one sentence typed"
+  },
+  {
+   "id": "D6",
+   "size": "wide",
+   "key": 44,
+   "len": 48,
+   "first": 5467,
+   "line": "Bắt đầu luôn là phần khó nhất.",
+   "note": "boulder starts rolling"
+  },
+  {
+   "id": "D7",
+   "size": "medium",
+   "key": 30,
+   "len": 36,
+   "first": 5515,
+   "line": "Làm được hai phút,",
+   "note": "timer passes 2:00"
+  },
+  {
+   "id": "D8",
+   "size": "medium",
+   "key": 36,
+   "len": 41,
+   "first": 5551,
+   "line": "bạn thường sẽ muốn làm tiếp.",
+   "note": "slides fill with planets"
+  },
+  {
+   "id": "D9",
+   "size": "medium",
+   "key": 64,
+   "len": 74,
+   "first": 5592,
+   "line": "Mẹo thứ hai: lên kế hoạch kiểu nếu, thì.",
+   "note": "tips 2 + NẾU/THÌ card"
+  },
+  {
+   "id": "D10",
+   "size": "insert",
+   "key": 34,
+   "len": 36,
+   "first": 5666,
+   "line": "Nếu ăn tối xong,",
+   "note": "dinner plate done"
+  },
+  {
+   "id": "D11",
+   "size": "wide",
+   "key": 32,
+   "len": 51,
+   "first": 5702,
+   "line": "thì mình ngồi vào bàn",
+   "note": "Pip sits at desk"
+  },
+  {
+   "id": "D12",
+   "size": "close",
+   "key": 34,
+   "len": 35,
+   "first": 5753,
+   "line": "mười lăm phút.",
+   "note": "15 minute timer"
+  },
+  {
+   "id": "D13",
+   "size": "medium",
+   "key": 30,
+   "len": 47,
+   "first": 5788,
+   "line": "Gần một trăm nghiên cứu cho thấy,",
+   "note": "stack of papers ~100 NGHIÊN CỨU"
+  },
+  {
+   "id": "D14",
+   "size": "close",
+   "key": 46,
+   "len": 63,
+   "first": 5835,
+   "line": "đặt kế hoạch cụ thể như vậy giúp người",
+   "note": "source tag Gollwitzer"
+  },
+  {
+   "id": "D15",
+   "size": "medium",
+   "key": 50,
+   "len": 62,
+   "first": 5898,
+   "line": "ta hoàn thành mục tiêu tốt hơn rõ rệt.",
+   "note": "plan vs no plan bars"
+  },
+  {
+   "id": "D16",
+   "size": "close",
+   "key": 24,
+   "len": 29,
+   "first": 5960,
+   "line": "Đó là thật.",
+   "note": "ĐÓ LÀ THẬT"
+  },
+  {
+   "id": "D17",
+   "size": "medium",
+   "key": 44,
+   "len": 61,
+   "first": 5989,
+   "line": "Mẹo thứ ba, nghe lạ nhất:",
+   "note": "tip 3 lit, heart ?"
+  },
+  {
+   "id": "D18",
+   "size": "medium",
+   "key": 34,
+   "len": 44,
+   "first": 6050,
+   "line": "hãy tha thứ cho chính mình.",
+   "note": "Pip in mirror hugs self"
+  },
+  {
+   "id": "D19",
+   "size": "medium",
+   "key": 36,
+   "len": 54,
+   "first": 6094,
+   "line": "Một nghiên cứu ở Canada cho thấy,",
+   "note": "CANADA card"
+  },
+  {
+   "id": "D20",
+   "size": "medium",
+   "key": 36,
+   "len": 55,
+   "first": 6148,
+   "line": "sinh viên nào tự tha thứ cho mình",
+   "note": "student hugs self"
+  },
+  {
+   "id": "D21",
+   "size": "insert",
+   "key": 30,
+   "len": 50,
+   "first": 6203,
+   "line": "vì đã trì hoãn ôn thi lần đầu,",
+   "note": "exam 1 untouched books"
+  },
+  {
+   "id": "D22",
+   "size": "medium",
+   "key": 44,
+   "len": 61,
+   "first": 6253,
+   "line": "thì lần thi sau trì hoãn ít hơn.",
+   "note": "two bars drop"
+  },
+  {
+   "id": "D23",
+   "size": "medium",
+   "key": 34,
+   "len": 66,
+   "first": 6314,
+   "line": "Tự trách chỉ khiến bạn muốn trốn tiếp.",
+   "note": "storm cloud, blanket"
+  },
+  {
+   "id": "D24",
+   "size": "close",
+   "key": 28,
+   "len": 49,
+   "first": 6380,
+   "line": "Đó là thật.",
+   "note": "ĐÓ LÀ THẬT"
+  },
+  {
+   "id": "D25",
+   "size": "medium",
+   "key": 36,
+   "len": 58,
+   "first": 6429,
+   "line": "Lần này, cô giáo giao bài mới.",
+   "note": "teacher gives new task"
+  },
+  {
+   "id": "D26",
+   "size": "insert",
+   "key": 24,
+   "len": 30,
+   "first": 6487,
+   "line": "Còn bảy ngày.",
+   "note": "calendar 7 days"
+  },
+  {
+   "id": "D27",
+   "size": "medium",
+   "key": 20,
+   "len": 28,
+   "first": 6517,
+   "line": "Bạn mở máy.",
+   "note": "opens laptop"
+  },
+  {
+   "id": "D28",
+   "size": "close",
+   "key": 30,
+   "len": 47,
+   "first": 6545,
+   "line": "Hai phút. Một câu.",
+   "note": "2 min one sentence"
+  },
+  {
+   "id": "D29",
+   "size": "insert",
+   "key": 24,
+   "len": 35,
+   "first": 6592,
+   "line": "Rồi một trang.",
+   "note": "a page"
+  },
+  {
+   "id": "D30",
+   "size": "insert",
+   "key": 22,
+   "len": 29,
+   "first": 6627,
+   "line": "Cuối tuần, bạn",
+   "note": "peel MAI LÀM and crumple"
+  },
+  {
+   "id": "D31",
+   "size": "wide",
+   "key": 24,
+   "len": 31,
+   "first": 6656,
+   "line": "bắt xe về quê.",
+   "note": "bus to countryside"
+  },
+  {
+   "id": "D32",
+   "size": "close",
+   "key": 30,
+   "len": 42,
+   "first": 6687,
+   "line": "Bà ngoại cười móm mém,",
+   "note": "grandma toothless smile"
+  },
+  {
+   "id": "D33",
+   "size": "medium",
+   "key": 30,
+   "len": 39,
+   "first": 6729,
+   "line": "dạy bạn gảy một bài hát cũ",
+   "note": "grandma teaches strum"
+  },
+  {
+   "id": "D34",
+   "size": "insert",
+   "key": 24,
+   "len": 61,
+   "first": 6768,
+   "line": "trên cây đàn đã phủi sạch bụi.",
+   "note": "dust wiped off guitar"
+  },
+  {
+   "id": "D35",
+   "size": "wide",
+   "key": 36,
+   "len": 56,
+   "first": 6829,
+   "line": "Ngày mai là một ngày tuyệt vời.",
+   "note": "sunset over porch"
+  },
+  {
+   "id": "D36",
+   "size": "medium",
+   "key": 50,
+   "len": 75,
+   "first": 6885,
+   "line": "Nhưng nó chưa bao giờ làm hộ ai việc gì.",
+   "note": "sleepy tomorrow sun"
+  },
+  {
+   "id": "D37",
+   "size": "medium",
+   "key": 20,
+   "len": 33,
+   "first": 6960,
+   "line": "Còn bạn, có việc",
+   "note": "Còn bạn: Pip to camera"
+  },
+  {
+   "id": "D38",
+   "size": "medium",
+   "key": 46,
+   "len": 64,
+   "first": 6993,
+   "line": "gì bạn đã để mai quá lâu rồi không?",
+   "note": "end card question"
+  },
+  {
+   "id": "D39",
+   "size": "medium",
+   "key": 30,
+   "len": 45,
+   "first": 7057,
+   "line": "Viết ở phần bình luận nhé.",
+   "note": "Viết ở phần bình luận"
+  },
+  {
+   "id": "D40",
+   "size": "medium",
+   "key": 36,
+   "len": 52,
+   "first": 7102,
+   "line": "Mà thôi, đừng để mai.",
+   "note": "MAI LÀM crossed out"
+  },
+  {
+   "id": "D41",
+   "size": "medium",
+   "key": 60,
+   "len": 113,
+   "first": 7154,
+   "line": "Viết ngay bây giờ.",
+   "note": "NGAY BÂY GIỜ"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.22,
+   "f": 225
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.22,
+   "f": 908
+  },
+  {
+   "kind": "shake",
+   "len": 4,
+   "amp": 6,
+   "f": 1004
+  },
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 4,
+   "f": 2667
+  },
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 6,
+   "f": 2955
+  },
+  {
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.3,
+   "f": 1872
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.25,
+   "f": 2737
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.4,
+   "f": 3695
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25,
+   "f": 5963
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25,
+   "f": 6383
+  },
+  {
+   "kind": "flash",
+   "color": "#DDE6FF",
+   "o": 0.35,
+   "f": 6330
+  }
+ ],
+ "audio": {
+  "voice": "tri-hoan/voice.wav",
+  "sfx": "tri-hoan/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.4711,
+  "music": "tri-hoan/music.wav",
+  "musicVol": 0.3413
+ }
+}

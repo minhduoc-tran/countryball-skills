@@ -1,0 +1,1000 @@
+{
+ "chapter": "d",
+ "shots": [
+  {
+   "id": "D1",
+   "file": "shots-chd-sonic-boom",
+   "size": "medium",
+   "set": "schematic",
+   "key": 20,
+   "note": "fist streaks at the speedometer, needle climbs"
+  },
+  {
+   "id": "D2",
+   "file": "shots-chd-sonic-boom",
+   "size": "close-up",
+   "set": "schematic",
+   "key": 14,
+   "note": "needle crosses 343 m/s, ring burst, big number"
+  },
+  {
+   "id": "D3",
+   "file": "shots-chd-sonic-boom",
+   "size": "wide",
+   "set": "schematic",
+   "key": 30,
+   "note": "bars: boxer 9 m/s sliver vs Pip bar off screen, x37"
+  },
+  {
+   "id": "D4",
+   "file": "shots-chd-sonic-boom",
+   "size": "wide",
+   "set": "schematic",
+   "key": 20,
+   "note": "body near sound speed, waves bunch up"
+  },
+  {
+   "id": "D5",
+   "file": "shots-chd-sonic-boom",
+   "size": "wide",
+   "set": "schematic",
+   "key": 22,
+   "note": "Mach cone fans out, NO SIEU THANH"
+  },
+  {
+   "id": "D6",
+   "file": "shots-chd-sonic-boom",
+   "size": "wide",
+   "set": "schematic",
+   "key": 17,
+   "note": "whip in hand, loop runs out, CHAT!"
+  },
+  {
+   "id": "D7",
+   "file": "shots-chd-sonic-boom",
+   "size": "close-up",
+   "set": "schematic",
+   "key": 30,
+   "note": "whip tip outruns its sound"
+  },
+  {
+   "id": "D8",
+   "file": "shots-chd-sonic-boom",
+   "size": "medium",
+   "set": "schematic",
+   "key": 8,
+   "note": "Do la that stamp over dimmed cone"
+  },
+  {
+   "id": "D9",
+   "file": "shots-chd-sonic-boom",
+   "size": "insert",
+   "set": "fist",
+   "key": 20,
+   "note": "fist clenches and trembles"
+  },
+  {
+   "id": "D10",
+   "file": "shots-chd-sonic-boom",
+   "size": "wide",
+   "set": "street",
+   "key": 25,
+   "note": "Pip punches on the street, boom ring races down it"
+  },
+  {
+   "id": "D11",
+   "file": "shots-chd-sonic-boom",
+   "size": "wide",
+   "set": "street",
+   "key": 10,
+   "note": "every pane on the street shivers and cracks"
+  },
+  {
+   "id": "D12",
+   "file": "shots-chd-sonic-boom",
+   "size": "close-up",
+   "set": "facade",
+   "key": 6,
+   "note": "neighbours at windows, glass shatters, funny faces"
+  },
+  {
+   "id": "D13",
+   "file": "shots-chd-newton-shield",
+   "size": "medium",
+   "set": "schematic",
+   "key": 16,
+   "note": "Newton's cradle swings"
+  },
+  {
+   "id": "D14",
+   "file": "shots-chd-newton-shield",
+   "size": "wide",
+   "set": "schematic",
+   "key": 22,
+   "note": "title card DINH LUAT 3 NEWTON, two opposite arrows"
+  },
+  {
+   "id": "D15",
+   "file": "shots-chd-newton-shield",
+   "size": "medium",
+   "set": "schematic",
+   "key": 30,
+   "note": "fist slams a brick wall, arrow F"
+  },
+  {
+   "id": "D16",
+   "file": "shots-chd-newton-shield",
+   "size": "close-up",
+   "set": "schematic",
+   "key": 60,
+   "note": "equal opposite arrow pushes back, = sign"
+  },
+  {
+   "id": "D17",
+   "file": "shots-chd-newton-shield",
+   "size": "medium",
+   "set": "schematic",
+   "key": 34,
+   "note": "X-ray of ordinary hand, knuckle bone cracks"
+  },
+  {
+   "id": "D18",
+   "file": "shots-chd-newton-shield",
+   "size": "insert",
+   "set": "shield",
+   "key": 30,
+   "note": "clenched fist inside a glowing shield"
+  },
+  {
+   "id": "D19",
+   "file": "shots-chd-newton-shield",
+   "size": "wide",
+   "set": "shield",
+   "key": 30,
+   "note": "whole body calm inside a shield outline"
+  },
+  {
+   "id": "D20",
+   "file": "shots-chd-newton-shield",
+   "size": "close-up",
+   "set": "shield",
+   "key": 24,
+   "note": "face, chunks and sparks bounce off the shield"
+  },
+  {
+   "id": "D21",
+   "file": "shots-chd-boredom-montage",
+   "size": "medium",
+   "set": "calendar",
+   "key": 30,
+   "note": "one week crossed off the wall calendar"
+  },
+  {
+   "id": "D22",
+   "file": "shots-chd-boredom-montage",
+   "size": "medium",
+   "set": "calendar",
+   "key": 16,
+   "note": "pages rip off and fly: a month"
+  },
+  {
+   "id": "D23",
+   "file": "shots-chd-boredom-montage",
+   "size": "wide",
+   "set": "street",
+   "key": 12,
+   "note": "monster: one punch, timer chip 00:01"
+  },
+  {
+   "id": "D24",
+   "file": "shots-chd-boredom-montage",
+   "size": "wide",
+   "set": "street",
+   "key": 12,
+   "note": "robot: one punch, timer chip 00:01"
+  },
+  {
+   "id": "D25",
+   "file": "shots-chd-boredom-montage",
+   "size": "wide",
+   "set": "street",
+   "key": 14,
+   "note": "masked robber: one punch, timer chip 00:01"
+  },
+  {
+   "id": "D26",
+   "file": "shots-chd-boredom-montage",
+   "size": "wide",
+   "set": "schematic",
+   "key": 46,
+   "note": "three beaten foes, each stamped 00:01"
+  },
+  {
+   "id": "D27",
+   "file": "shots-chd-boredom-montage",
+   "size": "medium",
+   "set": "monitor",
+   "key": 35,
+   "note": "heart monitor, calm slow beats"
+  },
+  {
+   "id": "D28",
+   "file": "shots-chd-boredom-montage",
+   "size": "close-up",
+   "set": "wall",
+   "key": 16,
+   "note": "Pip blank face, huge, one slow blink"
+  },
+  {
+   "id": "D29",
+   "file": "shots-chd-boredom-montage",
+   "size": "close-up",
+   "set": "table",
+   "key": 20,
+   "note": "steady fist round a glass, water level"
+  },
+  {
+   "id": "D30",
+   "file": "shots-chd-boredom-montage",
+   "size": "wide",
+   "set": "street",
+   "key": 12,
+   "note": "Pip stands in the street, nothing happens"
+  },
+  {
+   "id": "D31",
+   "file": "shots-chd-football",
+   "size": "wide",
+   "set": "pitch",
+   "key": 24,
+   "note": "Mo waves a ball at Pip"
+  },
+  {
+   "id": "D32",
+   "file": "shots-chd-football",
+   "size": "medium",
+   "set": "pitch",
+   "key": 19,
+   "note": "Pip kicks, contact at f19"
+  },
+  {
+   "id": "D33",
+   "file": "shots-chd-football",
+   "size": "wide",
+   "set": "pitch",
+   "key": 20,
+   "note": "ball bursts into shreds in the sky"
+  },
+  {
+   "id": "D34",
+   "file": "shots-chd-football",
+   "size": "close-up",
+   "set": "pitch",
+   "key": 12,
+   "note": "Mo awkward smile, scrap on his curls"
+  },
+  {
+   "id": "D35",
+   "file": "shots-chd-football",
+   "size": "wide",
+   "set": "pitch",
+   "key": 14,
+   "note": "kids walk away, Pip stays"
+  },
+  {
+   "id": "D36",
+   "file": "shots-chd-football",
+   "size": "wide",
+   "set": "pitch",
+   "key": 16,
+   "note": "Pip alone on the pitch"
+  },
+  {
+   "id": "D37",
+   "file": "shots-chd-flow-chart",
+   "size": "medium",
+   "set": "schematic",
+   "key": 30,
+   "note": "head with a swirl: psychology"
+  },
+  {
+   "id": "D38",
+   "file": "shots-chd-flow-chart",
+   "size": "wide",
+   "set": "schematic",
+   "key": 30,
+   "note": "title TRANG THAI DONG CHAY over stream"
+  },
+  {
+   "id": "D39",
+   "file": "shots-chd-flow-chart",
+   "size": "wide",
+   "set": "chart",
+   "key": 60,
+   "note": "chart axes, flow channel, smiling dot rides it"
+  },
+  {
+   "id": "D40",
+   "file": "shots-chd-flow-chart",
+   "size": "close-up",
+   "set": "chart",
+   "key": 34,
+   "note": "dot steps up one level, stays in channel"
+  },
+  {
+   "id": "D41",
+   "file": "shots-chd-flow-chart",
+   "size": "wide",
+   "set": "chart",
+   "key": 30,
+   "note": "dot slides down-right as it gets too easy"
+  },
+  {
+   "id": "D42",
+   "file": "shots-chd-flow-chart",
+   "size": "close-up",
+   "set": "chart",
+   "key": 40,
+   "note": "flat dot in NHAM CHAN zone"
+  },
+  {
+   "id": "D43",
+   "file": "shots-chd-flow-chart",
+   "size": "wide",
+   "set": "chart",
+   "key": 16,
+   "note": "Do la that tick over chart"
+  },
+  {
+   "id": "D44",
+   "file": "shots-chd-flow-chart",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "Pip low angle on rooftop, strongest"
+  },
+  {
+   "id": "D45",
+   "file": "shots-chd-flow-chart",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 50,
+   "note": "Pip on parapet chin on hand, most bored"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "D1",
+   "at": "s:131.83"
+  },
+  {
+   "shot": "D2",
+   "at": "s:134.41"
+  },
+  {
+   "shot": "D3",
+   "at": "s:136.33"
+  },
+  {
+   "shot": "D4",
+   "at": "s:138.73"
+  },
+  {
+   "shot": "D5",
+   "at": "s:140.56"
+  },
+  {
+   "shot": "D6",
+   "at": "s:142.70"
+  },
+  {
+   "shot": "D7",
+   "at": "s:145.45"
+  },
+  {
+   "shot": "D8",
+   "at": "s:147.97"
+  },
+  {
+   "shot": "D9",
+   "at": "s:148.73",
+   "look": "fight"
+  },
+  {
+   "shot": "D10",
+   "at": "s:149.90",
+   "look": "fight"
+  },
+  {
+   "shot": "D11",
+   "at": "s:151.59",
+   "look": "fight"
+  },
+  {
+   "shot": "D12",
+   "at": "s:152.34",
+   "look": "fight"
+  },
+  {
+   "shot": "D13",
+   "at": "s:153.18"
+  },
+  {
+   "shot": "D14",
+   "at": "s:154.78"
+  },
+  {
+   "shot": "D15",
+   "at": "s:156.27"
+  },
+  {
+   "shot": "D16",
+   "at": "s:158.01"
+  },
+  {
+   "shot": "D17",
+   "at": "s:160.82"
+  },
+  {
+   "shot": "D18",
+   "at": "s:162.63"
+  },
+  {
+   "shot": "D19",
+   "at": "s:164.20"
+  },
+  {
+   "shot": "D20",
+   "at": "s:165.60"
+  },
+  {
+   "shot": "D21",
+   "at": "s:167.56",
+   "look": "bored"
+  },
+  {
+   "shot": "D22",
+   "at": "s:168.79",
+   "look": "bored"
+  },
+  {
+   "shot": "D23",
+   "at": "s:169.86",
+   "look": "bored"
+  },
+  {
+   "shot": "D24",
+   "at": "s:170.48",
+   "look": "bored"
+  },
+  {
+   "shot": "D25",
+   "at": "s:171.16",
+   "look": "bored"
+  },
+  {
+   "shot": "D26",
+   "at": "s:172.06",
+   "look": "bored"
+  },
+  {
+   "shot": "D27",
+   "at": "s:174.10",
+   "look": "bored"
+  },
+  {
+   "shot": "D28",
+   "at": "s:175.86",
+   "look": "bored"
+  },
+  {
+   "shot": "D29",
+   "at": "s:176.83",
+   "look": "bored"
+  },
+  {
+   "shot": "D30",
+   "at": "s:177.87",
+   "look": "bored"
+  },
+  {
+   "shot": "D31",
+   "at": "s:178.79",
+   "look": "bored"
+  },
+  {
+   "shot": "D32",
+   "at": "s:180.11",
+   "look": "bored"
+  },
+  {
+   "shot": "D33",
+   "at": "s:180.94",
+   "look": "bored"
+  },
+  {
+   "shot": "D34",
+   "at": "s:182.15",
+   "look": "bored"
+  },
+  {
+   "shot": "D35",
+   "at": "s:183.37",
+   "look": "bored"
+  },
+  {
+   "shot": "D36",
+   "at": "s:184.04",
+   "look": "bored"
+  },
+  {
+   "shot": "D37",
+   "at": "s:185.70"
+  },
+  {
+   "shot": "D38",
+   "at": "s:187.43"
+  },
+  {
+   "shot": "D39",
+   "at": "s:189.13"
+  },
+  {
+   "shot": "D40",
+   "at": "s:191.76"
+  },
+  {
+   "shot": "D41",
+   "at": "s:193.69"
+  },
+  {
+   "shot": "D42",
+   "at": "s:195.00"
+  },
+  {
+   "shot": "D43",
+   "at": "s:196.74"
+  },
+  {
+   "shot": "D44",
+   "at": "s:197.71",
+   "look": "bored"
+  },
+  {
+   "shot": "D45",
+   "at": "s:199.42",
+   "look": "bored"
+  }
+ ],
+ "fx": [
+  {
+   "at": "D2+9",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.35
+  },
+  {
+   "at": "D6+17",
+   "kind": "shake",
+   "amp": 16,
+   "len": 10
+  },
+  {
+   "at": "D6+17",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.4
+  },
+  {
+   "at": "D10+25",
+   "kind": "shake",
+   "amp": 26,
+   "len": 14
+  },
+  {
+   "at": "D10+25",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.6
+  },
+  {
+   "at": "D12+6",
+   "kind": "shake",
+   "amp": 22,
+   "len": 12
+  },
+  {
+   "at": "D12+6",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.4
+  },
+  {
+   "at": "D15+26",
+   "kind": "shake",
+   "amp": 14,
+   "len": 10
+  },
+  {
+   "at": "D17+30",
+   "kind": "shake",
+   "amp": 12,
+   "len": 10
+  },
+  {
+   "at": "D17+30",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.3
+  },
+  {
+   "at": "D20+19",
+   "kind": "shake",
+   "amp": 8,
+   "len": 10
+  },
+  {
+   "at": "D23+9",
+   "kind": "shake",
+   "amp": 18,
+   "len": 10
+  },
+  {
+   "at": "D24+9",
+   "kind": "shake",
+   "amp": 20,
+   "len": 12
+  },
+  {
+   "at": "D24+9",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.3
+  },
+  {
+   "at": "D25+10",
+   "kind": "shake",
+   "amp": 18,
+   "len": 10
+  },
+  {
+   "at": "D33+13",
+   "kind": "shake",
+   "amp": 18,
+   "len": 12
+  },
+  {
+   "at": "D33+13",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.4
+  }
+ ],
+ "events": [
+  [
+   "D1+10",
+   "swoosh",
+   0.14,
+   "peak"
+  ],
+  [
+   "D2+9",
+   "ding",
+   0.18
+  ],
+  [
+   "D3+26",
+   "big_step",
+   0.14
+  ],
+  [
+   "D5+16",
+   "sonic_crack",
+   0.16,
+   "onset"
+  ],
+  [
+   "D6+17",
+   "sonic_crack",
+   0.26,
+   "onset"
+  ],
+  [
+   "D8+1",
+   "ding",
+   0.14
+  ],
+  [
+   "D9+6",
+   "power_hum",
+   0.1
+  ],
+  [
+   "D10+22",
+   "swoosh",
+   0.16,
+   "peak"
+  ],
+  [
+   "D10+25",
+   "punch_hit",
+   0.28,
+   "onset"
+  ],
+  [
+   "D10+26",
+   "sonic_crack",
+   0.22,
+   "onset"
+  ],
+  [
+   "D11+2",
+   "glitch",
+   0.08
+  ],
+  [
+   "D10+39",
+   "shatter",
+   0.12
+  ],
+  [
+   "D11+3",
+   "shatter",
+   0.2
+  ],
+  [
+   "D12+6",
+   "shatter",
+   0.3,
+   "onset"
+  ],
+  [
+   "D13+2",
+   "ting",
+   0.1
+  ],
+  [
+   "D13+24",
+   "ting",
+   0.1
+  ],
+  [
+   "D14+8",
+   "pop",
+   0.14
+  ],
+  [
+   "D15+23",
+   "swoosh",
+   0.14,
+   "peak"
+  ],
+  [
+   "D15+26",
+   "punch_hit",
+   0.22,
+   "onset"
+  ],
+  [
+   "D16+54",
+   "ding",
+   0.14
+  ],
+  [
+   "D17+30",
+   "crack",
+   0.26,
+   "onset"
+  ],
+  [
+   "D18+2",
+   "power_hum",
+   0.1
+  ],
+  [
+   "D20+19",
+   "clink",
+   0.18
+  ],
+  [
+   "D20+26",
+   "clink",
+   0.16
+  ],
+  [
+   "D21+1",
+   "counter_tick",
+   0.1
+  ],
+  [
+   "D21+9",
+   "counter_tick",
+   0.1
+  ],
+  [
+   "D21+17",
+   "counter_tick",
+   0.1
+  ],
+  [
+   "D21+25",
+   "counter_tick",
+   0.1
+  ],
+  [
+   "D22+1",
+   "paper_land",
+   0.12
+  ],
+  [
+   "D22+5",
+   "paper_land",
+   0.1
+  ],
+  [
+   "D22+9",
+   "paper_land",
+   0.1
+  ],
+  [
+   "D23+5",
+   "swoosh",
+   0.12,
+   "peak"
+  ],
+  [
+   "D23+9",
+   "punch_hit",
+   0.24,
+   "onset"
+  ],
+  [
+   "D24+5",
+   "swoosh",
+   0.12,
+   "peak"
+  ],
+  [
+   "D24+9",
+   "punch_hit",
+   0.24,
+   "onset"
+  ],
+  [
+   "D24+11",
+   "metal_crash",
+   0.2,
+   "onset"
+  ],
+  [
+   "D25+6",
+   "swoosh",
+   0.12,
+   "peak"
+  ],
+  [
+   "D25+10",
+   "punch_hit",
+   0.24,
+   "onset"
+  ],
+  [
+   "D26+8",
+   "ding",
+   0.14
+  ],
+  [
+   "D26+21",
+   "ding",
+   0.14
+  ],
+  [
+   "D26+34",
+   "ding",
+   0.14
+  ],
+  [
+   "D27",
+   "room_tone",
+   0.06,
+   "onset",
+   "D30+28"
+  ],
+  [
+   "D32+16",
+   "swoosh",
+   0.14,
+   "peak"
+  ],
+  [
+   "D32+19",
+   "punch_hit",
+   0.2,
+   "onset"
+  ],
+  [
+   "D33+13",
+   "pop",
+   0.3,
+   "onset"
+  ],
+  [
+   "D33+16",
+   "paper_land",
+   0.12
+  ],
+  [
+   "D35+2",
+   "step",
+   0.1
+  ],
+  [
+   "D35+8",
+   "step",
+   0.1
+  ],
+  [
+   "D35+14",
+   "step",
+   0.1
+  ],
+  [
+   "D35+20",
+   "step",
+   0.1
+  ],
+  [
+   "D35+26",
+   "step",
+   0.1
+  ],
+  [
+   "D37+4",
+   "sparkle",
+   0.1
+  ],
+  [
+   "D38+14",
+   "ting",
+   0.12
+  ],
+  [
+   "D39+40",
+   "ding",
+   0.14
+  ],
+  [
+   "D39+58",
+   "sparkle",
+   0.1
+  ],
+  [
+   "D40+28",
+   "ting",
+   0.12
+  ],
+  [
+   "D41+4",
+   "fall_whoosh",
+   0.08
+  ],
+  [
+   "D42+8",
+   "power_down",
+   0.12
+  ],
+  [
+   "D43+6",
+   "ding",
+   0.14
+  ],
+  [
+   "D44",
+   "roof_wind",
+   0.1,
+   "onset",
+   "D45+79"
+  ]
+ ],
+ "repeats": []
+}

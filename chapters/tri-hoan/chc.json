@@ -1,0 +1,831 @@
+{
+ "chapter": "c",
+ "shots": [
+  {
+   "id": "C1",
+   "file": "shots-chc-tice-study-cards",
+   "size": "card",
+   "set": "schematic",
+   "key": 30,
+   "note": "card 1997 rolls up, TICE & BAUMEISTER tag"
+  },
+  {
+   "id": "C2",
+   "file": "shots-chc-tice-study-cards",
+   "size": "medium",
+   "set": "schematic",
+   "key": 34,
+   "note": "two psychologists with clipboards"
+  },
+  {
+   "id": "C3",
+   "file": "shots-chc-tice-study-cards",
+   "size": "medium",
+   "set": "schematic",
+   "key": 33,
+   "note": "students under a magnifier, semester bar fills"
+  },
+  {
+   "id": "C4",
+   "file": "shots-chc-tice-study-cards",
+   "size": "medium",
+   "set": "schematic",
+   "key": 45,
+   "note": "early term: Pip relaxed, stress gauge low"
+  },
+  {
+   "id": "C5",
+   "file": "shots-chc-tice-study-cards",
+   "size": "card",
+   "set": "schematic",
+   "key": 44,
+   "note": "chart: procrastinator line under the others"
+  },
+  {
+   "id": "C6",
+   "file": "shots-chc-tice-study-cards",
+   "size": "card",
+   "set": "schematic",
+   "key": 56,
+   "note": "chart: end of term, orange line shoots up"
+  },
+  {
+   "id": "C7",
+   "file": "shots-chc-tice-study-cards",
+   "size": "card",
+   "set": "schematic",
+   "key": 50,
+   "note": "thermometer then low grade sheet"
+  },
+  {
+   "id": "C8",
+   "file": "shots-chc-tice-study-cards",
+   "size": "card",
+   "set": "schematic",
+   "key": 11,
+   "note": "DO LA THAT stamp"
+  },
+  {
+   "id": "C9",
+   "file": "shots-chc-tice-tasks-and-fast-forward",
+   "size": "card",
+   "set": "schematic",
+   "key": 40,
+   "note": "task boxes pushed along days, none vanish"
+  },
+  {
+   "id": "C10",
+   "file": "shots-chc-tice-tasks-and-fast-forward",
+   "size": "card",
+   "set": "schematic",
+   "key": 62,
+   "note": "boxes crash into the deadline flag"
+  },
+  {
+   "id": "C11",
+   "file": "shots-chc-tice-tasks-and-fast-forward",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 26,
+   "note": "fast-forward: Pip watches the calendar spin"
+  },
+  {
+   "id": "C12",
+   "file": "shots-chc-tice-tasks-and-fast-forward",
+   "size": "close",
+   "set": "schematic",
+   "key": 25,
+   "note": "calendar spinning, MAI LAM note riding"
+  },
+  {
+   "id": "C13",
+   "file": "shots-chc-tice-tasks-and-fast-forward",
+   "size": "close",
+   "set": "schematic",
+   "key": 30,
+   "note": "spin brakes, push in, white out"
+  },
+  {
+   "id": "C14",
+   "file": "shots-chc-one-year-guitar",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "1 year on: Pip on phone, guitar at the edge"
+  },
+  {
+   "id": "C15",
+   "file": "shots-chc-one-year-guitar",
+   "size": "close",
+   "set": "corner",
+   "key": 32,
+   "note": "guitar standing, sparkle fades to dust"
+  },
+  {
+   "id": "C16",
+   "file": "shots-chc-one-year-guitar",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 27,
+   "note": "pull back: guitar small in the corner"
+  },
+  {
+   "id": "C17",
+   "file": "shots-chc-one-year-guitar",
+   "size": "macro",
+   "set": "corner",
+   "key": 23,
+   "note": "dust film, finger swipes a clean streak"
+  },
+  {
+   "id": "C18",
+   "file": "shots-chc-one-year-guitar",
+   "size": "insert",
+   "set": "corner",
+   "key": 20,
+   "note": "MAI TAP note slaps on the guitar"
+  },
+  {
+   "id": "C19",
+   "file": "shots-chc-ten-years-pip-and-rate",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 25,
+   "note": "older Pip with stubble at the desk"
+  },
+  {
+   "id": "C20",
+   "file": "shots-chc-ten-years-pip-and-rate",
+   "size": "insert",
+   "set": "table",
+   "key": 50,
+   "note": "empty jar, coin hovers, THANG SAU note"
+  },
+  {
+   "id": "C21",
+   "file": "shots-chc-ten-years-pip-and-rate",
+   "size": "card",
+   "set": "schematic",
+   "key": 36,
+   "note": "1 TRIEU/THANG coins into jar"
+  },
+  {
+   "id": "C22",
+   "file": "shots-chc-ten-years-pip-and-rate",
+   "size": "card",
+   "set": "schematic",
+   "key": 33,
+   "note": "22 TUOI young Pip, start of line"
+  },
+  {
+   "id": "C23",
+   "file": "shots-chc-ten-years-pip-and-rate",
+   "size": "card",
+   "set": "schematic",
+   "key": 40,
+   "note": "6%/NAM coin stack sprouts"
+  },
+  {
+   "id": "C24",
+   "file": "shots-chc-ten-years-growth-cards",
+   "size": "card",
+   "set": "schematic",
+   "key": 38,
+   "note": "curve from 22 to 60 draws on"
+  },
+  {
+   "id": "C25",
+   "file": "shots-chc-ten-years-growth-cards",
+   "size": "card",
+   "set": "schematic",
+   "key": 22,
+   "note": "~1,7 TY slam"
+  },
+  {
+   "id": "C26",
+   "file": "shots-chc-ten-years-growth-cards",
+   "size": "card",
+   "set": "schematic",
+   "key": 32,
+   "note": "10 years of calendar flips, older Pip"
+  },
+  {
+   "id": "C27",
+   "file": "shots-chc-ten-years-growth-cards",
+   "size": "card",
+   "set": "schematic",
+   "key": 33,
+   "note": "second curve starts at 32, 10 NAM bracket"
+  },
+  {
+   "id": "C28",
+   "file": "shots-chc-ten-years-growth-cards",
+   "size": "card",
+   "set": "schematic",
+   "key": 44,
+   "note": "second curve to ~870 TRIEU"
+  },
+  {
+   "id": "C29",
+   "file": "shots-chc-ten-years-growth-cards",
+   "size": "card",
+   "set": "schematic",
+   "key": 84,
+   "note": "two bars, CHAM 10 NAM = MAT GAN MOT NUA, maths tag"
+  },
+  {
+   "id": "C30",
+   "file": "shots-chc-health-sweden-cards",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 26,
+   "note": "older Pip tired at the night window"
+  },
+  {
+   "id": "C31",
+   "file": "shots-chc-health-sweden-cards",
+   "size": "card",
+   "set": "schematic",
+   "key": 37,
+   "note": "THUY DIEN waving flag"
+  },
+  {
+   "id": "C32",
+   "file": "shots-chc-health-sweden-cards",
+   "size": "card",
+   "set": "schematic",
+   "key": 32,
+   "note": "3.500+ SINH VIEN crowd, JAMA tag"
+  },
+  {
+   "id": "C33",
+   "file": "shots-chc-health-sweden-cards",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 29,
+   "note": "Pip buried in MAI LAM notes"
+  },
+  {
+   "id": "C34",
+   "file": "shots-chc-health-sweden-cards",
+   "size": "card",
+   "set": "schematic",
+   "key": 62,
+   "note": "stress + anxiety icons"
+  },
+  {
+   "id": "C35",
+   "file": "shots-chc-health-sweden-cards",
+   "size": "card",
+   "set": "schematic",
+   "key": 45,
+   "note": "sleepless moon + loneliness icons"
+  },
+  {
+   "id": "C36",
+   "file": "shots-chc-health-sweden-cards",
+   "size": "card",
+   "set": "schematic",
+   "key": 10,
+   "note": "DO LA THAT stamp"
+  },
+  {
+   "id": "C37",
+   "file": "shots-chc-grandma-wait",
+   "size": "close",
+   "set": "table",
+   "key": 25,
+   "note": "phone rings: BA calling, unanswered"
+  },
+  {
+   "id": "C38",
+   "file": "shots-chc-grandma-wait",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 33,
+   "note": "packed bag, THANG SAU note on calendar"
+  },
+  {
+   "id": "C39",
+   "file": "shots-chc-grandma-wait",
+   "size": "close",
+   "set": "schematic",
+   "key": 50,
+   "note": "month flips twice"
+  },
+  {
+   "id": "C40",
+   "file": "shots-chc-grandma-wait",
+   "size": "wide",
+   "set": "porch",
+   "key": 25,
+   "note": "grandma on the porch, push-in, leaves"
+  },
+  {
+   "id": "C41",
+   "file": "shots-chc-grandma-wait",
+   "size": "close",
+   "set": "porch",
+   "key": 35,
+   "note": "grandma looks to the gate, drift to gate"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "C1",
+   "at": "s:105.43",
+   "look": "memory"
+  },
+  {
+   "shot": "C2",
+   "at": "s:106.97",
+   "look": "memory"
+  },
+  {
+   "shot": "C3",
+   "at": "s:108.34",
+   "look": "memory"
+  },
+  {
+   "shot": "C4",
+   "at": "s:110.04",
+   "look": "memory"
+  },
+  {
+   "shot": "C5",
+   "at": "s:112.34",
+   "look": "memory"
+  },
+  {
+   "shot": "C6",
+   "at": "s:114.60",
+   "look": "memory"
+  },
+  {
+   "shot": "C7",
+   "at": "s:116.75",
+   "look": "memory"
+  },
+  {
+   "shot": "C8",
+   "at": "s:118.87",
+   "look": "memory"
+  },
+  {
+   "shot": "C9",
+   "at": "s:119.68"
+  },
+  {
+   "shot": "C10",
+   "at": "s:121.70"
+  },
+  {
+   "shot": "C11",
+   "at": "s:124.53"
+  },
+  {
+   "shot": "C12",
+   "at": "s:125.85"
+  },
+  {
+   "shot": "C13",
+   "at": "s:127.51"
+  },
+  {
+   "shot": "C14",
+   "at": "s:128.78",
+   "look": "y1"
+  },
+  {
+   "shot": "C15",
+   "at": "s:130.31",
+   "look": "y1"
+  },
+  {
+   "shot": "C16",
+   "at": "s:131.94",
+   "look": "y1"
+  },
+  {
+   "shot": "C17",
+   "at": "s:133.31",
+   "look": "y1"
+  },
+  {
+   "shot": "C18",
+   "at": "s:134.47",
+   "look": "y1"
+  },
+  {
+   "shot": "C19",
+   "at": "s:135.23",
+   "look": "y10"
+  },
+  {
+   "shot": "C20",
+   "at": "s:136.54",
+   "look": "y10"
+  },
+  {
+   "shot": "C21",
+   "at": "s:138.66",
+   "look": "y10"
+  },
+  {
+   "shot": "C22",
+   "at": "s:140.54",
+   "look": "y10"
+  },
+  {
+   "shot": "C23",
+   "at": "s:142.24",
+   "look": "y10"
+  },
+  {
+   "shot": "C24",
+   "at": "s:144.26",
+   "look": "y10"
+  },
+  {
+   "shot": "C25",
+   "at": "s:146.23",
+   "look": "y10"
+  },
+  {
+   "shot": "C26",
+   "at": "s:147.47",
+   "look": "y10"
+  },
+  {
+   "shot": "C27",
+   "at": "s:149.10",
+   "look": "y10"
+  },
+  {
+   "shot": "C28",
+   "at": "s:150.79",
+   "look": "y10"
+  },
+  {
+   "shot": "C29",
+   "at": "s:153.01",
+   "look": "y10"
+  },
+  {
+   "shot": "C30",
+   "at": "s:156.19",
+   "look": "y10"
+  },
+  {
+   "shot": "C31",
+   "at": "s:157.51",
+   "look": "memory"
+  },
+  {
+   "shot": "C32",
+   "at": "s:159.41",
+   "look": "memory"
+  },
+  {
+   "shot": "C33",
+   "at": "s:161.08",
+   "look": "y10"
+  },
+  {
+   "shot": "C34",
+   "at": "s:162.57",
+   "look": "memory"
+  },
+  {
+   "shot": "C35",
+   "at": "s:165.02",
+   "look": "memory"
+  },
+  {
+   "shot": "C36",
+   "at": "s:166.83",
+   "look": "memory"
+  },
+  {
+   "shot": "C37",
+   "at": "s:167.51",
+   "look": "y10"
+  },
+  {
+   "shot": "C38",
+   "at": "s:169.19",
+   "look": "y10"
+  },
+  {
+   "shot": "C39",
+   "at": "s:170.90",
+   "look": "y10"
+  },
+  {
+   "shot": "C40",
+   "at": "s:173.09",
+   "look": "y10"
+  },
+  {
+   "shot": "C41",
+   "at": "s:174.39",
+   "look": "y10"
+  }
+ ],
+ "fx": [
+  {
+   "at": "C10+44",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.4
+  }
+ ],
+ "events": [
+  [
+   "C1+3",
+   "ding",
+   0.1
+  ],
+  [
+   "C5+3",
+   "pop",
+   0.08
+  ],
+  [
+   "C6+56",
+   "drone_hit",
+   0.1
+  ],
+  [
+   "C7+4",
+   "pop",
+   0.08
+  ],
+  [
+   "C7+34",
+   "buzzer",
+   0.06
+  ],
+  [
+   "C8+4",
+   "land",
+   0.18
+  ],
+  [
+   "C9+9",
+   "paste_pop",
+   0.08
+  ],
+  [
+   "C9+29",
+   "paste_pop",
+   0.08
+  ],
+  [
+   "C10+44",
+   "crack",
+   0.1
+  ],
+  [
+   "C10+44",
+   "drone_hit",
+   0.1
+  ],
+  [
+   "C10+10",
+   "land",
+   0.09
+  ],
+  [
+   "C10+19",
+   "land",
+   0.1
+  ],
+  [
+   "C10+28",
+   "land",
+   0.11
+  ],
+  [
+   "C10+36",
+   "land",
+   0.12
+  ],
+  [
+   "C10+44",
+   "land",
+   0.14
+  ],
+  [
+   "C11",
+   "rewind_start",
+   0.18,
+   "peak"
+  ],
+  [
+   "C12+2",
+   "rewind",
+   0.1
+  ],
+  [
+   "C14",
+   "room_tone",
+   0.08,
+   "onset",
+   "C21"
+  ],
+  [
+   "C15+2",
+   "sparkle",
+   0.08
+  ],
+  [
+   "C17+7",
+   "select_draw",
+   0.06
+  ],
+  [
+   "C18+16",
+   "paper_land",
+   0.14
+  ],
+  [
+   "C20+12",
+   "clink",
+   0.07
+  ],
+  [
+   "C20+45",
+   "paste_pop",
+   0.08
+  ],
+  [
+   "C22+4",
+   "ding",
+   0.08
+  ],
+  [
+   "C23+10",
+   "sparkle",
+   0.08
+  ],
+  [
+   "C23+20",
+   "pop",
+   0.08
+  ],
+  [
+   "C25+4",
+   "ding",
+   0.1
+  ],
+  [
+   "C26",
+   "rewind_start",
+   0.07
+  ],
+  [
+   "C28+52",
+   "ding",
+   0.1
+  ],
+  [
+   "C29+28",
+   "crack",
+   0.08
+  ],
+  [
+   "C29+37",
+   "land",
+   0.14
+  ],
+  [
+   "C29+68",
+   "ding",
+   0.1
+  ],
+  [
+   "C30",
+   "room_tone",
+   0.08,
+   "onset",
+   "C31"
+  ],
+  [
+   "C31+4",
+   "pop",
+   0.08
+  ],
+  [
+   "C33",
+   "room_tone",
+   0.08,
+   "onset",
+   "C34"
+  ],
+  [
+   "C34+25",
+   "pop",
+   0.08
+  ],
+  [
+   "C34+52",
+   "pop",
+   0.08
+  ],
+  [
+   "C35+4",
+   "pop",
+   0.08
+  ],
+  [
+   "C35+29",
+   "pop",
+   0.08
+  ],
+  [
+   "C36+3",
+   "land",
+   0.14
+  ],
+  [
+   "C38",
+   "room_tone",
+   0.08,
+   "onset",
+   "C39"
+  ],
+  [
+   "C38+20",
+   "paste_pop",
+   0.09
+  ],
+  [
+   "C39+12",
+   "paper_land",
+   0.05
+  ],
+  [
+   "C39+37",
+   "paper_land",
+   0.05
+  ],
+  [
+   "C40",
+   "roof_wind",
+   0.08
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "C21+6",
+   "clip": "clink",
+   "n": 7,
+   "every": 8,
+   "gain": [
+    0.04,
+    0.07
+   ]
+  },
+  {
+   "at": "C24+2",
+   "clip": "counter_tick",
+   "n": 6,
+   "every": 7,
+   "gain": [
+    0.03,
+    0.05
+   ]
+  },
+  {
+   "at": "C26+2",
+   "clip": "counter_tick",
+   "n": 9,
+   "every": 4,
+   "gain": [
+    0.03,
+    0.05
+   ]
+  },
+  {
+   "at": "C32+10",
+   "clip": "counter_tick",
+   "n": 5,
+   "every": 5,
+   "gain": [
+    0.03,
+    0.05
+   ]
+  },
+  {
+   "at": "C37+2",
+   "clip": "phone_ring",
+   "n": 2,
+   "every": 30,
+   "gain": [
+    0.1,
+    0.1
+   ]
+  }
+ ]
+}

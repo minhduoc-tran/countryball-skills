@@ -1,0 +1,21 @@
+import { makeShot } from './shot';
+
+export const F1 = makeShot({"mode": "photo", "stage": "hold", "label": "15/09 · Trận địa và bàn đàm phán", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 0, "photo": "leduc"});
+export const F2 = makeShot({"mode": "photo", "stage": "hold", "label": "15/09 · Trận địa và bàn đàm phán", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 1, "photo": "leduc"});
+export const F3 = makeShot({"mode": "photo", "stage": "hold", "label": "27/01/1973 · Hiệp định Paris", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 0, "photo": "paris"});
+export const F4 = makeShot({"mode": "photo", "stage": "hold", "label": "27/01/1973 · Hiệp định Paris", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 1, "photo": "paris"});
+export const F5 = makeShot({"mode": "photo", "stage": "hold", "label": "27/01/1973 · Hiệp định Paris", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 2, "photo": "leduc"});
+export const F6 = makeShot({"mode": "photo", "stage": "hold", "label": "Trở lại Thành cổ", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 0, "photo": "2012"});
+export const F7 = makeShot({"mode": "battle", "stage": "memorial", "label": "Trở lại Thành cổ", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 1});
+export const F8 = makeShot({"mode": "photo", "stage": "hold", "label": "Trở lại Thành cổ", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 2, "photo": "2012"});
+export const F9 = makeShot({"mode": "photo", "stage": "hold", "label": "Trở lại Thành cổ", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 0, "photo": "1967"});
+export const F10 = makeShot({"mode": "photo", "stage": "hold", "label": "Trở lại Thành cổ", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 1, "photo": "2012"});
+export const F11 = makeShot({"mode": "memorial", "stage": "memorial", "label": "Hoa trên sông Thạch Hãn", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 0});
+export const F12 = makeShot({"mode": "memorial", "stage": "memorial", "label": "Hoa trên sông Thạch Hãn", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 1});
+export const F13 = makeShot({"mode": "memorial", "stage": "memorial", "label": "Hoa trên sông Thạch Hãn", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 2});
+export const F14 = makeShot({"mode": "memorial", "stage": "memorial", "label": "Hoa trên sông Thạch Hãn", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 2});
+export const F15 = makeShot({"mode": "memorial", "stage": "memorial", "label": "Hoa trên sông Thạch Hãn", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 0});
+export const F16 = makeShot({"mode": "memorial", "stage": "memorial", "label": "TƯỞNG NIỆM", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 0});
+export const F17 = makeShot({"mode": "memorial", "stage": "memorial", "label": "TƯỞNG NIỆM", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 1});
+export const F18 = makeShot({"mode": "memorial", "stage": "memorial", "label": "TƯỞNG NIỆM", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 1});
+export const F19 = makeShot({"mode": "title", "stage": "memorial", "label": "THÀNH CỔ QUẢNG TRỊ", "chapter": "F  /  THÀNH CỔ HÔM NAY", "angle": 0});

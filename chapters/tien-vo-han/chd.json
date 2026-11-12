@@ -1,0 +1,367 @@
+{
+ "chapter": "d",
+ "shots": [
+  {
+   "id": "D1",
+   "file": "shots-chd-savings",
+   "size": "wide",
+   "set": "street",
+   "key": 40,
+   "note": "people waiting at the bus stop"
+  },
+  {
+   "id": "D2",
+   "file": "shots-chd-savings",
+   "size": "medium",
+   "set": "study",
+   "key": 50,
+   "note": "grandma with passbook under lamp"
+  },
+  {
+   "id": "D3",
+   "file": "shots-chd-savings",
+   "size": "insert",
+   "set": "tabletop",
+   "key": 38,
+   "note": "black card taps terminal"
+  },
+  {
+   "id": "D4",
+   "file": "shots-chd-savings",
+   "size": "split",
+   "set": "tabletop",
+   "key": 50,
+   "note": "passbook vs shopping basket shrinking"
+  },
+  {
+   "id": "D5",
+   "file": "shots-chd-suit",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 50,
+   "note": "MỘT TUẦN SAU: suit walks into kitchen"
+  },
+  {
+   "id": "D6",
+   "file": "shots-chd-suit",
+   "size": "insert",
+   "set": "tabletop",
+   "key": 30,
+   "note": "badge NGÂN HÀNG TRUNG ƯƠNG slid across table"
+  },
+  {
+   "id": "D7",
+   "file": "shots-chd-suit",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 30,
+   "note": "suit tired close-up"
+  },
+  {
+   "id": "D8",
+   "file": "shots-chd-suit",
+   "size": "insert",
+   "set": "tabletop",
+   "key": 30,
+   "note": "Pip's hand frozen above terminal"
+  },
+  {
+   "id": "D9",
+   "file": "shots-chd-insight",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 30,
+   "note": "Pip understands"
+  },
+  {
+   "id": "D10",
+   "file": "shots-chd-insight",
+   "size": "macro",
+   "set": "tabletop",
+   "key": 45,
+   "note": "banknote fades to paper"
+  },
+  {
+   "id": "D11",
+   "file": "shots-chd-insight",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 90,
+   "note": "note <-> person, LỜI HỨA"
+  },
+  {
+   "id": "D12",
+   "file": "shots-chd-insight",
+   "size": "medium",
+   "set": "paddy",
+   "key": 30,
+   "note": "farmer plants rice at dawn"
+  },
+  {
+   "id": "D13",
+   "file": "shots-chd-insight",
+   "size": "medium",
+   "set": "operating room",
+   "key": 30,
+   "note": "surgeon under lamp"
+  },
+  {
+   "id": "D14",
+   "file": "shots-chd-insight",
+   "size": "medium",
+   "set": "street night",
+   "key": 40,
+   "note": "baker at clay oven 04:00"
+  },
+  {
+   "id": "D15",
+   "file": "shots-chd-no-more-and-mum",
+   "size": "card",
+   "set": "schematic",
+   "key": 50,
+   "note": "rice bowl +0"
+  },
+  {
+   "id": "D16",
+   "file": "shots-chd-no-more-and-mum",
+   "size": "card",
+   "set": "schematic",
+   "key": 40,
+   "note": "doctor +0"
+  },
+  {
+   "id": "D17",
+   "file": "shots-chd-no-more-and-mum",
+   "size": "card",
+   "set": "schematic",
+   "key": 50,
+   "note": "clock 24 GIỜ +0"
+  },
+  {
+   "id": "D18",
+   "file": "shots-chd-no-more-and-mum",
+   "size": "wide",
+   "set": "street dawn",
+   "key": 40,
+   "note": "mum and xôi cart at alley mouth"
+  },
+  {
+   "id": "D19",
+   "file": "shots-chd-no-more-and-mum",
+   "size": "medium",
+   "set": "street dawn",
+   "key": 30,
+   "note": "mum pushes cart"
+  },
+  {
+   "id": "D20",
+   "file": "shots-chd-no-more-and-mum",
+   "size": "medium",
+   "set": "street dawn",
+   "key": 30,
+   "note": "Pip asks mum"
+  },
+  {
+   "id": "D21",
+   "file": "shots-chd-no-more-and-mum",
+   "size": "close-up",
+   "set": "street dawn",
+   "key": 30,
+   "note": "mum smiles"
+  },
+  {
+   "id": "D22",
+   "file": "shots-chd-no-more-and-mum",
+   "size": "insert",
+   "set": "street dawn",
+   "key": 36,
+   "note": "neighbour takes xôi packet"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "D1",
+   "at": "s:150.34"
+  },
+  {
+   "shot": "D2",
+   "at": "s:153.05"
+  },
+  {
+   "shot": "D3",
+   "at": "s:156.17",
+   "look": "card"
+  },
+  {
+   "shot": "D4",
+   "at": "s:157.53",
+   "look": "prices"
+  },
+  {
+   "shot": "D5",
+   "at": "s:159.85"
+  },
+  {
+   "shot": "D6",
+   "at": "s:163.15"
+  },
+  {
+   "shot": "D7",
+   "at": "s:165.03"
+  },
+  {
+   "shot": "D8",
+   "at": "s:167.28"
+  },
+  {
+   "shot": "D9",
+   "at": "s:168.91"
+  },
+  {
+   "shot": "D10",
+   "at": "s:170.37"
+  },
+  {
+   "shot": "D11",
+   "at": "s:171.92"
+  },
+  {
+   "shot": "D12",
+   "at": "s:175.83"
+  },
+  {
+   "shot": "D13",
+   "at": "s:177.37"
+  },
+  {
+   "shot": "D14",
+   "at": "s:178.76"
+  },
+  {
+   "shot": "D15",
+   "at": "s:182.47",
+   "look": "card"
+  },
+  {
+   "shot": "D16",
+   "at": "s:184.38",
+   "look": "card"
+  },
+  {
+   "shot": "D17",
+   "at": "s:185.98",
+   "look": "card"
+  },
+  {
+   "shot": "D18",
+   "at": "s:188.59"
+  },
+  {
+   "shot": "D19",
+   "at": "s:191.01"
+  },
+  {
+   "shot": "D20",
+   "at": "s:193.25"
+  },
+  {
+   "shot": "D21",
+   "at": "s:196.60"
+  },
+  {
+   "shot": "D22",
+   "at": "s:198.33"
+  }
+ ],
+ "fx": [],
+ "events": [
+  [
+   "D1",
+   "roof_wind",
+   0.07,
+   "onset",
+   "D2"
+  ],
+  [
+   "D2",
+   "room_tone",
+   0.09,
+   "onset",
+   "D5"
+  ],
+  [
+   "D3+33",
+   "ting",
+   0.1
+  ],
+  [
+   "D5",
+   "room_tone",
+   0.08,
+   "onset",
+   "D9"
+  ],
+  [
+   "D6+14",
+   "paper_land",
+   0.12
+  ],
+  [
+   "D8+32",
+   "gulp",
+   0.12
+  ],
+  [
+   "D13",
+   "room_tone",
+   0.07,
+   "onset",
+   "D14"
+  ],
+  [
+   "D14",
+   "roof_wind",
+   0.06,
+   "onset",
+   "D15"
+  ],
+  [
+   "D18",
+   "roof_wind",
+   0.1,
+   "onset",
+   "D22+40"
+  ],
+  [
+   "D22+30",
+   "clink",
+   0.07
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "D5+6",
+   "clip": "step",
+   "n": 6,
+   "every": 9,
+   "gain": [
+    0.08,
+    0.12
+   ]
+  },
+  {
+   "at": "D19+2",
+   "clip": "step",
+   "n": 6,
+   "every": 14,
+   "gain": [
+    0.06,
+    0.09
+   ],
+   "pitch": [
+    0.9,
+    1.0
+   ]
+  }
+ ]
+}

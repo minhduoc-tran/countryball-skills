@@ -1,0 +1,399 @@
+{
+ "chapter": "a",
+ "shots": [
+  {
+   "id": "A1",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "river",
+   "key": 20,
+   "note": "Đêm trên sông Thạch Hãn"
+  },
+  {
+   "id": "A2",
+   "file": "shots-cha",
+   "size": "medium",
+   "set": "river",
+   "key": 20,
+   "note": "Đêm trên sông Thạch Hãn"
+  },
+  {
+   "id": "A3",
+   "file": "shots-cha",
+   "size": "close",
+   "set": "battle",
+   "key": 20,
+   "note": "Đêm trên sông Thạch Hãn"
+  },
+  {
+   "id": "A4",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "river",
+   "key": 20,
+   "note": "Đêm trên sông Thạch Hãn"
+  },
+  {
+   "id": "A5",
+   "file": "shots-cha",
+   "size": "medium",
+   "set": "river",
+   "key": 20,
+   "note": "Đêm trên sông Thạch Hãn"
+  },
+  {
+   "id": "A6",
+   "file": "shots-cha",
+   "size": "close",
+   "set": "river",
+   "key": 20,
+   "note": "Đêm trên sông Thạch Hãn"
+  },
+  {
+   "id": "A7",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "battle",
+   "key": 20,
+   "note": "Tường thành dưới hỏa lực"
+  },
+  {
+   "id": "A8",
+   "file": "shots-cha",
+   "size": "medium",
+   "set": "battle",
+   "key": 20,
+   "note": "Tường thành dưới hỏa lực"
+  },
+  {
+   "id": "A9",
+   "file": "shots-cha",
+   "size": "close",
+   "set": "battle",
+   "key": 20,
+   "note": "Tường thành dưới hỏa lực"
+  },
+  {
+   "id": "A10",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "battle",
+   "key": 20,
+   "note": "Tường thành dưới hỏa lực"
+  },
+  {
+   "id": "A11",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "battle",
+   "key": 20,
+   "note": "Tường thành dưới hỏa lực"
+  },
+  {
+   "id": "A12",
+   "file": "shots-cha",
+   "size": "title",
+   "set": "title",
+   "key": 20,
+   "note": "81 NGÀY ĐÊM"
+  },
+  {
+   "id": "A13",
+   "file": "shots-cha",
+   "size": "title",
+   "set": "title",
+   "key": 20,
+   "note": "81 NGÀY ĐÊM"
+  },
+  {
+   "id": "A14",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "81 NGÀY ĐÊM"
+  },
+  {
+   "id": "A15",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "81 NGÀY ĐÊM"
+  },
+  {
+   "id": "A16",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "81 NGÀY ĐÊM"
+  },
+  {
+   "id": "A17",
+   "file": "shots-cha",
+   "size": "archive",
+   "set": "photo",
+   "key": 20,
+   "note": "Thành cổ trước trận đánh"
+  },
+  {
+   "id": "A18",
+   "file": "shots-cha",
+   "size": "archive",
+   "set": "photo",
+   "key": 20,
+   "note": "Thành cổ trước trận đánh"
+  },
+  {
+   "id": "A19",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Thành cổ trước trận đánh"
+  },
+  {
+   "id": "A20",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "river",
+   "key": 20,
+   "note": "Thành cổ trước trận đánh"
+  },
+  {
+   "id": "A21",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Cửa ngõ phía bắc Huế"
+  },
+  {
+   "id": "A22",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Cửa ngõ phía bắc Huế"
+  },
+  {
+   "id": "A23",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Cửa ngõ phía bắc Huế"
+  },
+  {
+   "id": "A24",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Cửa ngõ phía bắc Huế"
+  },
+  {
+   "id": "A25",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Cửa ngõ phía bắc Huế"
+  },
+  {
+   "id": "A26",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Tỉnh · thị xã · Thành cổ"
+  },
+  {
+   "id": "A27",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Tỉnh · thị xã · Thành cổ"
+  },
+  {
+   "id": "A28",
+   "file": "shots-cha",
+   "size": "close",
+   "set": "battle",
+   "key": 20,
+   "note": "Tỉnh · thị xã · Thành cổ"
+  },
+  {
+   "id": "A29",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Tỉnh · thị xã · Thành cổ"
+  },
+  {
+   "id": "A30",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Tỉnh · thị xã · Thành cổ"
+  },
+  {
+   "id": "A31",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Tỉnh · thị xã · Thành cổ"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "s:0.000"
+  },
+  {
+   "shot": "A2",
+   "at": "s:1.623"
+  },
+  {
+   "shot": "A3",
+   "at": "s:4.324"
+  },
+  {
+   "shot": "A4",
+   "at": "s:7.542"
+  },
+  {
+   "shot": "A5",
+   "at": "s:9.765"
+  },
+  {
+   "shot": "A6",
+   "at": "s:12.630"
+  },
+  {
+   "shot": "A7",
+   "at": "s:15.696"
+  },
+  {
+   "shot": "A8",
+   "at": "s:17.501"
+  },
+  {
+   "shot": "A9",
+   "at": "s:20.496"
+  },
+  {
+   "shot": "A10",
+   "at": "s:23.117"
+  },
+  {
+   "shot": "A11",
+   "at": "s:25.807"
+  },
+  {
+   "shot": "A12",
+   "at": "s:30.508"
+  },
+  {
+   "shot": "A13",
+   "at": "s:32.809"
+  },
+  {
+   "shot": "A14",
+   "at": "s:34.269"
+  },
+  {
+   "shot": "A15",
+   "at": "s:37.204"
+  },
+  {
+   "shot": "A16",
+   "at": "s:41.354"
+  },
+  {
+   "shot": "A17",
+   "at": "s:45.732"
+  },
+  {
+   "shot": "A18",
+   "at": "s:51.743"
+  },
+  {
+   "shot": "A19",
+   "at": "s:56.876"
+  },
+  {
+   "shot": "A20",
+   "at": "s:59.669"
+  },
+  {
+   "shot": "A21",
+   "at": "s:62.749"
+  },
+  {
+   "shot": "A22",
+   "at": "s:66.025"
+  },
+  {
+   "shot": "A23",
+   "at": "s:68.750"
+  },
+  {
+   "shot": "A24",
+   "at": "s:71.199"
+  },
+  {
+   "shot": "A25",
+   "at": "s:75.130"
+  },
+  {
+   "shot": "A26",
+   "at": "s:79.426"
+  },
+  {
+   "shot": "A27",
+   "at": "s:82.736"
+  },
+  {
+   "shot": "A28",
+   "at": "s:84.219"
+  },
+  {
+   "shot": "A29",
+   "at": "s:86.863"
+  },
+  {
+   "shot": "A30",
+   "at": "s:89.563"
+  },
+  {
+   "shot": "A31",
+   "at": "s:92.827"
+  }
+ ],
+ "events": [
+  [
+   "A1",
+   "roof_wind",
+   0.12,
+   "onset"
+  ],
+  [
+   "A7",
+   "rubble",
+   0.12,
+   "onset"
+  ],
+  [
+   "A12",
+   "title_boom",
+   0.14,
+   "onset"
+  ]
+ ]
+}

@@ -1,0 +1,35 @@
+# chapter E: beats 28-35. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "5 time: seconds"  226.05-233.52 s
+# Lúc đó bạn mới nhận ra: tiền vào mỗi giây, nhưng một ngày của bạn vẫn chỉ có tám mươi sáu nghìn bốn trăm giây. Như tất cả mọi người.
+Lúc@225.99 đó@226.19 bạn@226.34 mới@226.84 nhận@227.04 ra:@227.28 tiền@227.91 vào@228.10 mỗi@228.26 giây,@228.41 nhưng@228.91 một@229.15 ngày@229.32 của@229.52 bạn@229.87 vẫn@230.03 chỉ@230.20 có@230.37 tám@230.58 mươi@230.75 sáu@230.95 nghìn@231.12 bốn@231.36 trăm@231.53 giây.@231.73 Như@232.49 tất@232.66 cả@232.91 mọi@233.04 người.@233.21
+
+## beat "5 time: life"  233.86-244.20 s
+# Tuổi thọ trung bình của người Việt Nam là gần bảy mươi lăm năm. Tức là khoảng hai tỷ ba trăm triệu giây. Và mỗi giây trôi qua, dù bạn kiếm được bao nhiêu tiền, cũng không bao giờ quay lại.
+Tuổi@233.79 thọ@234.00 trung@234.16 bình@234.40 của@234.61 người@234.86 Việt@235.10 Nam@235.31 là@235.81 gần@235.94 bảy@236.11 mươi@236.28 lăm@236.48 năm.@236.65 Tức@237.35 là@237.54 khoảng@237.79 hai@238.10 tỷ@238.29 ba@238.54 trăm@238.69 triệu@238.92 giây.@239.33 Và@240.03 mỗi@240.20 giây@240.41 trôi@240.68 qua,@240.94 dù@241.45 bạn@241.57 kiếm@241.73 được@242.01 bao@242.21 nhiêu@242.36 tiền,@242.59 cũng@243.08 không@243.27 bao@243.49 giờ@243.64 quay@243.79 lại.@243.98
+
+## beat "5 time: no one can"  244.55-253.62 s
+# Bạn có thể trả tiền để người khác xếp hàng, nấu ăn, lái xe cho bạn. Nhưng không ai ngủ thay bạn được. Không ai ốm thay bạn được. Và không ai lớn lên thay em gái bạn được.
+Bạn@244.49 có@244.66 thể@244.79 trả@244.96 tiền@245.14 để@245.35 người@245.48 khác@245.73 xếp@245.94 hàng,@246.11 nấu@246.62 ăn,@246.85 lái@247.34 xe@247.54 cho@247.69 bạn.@247.89 Nhưng@248.64 không@248.84 ai@249.04 ngủ@249.15 thay@249.29 bạn@249.47 được.@249.61 Không@250.33 ai@250.52 ốm@250.63 thay@250.74 bạn@250.90 được.@251.04 Và@251.76 không@251.89 ai@252.15 lớn@252.29 lên@252.46 thay@252.64 em@252.85 gái@252.99 bạn@253.17 được.@253.34
+
+## beat "5 time: cannot buy"  254.13-257.02 s
+# Bạn có thể mua mọi thứ. Trừ một thứ: thời gian.
+Bạn@254.07 có@254.33 thể@254.47 mua@254.64 mọi@254.82 thứ.@254.99 Trừ@255.50 một@255.71 thứ:@255.92 thời@256.55 gian.@256.75
+
+## beat "6 choice"  258.02-266.18 s
+# Giờ hãy tưởng tượng: bạn được chọn. Một nghìn đồng mỗi giây, mãi mãi. Hoặc thêm một giờ mỗi ngày, với những người bạn thương. Bạn chọn gì?
+Giờ@257.95 hãy@258.13 tưởng@258.30 tượng:@258.55 bạn@259.31 được@259.45 chọn.@259.70 Một@260.29 nghìn@260.47 đồng@260.73 mỗi@261.02 giây,@261.20 mãi@261.72 mãi.@261.98 Hoặc@262.72 thêm@263.06 một@263.25 giờ@263.41 mỗi@263.56 ngày,@263.72 với@264.21 những@264.35 người@264.54 bạn@264.74 thương.@264.87 Bạn@265.48 chọn@265.69 gì?@265.95
+
+## beat "7 ending: dinner"  267.18-284.29 s
+# Tối hôm đó, bạn về nhà. Bạn úp điện thoại xuống bàn. Tiền vẫn chạy, từng giây, từng giây. Nhưng lần đầu tiên sau nhiều tuần, bạn ngồi ăn cơm với mẹ và em gái, và không đếm thời gian. Em gái kể chuyện ở trường. Mẹ gắp cho bạn miếng cá. Bữa cơm đó không tốn một đồng nào, nhưng là bữa ngon nhất trong tháng.
+Tối@267.11 hôm@267.32 đó,@267.52 bạn@267.97 về@268.17 nhà.@268.33 Bạn@268.86 úp@269.10 điện@269.21 thoại@269.39 xuống@269.60 bàn.@269.81 Tiền@270.43 vẫn@270.63 chạy,@270.80 từng@271.31 giây,@271.53 từng@272.06 giây.@272.27 Nhưng@273.03 lần@273.25 đầu@273.41 tiên@273.57 sau@273.76 nhiều@273.92 tuần,@274.14 bạn@274.64 ngồi@274.85 ăn@275.10 cơm@275.26 với@275.47 mẹ@275.68 và@276.03 em@276.20 gái,@276.36 và@276.87 không@276.99 đếm@277.21 thời@277.37 gian.@277.56 Em@278.19 gái@278.33 kể@278.51 chuyện@278.65 ở@278.96 trường.@279.06 Mẹ@279.70 gắp@279.84 cho@280.08 bạn@280.25 miếng@280.42 cá.@280.66 Bữa@281.22 cơm@281.40 đó@281.57 không@281.70 tốn@281.95 một@282.12 đồng@282.29 nào,@282.50 nhưng@282.97 là@283.19 bữa@283.30 ngon@283.45 nhất@283.62 trong@283.80 tháng.@284.01
+
+## beat "7 ending: meta"  285.19-291.77 s
+# À, còn một điều. Nếu bạn có sức mạnh này, thì chỉ riêng thời gian xem video này thôi, bạn đã kiếm được khoảng ba trăm nghìn đồng.
+À,@285.12 còn@285.56 một@285.69 điều.@285.83 Nếu@286.33 bạn@286.48 có@286.63 sức@286.75 mạnh@286.90 này,@287.08 thì@287.54 chỉ@287.73 riêng@287.92 thời@288.20 gian@288.44 xem@288.67 video@288.87 này@289.15 thôi,@289.34 bạn@289.88 đã@290.03 kiếm@290.25 được@290.43 khoảng@290.76 ba@291.01 trăm@291.13 nghìn@291.31 đồng.@291.52
+
+## beat "7 call to comments"  292.67-301.77 s
+# Còn bạn, nếu kiếm được một nghìn đồng mỗi giây, việc đầu tiên bạn sẽ làm là gì? Và nếu phải chọn, bạn chọn tiền, hay chọn thời gian? Bình luận cho mình biết nhé.
+Còn@292.61 bạn,@292.77 nếu@293.23 kiếm@293.38 được@293.64 một@293.82 nghìn@293.97 đồng@294.18 mỗi@294.37 giây,@294.51 việc@295.00 đầu@295.25 tiên@295.45 bạn@295.90 sẽ@296.11 làm@296.26 là@296.47 gì?@296.63 Và@297.40 nếu@297.55 phải@297.75 chọn,@297.99 bạn@298.53 chọn@298.79 tiền,@299.04 hay@299.52 chọn@299.68 thời@299.89 gian?@300.09 Bình@300.73 luận@300.88 cho@301.13 mình@301.26 biết@301.42 nhé.@301.58
+
+# chapter ends at s:304.77 (next chapter's first cut, or the episode end)

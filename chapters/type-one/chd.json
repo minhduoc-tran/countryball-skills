@@ -1,0 +1,298 @@
+{
+  "chapter": "d",
+  "shots": [
+    {
+      "id": "D1",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "solar",
+      "key": 30,
+      "note": "Đó là phép tính minh họa, không phải dự báo."
+    },
+    {
+      "id": "D2",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "solar",
+      "key": 30,
+      "note": "Đó là phép tính minh họa, không phải dự báo."
+    },
+    {
+      "id": "D3",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "solar",
+      "key": 30,
+      "note": "Thu ánh nắng vốn tới Trái Đất khác nguồn mới."
+    },
+    {
+      "id": "D4",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "solar",
+      "key": 30,
+      "note": "Thu ánh nắng vốn tới Trái Đất khác nguồn mới."
+    },
+    {
+      "id": "D5",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "water",
+      "key": 30,
+      "note": "Khử mặn cũng để lại nước muối đậm đặc."
+    },
+    {
+      "id": "D6",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "water",
+      "key": 30,
+      "note": "Khử mặn cũng để lại nước muối đậm đặc."
+    },
+    {
+      "id": "D7",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "earth",
+      "key": 30,
+      "note": "Công suất lớn cần giới hạn sinh thái lớn tương ứng."
+    },
+    {
+      "id": "D8",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "earth",
+      "key": 30,
+      "note": "Công suất lớn cần giới hạn sinh thái lớn tương ứng."
+    },
+    {
+      "id": "D9",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "storm",
+      "key": 30,
+      "note": "Bạn không thể bấm nút xóa mọi cơn bão."
+    },
+    {
+      "id": "D10",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "storm",
+      "key": 30,
+      "note": "Bạn không thể bấm nút xóa mọi cơn bão."
+    },
+    {
+      "id": "D11",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "storm",
+      "key": 30,
+      "note": "Cấp I không chứng minh khả năng điều khiển thời tiết."
+    },
+    {
+      "id": "D12",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "storm",
+      "key": 30,
+      "note": "Cấp I không chứng minh khả năng điều khiển thời tiết."
+    },
+    {
+      "id": "D13",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "control",
+      "key": 30,
+      "note": "Một trung tâm muốn nối mọi thứ vào nó."
+    },
+    {
+      "id": "D14",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "control",
+      "key": 30,
+      "note": "Một trung tâm muốn nối mọi thứ vào nó."
+    },
+    {
+      "id": "D15",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "grid",
+      "key": 30,
+      "note": "Càng liên kết, lỗi càng cần được cô lập."
+    },
+    {
+      "id": "D16",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "grid",
+      "key": 30,
+      "note": "Càng liên kết, lỗi càng cần được cô lập."
+    },
+    {
+      "id": "D17",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "city",
+      "key": 30,
+      "note": "Trong kịch bản này, một vùng bất ngờ tắt điện."
+    },
+    {
+      "id": "D18",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "city",
+      "key": 30,
+      "note": "Trong kịch bản này, một vùng bất ngờ tắt điện."
+    },
+    {
+      "id": "D19",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "hospital",
+      "key": 30,
+      "note": "Bệnh viện chuyển sang nguồn dự phòng."
+    },
+    {
+      "id": "D20",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "hospital",
+      "key": 30,
+      "note": "Bệnh viện chuyển sang nguồn dự phòng."
+    },
+    {
+      "id": "D21",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "family",
+      "key": 30,
+      "note": "Nhà em gái bạn cũng chìm vào tối."
+    },
+    {
+      "id": "D22",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "family",
+      "key": 30,
+      "note": "Nhà em gái bạn cũng chìm vào tối."
+    },
+    {
+      "id": "D23",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "control",
+      "key": 30,
+      "note": "Bạn có quyền chọn cách chia phần điện còn lại."
+    },
+    {
+      "id": "D24",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "control",
+      "key": 30,
+      "note": "Bạn có quyền chọn cách chia phần điện còn lại."
+    }
+  ],
+  "edit": [
+    {
+      "shot": "D1",
+      "at": "s:180.0"
+    },
+    {
+      "shot": "D2",
+      "at": "s:182.5"
+    },
+    {
+      "shot": "D3",
+      "at": "s:185.0"
+    },
+    {
+      "shot": "D4",
+      "at": "s:187.5"
+    },
+    {
+      "shot": "D5",
+      "at": "s:190.0"
+    },
+    {
+      "shot": "D6",
+      "at": "s:192.5"
+    },
+    {
+      "shot": "D7",
+      "at": "s:195.0"
+    },
+    {
+      "shot": "D8",
+      "at": "s:197.5"
+    },
+    {
+      "shot": "D9",
+      "at": "s:200.0"
+    },
+    {
+      "shot": "D10",
+      "at": "s:202.5"
+    },
+    {
+      "shot": "D11",
+      "at": "s:205.0"
+    },
+    {
+      "shot": "D12",
+      "at": "s:207.5"
+    },
+    {
+      "shot": "D13",
+      "at": "s:210.0"
+    },
+    {
+      "shot": "D14",
+      "at": "s:212.5"
+    },
+    {
+      "shot": "D15",
+      "at": "s:215.0"
+    },
+    {
+      "shot": "D16",
+      "at": "s:217.5"
+    },
+    {
+      "shot": "D17",
+      "at": "s:220.0"
+    },
+    {
+      "shot": "D18",
+      "at": "s:222.5"
+    },
+    {
+      "shot": "D19",
+      "at": "s:225.0"
+    },
+    {
+      "shot": "D20",
+      "at": "s:227.5"
+    },
+    {
+      "shot": "D21",
+      "at": "s:230.0"
+    },
+    {
+      "shot": "D22",
+      "at": "s:232.5"
+    },
+    {
+      "shot": "D23",
+      "at": "s:235.0"
+    },
+    {
+      "shot": "D24",
+      "at": "s:237.5"
+    }
+  ],
+  "fx": [],
+  "events": [],
+  "repeats": []
+}

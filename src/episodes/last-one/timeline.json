@@ -1,0 +1,2888 @@
+{
+ "slug": "last-one",
+ "title": "SẼ RA SAO NẾU THẾ GIỚI CHỈ CÒN MÌNH BẠN?",
+ "fps": 30,
+ "total": 9416,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 24,
+   "t0": 0,
+   "t1": 24,
+   "line": "Cả hộp bánh,"
+  },
+  {
+   "shot": "A2",
+   "a": 24,
+   "b": 55,
+   "t0": 0,
+   "t1": 31,
+   "line": "không ai giành."
+  },
+  {
+   "shot": "A3",
+   "a": 55,
+   "b": 88,
+   "t0": 0,
+   "t1": 33,
+   "line": "Chỉ còn mình bạn.",
+   "look": "alone"
+  },
+  {
+   "shot": "A4",
+   "a": 88,
+   "b": 120,
+   "t0": 0,
+   "t1": 32,
+   "line": "Lớp học không thầy,"
+  },
+  {
+   "shot": "A5",
+   "a": 120,
+   "b": 151,
+   "t0": 0,
+   "t1": 31,
+   "line": "không kiểm tra."
+  },
+  {
+   "shot": "A6",
+   "a": 151,
+   "b": 182,
+   "t0": 0,
+   "t1": 31,
+   "line": "Chỉ còn mình bạn.",
+   "look": "alone"
+  },
+  {
+   "shot": "A7",
+   "a": 182,
+   "b": 220,
+   "t0": 0,
+   "t1": 38,
+   "line": "Gọi cho bạn thân."
+  },
+  {
+   "shot": "A8",
+   "a": 220,
+   "b": 253,
+   "t0": 0,
+   "t1": 33,
+   "line": "Không ai bắt máy."
+  },
+  {
+   "shot": "A9",
+   "a": 253,
+   "b": 349,
+   "t0": 0,
+   "t1": 96,
+   "line": "Sẽ ra sao nếu thế giới chỉ còn mình bạn?"
+  },
+  {
+   "shot": "A10",
+   "a": 349,
+   "b": 416,
+   "t0": 0,
+   "t1": 67,
+   "line": "Bảy giờ sáng. Chuông báo thức reo."
+  },
+  {
+   "shot": "A11",
+   "a": 416,
+   "b": 494,
+   "t0": 0,
+   "t1": 78,
+   "line": "Bạn nằm chờ tiếng mẹ gọi dậy, như mọi ngày."
+  },
+  {
+   "shot": "A12",
+   "a": 494,
+   "b": 554,
+   "t0": 0,
+   "t1": 60,
+   "line": "Nhưng hôm nay, không ai gọi cả."
+  },
+  {
+   "shot": "A13",
+   "a": 554,
+   "b": 594,
+   "t0": 0,
+   "t1": 40,
+   "line": "Cả nhà im phăng phắc."
+  },
+  {
+   "shot": "A14",
+   "a": 594,
+   "b": 625,
+   "t0": 0,
+   "t1": 31,
+   "line": "Không tiếng xe máy,"
+  },
+  {
+   "shot": "A15",
+   "a": 625,
+   "b": 658,
+   "t0": 0,
+   "t1": 33,
+   "line": "không tiếng loa phường,"
+  },
+  {
+   "shot": "A16",
+   "a": 658,
+   "b": 696,
+   "t0": 0,
+   "t1": 38,
+   "line": "không cả tiếng chó sủa."
+  },
+  {
+   "shot": "A17",
+   "a": 696,
+   "b": 766,
+   "t0": 0,
+   "t1": 70,
+   "line": "Dưới bếp, bữa sáng vẫn nằm trên bàn."
+  },
+  {
+   "shot": "A18",
+   "a": 766,
+   "b": 808,
+   "t0": 0,
+   "t1": 42,
+   "line": "Ấm nước vẫn còn ấm."
+  },
+  {
+   "shot": "A19",
+   "a": 808,
+   "b": 853,
+   "t0": 0,
+   "t1": 45,
+   "line": "Nhưng mẹ không có ở đó."
+  },
+  {
+   "shot": "A20",
+   "a": 853,
+   "b": 887,
+   "t0": 0,
+   "t1": 34,
+   "line": "Bạn gọi cho mẹ."
+  },
+  {
+   "shot": "A21",
+   "a": 887,
+   "b": 915,
+   "t0": 0,
+   "t1": 28,
+   "line": "Gọi cho bố."
+  },
+  {
+   "shot": "A22",
+   "a": 915,
+   "b": 951,
+   "t0": 0,
+   "t1": 36,
+   "line": "Gọi cho em gái."
+  },
+  {
+   "shot": "A23",
+   "a": 951,
+   "b": 994,
+   "t0": 0,
+   "t1": 43,
+   "line": "Điện thoại cứ đổ chuông,"
+  },
+  {
+   "shot": "A24",
+   "a": 994,
+   "b": 1019,
+   "t0": 0,
+   "t1": 25,
+   "line": "rồi tắt."
+  },
+  {
+   "shot": "A25",
+   "a": 1019,
+   "b": 1056,
+   "t0": 0,
+   "t1": 37,
+   "line": "Bạn mở mạng xã hội."
+  },
+  {
+   "shot": "A26",
+   "a": 1056,
+   "b": 1136,
+   "t0": 0,
+   "t1": 80,
+   "line": "Bài đăng mới nhất là lúc ba giờ sáng."
+  },
+  {
+   "shot": "A27",
+   "a": 1136,
+   "b": 1194,
+   "t0": 0,
+   "t1": 58,
+   "line": "Sau đó, không có gì nữa."
+  },
+  {
+   "shot": "A28",
+   "a": 1194,
+   "b": 1250,
+   "t0": 0,
+   "t1": 56,
+   "line": "Không một bài mới, không một bình luận,"
+  },
+  {
+   "shot": "A29",
+   "a": 1250,
+   "b": 1287,
+   "t0": 0,
+   "t1": 37,
+   "line": "không một dòng tin nhắn."
+  },
+  {
+   "shot": "A30",
+   "a": 1287,
+   "b": 1326,
+   "t0": 0,
+   "t1": 39,
+   "line": "Bạn chạy xuống cầu thang,"
+  },
+  {
+   "shot": "A31",
+   "a": 1326,
+   "b": 1354,
+   "t0": 0,
+   "t1": 28,
+   "line": "lao ra đường."
+  },
+  {
+   "shot": "A32",
+   "a": 1354,
+   "b": 1427,
+   "t0": 0,
+   "t1": 73,
+   "line": "Con đường mọi khi kẹt cứng, giờ trống trơn."
+  },
+  {
+   "shot": "A33",
+   "a": 1427,
+   "b": 1464,
+   "t0": 0,
+   "t1": 37,
+   "line": "Xe máy dựng giữa đường,"
+  },
+  {
+   "shot": "A34",
+   "a": 1464,
+   "b": 1498,
+   "t0": 0,
+   "t1": 34,
+   "line": "chìa khóa vẫn cắm."
+  },
+  {
+   "shot": "A35",
+   "a": 1498,
+   "b": 1563,
+   "t0": 0,
+   "t1": 65,
+   "line": "Đèn giao thông vẫn nhảy xanh, nhảy đỏ,"
+  },
+  {
+   "shot": "A36",
+   "a": 1563,
+   "b": 1597,
+   "t0": 0,
+   "t1": 34,
+   "line": "cho không một ai."
+  },
+  {
+   "shot": "A37",
+   "a": 1597,
+   "b": 1632,
+   "t0": 0,
+   "t1": 35,
+   "line": "Bạn đi về phía chợ."
+  },
+  {
+   "shot": "A38",
+   "a": 1632,
+   "b": 1711,
+   "t0": 0,
+   "t1": 79,
+   "line": "Các sạp hàng vẫn bày đầy rau, đầy cá."
+  },
+  {
+   "shot": "A39",
+   "a": 1711,
+   "b": 1763,
+   "t0": 0,
+   "t1": 52,
+   "line": "Chiếc xe buýt số chín đỗ ở trạm,"
+  },
+  {
+   "shot": "A40",
+   "a": 1763,
+   "b": 1820,
+   "t0": 0,
+   "t1": 57,
+   "line": "cửa mở, động cơ đã nguội."
+  },
+  {
+   "shot": "A41",
+   "a": 1820,
+   "b": 1882,
+   "t0": 0,
+   "t1": 62,
+   "line": "Bạn gọi to: có ai không?"
+  },
+  {
+   "shot": "A42",
+   "a": 1882,
+   "b": 1932,
+   "t0": 0,
+   "t1": 50,
+   "line": "Chỉ có tiếng vọng trả lời."
+  },
+  {
+   "shot": "A43",
+   "a": 1932,
+   "b": 2015,
+   "t0": 0,
+   "t1": 83,
+   "line": "Hơn tám tỷ người, biến mất sau một đêm."
+  },
+  {
+   "shot": "A44",
+   "a": 2015,
+   "b": 2037,
+   "t0": 0,
+   "t1": 22,
+   "line": "Không tiếng động,"
+  },
+  {
+   "shot": "A45",
+   "a": 2037,
+   "b": 2065,
+   "t0": 0,
+   "t1": 28,
+   "line": "không dấu vết."
+  },
+  {
+   "shot": "A46",
+   "a": 2065,
+   "b": 2113,
+   "t0": 0,
+   "t1": 48,
+   "line": "Chỉ còn mình bạn.",
+   "look": "alone"
+  },
+  {
+   "shot": "B1",
+   "a": 2113,
+   "b": 2168,
+   "t0": 0,
+   "t1": 55,
+   "line": "Ngày đầu tiên, bạn sợ."
+  },
+  {
+   "shot": "B2",
+   "a": 2168,
+   "b": 2232,
+   "t0": 0,
+   "t1": 64,
+   "line": "Ngày thứ hai, bạn bắt đầu thấy thích."
+  },
+  {
+   "shot": "B3",
+   "a": 2232,
+   "b": 2281,
+   "t0": 0,
+   "t1": 49,
+   "line": "Siêu thị? Của bạn."
+  },
+  {
+   "shot": "B4",
+   "a": 2281,
+   "b": 2323,
+   "t0": 0,
+   "t1": 42,
+   "line": "Muốn lấy gì thì lấy."
+  },
+  {
+   "shot": "B5",
+   "a": 2323,
+   "b": 2377,
+   "t0": 0,
+   "t1": 54,
+   "line": "Không xếp hàng, không tính tiền."
+  },
+  {
+   "shot": "B6",
+   "a": 2377,
+   "b": 2394,
+   "t0": 0,
+   "t1": 17,
+   "line": "Kem,"
+  },
+  {
+   "shot": "B7",
+   "a": 2394,
+   "b": 2411,
+   "t0": 0,
+   "t1": 17,
+   "line": "bánh,"
+  },
+  {
+   "shot": "B8",
+   "a": 2411,
+   "b": 2431,
+   "t0": 0,
+   "t1": 20,
+   "line": "nước ngọt,"
+  },
+  {
+   "shot": "B9",
+   "a": 2431,
+   "b": 2479,
+   "t0": 0,
+   "t1": 48,
+   "line": "bạn ăn thẳng từ trên kệ."
+  },
+  {
+   "shot": "B10",
+   "a": 2479,
+   "b": 2526,
+   "t0": 0,
+   "t1": 47,
+   "line": "Trường học? Không thầy,"
+  },
+  {
+   "shot": "B11",
+   "a": 2526,
+   "b": 2561,
+   "t0": 0,
+   "t1": 35,
+   "line": "không bài kiểm tra."
+  },
+  {
+   "shot": "B12",
+   "a": 2561,
+   "b": 2596,
+   "t0": 0,
+   "t1": 35,
+   "line": "Bạn viết lên bảng bất"
+  },
+  {
+   "shot": "B13",
+   "a": 2596,
+   "b": 2629,
+   "t0": 0,
+   "t1": 33,
+   "line": "cứ điều gì bạn muốn."
+  },
+  {
+   "shot": "B14",
+   "a": 2629,
+   "b": 2687,
+   "t0": 0,
+   "t1": 58,
+   "line": "Cả thành phố là sân chơi của bạn."
+  },
+  {
+   "shot": "B15",
+   "a": 2687,
+   "b": 2761,
+   "t0": 0,
+   "t1": 74,
+   "line": "Bạn nằm giữa ngã tư đông nhất, ngắm mây trôi."
+  },
+  {
+   "shot": "B16",
+   "a": 2761,
+   "b": 2807,
+   "t0": 0,
+   "t1": 46,
+   "line": "Không một tiếng còi xe."
+  },
+  {
+   "shot": "B17",
+   "a": 2807,
+   "b": 2852,
+   "t0": 0,
+   "t1": 45,
+   "line": "Bạn đạp xe giữa đường cao tốc,"
+  },
+  {
+   "shot": "B18",
+   "a": 2852,
+   "b": 2888,
+   "t0": 0,
+   "t1": 36,
+   "line": "hai tay buông lái."
+  },
+  {
+   "shot": "B19",
+   "a": 2888,
+   "b": 2938,
+   "t0": 0,
+   "t1": 50,
+   "line": "Bạn leo lên nóc tòa nhà cao nhất,"
+  },
+  {
+   "shot": "B20",
+   "a": 2938,
+   "b": 2977,
+   "t0": 0,
+   "t1": 39,
+   "line": "và hét thật to."
+  },
+  {
+   "shot": "B21",
+   "a": 2977,
+   "b": 3016,
+   "t0": 0,
+   "t1": 39,
+   "line": "Cả thành phố nghe thấy."
+  },
+  {
+   "shot": "B22",
+   "a": 3016,
+   "b": 3080,
+   "t0": 0,
+   "t1": 64,
+   "line": "Mà thật ra, chẳng có ai nghe cả."
+  },
+  {
+   "shot": "B23",
+   "a": 3080,
+   "b": 3154,
+   "t0": 0,
+   "t1": 74,
+   "line": "Tối đến, bạn bật nhạc to hết cỡ."
+  },
+  {
+   "shot": "B24",
+   "a": 3154,
+   "b": 3195,
+   "t0": 0,
+   "t1": 41,
+   "line": "Không ai phàn nàn."
+  },
+  {
+   "shot": "B25",
+   "a": 3195,
+   "b": 3239,
+   "t0": 0,
+   "t1": 44,
+   "line": "Bạn ngủ ở bất cứ đâu,"
+  },
+  {
+   "shot": "B26",
+   "a": 3239,
+   "b": 3287,
+   "t0": 0,
+   "t1": 48,
+   "line": "thức dậy lúc nào cũng được."
+  },
+  {
+   "shot": "B27",
+   "a": 3287,
+   "b": 3347,
+   "t0": 0,
+   "t1": 60,
+   "line": "Cửa hàng đồ chơi lớn nhất thành phố,"
+  },
+  {
+   "shot": "B28",
+   "a": 3347,
+   "b": 3392,
+   "t0": 0,
+   "t1": 45,
+   "line": "giờ là phòng riêng của bạn."
+  },
+  {
+   "shot": "B29",
+   "a": 3392,
+   "b": 3467,
+   "t0": 0,
+   "t1": 75,
+   "line": "Bạn dựng một pháo đài bằng gối giữa trung tâm thương mại,"
+  },
+  {
+   "shot": "B30",
+   "a": 3467,
+   "b": 3504,
+   "t0": 0,
+   "t1": 37,
+   "line": "và ngủ ở đó."
+  },
+  {
+   "shot": "B31",
+   "a": 3504,
+   "b": 3584,
+   "t0": 0,
+   "t1": 80,
+   "line": "Không bài tập. Không ai bảo bạn phải làm gì."
+  },
+  {
+   "shot": "B32",
+   "a": 3584,
+   "b": 3650,
+   "t0": 0,
+   "t1": 66,
+   "line": "Nghe như một giấc mơ, đúng không?"
+  },
+  {
+   "shot": "B33",
+   "a": 3650,
+   "b": 3694,
+   "t0": 0,
+   "t1": 44,
+   "line": "Nhưng giấc mơ này có một"
+  },
+  {
+   "shot": "B34",
+   "a": 3694,
+   "b": 3738,
+   "t0": 0,
+   "t1": 44,
+   "line": "cái giá."
+  },
+  {
+   "shot": "C1",
+   "a": 3738,
+   "b": 3770,
+   "t0": 0,
+   "t1": 32,
+   "line": "Thứ nhất: điện."
+  },
+  {
+   "shot": "C2",
+   "a": 3770,
+   "b": 3914,
+   "t0": 0,
+   "t1": 144,
+   "line": "Nhà máy điện cần con người vận hành từng ngày. Không còn ai, chúng sẽ lần lượt tự ngắt."
+  },
+  {
+   "shot": "C3",
+   "a": 3914,
+   "b": 4002,
+   "t0": 0,
+   "t1": 88,
+   "line": "Theo nhiều chuyên gia, chỉ trong vài giờ đến vài ngày,"
+  },
+  {
+   "shot": "C4",
+   "a": 4002,
+   "b": 4063,
+   "t0": 0,
+   "t1": 61,
+   "line": "cả thành phố sẽ chìm vào bóng tối."
+  },
+  {
+   "shot": "C5",
+   "a": 4063,
+   "b": 4110,
+   "t0": 0,
+   "t1": 47,
+   "line": "Thứ hai: thức ăn."
+  },
+  {
+   "shot": "C6",
+   "a": 4110,
+   "b": 4176,
+   "t0": 0,
+   "t1": 66,
+   "line": "Khi mất điện, tủ lạnh chỉ giữ đồ ăn an toàn"
+  },
+  {
+   "shot": "C7",
+   "a": 4176,
+   "b": 4218,
+   "t0": 0,
+   "t1": 42,
+   "line": "khoảng bốn tiếng."
+  },
+  {
+   "shot": "C8",
+   "a": 4218,
+   "b": 4296,
+   "t0": 0,
+   "t1": 78,
+   "line": "Sau đó, thịt, sữa, rau,"
+  },
+  {
+   "shot": "C9",
+   "a": 4296,
+   "b": 4359,
+   "t0": 0,
+   "t1": 63,
+   "line": "tất cả bắt đầu hỏng. Đó là sự thật."
+  },
+  {
+   "shot": "C10",
+   "a": 4359,
+   "b": 4436,
+   "t0": 0,
+   "t1": 77,
+   "line": "Bạn sẽ phải sống bằng đồ hộp. Tin vui là"
+  },
+  {
+   "shot": "C11",
+   "a": 4436,
+   "b": 4524,
+   "t0": 0,
+   "t1": 88,
+   "line": "nhiều loại đồ hộp có thể để được từ hai đến năm năm."
+  },
+  {
+   "shot": "C12",
+   "a": 4524,
+   "b": 4598,
+   "t0": 0,
+   "t1": 74,
+   "line": "Tin buồn là rồi chúng cũng sẽ hết."
+  },
+  {
+   "shot": "C13",
+   "a": 4598,
+   "b": 4660,
+   "t0": 0,
+   "t1": 62,
+   "line": "Và bạn chưa từng trồng một cây rau nào."
+  },
+  {
+   "shot": "C14",
+   "a": 4660,
+   "b": 4695,
+   "t0": 0,
+   "t1": 35,
+   "line": "Thứ ba: nước."
+  },
+  {
+   "shot": "C15",
+   "a": 4695,
+   "b": 4788,
+   "t0": 0,
+   "t1": 93,
+   "line": "Máy bơm ngừng chạy, vòi nước nhỏ giọt, rồi khô hẳn."
+  },
+  {
+   "shot": "C16",
+   "a": 4788,
+   "b": 4814,
+   "t0": 0,
+   "t1": 26,
+   "line": "Thứ tư:"
+  },
+  {
+   "shot": "C17",
+   "a": 4814,
+   "b": 4875,
+   "t0": 0,
+   "t1": 61,
+   "line": "nếu bạn bị ốm, không có bác sĩ,"
+  },
+  {
+   "shot": "C18",
+   "a": 4875,
+   "b": 4914,
+   "t0": 0,
+   "t1": 39,
+   "line": "không có xe cấp cứu."
+  },
+  {
+   "shot": "C19",
+   "a": 4914,
+   "b": 4974,
+   "t0": 0,
+   "t1": 60,
+   "line": "Một vết cắt nhỏ cũng có thể nhiễm trùng."
+  },
+  {
+   "shot": "C20",
+   "a": 4974,
+   "b": 5017,
+   "t0": 0,
+   "t1": 43,
+   "line": "Thứ năm: internet."
+  },
+  {
+   "shot": "C21",
+   "a": 5017,
+   "b": 5145,
+   "t0": 0,
+   "t1": 128,
+   "line": "Các trung tâm dữ liệu chạy máy phát dự phòng được một thời gian, rồi cũng tắt."
+  },
+  {
+   "shot": "C22",
+   "a": 5145,
+   "b": 5222,
+   "t0": 0,
+   "t1": 77,
+   "line": "Không còn bản đồ, không còn video hướng dẫn."
+  },
+  {
+   "shot": "C23",
+   "a": 5222,
+   "b": 5294,
+   "t0": 0,
+   "t1": 72,
+   "line": "Muốn biết cách trồng rau hay cách băng vết thương,"
+  },
+  {
+   "shot": "C24",
+   "a": 5294,
+   "b": 5377,
+   "t0": 0,
+   "t1": 83,
+   "line": "bạn phải tự tìm trong thư viện, từng trang sách một."
+  },
+  {
+   "shot": "C25",
+   "a": 5377,
+   "b": 5437,
+   "t0": 0,
+   "t1": 60,
+   "line": "Vài tuần sau, cỏ bắt đầu mọc lên qua"
+  },
+  {
+   "shot": "C26",
+   "a": 5437,
+   "b": 5488,
+   "t0": 0,
+   "t1": 51,
+   "line": "những kẽ nứt trên vỉa hè."
+  },
+  {
+   "shot": "C27",
+   "a": 5488,
+   "b": 5595,
+   "t0": 0,
+   "t1": 107,
+   "line": "Thành phố không có ai chăm, đang dần trả lại cho thiên nhiên."
+  },
+  {
+   "shot": "C28",
+   "a": 5595,
+   "b": 5704,
+   "t0": 0,
+   "t1": 109,
+   "line": "Nhưng điều đáng sợ nhất không phải bóng tối. Cũng không phải cơn đói."
+  },
+  {
+   "shot": "C29",
+   "a": 5704,
+   "b": 5756,
+   "t0": 0,
+   "t1": 52,
+   "line": "Mà là sự im lặng."
+  },
+  {
+   "shot": "D1",
+   "a": 5756,
+   "b": 5801,
+   "t0": 0,
+   "t1": 45,
+   "line": "Ngày thứ năm, bạn tìm thấy"
+  },
+  {
+   "shot": "D2",
+   "a": 5801,
+   "b": 5837,
+   "t0": 0,
+   "t1": 36,
+   "line": "một con mèo trốn dưới"
+  },
+  {
+   "shot": "D2b",
+   "a": 5837,
+   "b": 5878,
+   "t0": 0,
+   "t1": 41,
+   "line": "gầm xe. Hóa ra,"
+  },
+  {
+   "shot": "D3",
+   "a": 5878,
+   "b": 5910,
+   "t0": 0,
+   "t1": 32,
+   "line": "động vật vẫn còn."
+  },
+  {
+   "shot": "D4",
+   "a": 5910,
+   "b": 5974,
+   "t0": 0,
+   "t1": 64,
+   "line": "Ít nhất, bạn có bạn đồng hành."
+  },
+  {
+   "shot": "D5",
+   "a": 5974,
+   "b": 6012,
+   "t0": 0,
+   "t1": 38,
+   "line": "Nhưng nó không biết nói."
+  },
+  {
+   "shot": "D6",
+   "a": 6012,
+   "b": 6040,
+   "t0": 0,
+   "t1": 28,
+   "line": "Ngày thứ mười,"
+  },
+  {
+   "shot": "D7",
+   "a": 6040,
+   "b": 6087,
+   "t0": 0,
+   "t1": 47,
+   "line": "bạn bắt đầu nói chuyện một mình."
+  },
+  {
+   "shot": "D8",
+   "a": 6087,
+   "b": 6174,
+   "t0": 0,
+   "t1": 87,
+   "line": "Ngày thứ hai mươi, bạn đặt tên cho chậu cây ngoài ban công,"
+  },
+  {
+   "shot": "D9",
+   "a": 6174,
+   "b": 6244,
+   "t0": 0,
+   "t1": 70,
+   "line": "và kể cho nó nghe về một ngày của bạn."
+  },
+  {
+   "shot": "D10",
+   "a": 6244,
+   "b": 6306,
+   "t0": 0,
+   "t1": 62,
+   "line": "Bạn bắt đầu quay video nhật ký mỗi"
+  },
+  {
+   "shot": "D11",
+   "a": 6306,
+   "b": 6342,
+   "t0": 0,
+   "t1": 36,
+   "line": "tối, cho một người"
+  },
+  {
+   "shot": "D12",
+   "a": 6342,
+   "b": 6375,
+   "t0": 0,
+   "t1": 33,
+   "line": "sẽ không bao giờ xem."
+  },
+  {
+   "shot": "D13",
+   "a": 6375,
+   "b": 6465,
+   "t0": 0,
+   "t1": 90,
+   "line": "Ngày sinh nhật, bạn cắm một cây nến lên chiếc bánh đã hết hạn,"
+  },
+  {
+   "shot": "D14",
+   "a": 6465,
+   "b": 6524,
+   "t0": 0,
+   "t1": 59,
+   "line": "và tự hát chúc mừng sinh nhật mình."
+  },
+  {
+   "shot": "D15",
+   "a": 6524,
+   "b": 6576,
+   "t0": 0,
+   "t1": 52,
+   "line": "Hát xong, không ai vỗ tay."
+  },
+  {
+   "shot": "D16",
+   "a": 6576,
+   "b": 6713,
+   "t0": 0,
+   "t1": 137,
+   "line": "Các nhà khoa học nói: cô đơn kéo dài hại ngang hút mười lăm điếu thuốc mỗi ngày."
+  },
+  {
+   "shot": "D17",
+   "a": 6713,
+   "b": 6747,
+   "t0": 0,
+   "t1": 34,
+   "line": "Đó là sự thật."
+  },
+  {
+   "shot": "D18",
+   "a": 6747,
+   "b": 6822,
+   "t0": 0,
+   "t1": 75,
+   "line": "Con người được tạo ra để sống cùng nhau."
+  },
+  {
+   "shot": "D19",
+   "a": 6822,
+   "b": 6906,
+   "t0": 0,
+   "t1": 84,
+   "line": "Những người bị biệt giam lâu ngày còn có thể bị ảo giác."
+  },
+  {
+   "shot": "D20",
+   "a": 6906,
+   "b": 6982,
+   "t0": 0,
+   "t1": 76,
+   "line": "Một đêm, bạn nghe thấy tiếng mẹ gọi dưới bếp.",
+   "look": "memory"
+  },
+  {
+   "shot": "D21",
+   "a": 6982,
+   "b": 7013,
+   "t0": 0,
+   "t1": 31,
+   "line": "Bạn chạy xuống."
+  },
+  {
+   "shot": "D22",
+   "a": 7013,
+   "b": 7069,
+   "t0": 0,
+   "t1": 56,
+   "line": "Bếp trống không."
+  },
+  {
+   "shot": "E1",
+   "a": 7069,
+   "b": 7126,
+   "t0": 0,
+   "t1": 57,
+   "line": "Đêm nào bạn cũng gọi cho bạn thân."
+  },
+  {
+   "shot": "E2",
+   "a": 7126,
+   "b": 7175,
+   "t0": 0,
+   "t1": 49,
+   "line": "Đêm nào cũng không ai nghe máy."
+  },
+  {
+   "shot": "E3",
+   "a": 7175,
+   "b": 7233,
+   "t0": 0,
+   "t1": 58,
+   "line": "Cho đến một đêm, điện thoại hết pin,"
+  },
+  {
+   "shot": "E4",
+   "a": 7233,
+   "b": 7285,
+   "t0": 0,
+   "t1": 52,
+   "line": "và không còn chỗ nào để sạc."
+  },
+  {
+   "shot": "E5",
+   "a": 7285,
+   "b": 7393,
+   "t0": 0,
+   "t1": 108,
+   "line": "Bạn ngồi nhìn màn hình đen thật lâu, như thể nó sẽ sáng lên."
+  },
+  {
+   "shot": "E6",
+   "a": 7393,
+   "b": 7439,
+   "t0": 0,
+   "t1": 46,
+   "line": "Bạn vào phòng em gái."
+  },
+  {
+   "shot": "E7",
+   "a": 7439,
+   "b": 7513,
+   "t0": 0,
+   "t1": 74,
+   "line": "Những bức vẽ bằng bút sáp vẫn dán trên tường."
+  },
+  {
+   "shot": "E8",
+   "a": 7513,
+   "b": 7572,
+   "t0": 0,
+   "t1": 59,
+   "line": "Ngày trước, hai đứa cãi nhau suốt.",
+   "look": "memory"
+  },
+  {
+   "shot": "E9",
+   "a": 7572,
+   "b": 7638,
+   "t0": 0,
+   "t1": 66,
+   "line": "Giờ bạn sẵn sàng đổi cả thế giới,"
+  },
+  {
+   "shot": "E10",
+   "a": 7638,
+   "b": 7732,
+   "t0": 0,
+   "t1": 94,
+   "line": "chỉ để được cãi nhau với em thêm một lần."
+  },
+  {
+   "shot": "E11",
+   "a": 7732,
+   "b": 7825,
+   "t0": 0,
+   "t1": 93,
+   "line": "Giờ hãy tưởng tượng: trước mặt bạn có một cái nút."
+  },
+  {
+   "shot": "E12",
+   "a": 7825,
+   "b": 7926,
+   "t0": 0,
+   "t1": 101,
+   "line": "Bấm vào, mọi người sẽ trở lại. Mọi thứ về như cũ:"
+  },
+  {
+   "shot": "E13",
+   "a": 7926,
+   "b": 7946,
+   "t0": 0,
+   "t1": 20,
+   "line": "kẹt xe,",
+   "look": "memory"
+  },
+  {
+   "shot": "E14",
+   "a": 7946,
+   "b": 7977,
+   "t0": 0,
+   "t1": 31,
+   "line": "bài kiểm tra,",
+   "look": "memory"
+  },
+  {
+   "shot": "E15",
+   "a": 7977,
+   "b": 8035,
+   "t0": 0,
+   "t1": 58,
+   "line": "mẹ gọi dậy lúc bảy giờ sáng.",
+   "look": "memory"
+  },
+  {
+   "shot": "E16",
+   "a": 8035,
+   "b": 8139,
+   "t0": 0,
+   "t1": 104,
+   "line": "Còn nếu không bấm, cả thế giới vẫn là của bạn. Mãi mãi."
+  },
+  {
+   "shot": "E17",
+   "a": 8139,
+   "b": 8197,
+   "t0": 0,
+   "t1": 58,
+   "line": "Bạn có bấm không? Nghĩ kỹ đi."
+  },
+  {
+   "shot": "E18",
+   "a": 8197,
+   "b": 8282,
+   "t0": 0,
+   "t1": 85,
+   "line": "Nếu bấm, bạn mất tất cả những gì đang có:"
+  },
+  {
+   "shot": "E19",
+   "a": 8282,
+   "b": 8308,
+   "t0": 0,
+   "t1": 26,
+   "line": "cả siêu thị,"
+  },
+  {
+   "shot": "E20",
+   "a": 8308,
+   "b": 8336,
+   "t0": 0,
+   "t1": 28,
+   "line": "cả thành phố,"
+  },
+  {
+   "shot": "E21",
+   "a": 8336,
+   "b": 8373,
+   "t0": 0,
+   "t1": 37,
+   "line": "cả sự tự do."
+  },
+  {
+   "shot": "E22",
+   "a": 8373,
+   "b": 8496,
+   "t0": 0,
+   "t1": 123,
+   "line": "Nhưng bạn sẽ có lại một thứ mà tám tỷ món đồ miễn phí cũng không mua được."
+  },
+  {
+   "shot": "E23",
+   "a": 8496,
+   "b": 8536,
+   "t0": 0,
+   "t1": 40,
+   "line": "Một người để nói chuyện.",
+   "look": "memory"
+  },
+  {
+   "shot": "E24",
+   "a": 8536,
+   "b": 8572,
+   "t0": 0,
+   "t1": 36,
+   "line": "Đêm thứ một trăm."
+  },
+  {
+   "shot": "E25",
+   "a": 8572,
+   "b": 8652,
+   "t0": 0,
+   "t1": 80,
+   "line": "Bạn ngồi trên sân thượng, con mèo nằm bên cạnh."
+  },
+  {
+   "shot": "E26",
+   "a": 8652,
+   "b": 8690,
+   "t0": 0,
+   "t1": 38,
+   "line": "Thành phố tối đen."
+  },
+  {
+   "shot": "E27",
+   "a": 8690,
+   "b": 8764,
+   "t0": 0,
+   "t1": 74,
+   "line": "Tám tỷ người, và giờ chỉ còn lại một."
+  },
+  {
+   "shot": "E28",
+   "a": 8764,
+   "b": 8859,
+   "t0": 0,
+   "t1": 95,
+   "line": "Bạn nhìn ra xa, tìm một ô cửa sổ sáng đèn."
+  },
+  {
+   "shot": "E29",
+   "a": 8859,
+   "b": 8926,
+   "t0": 0,
+   "t1": 67,
+   "line": "Một ánh lửa. Một dấu hiệu nào đó."
+  },
+  {
+   "shot": "E30",
+   "a": 8926,
+   "b": 9003,
+   "t0": 0,
+   "t1": 77,
+   "line": "Nhưng chỉ có bóng tối, và tiếng gió."
+  },
+  {
+   "shot": "E31",
+   "a": 9003,
+   "b": 9086,
+   "t0": 0,
+   "t1": 83,
+   "line": "Vậy, bạn sẽ nói chuyện với ai?"
+  },
+  {
+   "shot": "E32",
+   "a": 9086,
+   "b": 9217,
+   "t0": 0,
+   "t1": 131,
+   "line": "Còn bạn, nếu thế giới chỉ còn mình bạn, việc đầu tiên bạn sẽ làm là gì?"
+  },
+  {
+   "shot": "E33",
+   "a": 9217,
+   "b": 9416,
+   "t0": 0,
+   "t1": 199,
+   "line": "Và nếu có cái nút đó, bạn có bấm không? Bình luận cho mình biết nhé."
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "medium",
+   "key": 14,
+   "len": 24,
+   "first": 0,
+   "line": "Cả hộp bánh,",
+   "note": "a whole pile of cookies, arms go up"
+  },
+  {
+   "id": "A2",
+   "size": "top-down",
+   "key": 14,
+   "len": 31,
+   "first": 24,
+   "line": "không ai giành.",
+   "note": "empty places, mitten drags the heaped plate away"
+  },
+  {
+   "id": "A3",
+   "size": "wide",
+   "key": 16,
+   "len": 33,
+   "first": 55,
+   "line": "Chỉ còn mình bạn.",
+   "note": "alone eating at the island"
+  },
+  {
+   "id": "A4",
+   "size": "wide",
+   "key": 14,
+   "len": 32,
+   "first": 88,
+   "line": "Lớp học không thầy,",
+   "note": "empty classroom, arms out"
+  },
+  {
+   "id": "A5",
+   "size": "top-down",
+   "key": 12,
+   "len": 31,
+   "first": 120,
+   "line": "không kiểm tra.",
+   "note": "test paper crumpled and flicked"
+  },
+  {
+   "id": "A6",
+   "size": "medium",
+   "key": 12,
+   "len": 31,
+   "first": 151,
+   "line": "Chỉ còn mình bạn.",
+   "note": "test crossed out, cheers"
+  },
+  {
+   "id": "A7",
+   "size": "top-down",
+   "key": 6,
+   "len": 38,
+   "first": 182,
+   "line": "Gọi cho bạn thân.",
+   "note": "phone calling BẠN THÂN"
+  },
+  {
+   "id": "A8",
+   "size": "close-up",
+   "key": 24,
+   "len": 33,
+   "first": 220,
+   "line": "Không ai bắt máy.",
+   "note": "phone to ear, smile drops"
+  },
+  {
+   "id": "A9",
+   "size": "wide",
+   "key": 50,
+   "len": 96,
+   "first": 253,
+   "line": "Sẽ ra sao nếu thế giới chỉ còn mình bạn?",
+   "note": "title over the empty city"
+  },
+  {
+   "id": "A10",
+   "size": "insert",
+   "key": 20,
+   "len": 67,
+   "first": 349,
+   "line": "Bảy giờ sáng. Chuông báo thức reo.",
+   "note": "alarm clock macro 07:00 ringing"
+  },
+  {
+   "id": "A11",
+   "size": "medium",
+   "key": 22,
+   "len": 78,
+   "first": 416,
+   "line": "Bạn nằm chờ tiếng mẹ gọi dậy, như mọi ngày.",
+   "note": "Pip propped in bed waiting, looks at the door"
+  },
+  {
+   "id": "A12",
+   "size": "close-up",
+   "key": 30,
+   "len": 60,
+   "first": 494,
+   "line": "Nhưng hôm nay, không ai gọi cả.",
+   "note": "Pip frowning at the door"
+  },
+  {
+   "id": "A13",
+   "size": "wide",
+   "key": 20,
+   "len": 40,
+   "first": 554,
+   "line": "Cả nhà im phăng phắc.",
+   "note": "empty stairwell"
+  },
+  {
+   "id": "A14",
+   "size": "insert",
+   "key": 14,
+   "len": 31,
+   "first": 594,
+   "line": "Không tiếng xe máy,",
+   "note": "street through the window, bikes still"
+  },
+  {
+   "id": "A15",
+   "size": "insert",
+   "key": 16,
+   "len": 33,
+   "first": 625,
+   "line": "không tiếng loa phường,",
+   "note": "horn loudspeakers on a pole, silent"
+  },
+  {
+   "id": "A16",
+   "size": "insert",
+   "key": 18,
+   "len": 38,
+   "first": 658,
+   "line": "không cả tiếng chó sủa.",
+   "note": "empty dog bowl, slack leash at a gate"
+  },
+  {
+   "id": "A17",
+   "size": "wide",
+   "key": 40,
+   "len": 70,
+   "first": 696,
+   "line": "Dưới bếp, bữa sáng vẫn nằm trên bàn.",
+   "note": "kitchen, push in to phở + bánh mì on the island"
+  },
+  {
+   "id": "A18",
+   "size": "insert",
+   "key": 20,
+   "len": 42,
+   "first": 766,
+   "line": "Ấm nước vẫn còn ấm.",
+   "note": "kettle on the hob, thin steam curl"
+  },
+  {
+   "id": "A19",
+   "size": "wide",
+   "key": 30,
+   "len": 45,
+   "first": 808,
+   "line": "Nhưng mẹ không có ở đó.",
+   "note": "apron on a chair, Pip small looking"
+  },
+  {
+   "id": "A20",
+   "size": "insert",
+   "key": 14,
+   "len": 34,
+   "first": 853,
+   "line": "Bạn gọi cho mẹ.",
+   "note": "phone ringing MẸ, top-down on island"
+  },
+  {
+   "id": "A21",
+   "size": "insert",
+   "key": 12,
+   "len": 28,
+   "first": 887,
+   "line": "Gọi cho bố.",
+   "note": "phone in hand BỐ"
+  },
+  {
+   "id": "A22",
+   "size": "insert",
+   "key": 14,
+   "len": 36,
+   "first": 915,
+   "line": "Gọi cho em gái.",
+   "note": "phone on floor EM GÁI, thumb"
+  },
+  {
+   "id": "A23",
+   "size": "close-up",
+   "key": 30,
+   "len": 43,
+   "first": 951,
+   "line": "Điện thoại cứ đổ chuông,",
+   "note": "Pip phone at ear, waits"
+  },
+  {
+   "id": "A24",
+   "size": "insert",
+   "key": 16,
+   "len": 25,
+   "first": 994,
+   "line": "rồi tắt.",
+   "note": "screen goes black, hand drops"
+  },
+  {
+   "id": "A25",
+   "size": "medium",
+   "key": 20,
+   "len": 37,
+   "first": 1019,
+   "line": "Bạn mở mạng xã hội.",
+   "note": "phone feed opens"
+  },
+  {
+   "id": "A26",
+   "size": "insert",
+   "key": 30,
+   "len": 80,
+   "first": 1056,
+   "line": "Bài đăng mới nhất là lúc ba giờ sáng.",
+   "note": "top post 03:00 ringed"
+  },
+  {
+   "id": "A27",
+   "size": "insert",
+   "key": 20,
+   "len": 58,
+   "first": 1136,
+   "line": "Sau đó, không có gì nữa.",
+   "note": "feed stops, spinner, no new posts"
+  },
+  {
+   "id": "A28",
+   "size": "insert",
+   "key": 50,
+   "len": 56,
+   "first": 1194,
+   "line": "Không một bài mới, không một bình luận,",
+   "note": "0 bài mới, 0 bình luận"
+  },
+  {
+   "id": "A29",
+   "size": "close-up",
+   "key": 24,
+   "len": 37,
+   "first": 1250,
+   "line": "không một dòng tin nhắn.",
+   "note": "Pip lit blue, 0 tin nhắn"
+  },
+  {
+   "id": "A30",
+   "size": "medium",
+   "key": 18,
+   "len": 39,
+   "first": 1287,
+   "line": "Bạn chạy xuống cầu thang,",
+   "note": "runs down the stairs"
+  },
+  {
+   "id": "A31",
+   "size": "medium",
+   "key": 14,
+   "len": 28,
+   "first": 1326,
+   "line": "lao ra đường.",
+   "note": "bursts into the street, skids"
+  },
+  {
+   "id": "A32",
+   "size": "wide",
+   "key": 30,
+   "len": 73,
+   "first": 1354,
+   "line": "Con đường mọi khi kẹt cứng, giờ trống trơn.",
+   "note": "empty street, low angle, Pip tiny"
+  },
+  {
+   "id": "A33",
+   "size": "medium",
+   "key": 28,
+   "len": 37,
+   "first": 1427,
+   "line": "Xe máy dựng giữa đường,",
+   "note": "walks up to the scooter in the road"
+  },
+  {
+   "id": "A34",
+   "size": "insert",
+   "key": 16,
+   "len": 34,
+   "first": 1464,
+   "line": "chìa khóa vẫn cắm.",
+   "note": "key in the ignition, tag swinging"
+  },
+  {
+   "id": "A35",
+   "size": "low",
+   "key": 24,
+   "len": 65,
+   "first": 1498,
+   "line": "Đèn giao thông vẫn nhảy xanh, nhảy đỏ,",
+   "note": "traffic light changing, countdown"
+  },
+  {
+   "id": "A36",
+   "size": "top-down",
+   "key": 14,
+   "len": 34,
+   "first": 1563,
+   "line": "cho không một ai.",
+   "note": "empty crossing from above"
+  },
+  {
+   "id": "A37",
+   "size": "medium",
+   "key": 20,
+   "len": 35,
+   "first": 1597,
+   "line": "Bạn đi về phía chợ.",
+   "note": "walks toward the market"
+  },
+  {
+   "id": "A38",
+   "size": "insert",
+   "key": 24,
+   "len": 79,
+   "first": 1632,
+   "line": "Các sạp hàng vẫn bày đầy rau, đầy cá.",
+   "note": "stall: greens then fish, pan"
+  },
+  {
+   "id": "A39",
+   "size": "medium",
+   "key": 26,
+   "len": 52,
+   "first": 1711,
+   "line": "Chiếc xe buýt số chín đỗ ở trạm,",
+   "note": "bus at the stop, Pip small"
+  },
+  {
+   "id": "A40",
+   "size": "insert",
+   "key": 14,
+   "len": 57,
+   "first": 1763,
+   "line": "cửa mở, động cơ đã nguội.",
+   "note": "bus door open, cold engine gauge"
+  },
+  {
+   "id": "A41",
+   "size": "close-up",
+   "key": 30,
+   "len": 62,
+   "first": 1820,
+   "line": "Bạn gọi to: có ai không?",
+   "note": "cups mouth shouting"
+  },
+  {
+   "id": "A42",
+   "size": "top-down",
+   "key": 20,
+   "len": 50,
+   "first": 1882,
+   "line": "Chỉ có tiếng vọng trả lời.",
+   "note": "very high, tiny Pip, echo rings"
+  },
+  {
+   "id": "A43",
+   "size": "schematic",
+   "key": 50,
+   "len": 83,
+   "first": 1932,
+   "line": "Hơn tám tỷ người, biến mất sau một đêm.",
+   "note": "8.200.000.000 people blink out to one"
+  },
+  {
+   "id": "A44",
+   "size": "medium",
+   "key": 14,
+   "len": 22,
+   "first": 2015,
+   "line": "Không tiếng động,",
+   "note": "empty bed, duvet still shaped"
+  },
+  {
+   "id": "A45",
+   "size": "insert",
+   "key": 16,
+   "len": 28,
+   "first": 2037,
+   "line": "không dấu vết.",
+   "note": "slippers by a door, light under it"
+  },
+  {
+   "id": "A46",
+   "size": "wide",
+   "key": 30,
+   "len": 48,
+   "first": 2065,
+   "line": "Chỉ còn mình bạn.",
+   "note": "Pip alone mid-street, camera rising"
+  },
+  {
+   "id": "B1",
+   "size": "medium",
+   "key": 20,
+   "len": 55,
+   "first": 2113,
+   "line": "Ngày đầu tiên, bạn sợ.",
+   "note": "night bedroom, Pip hugging knees in bed, worried, lamp on"
+  },
+  {
+   "id": "B2",
+   "size": "medium",
+   "key": 58,
+   "len": 64,
+   "first": 2168,
+   "line": "Ngày thứ hai, bạn bắt đầu thấy thích.",
+   "note": "front door, morning, shades slide on, smug"
+  },
+  {
+   "id": "B3",
+   "size": "wide",
+   "key": 30,
+   "len": 49,
+   "first": 2232,
+   "line": "Siêu thị? Của bạn.",
+   "note": "supermarket wide, Pip walks in arms wide"
+  },
+  {
+   "id": "B4",
+   "size": "medium",
+   "key": 9,
+   "len": 42,
+   "first": 2281,
+   "line": "Muốn lấy gì thì lấy.",
+   "note": "cart filling, items pop in"
+  },
+  {
+   "id": "B5",
+   "size": "wide",
+   "key": 28,
+   "len": 54,
+   "first": 2323,
+   "line": "Không xếp hàng, không tính tiền.",
+   "note": "empty checkout lane, Pip strolls past"
+  },
+  {
+   "id": "B6",
+   "size": "medium",
+   "key": 10,
+   "len": 17,
+   "first": 2377,
+   "line": "Kem,",
+   "note": "ice cream from the open chest freezer"
+  },
+  {
+   "id": "B7",
+   "size": "insert",
+   "key": 10,
+   "len": 17,
+   "first": 2394,
+   "line": "bánh,",
+   "note": "snack bag torn open, crumbs"
+  },
+  {
+   "id": "B8",
+   "size": "insert",
+   "key": 10,
+   "len": 20,
+   "first": 2411,
+   "line": "nước ngọt,",
+   "note": "soda can pops, foam sprays"
+  },
+  {
+   "id": "B9",
+   "size": "medium",
+   "key": 24,
+   "len": 48,
+   "first": 2431,
+   "line": "bạn ăn thẳng từ trên kệ.",
+   "note": "eating off the shelf, cone in hand, full cart"
+  },
+  {
+   "id": "B10",
+   "size": "wide",
+   "key": 30,
+   "len": 47,
+   "first": 2479,
+   "line": "Trường học? Không thầy,",
+   "note": "empty classroom, no teacher, Pip strolls in"
+  },
+  {
+   "id": "B11",
+   "size": "insert",
+   "key": 18,
+   "len": 35,
+   "first": 2526,
+   "line": "không bài kiểm tra.",
+   "note": "test sheets swept off the desk"
+  },
+  {
+   "id": "B12",
+   "size": "medium",
+   "key": 26,
+   "len": 35,
+   "first": 2561,
+   "line": "Bạn viết lên bảng bất",
+   "note": "Pip writes TU DO!!! on the board"
+  },
+  {
+   "id": "B13",
+   "size": "insert",
+   "key": 26,
+   "len": 33,
+   "first": 2596,
+   "line": "cứ điều gì bạn muốn.",
+   "note": "chalk doodle of Pip as king draws on"
+  },
+  {
+   "id": "B14",
+   "size": "wide",
+   "key": 40,
+   "len": 58,
+   "first": 2629,
+   "line": "Cả thành phố là sân chơi của bạn.",
+   "note": "Pip runs and jumps on the street"
+  },
+  {
+   "id": "B15",
+   "size": "high",
+   "key": 40,
+   "len": 74,
+   "first": 2687,
+   "line": "Bạn nằm giữa ngã tư đông nhất, ngắm mây trôi.",
+   "note": "crossroads from above, Pip lying, slow push to face"
+  },
+  {
+   "id": "B16",
+   "size": "low",
+   "key": 24,
+   "len": 46,
+   "first": 2761,
+   "line": "Không một tiếng còi xe.",
+   "note": "quiet low street, scooters standing still"
+  },
+  {
+   "id": "B17",
+   "size": "wide",
+   "key": 24,
+   "len": 45,
+   "first": 2807,
+   "line": "Bạn đạp xe giữa đường cao tốc,",
+   "note": "tracking: Pip rides hands-free, street rushing"
+  },
+  {
+   "id": "B18",
+   "size": "medium",
+   "key": 20,
+   "len": 36,
+   "first": 2852,
+   "line": "hai tay buông lái.",
+   "note": "close: hands free, arms wide, road tearing past"
+  },
+  {
+   "id": "B19",
+   "size": "high",
+   "key": 30,
+   "len": 50,
+   "first": 2888,
+   "line": "Bạn leo lên nóc tòa nhà cao nhất,",
+   "note": "climbing the pipe ladder up the tallest tower"
+  },
+  {
+   "id": "B20",
+   "size": "low",
+   "key": 20,
+   "len": 39,
+   "first": 2938,
+   "line": "và hét thật to.",
+   "note": "low angle, Pip shouts at the sky"
+  },
+  {
+   "id": "B21",
+   "size": "wide",
+   "key": 16,
+   "len": 39,
+   "first": 2977,
+   "line": "Cả thành phố nghe thấy.",
+   "note": "birds burst off the cable"
+  },
+  {
+   "id": "B22",
+   "size": "wide",
+   "key": 50,
+   "len": 64,
+   "first": 3016,
+   "line": "Mà thật ra, chẳng có ai nghe cả.",
+   "note": "same city still, tiny Pip shrugs, empty cable"
+  },
+  {
+   "id": "B23",
+   "size": "wide",
+   "key": 30,
+   "len": 74,
+   "first": 3080,
+   "line": "Tối đến, bạn bật nhạc to hết cỡ.",
+   "note": "boombox blasting, Pip dancing"
+  },
+  {
+   "id": "B24",
+   "size": "insert",
+   "key": 20,
+   "len": 41,
+   "first": 3154,
+   "line": "Không ai phàn nàn.",
+   "note": "neighbour's dark window, nobody"
+  },
+  {
+   "id": "B25",
+   "size": "medium",
+   "key": 20,
+   "len": 44,
+   "first": 3195,
+   "line": "Bạn ngủ ở bất cứ đâu,",
+   "note": "Pip asleep on the display bed"
+  },
+  {
+   "id": "B26",
+   "size": "insert",
+   "key": 30,
+   "len": 48,
+   "first": 3239,
+   "line": "thức dậy lúc nào cũng được.",
+   "note": "alarm clock 11:47, mitten pats it"
+  },
+  {
+   "id": "B27",
+   "size": "wide",
+   "key": 30,
+   "len": 60,
+   "first": 3287,
+   "line": "Cửa hàng đồ chơi lớn nhất thành phố,",
+   "note": "toy store wide, Pip walks in looking up"
+  },
+  {
+   "id": "B28",
+   "size": "medium",
+   "key": 22,
+   "len": 45,
+   "first": 3347,
+   "line": "giờ là phòng riêng của bạn.",
+   "note": "Pip cheers, toys tossed in the air"
+  },
+  {
+   "id": "B29",
+   "size": "medium",
+   "key": 52,
+   "len": 75,
+   "first": 3392,
+   "line": "Bạn dựng một pháo đài bằng gối giữa trung tâm thương mại,",
+   "note": "pillows tossed, the fort pops up"
+  },
+  {
+   "id": "B30",
+   "size": "medium",
+   "key": 20,
+   "len": 37,
+   "first": 3467,
+   "line": "và ngủ ở đó.",
+   "note": "Pip asleep in the pillow fort, fairy lights"
+  },
+  {
+   "id": "B31",
+   "size": "wide",
+   "key": 30,
+   "len": 80,
+   "first": 3504,
+   "line": "Không bài tập. Không ai bảo bạn phải làm gì.",
+   "note": "homework sheets blow away, Pip lying back"
+  },
+  {
+   "id": "B32",
+   "size": "medium",
+   "key": 30,
+   "len": 66,
+   "first": 3584,
+   "line": "Nghe như một giấc mơ, đúng không?",
+   "note": "golden hour, Pip smiling on the parapet, push-in"
+  },
+  {
+   "id": "B33",
+   "size": "wide",
+   "key": 34,
+   "len": 44,
+   "first": 3650,
+   "line": "Nhưng giấc mơ này có một",
+   "note": "the turn: sun dips, string lights die"
+  },
+  {
+   "id": "B34",
+   "size": "close",
+   "key": 20,
+   "len": 44,
+   "first": 3694,
+   "line": "cái giá.",
+   "note": "worried extreme close-up, red dark city"
+  },
+  {
+   "id": "C1",
+   "size": "card",
+   "key": 24,
+   "len": 32,
+   "first": 3738,
+   "line": "Thứ nhất: điện.",
+   "note": "card 1 · ĐIỆN"
+  },
+  {
+   "id": "C2",
+   "size": "medium",
+   "key": 60,
+   "len": 144,
+   "first": 3770,
+   "line": "Nhà máy điện cần con người vận hành từng ngày. Không còn ai, chúng sẽ lần lượt tự ngắt.",
+   "note": "plants + operators, operators blink out, plants trip"
+  },
+  {
+   "id": "C3",
+   "size": "medium",
+   "key": 70,
+   "len": 88,
+   "first": 3914,
+   "line": "Theo nhiều chuyên gia, chỉ trong vài giờ đến vài ngày,",
+   "note": "clock racing: VÀI GIỜ -> VÀI NGÀY"
+  },
+  {
+   "id": "C4",
+   "size": "wide",
+   "key": 40,
+   "len": 61,
+   "first": 4002,
+   "line": "cả thành phố sẽ chìm vào bóng tối.",
+   "note": "city goes dark, Pip watches"
+  },
+  {
+   "id": "C5",
+   "size": "card",
+   "key": 24,
+   "len": 47,
+   "first": 4063,
+   "line": "Thứ hai: thức ăn.",
+   "note": "card 2 · THỨC ĂN"
+  },
+  {
+   "id": "C6",
+   "size": "medium",
+   "key": 44,
+   "len": 66,
+   "first": 4110,
+   "line": "Khi mất điện, tủ lạnh chỉ giữ đồ ăn an toàn",
+   "note": "dark kitchen, Pip opens fridge, no light"
+  },
+  {
+   "id": "C7",
+   "size": "medium",
+   "key": 22,
+   "len": 42,
+   "first": 4176,
+   "line": "khoảng bốn tiếng.",
+   "note": "4 TIẾNG ring runs down"
+  },
+  {
+   "id": "C8",
+   "size": "insert",
+   "key": 70,
+   "len": 78,
+   "first": 4218,
+   "line": "Sau đó, thịt, sữa, rau,",
+   "note": "meat milk lettuce going off, fly"
+  },
+  {
+   "id": "C9",
+   "size": "close-up",
+   "key": 40,
+   "len": 63,
+   "first": 4296,
+   "line": "tất cả bắt đầu hỏng. Đó là sự thật.",
+   "note": "Pip recoils from smell"
+  },
+  {
+   "id": "C10",
+   "size": "medium",
+   "key": 70,
+   "len": 77,
+   "first": 4359,
+   "line": "Bạn sẽ phải sống bằng đồ hộp. Tin vui là",
+   "note": "Pip stacks cans"
+  },
+  {
+   "id": "C11",
+   "size": "medium",
+   "key": 84,
+   "len": 88,
+   "first": 4436,
+   "line": "nhiều loại đồ hộp có thể để được từ hai đến năm năm.",
+   "note": "cans, 2-5 NĂM bar"
+  },
+  {
+   "id": "C12",
+   "size": "medium",
+   "key": 60,
+   "len": 74,
+   "first": 4524,
+   "line": "Tin buồn là rồi chúng cũng sẽ hết.",
+   "note": "pantry shelf empties"
+  },
+  {
+   "id": "C13",
+   "size": "close-up",
+   "key": 50,
+   "len": 62,
+   "first": 4598,
+   "line": "Và bạn chưa từng trồng một cây rau nào.",
+   "note": "dead seedling, oops"
+  },
+  {
+   "id": "C14",
+   "size": "card",
+   "key": 24,
+   "len": 35,
+   "first": 4660,
+   "line": "Thứ ba: nước.",
+   "note": "card 3 · NƯỚC"
+  },
+  {
+   "id": "C15",
+   "size": "insert",
+   "key": 50,
+   "len": 93,
+   "first": 4695,
+   "line": "Máy bơm ngừng chạy, vòi nước nhỏ giọt, rồi khô hẳn.",
+   "note": "tap: stream, drips, dry"
+  },
+  {
+   "id": "C16",
+   "size": "card",
+   "key": 20,
+   "len": 26,
+   "first": 4788,
+   "line": "Thứ tư:",
+   "note": "card 4 · SỨC KHỎE"
+  },
+  {
+   "id": "C17",
+   "size": "medium",
+   "key": 40,
+   "len": 61,
+   "first": 4814,
+   "line": "nếu bạn bị ốm, không có bác sĩ,",
+   "note": "Pip ill in bed"
+  },
+  {
+   "id": "C18",
+   "size": "medium",
+   "key": 30,
+   "len": 39,
+   "first": 4875,
+   "line": "không có xe cấp cứu.",
+   "note": "ambulance crossed out"
+  },
+  {
+   "id": "C19",
+   "size": "insert",
+   "key": 50,
+   "len": 60,
+   "first": 4914,
+   "line": "Một vết cắt nhỏ cũng có thể nhiễm trùng.",
+   "note": "cut finger, plaster, infection glow"
+  },
+  {
+   "id": "C20",
+   "size": "card",
+   "key": 26,
+   "len": 43,
+   "first": 4974,
+   "line": "Thứ năm: internet.",
+   "note": "card 5 · INTERNET"
+  },
+  {
+   "id": "C21",
+   "size": "wide",
+   "key": 110,
+   "len": 128,
+   "first": 5017,
+   "line": "Các trung tâm dữ liệu chạy máy phát dự phòng được một thời gian, rồi cũng tắt.",
+   "note": "racks + generator fuel to empty, LEDs off"
+  },
+  {
+   "id": "C22",
+   "size": "insert",
+   "key": 60,
+   "len": 77,
+   "first": 5145,
+   "line": "Không còn bản đồ, không còn video hướng dẫn.",
+   "note": "phone: no connection, map and video crossed"
+  },
+  {
+   "id": "C23",
+   "size": "medium",
+   "key": 50,
+   "len": 72,
+   "first": 5222,
+   "line": "Muốn biết cách trồng rau hay cách băng vết thương,",
+   "note": "Pip thinks: sprout, bandage"
+  },
+  {
+   "id": "C24",
+   "size": "medium",
+   "key": 50,
+   "len": 83,
+   "first": 5294,
+   "line": "bạn phải tự tìm trong thư viện, từng trang sách một.",
+   "note": "library: books, turning pages"
+  },
+  {
+   "id": "C25",
+   "size": "wide",
+   "key": 40,
+   "len": 60,
+   "first": 5377,
+   "line": "Vài tuần sau, cỏ bắt đầu mọc lên qua",
+   "note": "weeds on the roof"
+  },
+  {
+   "id": "C26",
+   "size": "insert",
+   "key": 40,
+   "len": 51,
+   "first": 5437,
+   "line": "những kẽ nứt trên vỉa hè.",
+   "note": "grass through a crack"
+  },
+  {
+   "id": "C27",
+   "size": "wide",
+   "key": 90,
+   "len": 107,
+   "first": 5488,
+   "line": "Thành phố không có ai chăm, đang dần trả lại cho thiên nhiên.",
+   "note": "overgrown city"
+  },
+  {
+   "id": "C28",
+   "size": "close-up",
+   "key": 60,
+   "len": 109,
+   "first": 5595,
+   "line": "Nhưng điều đáng sợ nhất không phải bóng tối. Cũng không phải cơn đói.",
+   "note": "candle, Pip on floor, push-in"
+  },
+  {
+   "id": "C29",
+   "size": "wide",
+   "key": 30,
+   "len": 52,
+   "first": 5704,
+   "line": "Mà là sự im lặng.",
+   "note": "quiet wide"
+  },
+  {
+   "id": "D1",
+   "size": "insert",
+   "key": 24,
+   "len": 45,
+   "first": 5756,
+   "line": "Ngày thứ năm, bạn tìm thấy",
+   "note": "calendar insert, day 5 crossed off, candle blurred in the corner"
+  },
+  {
+   "id": "D2",
+   "size": "medium low",
+   "key": 28,
+   "len": 36,
+   "first": 5801,
+   "line": "một con mèo trốn dưới",
+   "note": "day 5, low and tight on the scooter: eyes glint under it, Pip crouched in profile with the open can"
+  },
+  {
+   "id": "D2b",
+   "size": "medium low",
+   "key": 34,
+   "len": 41,
+   "first": 5837,
+   "line": "gầm xe. Hóa ra,",
+   "note": "the cat creeps out from under the scooter toward the can"
+  },
+  {
+   "id": "D3",
+   "size": "wide",
+   "key": 14,
+   "len": 32,
+   "first": 5878,
+   "line": "động vật vẫn còn.",
+   "note": "low angle up at the cables at dusk: pigeons, one takes off"
+  },
+  {
+   "id": "D4",
+   "size": "medium",
+   "key": 34,
+   "len": 64,
+   "first": 5910,
+   "line": "Ít nhất, bạn có bạn đồng hành.",
+   "note": "Pip in bed by candlelight, the cat curled on the duvet, he strokes it"
+  },
+  {
+   "id": "D5",
+   "size": "close-up",
+   "key": 16,
+   "len": 38,
+   "first": 5974,
+   "line": "Nhưng nó không biết nói.",
+   "note": "Pip talks and talks; the cat only blinks"
+  },
+  {
+   "id": "D6",
+   "size": "insert",
+   "key": 8,
+   "len": 28,
+   "first": 6012,
+   "line": "Ngày thứ mười,",
+   "note": "calendar insert, day 10 crossed off"
+  },
+  {
+   "id": "D7",
+   "size": "medium",
+   "key": 22,
+   "len": 47,
+   "first": 6040,
+   "line": "bạn bắt đầu nói chuyện một mình.",
+   "note": "Pip talks to himself in a mirror, the reflection talks back"
+  },
+  {
+   "id": "D8",
+   "size": "wide",
+   "key": 62,
+   "len": 87,
+   "first": 6087,
+   "line": "Ngày thứ hai mươi, bạn đặt tên cho chậu cây ngoài ban công,",
+   "note": "balcony at dusk: Pip pins a name tag BONG on a potted plant"
+  },
+  {
+   "id": "D9",
+   "size": "medium",
+   "key": 30,
+   "len": 70,
+   "first": 6174,
+   "line": "và kể cho nó nghe về một ngày của bạn.",
+   "note": "Pip sits cross-legged telling the plant about his day"
+  },
+  {
+   "id": "D10",
+   "size": "medium",
+   "key": 24,
+   "len": 62,
+   "first": 6244,
+   "line": "Bạn bắt đầu quay video nhật ký mỗi",
+   "note": "video diary by candle: Pip talks to a phone propped on books, REC and timer"
+  },
+  {
+   "id": "D11",
+   "size": "insert",
+   "key": 16,
+   "len": 36,
+   "first": 6306,
+   "line": "tối, cho một người",
+   "note": "the phone screen: Pip small, REC 00:00:12"
+  },
+  {
+   "id": "D12",
+   "size": "wide",
+   "key": 16,
+   "len": 33,
+   "first": 6342,
+   "line": "sẽ không bao giờ xem.",
+   "note": "the dark room, one candle, one red light, Pip tiny"
+  },
+  {
+   "id": "D13",
+   "size": "macro",
+   "key": 84,
+   "len": 90,
+   "first": 6375,
+   "line": "Ngày sinh nhật, bạn cắm một cây nến lên chiếc bánh đã hết hạn,",
+   "note": "expired cake, HET HAN sticker, candle goes in and is lit with a match"
+  },
+  {
+   "id": "D14",
+   "size": "medium close-up",
+   "key": 24,
+   "len": 59,
+   "first": 6465,
+   "line": "và tự hát chúc mừng sinh nhật mình.",
+   "note": "Pip sings happy birthday to himself over the cake"
+  },
+  {
+   "id": "D15",
+   "size": "medium close-up",
+   "key": 12,
+   "len": 52,
+   "first": 6524,
+   "line": "Hát xong, không ai vỗ tay.",
+   "note": "silence: he blows the candle out, smoke, black"
+  },
+  {
+   "id": "D16",
+   "size": "schematic",
+   "key": 132,
+   "len": 137,
+   "first": 6576,
+   "line": "Các nhà khoa học nói: cô đơn kéo dài hại ngang hút mười lăm điếu thuốc mỗi ngày.",
+   "note": "loneliness = 15 cigarettes a day"
+  },
+  {
+   "id": "D17",
+   "size": "extreme close-up",
+   "key": 16,
+   "len": 34,
+   "first": 6713,
+   "line": "Đó là sự thật.",
+   "note": "Pip worried, candle at the edge"
+  },
+  {
+   "id": "D18",
+   "size": "schematic",
+   "key": 62,
+   "len": 75,
+   "first": 6747,
+   "line": "Con người được tạo ra để sống cùng nhau.",
+   "note": "a web of people linked by lines"
+  },
+  {
+   "id": "D19",
+   "size": "schematic",
+   "key": 72,
+   "len": 84,
+   "first": 6822,
+   "line": "Những người bị biệt giam lâu ngày còn có thể bị ảo giác.",
+   "note": "one icon alone in a box, bending lines, a ghost flickers"
+  },
+  {
+   "id": "D20",
+   "size": "medium",
+   "key": 52,
+   "len": 76,
+   "first": 6906,
+   "line": "Một đêm, bạn nghe thấy tiếng mẹ gọi dưới bếp.",
+   "note": "night: Pip dozes in bed, bolts upright at mum's voice, warm light under the door"
+  },
+  {
+   "id": "D21",
+   "size": "wide",
+   "key": 14,
+   "len": 31,
+   "first": 6982,
+   "line": "Bạn chạy xuống.",
+   "note": "night: he runs down the stairs"
+  },
+  {
+   "id": "D22",
+   "size": "wide",
+   "key": 32,
+   "len": 56,
+   "first": 7013,
+   "line": "Bếp trống không.",
+   "note": "the kitchen, dark and empty, a chair, moonlight; Pip small in the doorway"
+  },
+  {
+   "id": "E1",
+   "size": "medium",
+   "key": 20,
+   "len": 57,
+   "first": 7069,
+   "line": "Đêm nào bạn cũng gọi cho bạn thân.",
+   "note": "Pip in bed at night, phone ringing BẠN THÂN, candle"
+  },
+  {
+   "id": "E2",
+   "size": "insert",
+   "key": 30,
+   "len": 49,
+   "first": 7126,
+   "line": "Đêm nào cũng không ai nghe máy.",
+   "note": "calendar by candle, three more nights crossed"
+  },
+  {
+   "id": "E3",
+   "size": "insert",
+   "key": 20,
+   "len": 58,
+   "first": 7175,
+   "line": "Cho đến một đêm, điện thoại hết pin,",
+   "note": "phone 1% red, then dies"
+  },
+  {
+   "id": "E4",
+   "size": "insert",
+   "key": 18,
+   "len": 52,
+   "first": 7233,
+   "line": "và không còn chỗ nào để sạc.",
+   "note": "dead outlet, dead charger"
+  },
+  {
+   "id": "E5",
+   "size": "close-up",
+   "key": 50,
+   "len": 108,
+   "first": 7285,
+   "line": "Bạn ngồi nhìn màn hình đen thật lâu, như thể nó sẽ sáng lên.",
+   "note": "face reflected in black screen, slow push-in"
+  },
+  {
+   "id": "E6",
+   "size": "medium",
+   "key": 22,
+   "len": 46,
+   "first": 7393,
+   "line": "Bạn vào phòng em gái.",
+   "note": "her door, crayon sign PHÒNG CỦA EM, opens"
+  },
+  {
+   "id": "E7",
+   "size": "wide",
+   "key": 40,
+   "len": 74,
+   "first": 7439,
+   "line": "Những bức vẽ bằng bút sáp vẫn dán trên tường.",
+   "note": "crayon drawings on the wall under the torch"
+  },
+  {
+   "id": "E8",
+   "size": "medium",
+   "key": 10,
+   "len": 59,
+   "first": 7513,
+   "line": "Ngày trước, hai đứa cãi nhau suốt.",
+   "note": "MEMORY: tugging a pillow, both angry"
+  },
+  {
+   "id": "E9",
+   "size": "medium",
+   "key": 30,
+   "len": 66,
+   "first": 7572,
+   "line": "Giờ bạn sẵn sàng đổi cả thế giới,",
+   "note": "Pip on her bed holding a drawing"
+  },
+  {
+   "id": "E10",
+   "size": "close-up",
+   "key": 60,
+   "len": 94,
+   "first": 7638,
+   "line": "chỉ để được cãi nhau với em thêm một lần.",
+   "note": "eyes wet over the drawing, candle"
+  },
+  {
+   "id": "E11",
+   "size": "wide",
+   "key": 50,
+   "len": 93,
+   "first": 7732,
+   "line": "Giờ hãy tưởng tượng: trước mặt bạn có một cái nút.",
+   "note": "dark, light cone, big red button glows"
+  },
+  {
+   "id": "E12",
+   "size": "schematic",
+   "key": 60,
+   "len": 101,
+   "first": 7825,
+   "line": "Bấm vào, mọi người sẽ trở lại. Mọi thứ về như cũ:",
+   "note": "people pop back 1 -> 8.200.000.000"
+  },
+  {
+   "id": "E13",
+   "size": "wide",
+   "key": 8,
+   "len": 20,
+   "first": 7926,
+   "line": "kẹt xe,",
+   "note": "MEMORY: street jammed with motorbikes"
+  },
+  {
+   "id": "E14",
+   "size": "medium",
+   "key": 10,
+   "len": 31,
+   "first": 7946,
+   "line": "bài kiểm tra,",
+   "note": "MEMORY: KIỂM TRA 15 PHÚT board, full class"
+  },
+  {
+   "id": "E15",
+   "size": "insert",
+   "key": 20,
+   "len": 58,
+   "first": 7977,
+   "line": "mẹ gọi dậy lúc bảy giờ sáng.",
+   "note": "MEMORY: alarm 07:00 rings, mum blurred"
+  },
+  {
+   "id": "E16",
+   "size": "wide",
+   "key": 30,
+   "len": 104,
+   "first": 8035,
+   "line": "Còn nếu không bấm, cả thế giới vẫn là của bạn. Mãi mãi.",
+   "note": "Pip alone on the dark roof, cat at his feet"
+  },
+  {
+   "id": "E17",
+   "size": "extreme close-up",
+   "key": 40,
+   "len": 58,
+   "first": 8139,
+   "line": "Bạn có bấm không? Nghĩ kỹ đi.",
+   "note": "mitten trembling over the button"
+  },
+  {
+   "id": "E18",
+   "size": "medium",
+   "key": 30,
+   "len": 85,
+   "first": 8197,
+   "line": "Nếu bấm, bạn mất tất cả những gì đang có:",
+   "note": "Pip faces the button, red on his face"
+  },
+  {
+   "id": "E19",
+   "size": "wide",
+   "key": 12,
+   "len": 26,
+   "first": 8282,
+   "line": "cả siêu thị,",
+   "note": "cả siêu thị: dark supermarket, Pip in the aisle"
+  },
+  {
+   "id": "E20",
+   "size": "high",
+   "key": 10,
+   "len": 28,
+   "first": 8308,
+   "line": "cả thành phố,",
+   "note": "cả thành phố: crossroads from above"
+  },
+  {
+   "id": "E21",
+   "size": "medium",
+   "key": 14,
+   "len": 37,
+   "first": 8336,
+   "line": "cả sự tự do.",
+   "note": "cả sự tự do: Pip rides a bike hands off"
+  },
+  {
+   "id": "E22",
+   "size": "schematic",
+   "key": 70,
+   "len": 123,
+   "first": 8373,
+   "line": "Nhưng bạn sẽ có lại một thứ mà tám tỷ món đồ miễn phí cũng không mua được.",
+   "note": "free things vs one person: cannot be bought"
+  },
+  {
+   "id": "E23",
+   "size": "medium",
+   "key": 20,
+   "len": 40,
+   "first": 8496,
+   "line": "Một người để nói chuyện.",
+   "note": "MEMORY: Pip and Mo laughing, push in to Pip"
+  },
+  {
+   "id": "E24",
+   "size": "insert",
+   "key": 24,
+   "len": 36,
+   "first": 8536,
+   "line": "Đêm thứ một trăm.",
+   "note": "tally on the wall: 100"
+  },
+  {
+   "id": "E25",
+   "size": "medium",
+   "key": 30,
+   "len": 80,
+   "first": 8572,
+   "line": "Bạn ngồi trên sân thượng, con mèo nằm bên cạnh.",
+   "note": "Pip on the parapet, cat beside him"
+  },
+  {
+   "id": "E26",
+   "size": "wide",
+   "key": 16,
+   "len": 38,
+   "first": 8652,
+   "line": "Thành phố tối đen.",
+   "note": "whole city black, Pip and cat tiny"
+  },
+  {
+   "id": "E27",
+   "size": "schematic",
+   "key": 58,
+   "len": 74,
+   "first": 8690,
+   "line": "Tám tỷ người, và giờ chỉ còn lại một.",
+   "note": "8.200.000.000 -> 1"
+  },
+  {
+   "id": "E28",
+   "size": "wide",
+   "key": 30,
+   "len": 95,
+   "first": 8764,
+   "line": "Bạn nhìn ra xa, tìm một ô cửa sổ sáng đèn.",
+   "note": "POV torch pan across the dark city"
+  },
+  {
+   "id": "E29",
+   "size": "close-up",
+   "key": 16,
+   "len": 67,
+   "first": 8859,
+   "line": "Một ánh lửa. Một dấu hiệu nào đó.",
+   "note": "a far ember flickers and dies"
+  },
+  {
+   "id": "E30",
+   "size": "wide",
+   "key": 30,
+   "len": 77,
+   "first": 8926,
+   "line": "Nhưng chỉ có bóng tối, và tiếng gió.",
+   "note": "wind, dark closes in"
+  },
+  {
+   "id": "E31",
+   "size": "close-up",
+   "key": 44,
+   "len": 83,
+   "first": 9003,
+   "line": "Vậy, bạn sẽ nói chuyện với ai?",
+   "note": "Pip turns to the cat; the cat blinks"
+  },
+  {
+   "id": "E32",
+   "size": "wide",
+   "key": 50,
+   "len": 131,
+   "first": 9086,
+   "line": "Còn bạn, nếu thế giới chỉ còn mình bạn, việc đầu tiên bạn sẽ làm là gì?",
+   "note": "end card: roof, button glowing, line 1"
+  },
+  {
+   "id": "E33",
+   "size": "medium",
+   "key": 60,
+   "len": 199,
+   "first": 9217,
+   "line": "Và nếu có cái nút đó, bạn có bấm không? Bình luận cho mình biết nhé.",
+   "note": "end card: line 2, fade to black"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.3,
+   "f": 255
+  },
+  {
+   "kind": "shake",
+   "len": 6,
+   "amp": 8,
+   "f": 1346
+  },
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 5,
+   "f": 2944
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.3,
+   "f": 3439
+  },
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 7,
+   "f": 3716
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.4,
+   "f": 4004
+  },
+  {
+   "kind": "flash",
+   "color": "#9FC0FF",
+   "o": 0.2,
+   "f": 7221
+  },
+  {
+   "kind": "flash",
+   "color": "#FF6A5A",
+   "o": 0.18,
+   "f": 7812
+  },
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 4,
+   "f": 7515
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.6069,
+  "musicVol": 0.3148,
+  "voice": "last-one/voice.wav",
+  "sfx": "last-one/sfx.wav",
+  "music": "last-one/music.wav"
+ }
+}

@@ -1,0 +1,23 @@
+# chapter D: beats 23-27. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "4 cost: safety"  168.55-175.87 s
+# Thứ tư: an toàn. Bạn bắt đầu sợ ra đường một mình. Bạn lắp camera, thuê bảo vệ, đổi số điện thoại ba lần trong một tháng.
+Thứ@168.48 tư:@168.73 an@169.27 toàn.@169.45 Bạn@170.13 bắt@170.30 đầu@170.47 sợ@170.64 ra@170.77 đường@170.90 một@171.14 mình.@171.31 Bạn@171.90 lắp@172.11 camera,@172.45 thuê@173.09 bảo@173.31 vệ,@173.49 đổi@173.93 số@174.09 điện@174.22 thoại@174.42 ba@174.66 lần@174.92 trong@175.08 một@175.32 tháng.@175.56
+
+## beat "4 science: lottery"  176.20-190.14 s
+# Năm một nghìn chín trăm bảy mươi tám, các nhà tâm lý học khảo sát những người vừa trúng xổ số. Kết quả: họ không hạnh phúc hơn người bình thường là bao. Và họ thấy những niềm vui nhỏ, như một bữa sáng ngon hay một câu chuyện với bạn bè, kém thú vị hơn trước.
+Năm@176.13 một@176.31 nghìn@176.48 chín@176.74 trăm@176.95 bảy@177.17 mươi@177.34 tám,@177.56 các@178.03 nhà@178.21 tâm@178.38 lý@178.56 học@178.81 khảo@178.99 sát@179.56 những@179.73 người@179.98 vừa@180.24 trúng@180.41 xổ@180.66 số.@180.80 Kết@181.32 quả:@181.55 họ@182.13 không@182.26 hạnh@182.48 phúc@182.67 hơn@182.95 người@183.25 bình@183.48 thường@183.67 là@184.10 bao.@184.23 Và@184.73 họ@184.86 thấy@184.99 những@185.19 niềm@185.42 vui@185.62 nhỏ,@185.78 như@186.24 một@186.42 bữa@186.60 sáng@186.78 ngon@186.99 hay@187.21 một@187.61 câu@187.90 chuyện@188.07 với@188.37 bạn@188.55 bè,@188.73 kém@189.16 thú@189.34 vị@189.51 hơn@189.65 trước.@189.82
+
+## beat "4 science: inflation"  190.69-206.92 s
+# Và có một điều may mắn: chỉ mình bạn có sức mạnh này. Vì nếu ai cũng kiếm được một nghìn đồng mỗi giây, thì một nghìn đồng sẽ chẳng còn giá trị. Giá ổ bánh mì sẽ tăng vọt, có khi lên đến hàng triệu. Các nhà kinh tế gọi đó là lạm phát: khi tiền tăng nhanh hơn hàng hóa, mỗi đồng tiền mua được ít đi.
+Và@190.62 có@190.77 một@190.92 điều@191.12 may@191.35 mắn:@191.54 chỉ@192.25 mình@192.42 bạn@192.63 có@192.79 sức@193.11 mạnh@193.28 này.@193.49 Vì@193.98 nếu@194.11 ai@194.29 cũng@194.42 kiếm@194.63 được@194.84 một@195.05 nghìn@195.22 đồng@195.47 mỗi@195.69 giây,@195.86 thì@196.37 một@196.54 nghìn@196.70 đồng@196.94 sẽ@197.15 chẳng@197.28 còn@197.52 giá@197.68 trị.@197.85 Giá@198.48 ổ@198.70 bánh@198.82 mì@199.08 sẽ@199.25 tăng@199.42 vọt,@199.69 có@200.21 khi@200.34 lên@200.51 đến@200.67 hàng@200.84 triệu.@201.05 Các@201.62 nhà@201.79 kinh@201.96 tế@202.17 gọi@202.30 đó@202.47 là@202.60 lạm@203.01 phát:@203.18 khi@204.02 tiền@204.19 tăng@204.38 nhanh@204.58 hơn@204.81 hàng@204.97 hóa,@205.17 mỗi@205.63 đồng@205.80 tiền@206.01 mua@206.22 được@206.38 ít@206.59 đi.@206.72
+
+## beat "4 science: adaptation"  207.47-217.99 s
+# Các nhà khoa học gọi đó là sự thích nghi: thứ gì có mãi, rồi cũng thành bình thường. Ổ bánh mì không còn ngon như trước. Món quà không còn bất ngờ. Khi mọi thứ đều mua được, không còn gì đặc biệt.
+Các@207.40 nhà@207.57 khoa@207.81 học@208.11 gọi@208.28 đó@208.44 là@208.56 sự@208.69 thích@208.81 nghi:@209.05 thứ@209.75 gì@209.95 có@210.11 mãi,@210.26 rồi@210.76 cũng@210.91 thành@211.09 bình@211.31 thường.@211.49 Ổ@212.08 bánh@212.16 mì@212.34 không@212.46 còn@212.76 ngon@212.91 như@213.09 trước.@213.24 Món@214.00 quà@214.20 không@214.39 còn@214.68 bất@214.88 ngờ.@215.08 Khi@215.83 mọi@215.98 thứ@216.13 đều@216.29 mua@216.44 được,@216.59 không@217.08 còn@217.28 gì@217.42 đặc@217.53 biệt.@217.67
+
+## beat "5 mom"  218.99-225.54 s
+# Rồi một tối, mẹ gọi điện. Mẹ không hỏi về tiền. Mẹ chỉ hỏi: dạo này con bận gì, mà không về ăn cơm với nhà?
+Rồi@218.93 một@219.10 tối,@219.36 mẹ@219.83 gọi@219.95 điện.@220.11 Mẹ@220.83 không@220.96 hỏi@221.21 về@221.39 tiền.@221.52 Mẹ@222.07 chỉ@222.20 hỏi:@222.38 dạo@223.11 này@223.29 con@223.47 bận@223.66 gì,@223.84 mà@224.29 không@224.42 về@224.68 ăn@224.81 cơm@224.95 với@225.13 nhà?@225.30
+
+# chapter ends at s:225.99 (next chapter's first cut, or the episode end)

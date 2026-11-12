@@ -1,0 +1,19 @@
+# chapter E: beats 19-22. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "5 the suit"  202.12-215.03 s
+# Rồi một buổi chiều, một người đàn ông mặc vest đứng chờ trước cổng nhà bạn. Ông ta không cười. Một người đấm tan được mây, ông nói, không còn là một con người nữa. Đó là một vũ khí. Ông đưa ra một bản hợp đồng. Bạn lắc đầu.
+Rồi@202.05 một@202.21 buổi@202.38 chiều,@202.58 một@203.11 người@203.26 đàn@203.48 ông@203.64 mặc@203.79 vest@203.94 đứng@204.25 chờ@204.44 trước@204.59 cổng@204.81 nhà@205.07 bạn.@205.22 Ông@205.92 ta@206.12 không@206.27 cười.@206.80 Một@207.59 người@207.77 đấm@208.02 tan@208.20 được@208.37 mây,@208.59 ông@209.06 nói,@209.29 không@209.81 còn@210.04 là@210.20 một@210.32 con@210.48 người@210.63 nữa.@210.86 Đó@211.54 là@211.68 một@211.83 vũ@212.09 khí.@212.32 Ông@212.82 đưa@212.98 ra@213.13 một@213.26 bản@213.41 hợp@213.57 đồng.@213.72 Bạn@214.42 lắc@214.60 đầu.@214.78
+
+## beat "5 hunted"  215.42-222.18 s
+# Từ hôm đó, có một chiếc máy bay không người lái bay theo bạn. Đến trường. Ra chợ. Về nhà. Ngày nào cũng vậy.
+Từ@215.35 hôm@215.52 đó,@215.74 có@216.21 một@216.33 chiếc@216.48 máy@216.70 bay@216.85 không@217.00 người@217.50 lái@217.72 bay@217.87 theo@218.02 bạn.@218.20 Đến@218.90 trường.@219.10 Ra@219.74 chợ.@219.94 Về@220.55 nhà.@220.75 Ngày@221.45 nào@221.63 cũng@221.78 vậy.@221.96
+
+## beat "6 typhoon"  222.98-237.22 s
+# Rồi một tối, tin khẩn cấp vang lên. Một cơn bão rất lớn sắp đổ bộ. Em gái bạn vẫn còn ở trường. Bạn lao ra giữa trời mưa, nhìn lên đám mây xoáy khổng lồ, và đấm. Một cú đấm. Bùm. Mây mở ra một lỗ. Rồi khép lại ngay.
+Rồi@222.91 một@223.10 tối,@223.38 tin@223.86 khẩn@224.02 cấp@224.22 vang@224.55 lên.@224.74 Một@225.23 cơn@225.44 bão@225.64 rất@225.84 lớn@226.04 sắp@226.24 đổ@226.44 bộ.@226.60 Em@227.10 gái@227.25 bạn@227.44 vẫn@227.64 còn@227.83 ở@228.02 trường.@228.13 Bạn@228.87 lao@229.08 ra@229.29 giữa@229.45 trời@229.70 mưa,@229.96 nhìn@230.46 lên@230.69 đám@230.88 mây@231.07 xoáy@231.26 khổng@231.49 lồ,@231.76 và@232.19 đấm.@232.32 Một@232.92 cú@233.21 đấm.@233.86 Bùm.@234.34 Mây@234.94 mở@235.18 ra@235.35 một@235.53 lỗ.@235.77 Rồi@236.26 khép@236.45 lại@236.75 ngay.@236.93
+
+## beat "6 typhoon: energy"  237.57-247.52 s
+# Theo các nhà khí tượng Mỹ, một cơn bão lớn tỏa ra năng lượng gấp khoảng hai trăm lần công suất của mọi nhà máy điện trên thế giới cộng lại. Đó là thật. Không có cú đấm nào thắng được nó.
+Theo@237.50 các@237.68 nhà@237.83 khí@237.98 tượng@238.14 Mỹ,@238.35 một@238.77 cơn@239.03 bão@239.20 lớn@239.37 tỏa@239.53 ra@239.83 năng@239.96 lượng@240.17 gấp@240.41 khoảng@240.65 hai@241.04 trăm@241.20 lần@241.41 công@241.58 suất@241.79 của@241.99 mọi@242.48 nhà@242.65 máy@242.82 điện@242.99 trên@243.19 thế@243.56 giới@243.73 cộng@243.93 lại.@244.14 Đó@244.86 là@244.96 thật.@245.07 Không@245.78 có@246.03 cú@246.16 đấm@246.29 nào@246.47 thắng@246.64 được@247.11 nó.@247.32
+
+# chapter ends at s:247.78 (next chapter's first cut, or the episode end)

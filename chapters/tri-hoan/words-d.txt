@@ -1,0 +1,23 @@
+# chapter D: beats 14-18. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "6 fix: two minutes"  176.26-186.12 s
+# Tin tốt là, có cách. Mẹo thứ nhất: chỉ làm hai phút thôi. Mở máy. Viết đúng một câu. Bắt đầu luôn là phần khó nhất. Làm được hai phút, bạn thường sẽ muốn làm tiếp.
+Tin@176.19 tốt@176.44 là,@176.68 có@177.17 cách.@177.25 Mẹo@177.92 thứ@178.06 nhất:@178.28 chỉ@178.95 làm@179.13 hai@179.31 phút@179.49 thôi.@179.71 Mở@180.19 máy.@180.40 Viết@180.99 đúng@181.19 một@181.39 câu.@181.55 Bắt@182.23 đầu@182.39 luôn@182.55 là@182.75 phần@182.87 khó@183.07 nhất.@183.23 Làm@183.83 được@184.00 hai@184.21 phút,@184.38 bạn@184.89 thường@185.04 sẽ@185.37 muốn@185.48 làm@185.65 tiếp.@185.80
+
+## beat "6 fix: if then"  186.47-199.16 s
+# Mẹo thứ hai: lên kế hoạch kiểu nếu, thì. Nếu ăn tối xong, thì mình ngồi vào bàn mười lăm phút. Gần một trăm nghiên cứu cho thấy, đặt kế hoạch cụ thể như vậy giúp người ta hoàn thành mục tiêu tốt hơn rõ rệt. Đó là thật.
+Mẹo@186.40 thứ@186.62 hai:@186.83 lên@187.54 kế@187.63 hoạch@187.70 kiểu@187.82 nếu,@187.93 thì.@188.12 Nếu@188.86 ăn@188.98 tối@189.07 xong,@189.61 thì@190.05 mình@190.29 ngồi@190.58 vào@191.29 bàn@191.52 mười@191.76 lăm@192.05 phút.@192.29 Gần@192.93 một@193.07 trăm@193.22 nghiên@193.40 cứu@193.71 cho@193.86 thấy,@194.01 đặt@194.49 kế@194.74 hoạch@194.86 cụ@195.17 thể@195.28 như@195.43 vậy@195.93 giúp@196.08 người@196.26 ta@196.48 hoàn@196.59 thành@196.78 mục@197.13 tiêu@197.37 tốt@197.55 hơn@197.70 rõ@197.85 rệt.@197.97 Đó@198.67 là@198.79 thật.@198.91
+
+## beat "6 fix: forgive"  199.70-213.16 s
+# Mẹo thứ ba, nghe lạ nhất: hãy tha thứ cho chính mình. Một nghiên cứu ở Canada cho thấy, sinh viên nào tự tha thứ cho mình vì đã trì hoãn ôn thi lần đầu, thì lần thi sau trì hoãn ít hơn. Tự trách chỉ khiến bạn muốn trốn tiếp. Đó là thật.
+Mẹo@199.64 thứ@199.87 ba,@200.10 nghe@200.59 lạ@200.78 nhất:@200.90 hãy@201.65 tha@201.82 thứ@201.99 cho@202.16 chính@202.34 mình.@202.58 Một@203.14 nghiên@203.32 cứu@203.64 ở@203.82 Canada@203.92 cho@204.23 thấy,@204.42 sinh@204.95 viên@205.17 nào@205.39 tự@205.56 tha@205.70 thứ@205.88 cho@206.06 mình@206.24 vì@206.77 đã@206.91 trì@207.05 hoãn@207.22 ôn@207.44 thi@207.58 lần@207.76 đầu,@207.94 thì@208.42 lần@208.62 thi@208.82 sau@209.02 trì@209.22 hoãn@209.42 ít@209.67 hơn.@209.83 Tự@210.45 trách@210.57 chỉ@211.04 khiến@211.19 bạn@211.41 muốn@211.56 trốn@211.75 tiếp.@211.93 Đó@212.65 là@212.77 thật.@212.89
+
+## beat "7 ending"  214.35-231.74 s
+# Lần này, cô giáo giao bài mới. Còn bảy ngày. Bạn mở máy. Hai phút. Một câu. Rồi một trang. Cuối tuần, bạn bắt xe về quê. Bà ngoại cười móm mém, dạy bạn gảy một bài hát cũ trên cây đàn đã phủi sạch bụi. Ngày mai là một ngày tuyệt vời. Nhưng nó chưa bao giờ làm hộ ai việc gì.
+Lần@214.29 này,@214.48 cô@214.97 giáo@215.11 giao@215.34 bài@215.56 mới.@215.74 Còn@216.22 bảy@216.45 ngày.@216.67 Bạn@217.24 mở@217.49 máy.@217.68 Hai@218.18 phút.@218.32 Một@218.87 câu.@219.12 Rồi@219.72 một@219.90 trang.@220.16 Cuối@220.89 tuần,@221.09 bạn@221.60 bắt@221.86 xe@222.04 về@222.18 quê.@222.40 Bà@222.90 ngoại@223.04 cười@223.40 móm@223.63 mém,@223.81 dạy@224.29 bạn@224.47 gảy@224.64 một@224.82 bài@225.00 hát@225.18 cũ@225.35 trên@225.61 cây@225.83 đàn@226.01 đã@226.18 phủi@226.32 sạch@226.62 bụi.@226.83 Ngày@227.64 mai@227.84 là@228.00 một@228.13 ngày@228.29 tuyệt@228.49 vời.@228.79 Nhưng@229.50 nó@229.80 chưa@230.05 bao@230.30 giờ@230.51 làm@230.72 hộ@230.93 ai@231.09 việc@231.25 gì.@231.51
+
+## beat "7 question"  232.06-239.22 s
+# Còn bạn, có việc gì bạn đã để mai quá lâu rồi không? Viết ở phần bình luận nhé. Mà thôi, đừng để mai. Viết ngay bây giờ.
+Còn@232.00 bạn,@232.15 có@232.60 việc@232.74 gì@232.96 bạn@233.10 đã@233.28 để@233.42 mai@233.57 quá@233.75 lâu@234.01 rồi@234.19 không?@234.37 Viết@235.24 ở@235.42 phần@235.51 bình@235.70 luận@235.88 nhé.@236.07 Mà@236.74 thôi,@236.89 đừng@237.43 để@237.70 mai.@237.88 Viết@238.46 ngay@238.65 bây@238.84 giờ.@239.00
+
+# chapter ends at s:242.22 (next chapter's first cut, or the episode end)

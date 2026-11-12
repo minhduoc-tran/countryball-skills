@@ -1,0 +1,867 @@
+{
+ "chapter": "c",
+ "shots": [
+  {
+   "id": "C1",
+   "file": "shots-chc-family-and-donate",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 40,
+   "note": "Mum claps beside the new washing machine, bow pops"
+  },
+  {
+   "id": "C2",
+   "file": "shots-chc-family-and-donate",
+   "size": "close",
+   "set": "kitchen",
+   "key": 26,
+   "note": "machine huge, < 3 TIẾNG tag, Mum clapping"
+  },
+  {
+   "id": "C3",
+   "file": "shots-chc-family-and-donate",
+   "size": "insert",
+   "set": "table",
+   "key": 60,
+   "note": "phone: TIỀN ĐIỆN / NHÀ / HỌC PHÍ tick on"
+  },
+  {
+   "id": "C4",
+   "file": "shots-chc-family-and-donate",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 40,
+   "note": "little sister jumps, confetti"
+  },
+  {
+   "id": "C5",
+   "file": "shots-chc-family-and-donate",
+   "size": "insert",
+   "set": "table",
+   "key": 34,
+   "note": "transfer 100.000.000 đ, thumb taps, tick"
+  },
+  {
+   "id": "C6",
+   "file": "shots-chc-family-and-donate",
+   "size": "wide",
+   "set": "village",
+   "key": 30,
+   "note": "misty village school, kids shiver in grey"
+  },
+  {
+   "id": "C7",
+   "file": "shots-chc-family-and-donate",
+   "size": "close",
+   "set": "village",
+   "key": 34,
+   "note": "coats turn red, kids cheer, 100.000.000 đ tag"
+  },
+  {
+   "id": "C8",
+   "file": "shots-chc-family-and-donate",
+   "size": "medium",
+   "set": "village",
+   "key": 50,
+   "note": "clock sweeps once, bar refills: hơn 1 ngày"
+  },
+  {
+   "id": "C9",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 60,
+   "note": "Pip asleep, moon to sun in the window"
+  },
+  {
+   "id": "C10",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 40,
+   "note": "phone on pillow, +28.800.000 đ counting"
+  },
+  {
+   "id": "C11",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "wide",
+   "set": "street",
+   "key": 50,
+   "note": "small car with bow on the street, ~400 TRIỆU"
+  },
+  {
+   "id": "C12",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "close",
+   "set": "street",
+   "key": 24,
+   "note": "calendar fills 5 days, < 5 NGÀY"
+  },
+  {
+   "id": "C13",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "insert",
+   "set": "schematic",
+   "key": 22,
+   "note": "briefcase crossed out: không đi làm"
+  },
+  {
+   "id": "C14",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 40,
+   "note": "Pip in hammock at sunset"
+  },
+  {
+   "id": "C15",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 60,
+   "note": "slow push-in, dreamy"
+  },
+  {
+   "id": "C16",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 40,
+   "note": "push-in, smile still on"
+  },
+  {
+   "id": "C17",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "close",
+   "set": "rooftop",
+   "key": 46,
+   "note": "chip glitches red, smile drops"
+  },
+  {
+   "id": "C18",
+   "file": "shots-chc-tax",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 24,
+   "note": "card 1 · THUẾ"
+  },
+  {
+   "id": "C19",
+   "file": "shots-chc-tax",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 60,
+   "note": "five bars of the tax ladder rise, TỪ 7/2026"
+  },
+  {
+   "id": "C20",
+   "file": "shots-chc-tax",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 60,
+   "note": "top bar lights, > 100 TRIỆU/THÁNG"
+  },
+  {
+   "id": "C21",
+   "file": "shots-chc-tax",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 24,
+   "note": "35% slams on"
+  },
+  {
+   "id": "C22",
+   "file": "shots-chc-tax",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 50,
+   "note": "clock 27 GIỜ 47 PHÚT"
+  },
+  {
+   "id": "C23",
+   "file": "shots-chc-tax",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 60,
+   "note": "1.000 đ coin splits 650 | 350 THUẾ"
+  },
+  {
+   "id": "C24",
+   "file": "shots-chc-attention",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 40,
+   "note": "card 2 · BỊ ĐỂ Ý"
+  },
+  {
+   "id": "C25",
+   "file": "shots-chc-attention",
+   "size": "insert",
+   "set": "table",
+   "key": 20,
+   "note": "phone rings NGÂN HÀNG"
+  },
+  {
+   "id": "C26",
+   "file": "shots-chc-attention",
+   "size": "insert",
+   "set": "table",
+   "key": 24,
+   "note": "phone rings CƠ QUAN THUẾ"
+  },
+  {
+   "id": "C27",
+   "file": "shots-chc-attention",
+   "size": "wide",
+   "set": "stairwell",
+   "key": 44,
+   "note": "suit man climbs to the landing with a folder"
+  },
+  {
+   "id": "C28",
+   "file": "shots-chc-attention",
+   "size": "medium",
+   "set": "stairwell",
+   "key": 40,
+   "note": "suit man at the door, stern, taps folder"
+  },
+  {
+   "id": "C29",
+   "file": "shots-chc-attention",
+   "size": "close",
+   "set": "stairwell",
+   "key": 30,
+   "note": "Pip shrugs, oops, gulp"
+  },
+  {
+   "id": "C30",
+   "file": "shots-chc-friends-and-mo",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 40,
+   "note": "card 3 · BẠN MỚI"
+  },
+  {
+   "id": "C31",
+   "file": "shots-chc-friends-and-mo",
+   "size": "insert",
+   "set": "study",
+   "key": 30,
+   "note": "phone flooded with friend requests"
+  },
+  {
+   "id": "C32",
+   "file": "shots-chc-friends-and-mo",
+   "size": "medium",
+   "set": "study",
+   "key": 60,
+   "note": "Pip surrounded by call bubbles"
+  },
+  {
+   "id": "C33",
+   "file": "shots-chc-friends-and-mo",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 80,
+   "note": "bars HỎI VAY TIỀN tall vs HỎI THĂM tiny"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "C1",
+   "at": "s:96.98",
+   "look": "ping"
+  },
+  {
+   "shot": "C2",
+   "at": "s:98.94",
+   "look": "ping"
+  },
+  {
+   "shot": "C3",
+   "at": "s:100.31",
+   "look": "ping"
+  },
+  {
+   "shot": "C4",
+   "at": "s:102.54",
+   "look": "ping"
+  },
+  {
+   "shot": "C5",
+   "at": "s:104.86",
+   "look": "ping"
+  },
+  {
+   "shot": "C6",
+   "at": "s:106.22",
+   "look": "ping"
+  },
+  {
+   "shot": "C7",
+   "at": "s:107.88",
+   "look": "ping"
+  },
+  {
+   "shot": "C8",
+   "at": "s:109.24",
+   "look": "ping"
+  },
+  {
+   "shot": "C9",
+   "at": "s:111.54",
+   "look": "ping"
+  },
+  {
+   "shot": "C10",
+   "at": "s:114.29",
+   "look": "ping"
+  },
+  {
+   "shot": "C11",
+   "at": "s:116.08",
+   "look": "ping"
+  },
+  {
+   "shot": "C12",
+   "at": "s:118.47",
+   "look": "ping"
+  },
+  {
+   "shot": "C13",
+   "at": "s:119.65",
+   "look": "ping"
+  },
+  {
+   "shot": "C14",
+   "at": "s:120.79",
+   "look": "ping"
+  },
+  {
+   "shot": "C15",
+   "at": "s:122.19",
+   "look": "ping"
+  },
+  {
+   "shot": "C16",
+   "at": "s:124.44",
+   "look": "ping"
+  },
+  {
+   "shot": "C17",
+   "at": "s:126.00"
+  },
+  {
+   "shot": "C18",
+   "at": "s:127.65"
+  },
+  {
+   "shot": "C19",
+   "at": "s:128.95"
+  },
+  {
+   "shot": "C20",
+   "at": "s:132.10"
+  },
+  {
+   "shot": "C21",
+   "at": "s:134.88"
+  },
+  {
+   "shot": "C22",
+   "at": "s:136.03"
+  },
+  {
+   "shot": "C23",
+   "at": "s:138.09"
+  },
+  {
+   "shot": "C24",
+   "at": "s:141.21"
+  },
+  {
+   "shot": "C25",
+   "at": "s:143.46",
+   "look": "ping"
+  },
+  {
+   "shot": "C26",
+   "at": "s:144.45",
+   "look": "ping"
+  },
+  {
+   "shot": "C27",
+   "at": "s:145.84",
+   "look": "ping"
+  },
+  {
+   "shot": "C28",
+   "at": "s:147.65",
+   "look": "ping"
+  },
+  {
+   "shot": "C29",
+   "at": "s:150.11",
+   "look": "ping"
+  },
+  {
+   "shot": "C30",
+   "at": "s:151.49"
+  },
+  {
+   "shot": "C31",
+   "at": "s:153.73",
+   "look": "ping"
+  },
+  {
+   "shot": "C32",
+   "at": "s:155.56",
+   "look": "ping"
+  },
+  {
+   "shot": "C33",
+   "at": "s:158.32"
+  }
+ ],
+ "fx": [
+  {
+   "at": "C1+8",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25
+  },
+  {
+   "at": "C17+22",
+   "kind": "shake",
+   "len": 6,
+   "amp": 6
+  },
+  {
+   "at": "C17+22",
+   "kind": "flash",
+   "color": "#FF4A3A",
+   "o": 0.22
+  },
+  {
+   "at": "C21+0",
+   "kind": "flash",
+   "color": "#FFE3C0",
+   "o": 0.3
+  },
+  {
+   "at": "C23+30",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.2
+  }
+ ],
+ "events": [
+  [
+   "C1",
+   "room_tone",
+   0.08,
+   "onset",
+   "C5"
+  ],
+  [
+   "C6",
+   "roof_wind",
+   0.08,
+   "onset",
+   "C9"
+  ],
+  [
+   "C9",
+   "room_tone",
+   0.08,
+   "onset",
+   "C11"
+  ],
+  [
+   "C11",
+   "room_tone",
+   0.06,
+   "onset",
+   "C13"
+  ],
+  [
+   "C14",
+   "roof_wind",
+   0.1,
+   "onset",
+   "C18"
+  ],
+  [
+   "C18",
+   "power_hum",
+   0.06,
+   "onset",
+   "C24"
+  ],
+  [
+   "C27",
+   "room_tone",
+   0.08,
+   "onset",
+   "C30"
+  ],
+  [
+   "C31",
+   "room_tone",
+   0.06,
+   "onset",
+   "C33"
+  ],
+  [
+   "C1+8",
+   "paste_pop",
+   0.2
+  ],
+  [
+   "C1+14",
+   "sparkle",
+   0.15
+  ],
+  [
+   "C2+4",
+   "pop",
+   0.14
+  ],
+  [
+   "C3+6",
+   "ding",
+   0.16
+  ],
+  [
+   "C3+19",
+   "ding",
+   0.16
+  ],
+  [
+   "C3+43",
+   "ding",
+   0.18
+  ],
+  [
+   "C4+4",
+   "sparkle",
+   0.14
+  ],
+  [
+   "C4+6",
+   "laugh",
+   0.08
+  ],
+  [
+   "C5+13",
+   "ding",
+   0.2
+  ],
+  [
+   "C5+16",
+   "ting",
+   0.12
+  ],
+  [
+   "C7+5",
+   "paste_pop",
+   0.16
+  ],
+  [
+   "C7+8",
+   "sparkle",
+   0.14
+  ],
+  [
+   "C7+22",
+   "laugh",
+   0.1
+  ],
+  [
+   "C8+58",
+   "ding",
+   0.14
+  ],
+  [
+   "C9+40",
+   "ting",
+   0.1
+  ],
+  [
+   "C10+10",
+   "ding",
+   0.16
+  ],
+  [
+   "C10+12",
+   "ting",
+   0.14
+  ],
+  [
+   "C10+14",
+   "sparkle",
+   0.12
+  ],
+  [
+   "C11+4",
+   "paste_pop",
+   0.16
+  ],
+  [
+   "C11+18",
+   "sparkle",
+   0.14
+  ],
+  [
+   "C13+8",
+   "select_draw",
+   0.15
+  ],
+  [
+   "C13+13",
+   "copy_click",
+   0.2
+  ],
+  [
+   "C15+10",
+   "sparkle",
+   0.08
+  ],
+  [
+   "C17+1",
+   "glitch",
+   0.1
+  ],
+  [
+   "C17+22",
+   "drone_hit",
+   0.2
+  ],
+  [
+   "C17+22",
+   "glitch",
+   0.14
+  ],
+  [
+   "C18+0",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "C24+0",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "C30+0",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "C20+10",
+   "ding",
+   0.12
+  ],
+  [
+   "C20+14",
+   "sparkle",
+   0.14
+  ],
+  [
+   "C21+1",
+   "drone_hit",
+   0.14
+  ],
+  [
+   "C22+58",
+   "ding",
+   0.14
+  ],
+  [
+   "C23+30",
+   "crack",
+   0.14
+  ],
+  [
+   "C23+32",
+   "pop",
+   0.12
+  ],
+  [
+   "C28+8",
+   "paper_land",
+   0.12
+  ],
+  [
+   "C29+30",
+   "gulp",
+   0.2
+  ],
+  [
+   "C31+10",
+   "ting",
+   0.1
+  ],
+  [
+   "C33+36",
+   "pop",
+   0.1
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "C8+2",
+   "clip": "counter_tick",
+   "n": 10,
+   "every": 5,
+   "gain": [
+    0.06,
+    0.1
+   ],
+   "pitch": [
+    0.95,
+    1.05
+   ]
+  },
+  {
+   "at": "C9+4",
+   "clip": "counter_tick",
+   "n": 12,
+   "every": 5,
+   "gain": [
+    0.05,
+    0.08
+   ],
+   "pitch": [
+    0.95,
+    1.05
+   ]
+  },
+  {
+   "at": "C12+8",
+   "clip": "ding",
+   "n": 4,
+   "every": 5,
+   "gain": [
+    0.1,
+    0.14
+   ],
+   "pitch": [
+    0.95,
+    1.15
+   ]
+  },
+  {
+   "at": "C19+4",
+   "clip": "counter_tick",
+   "n": 5,
+   "every": 6,
+   "gain": [
+    0.06,
+    0.09
+   ],
+   "pitch": [
+    0.95,
+    1.05
+   ]
+  },
+  {
+   "at": "C22+2",
+   "clip": "counter_tick",
+   "n": 14,
+   "every": 3,
+   "gain": [
+    0.05,
+    0.08
+   ],
+   "pitch": [
+    0.95,
+    1.05
+   ]
+  },
+  {
+   "at": "C25",
+   "clip": "phone_ring",
+   "n": 2,
+   "every": 14,
+   "gain": [
+    0.07,
+    0.08
+   ],
+   "pitch": [
+    1,
+    1
+   ]
+  },
+  {
+   "at": "C26",
+   "clip": "phone_ring",
+   "n": 2,
+   "every": 14,
+   "gain": [
+    0.07,
+    0.08
+   ],
+   "pitch": [
+    1,
+    1
+   ]
+  },
+  {
+   "at": "C27+2",
+   "clip": "step",
+   "n": 14,
+   "every": 6,
+   "gain": [
+    0.06,
+    0.1
+   ],
+   "pitch": [
+    0.9,
+    1.1
+   ]
+  },
+  {
+   "at": "C31+6",
+   "clip": "pop",
+   "n": 9,
+   "every": 5,
+   "gain": [
+    0.05,
+    0.08
+   ],
+   "pitch": [
+    0.9,
+    1.3
+   ]
+  },
+  {
+   "at": "C32+4",
+   "clip": "phone_ring",
+   "n": 6,
+   "every": 11,
+   "gain": [
+    0.05,
+    0.08
+   ],
+   "pitch": [
+    0.95,
+    1.1
+   ]
+  },
+  {
+   "at": "C33+8",
+   "clip": "counter_tick",
+   "n": 8,
+   "every": 3,
+   "gain": [
+    0.06,
+    0.09
+   ],
+   "pitch": [
+    0.95,
+    1.05
+   ]
+  }
+ ]
+}

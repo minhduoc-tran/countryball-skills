@@ -1,0 +1,19 @@
+# chapter C: beats 11-14. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "3 fun: family"  97.03-110.65 s
+# Mẹ bạn vẫn dậy lúc bốn giờ sáng để bán xôi. Nhưng giờ mẹ dậy vì thích, không phải vì sợ. Mo bỏ ca làm thêm buổi tối, đi học vẽ. Còn bạn, lần đầu tiên, câu hỏi lớn lên con muốn làm gì không còn đi kèm câu nhà mình có đủ tiền không.
+Mẹ@96.97 bạn@97.13 vẫn@97.33 dậy@97.53 lúc@97.95 bốn@98.15 giờ@98.35 sáng@98.55 để@98.80 bán@98.96 xôi.@99.16 Nhưng@99.70 giờ@99.94 mẹ@100.11 dậy@100.24 vì@100.41 thích,@100.54 không@101.08 phải@101.34 vì@101.56 sợ.@101.70 Mo@102.37 bỏ@102.54 ca@102.70 làm@102.86 thêm@103.07 buổi@103.33 tối,@103.65 đi@104.16 học@104.31 vẽ.@104.59 Còn@105.05 bạn,@105.22 lần@105.69 đầu@105.88 tiên,@106.07 câu@106.59 hỏi@106.76 lớn@106.94 lên@107.11 con@107.28 muốn@107.72 làm@107.93 gì@108.10 không@108.24 còn@108.49 đi@108.66 kèm@108.86 câu@109.03 nhà@109.21 mình@109.38 có@109.86 đủ@109.99 tiền@110.12 không.@110.33
+
+## beat "3 fun: grandma"  110.99-120.45 s
+# Còn bà cụ bán vé số ở đầu ngõ? Ba mươi năm đi bộ khắp phố. Giờ bà ngồi trước hiên, pha một ấm trà, chỉ đường cho bọn trẻ đi học. Lần đầu tiên, bà được già đi thong thả.
+Còn@110.92 bà@111.12 cụ@111.27 bán@111.43 vé@111.63 số@111.78 ở@111.94 đầu@112.05 ngõ?@112.25 Ba@112.83 mươi@112.95 năm@113.15 đi@113.31 bộ@113.43 khắp@113.56 phố.@113.87 Giờ@114.58 bà@114.75 ngồi@114.88 trước@115.08 hiên,@115.32 pha@115.83 một@116.02 ấm@116.21 trà,@116.36 chỉ@116.85 đường@117.00 cho@117.22 bọn@117.37 trẻ@117.53 đi@117.68 học.@117.80 Lần@118.43 đầu@118.61 tiên,@118.79 bà@119.31 được@119.44 già@119.65 đi@119.83 thong@119.96 thả.@120.21
+
+## beat "4 doubt: inflation"  120.96-137.71 s
+# Nhưng khoan đã. Đưa tiền cho người nghèo, giá cả có tăng vọt không? Ở Kenya, các nhà kinh tế đã thử thật. Họ chuyển tiền cho hơn mười nghìn hộ nghèo, mỗi hộ khoảng một nghìn đô. Mỗi đồng chuyển đi tạo ra khoảng hai đồng rưỡi cho cả vùng. Còn giá cả chỉ nhích lên chưa tới một phần trăm. Đó là thật.
+Nhưng@120.89 khoan@121.20 đã.@121.43 Đưa@121.88 tiền@122.04 cho@122.23 người@122.39 nghèo,@122.61 giá@123.14 cả@123.32 có@123.45 tăng@123.59 vọt@123.80 không?@123.98 Ở@124.63 Kenya,@124.89 các@125.61 nhà@125.76 kinh@125.92 tế@126.10 đã@126.22 thử@126.34 thật.@126.49 Họ@127.23 chuyển@127.37 tiền@127.74 cho@128.06 hơn@128.24 mười@128.42 nghìn@128.64 hộ@128.90 nghèo,@129.04 mỗi@129.60 hộ@129.77 khoảng@129.89 một@130.27 nghìn@130.44 đô.@130.67 Mỗi@131.13 đồng@131.32 chuyển@131.56 đi@131.98 tạo@132.13 ra@132.32 khoảng@132.47 hai@132.79 đồng@132.99 rưỡi@133.22 cho@133.46 cả@133.65 vùng.@133.80 Còn@134.58 giá@134.76 cả@134.93 chỉ@135.06 nhích@135.44 lên@135.69 chưa@135.86 tới@136.07 một@136.25 phần@136.42 trăm.@136.63 Đó@137.24 là@137.35 thật.@137.47
+
+## beat "4 doubt: lazy"  138.04-150.55 s
+# Vậy có ai lười đi không? Phần Lan đã thử trả cho hai nghìn người thất nghiệp năm trăm sáu mươi euro mỗi tháng, suốt hai năm, không cần điều kiện gì. Họ không nằm dài ở nhà. Họ đi làm nhiều hơn một chút, và bớt căng thẳng hơn hẳn.
+Vậy@137.97 có@138.14 ai@138.26 lười@138.39 đi@138.59 không?@138.71 Phần@139.44 Lan@139.67 đã@139.86 thử@140.00 trả@140.18 cho@140.37 hai@140.55 nghìn@140.74 người@141.01 thất@141.27 nghiệp@141.50 năm@141.89 trăm@142.07 sáu@142.58 mươi@142.76 euro@142.99 mỗi@143.21 tháng,@143.40 suốt@143.96 hai@144.18 năm,@144.35 không@144.82 cần@145.06 điều@145.22 kiện@145.42 gì.@145.62 Họ@146.23 không@146.39 nằm@146.69 dài@146.89 ở@147.10 nhà.@147.21 Họ@147.80 đi@147.93 làm@148.06 nhiều@148.24 hơn@148.49 một@148.66 chút,@148.83 và@149.35 bớt@149.47 căng@149.64 thẳng@149.92 hơn@150.16 hẳn.@150.32
+
+# chapter ends at s:151.03 (next chapter's first cut, or the episode end)

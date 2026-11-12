@@ -1,0 +1,35 @@
+# chapter A: beats 0-7. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "0 cold open, demo 1"  0.02-1.86 s
+# Hai mươi lăm giây. Một ổ bánh mì.
+Hai@0.00 mươi@0.10 lăm@0.28 giây.@0.42 Một@1.05 ổ@1.31 bánh@1.42 mì.@1.65
+
+## beat "0 cold open, demo 2"  2.30-4.76 s
+# Một giấc ngủ tám tiếng. Một chiếc xe máy mới.
+Một@2.23 giấc@2.41 ngủ@2.63 tám@2.89 tiếng.@3.07 Một@3.76 chiếc@3.94 xe@4.20 máy@4.34 mới.@4.52
+
+## beat "0 cold open, demo 3"  5.04-7.38 s
+# Một tháng. Một căn hộ nhỏ giữa thành phố.
+Một@4.97 tháng.@5.24 Một@5.89 căn@6.07 hộ@6.26 nhỏ@6.40 giữa@6.58 thành@6.80 phố.@7.13
+
+## beat "0 title"  7.72-10.25 s
+# Sẽ ra sao nếu bạn kiếm được một nghìn đồng mỗi giây?
+Sẽ@7.65 ra@7.79 sao@7.93 nếu@8.10 bạn@8.28 kiếm@8.60 được@8.92 một@9.13 nghìn@9.31 đồng@9.57 mỗi@9.79 giây?@9.96
+
+## beat "1 morning: first ping"  11.25-18.85 s
+# Sáng nay, điện thoại bạn rung. Tin nhắn từ ngân hàng: cộng một nghìn đồng. Một giây sau, lại rung. Cộng một nghìn đồng nữa.
+Sáng@11.18 nay,@11.47 điện@12.01 thoại@12.22 bạn@12.46 rung.@12.63 Tin@13.23 nhắn@13.41 từ@13.62 ngân@13.83 hàng:@14.05 cộng@14.66 một@14.86 nghìn@15.03 đồng.@15.27 Một@15.96 giây@16.17 sau,@16.42 lại@16.93 rung.@17.15 Cộng@17.80 một@18.07 nghìn@18.22 đồng@18.44 nữa.@18.63
+
+## beat "1 rule"  19.18-29.20 s
+# Cứ mỗi giây, một nghìn đồng. Không bao giờ dừng. Kể cả khi bạn ăn, bạn tắm, hay bạn ngủ. Không ai biết tiền từ đâu ra, nhưng ngân hàng kiểm tra rồi: tất cả đều hợp lệ.
+Cứ@19.11 mỗi@19.24 giây,@19.41 một@19.92 nghìn@20.08 đồng.@20.30 Không@21.04 bao@21.25 giờ@21.39 dừng.@21.53 Kể@22.25 cả@22.39 khi@22.53 bạn@22.70 ăn,@22.96 bạn@23.40 tắm,@23.68 hay@24.16 bạn@24.33 ngủ.@24.50 Không@25.15 ai@25.37 biết@25.48 tiền@25.77 từ@25.96 đâu@26.07 ra,@26.22 nhưng@26.64 ngân@26.87 hàng@27.06 kiểm@27.32 tra@27.51 rồi:@27.66 tất@28.22 cả@28.54 đều@28.67 hợp@28.83 lệ.@29.00
+
+## beat "1 rule: test"  29.51-37.19 s
+# Bạn thử rút tiền ở cây ATM: được. Bạn thử chuyển cho bạn thân năm trăm nghìn: vẫn được. Tiền thật. Và nó không ngừng chảy vào.
+Bạn@29.45 thử@29.68 rút@30.00 tiền@30.24 ở@30.52 cây@30.65 ATM:@30.88 được.@31.48 Bạn@32.16 thử@32.31 chuyển@32.47 cho@32.73 bạn@32.89 thân@33.05 năm@33.24 trăm@33.40 nghìn:@33.59 vẫn@34.19 được.@34.32 Tiền@34.95 thật.@35.10 Và@35.80 nó@35.95 không@36.11 ngừng@36.40 chảy@36.68 vào.@36.93
+
+## beat "1 phone explodes"  37.59-42.55 s
+# Đến trưa, điện thoại bạn đã rung hơn hai mươi nghìn lần. Bạn phải tắt thông báo, để còn ngủ được.
+Đến@37.53 trưa,@37.72 điện@38.27 thoại@38.46 bạn@38.69 đã@38.86 rung@38.98 hơn@39.18 hai@39.34 mươi@39.68 nghìn@39.87 lần.@40.11 Bạn@40.61 phải@40.76 tắt@40.94 thông@41.16 báo,@41.37 để@41.82 còn@41.95 ngủ@42.11 được.@42.28
+
+# chapter ends at s:43.38 (next chapter's first cut, or the episode end)

@@ -1,0 +1,68 @@
+{
+ "chapter": "d",
+ "shots": [
+  {"id": "D1", "file": "shots-chd-swearing-in", "size": "wide", "set": "map", "key": 30, "note": "chiều 28.04 city map, RVN flag on the Dinh"},
+  {"id": "D2", "file": "shots-chd-swearing-in", "size": "wide", "set": "photo", "key": 55, "note": "Dương Văn Minh: 1964 print + name card"},
+  {"id": "D3", "file": "shots-chd-swearing-in", "size": "wide", "set": "card", "key": 45, "note": "hope of talks: silhouette at a table, other side faint"},
+  {"id": "D4", "file": "shots-chd-swearing-in", "size": "wide", "set": "card", "key": 36, "note": "clock runs faster, edges turn red"},
+  {"id": "D5", "file": "shots-chd-tan-son-nhat", "size": "wide", "set": "card", "key": 100, "note": "three A-37 over the skyline at dusk"},
+  {"id": "D6", "file": "shots-chd-tan-son-nhat", "size": "wide", "set": "map", "key": 36, "note": "Tân Sơn Nhất runway, jets, small bursts"},
+  {"id": "D7", "file": "shots-chd-tan-son-nhat", "size": "wide", "set": "card", "key": 110, "note": "Phi đội Quyết Thắng, markings change to the red star"},
+  {"id": "D8", "file": "shots-chd-tan-son-nhat", "size": "wide", "set": "map", "key": 70, "note": "dawn 29.04 shelling, date rolls"},
+  {"id": "D9", "file": "shots-chd-tan-son-nhat", "size": "wide", "set": "photo", "key": 70, "note": "two prints: airfield + C-130"},
+  {"id": "D10", "file": "shots-chd-marines-and-signal", "size": "wide", "set": "photo", "key": 80, "note": "quiet aerial print of the DAO compound"},
+  {"id": "D11", "file": "shots-chd-marines-and-signal", "size": "wide", "set": "card", "key": 80, "note": "McMahon + Judge name cards, candles"},
+  {"id": "D12", "file": "shots-chd-marines-and-signal", "size": "wide", "set": "card", "key": 90, "note": "last US servicemen: candles, sad US ball"},
+  {"id": "D13", "file": "shots-chd-marines-and-signal", "size": "wide", "set": "photo", "key": 80, "note": "evacuation order: Ford print, noon, Huey"},
+  {"id": "D14", "file": "shots-chd-marines-and-signal", "size": "wide", "set": "card", "key": 40, "note": "CHIẾN DỊCH GIÓ LỐC title"},
+  {"id": "D15", "file": "shots-chd-marines-and-signal", "size": "wide", "set": "card", "key": 70, "note": "AFRS radio, worried US ball"},
+  {"id": "D16", "file": "shots-chd-marines-and-signal", "size": "wide", "set": "card", "key": 60, "note": "White Christmas: snow + notes"},
+  {"id": "D17", "file": "shots-chd-helicopter-shuttle", "size": "wide", "set": "photo", "key": 36, "note": "Marines on USS Hancock print"},
+  {"id": "D18", "file": "shots-chd-helicopter-shuttle", "size": "wide", "set": "map", "key": 95, "note": "helicopters shuttle Sài Gòn <-> fleet, evening to night"},
+  {"id": "D19", "file": "shots-chd-helicopter-shuttle", "size": "wide", "set": "photo", "key": 66, "note": "rooftops print (2016) then rooftop evacuation"},
+  {"id": "D20", "file": "shots-chd-helicopter-shuttle", "size": "wide", "set": "card", "key": 50, "note": "crowd silhouettes waiting"},
+  {"id": "D21", "file": "shots-chd-helicopter-shuttle", "size": "wide", "set": "card", "key": 50, "note": "Theo tài liệu phía Mỹ card"},
+  {"id": "D22", "file": "shots-chd-helicopter-shuttle", "size": "wide", "set": "card", "key": 66, "note": "1.373 người Mỹ"},
+  {"id": "D23", "file": "shots-chd-helicopter-shuttle", "size": "wide", "set": "card", "key": 125, "note": "hơn 5.595 + print đã được đưa đi"},
+  {"id": "D24", "file": "shots-chd-ships-and-boats", "size": "wide", "set": "photo", "key": 40, "note": "crowded deck print"},
+  {"id": "D25", "file": "shots-chd-ships-and-boats", "size": "wide", "set": "card", "key": 82, "note": "CarrierDeck: Huey lands, one pushed overboard"},
+  {"id": "D26", "file": "shots-chd-ships-and-boats", "size": "wide", "set": "photo", "key": 55, "note": "two prints of pushed helicopters"},
+  {"id": "D27", "file": "shots-chd-ships-and-boats", "size": "wide", "set": "map", "key": 60, "note": "small boats leave the coast"},
+  {"id": "D28", "file": "shots-chd-ships-and-boats", "size": "wide", "set": "photo", "key": 40, "note": "boats reach the fleet print"}
+ ],
+ "edit": [
+  {"shot": "D1", "at": "s:238.91"}, {"shot": "D2", "at": "s:240.59"}, {"shot": "D3", "at": "s:243.26"}, {"shot": "D4", "at": "s:245.41"},
+  {"shot": "D5", "at": "s:246.95"}, {"shot": "D6", "at": "s:251.40"}, {"shot": "D7", "at": "s:253.09"}, {"shot": "D8", "at": "s:257.58"},
+  {"shot": "D9", "at": "s:260.83"}, {"shot": "D10", "at": "s:263.59"}, {"shot": "D11", "at": "s:266.78"}, {"shot": "D12", "at": "s:269.76"},
+  {"shot": "D13", "at": "s:273.08"}, {"shot": "D14", "at": "s:276.18"}, {"shot": "D15", "at": "s:277.90"}, {"shot": "D16", "at": "s:281.01"},
+  {"shot": "D17", "at": "s:283.81"}, {"shot": "D18", "at": "s:285.49"}, {"shot": "D19", "at": "s:289.93"}, {"shot": "D20", "at": "s:292.53"},
+  {"shot": "D21", "at": "s:294.49"}, {"shot": "D22", "at": "s:296.60"}, {"shot": "D23", "at": "s:299.11"}, {"shot": "D24", "at": "s:303.53"},
+  {"shot": "D25", "at": "s:305.46"}, {"shot": "D26", "at": "s:308.38"}, {"shot": "D27", "at": "s:310.53"}, {"shot": "D28", "at": "s:312.90"}
+ ],
+ "fx": [
+  {"at": "D7+66", "kind": "flash", "color": "#FFF3DC", "o": 0.25},
+  {"at": "D25+68", "kind": "shake", "len": 6, "amp": 4}
+ ],
+ "events": [
+  ["D5+30", "jet_pass", 0.1],
+  ["D6+6", "bomb_far", 0.08], ["D6+26", "bomb_far", 0.07],
+  ["D7+18", "swoosh", 0.08],
+  ["D8+12", "bomb_far", 0.08], ["D8+34", "bomb_far", 0.07], ["D8+58", "bomb_far", 0.07],
+  ["D9+0", "paper_land", 0.09], ["D9+21", "paper_land", 0.09],
+  ["D13+0", "paper_land", 0.09],
+  ["D14+0", "swoosh", 0.1],
+  ["D15+4", "radio_static", 0.08],
+  ["D17+0", "paper_land", 0.08],
+  ["D18+0", "drone_buzz", 0.05],
+  ["D23+98", "paper_land", 0.09],
+  ["D24+0", "paper_land", 0.08],
+  ["D25+68", "splash", 0.12],
+  ["D26+0", "paper_land", 0.08], ["D26+12", "paper_land", 0.08],
+  ["D27+0", "sea_waves", 0.06],
+  ["D28+0", "paper_land", 0.08]
+ ],
+ "repeats": [
+  {"at": "D22+2", "clip": "counter_tick", "n": 15, "every": 3, "gain": [0.05, 0.07], "pitch": [0.95, 1.1]},
+  {"at": "D23+4", "clip": "counter_tick", "n": 11, "every": 3, "gain": [0.05, 0.07], "pitch": [0.95, 1.15]}
+ ]
+}

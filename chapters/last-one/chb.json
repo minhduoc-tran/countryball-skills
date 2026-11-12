@@ -1,0 +1,872 @@
+{
+ "chapter": "b",
+ "shots": [
+  {
+   "id": "B1",
+   "file": "shots-chb-fun-opening-and-supermarket",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 20,
+   "note": "night bedroom, Pip hugging knees in bed, worried, lamp on"
+  },
+  {
+   "id": "B2",
+   "file": "shots-chb-fun-opening-and-supermarket",
+   "size": "medium",
+   "set": "hall",
+   "key": 58,
+   "note": "front door, morning, shades slide on, smug"
+  },
+  {
+   "id": "B3",
+   "file": "shots-chb-fun-opening-and-supermarket",
+   "size": "wide",
+   "set": "supermarket",
+   "key": 30,
+   "note": "supermarket wide, Pip walks in arms wide"
+  },
+  {
+   "id": "B4",
+   "file": "shots-chb-fun-opening-and-supermarket",
+   "size": "medium",
+   "set": "supermarket",
+   "key": 9,
+   "note": "cart filling, items pop in"
+  },
+  {
+   "id": "B5",
+   "file": "shots-chb-fun-opening-and-supermarket",
+   "size": "wide",
+   "set": "supermarket",
+   "key": 28,
+   "note": "empty checkout lane, Pip strolls past"
+  },
+  {
+   "id": "B6",
+   "file": "shots-chb-fun-opening-and-supermarket",
+   "size": "medium",
+   "set": "supermarket",
+   "key": 10,
+   "note": "ice cream from the open chest freezer"
+  },
+  {
+   "id": "B7",
+   "file": "shots-chb-fun-opening-and-supermarket",
+   "size": "insert",
+   "set": "macro",
+   "key": 10,
+   "note": "snack bag torn open, crumbs"
+  },
+  {
+   "id": "B8",
+   "file": "shots-chb-fun-opening-and-supermarket",
+   "size": "insert",
+   "set": "macro",
+   "key": 10,
+   "note": "soda can pops, foam sprays"
+  },
+  {
+   "id": "B9",
+   "file": "shots-chb-fun-opening-and-supermarket",
+   "size": "medium",
+   "set": "supermarket",
+   "key": 24,
+   "note": "eating off the shelf, cone in hand, full cart"
+  },
+  {
+   "id": "B10",
+   "file": "shots-chb-fun-school-and-city",
+   "size": "wide",
+   "set": "classroom",
+   "key": 30,
+   "note": "empty classroom, no teacher, Pip strolls in"
+  },
+  {
+   "id": "B11",
+   "file": "shots-chb-fun-school-and-city",
+   "size": "insert",
+   "set": "desk top",
+   "key": 18,
+   "note": "test sheets swept off the desk"
+  },
+  {
+   "id": "B12",
+   "file": "shots-chb-fun-school-and-city",
+   "size": "medium",
+   "set": "classroom",
+   "key": 26,
+   "note": "Pip writes TU DO!!! on the board"
+  },
+  {
+   "id": "B13",
+   "file": "shots-chb-fun-school-and-city",
+   "size": "insert",
+   "set": "board",
+   "key": 26,
+   "note": "chalk doodle of Pip as king draws on"
+  },
+  {
+   "id": "B14",
+   "file": "shots-chb-fun-school-and-city",
+   "size": "wide",
+   "set": "street",
+   "key": 40,
+   "note": "Pip runs and jumps on the street"
+  },
+  {
+   "id": "B15",
+   "file": "shots-chb-fun-school-and-city",
+   "size": "high",
+   "set": "crossroads top",
+   "key": 40,
+   "note": "crossroads from above, Pip lying, slow push to face"
+  },
+  {
+   "id": "B16",
+   "file": "shots-chb-fun-school-and-city",
+   "size": "low",
+   "set": "street",
+   "key": 24,
+   "note": "quiet low street, scooters standing still"
+  },
+  {
+   "id": "B17",
+   "file": "shots-chb-fun-bike-tower-night",
+   "size": "wide",
+   "set": "street",
+   "key": 24,
+   "note": "tracking: Pip rides hands-free, street rushing"
+  },
+  {
+   "id": "B18",
+   "file": "shots-chb-fun-bike-tower-night",
+   "size": "medium",
+   "set": "street",
+   "key": 20,
+   "note": "close: hands free, arms wide, road tearing past"
+  },
+  {
+   "id": "B19",
+   "file": "shots-chb-fun-bike-tower-night",
+   "size": "high",
+   "set": "tower wall",
+   "key": 30,
+   "note": "climbing the pipe ladder up the tallest tower"
+  },
+  {
+   "id": "B20",
+   "file": "shots-chb-fun-bike-tower-night",
+   "size": "low",
+   "set": "rooftop",
+   "key": 20,
+   "note": "low angle, Pip shouts at the sky"
+  },
+  {
+   "id": "B21",
+   "file": "shots-chb-fun-bike-tower-night",
+   "size": "wide",
+   "set": "rooftop city",
+   "key": 16,
+   "note": "birds burst off the cable"
+  },
+  {
+   "id": "B22",
+   "file": "shots-chb-fun-bike-tower-night",
+   "size": "wide",
+   "set": "rooftop city",
+   "key": 50,
+   "note": "same city still, tiny Pip shrugs, empty cable"
+  },
+  {
+   "id": "B23",
+   "file": "shots-chb-fun-bike-tower-night",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 30,
+   "note": "boombox blasting, Pip dancing"
+  },
+  {
+   "id": "B24",
+   "file": "shots-chb-fun-bike-tower-night",
+   "size": "insert",
+   "set": "facade",
+   "key": 20,
+   "note": "neighbour's dark window, nobody"
+  },
+  {
+   "id": "B25",
+   "file": "shots-chb-fun-bike-tower-night",
+   "size": "medium",
+   "set": "shop window",
+   "key": 20,
+   "note": "Pip asleep on the display bed"
+  },
+  {
+   "id": "B26",
+   "file": "shots-chb-fun-bike-tower-night",
+   "size": "insert",
+   "set": "bedside",
+   "key": 30,
+   "note": "alarm clock 11:47, mitten pats it"
+  },
+  {
+   "id": "B27",
+   "file": "shots-chb-fun-toys-dream-turn",
+   "size": "wide",
+   "set": "toy store",
+   "key": 30,
+   "note": "toy store wide, Pip walks in looking up"
+  },
+  {
+   "id": "B28",
+   "file": "shots-chb-fun-toys-dream-turn",
+   "size": "medium",
+   "set": "toy store",
+   "key": 22,
+   "note": "Pip cheers, toys tossed in the air"
+  },
+  {
+   "id": "B29",
+   "file": "shots-chb-fun-toys-dream-turn",
+   "size": "medium",
+   "set": "toy store",
+   "key": 52,
+   "note": "pillows tossed, the fort pops up"
+  },
+  {
+   "id": "B30",
+   "file": "shots-chb-fun-toys-dream-turn",
+   "size": "medium",
+   "set": "toy store night",
+   "key": 20,
+   "note": "Pip asleep in the pillow fort, fairy lights"
+  },
+  {
+   "id": "B31",
+   "file": "shots-chb-fun-toys-dream-turn",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "homework sheets blow away, Pip lying back"
+  },
+  {
+   "id": "B32",
+   "file": "shots-chb-fun-toys-dream-turn",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 30,
+   "note": "golden hour, Pip smiling on the parapet, push-in"
+  },
+  {
+   "id": "B33",
+   "file": "shots-chb-fun-toys-dream-turn",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 34,
+   "note": "the turn: sun dips, string lights die"
+  },
+  {
+   "id": "B34",
+   "file": "shots-chb-fun-toys-dream-turn",
+   "size": "close",
+   "set": "rooftop blurred",
+   "key": 20,
+   "note": "worried extreme close-up, red dark city"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "B1",
+   "at": "s:70.44"
+  },
+  {
+   "shot": "B2",
+   "at": "s:72.27"
+  },
+  {
+   "shot": "B3",
+   "at": "s:74.41"
+  },
+  {
+   "shot": "B4",
+   "at": "s:76.03"
+  },
+  {
+   "shot": "B5",
+   "at": "s:77.42"
+  },
+  {
+   "shot": "B6",
+   "at": "s:79.24"
+  },
+  {
+   "shot": "B7",
+   "at": "s:79.79"
+  },
+  {
+   "shot": "B8",
+   "at": "s:80.38"
+  },
+  {
+   "shot": "B9",
+   "at": "s:81.04"
+  },
+  {
+   "shot": "B10",
+   "at": "s:82.62"
+  },
+  {
+   "shot": "B11",
+   "at": "s:84.2"
+  },
+  {
+   "shot": "B12",
+   "at": "s:85.37"
+  },
+  {
+   "shot": "B13",
+   "at": "s:86.52"
+  },
+  {
+   "shot": "B14",
+   "at": "s:87.64"
+  },
+  {
+   "shot": "B15",
+   "at": "s:89.57"
+  },
+  {
+   "shot": "B16",
+   "at": "s:92.02"
+  },
+  {
+   "shot": "B17",
+   "at": "s:93.57"
+  },
+  {
+   "shot": "B18",
+   "at": "s:95.08"
+  },
+  {
+   "shot": "B19",
+   "at": "s:96.27"
+  },
+  {
+   "shot": "B20",
+   "at": "s:97.94"
+  },
+  {
+   "shot": "B21",
+   "at": "s:99.22"
+  },
+  {
+   "shot": "B22",
+   "at": "s:100.53"
+  },
+  {
+   "shot": "B23",
+   "at": "s:102.66"
+  },
+  {
+   "shot": "B24",
+   "at": "s:105.13"
+  },
+  {
+   "shot": "B25",
+   "at": "s:106.49"
+  },
+  {
+   "shot": "B26",
+   "at": "s:107.97"
+  },
+  {
+   "shot": "B27",
+   "at": "s:109.57"
+  },
+  {
+   "shot": "B28",
+   "at": "s:111.58"
+  },
+  {
+   "shot": "B29",
+   "at": "s:113.06"
+  },
+  {
+   "shot": "B30",
+   "at": "s:115.56"
+  },
+  {
+   "shot": "B31",
+   "at": "s:116.8"
+  },
+  {
+   "shot": "B32",
+   "at": "s:119.48"
+  },
+  {
+   "shot": "B33",
+   "at": "s:121.65"
+  },
+  {
+   "shot": "B34",
+   "at": "s:123.12"
+  }
+ ],
+ "fx": [
+  {
+   "at": "B20+6",
+   "kind": "shake",
+   "len": 10,
+   "amp": 5
+  },
+  {
+   "at": "B29+47",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.3
+  },
+  {
+   "at": "B34+22",
+   "kind": "shake",
+   "len": 8,
+   "amp": 7
+  }
+ ],
+ "events": [
+  [
+   "B1",
+   "room_tone",
+   0.12,
+   "onset",
+   "B2"
+  ],
+  [
+   "B2+52",
+   "shades",
+   0.2
+  ],
+  [
+   "B3",
+   "room_tone",
+   0.1,
+   "onset",
+   "B10"
+  ],
+  [
+   "B3+6",
+   "step",
+   0.09
+  ],
+  [
+   "B3+17",
+   "step",
+   0.09
+  ],
+  [
+   "B3+28",
+   "step",
+   0.09
+  ],
+  [
+   "B3+39",
+   "step",
+   0.09
+  ],
+  [
+   "B4+3",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "B4+10",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "B4+17",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "B4+24",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "B4+31",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "B5+6",
+   "step",
+   0.1
+  ],
+  [
+   "B5+19",
+   "step",
+   0.1
+  ],
+  [
+   "B5+32",
+   "step",
+   0.1
+  ],
+  [
+   "B5+45",
+   "step",
+   0.1
+  ],
+  [
+   "B5+50",
+   "ding",
+   0.14
+  ],
+  [
+   "B6+4",
+   "pop",
+   0.14
+  ],
+  [
+   "B7+5",
+   "cookie_crunch",
+   0.22,
+   "onset",
+   "B8"
+  ],
+  [
+   "B8+5",
+   "pop",
+   0.2
+  ],
+  [
+   "B8+13",
+   "gulp",
+   0.12
+  ],
+  [
+   "B9+6",
+   "cookie_crunch",
+   0.16,
+   "onset",
+   "B9+18"
+  ],
+  [
+   "B9+22",
+   "cookie_crunch",
+   0.14,
+   "onset",
+   "B9+34"
+  ],
+  [
+   "B9+38",
+   "cookie_crunch",
+   0.14,
+   "onset",
+   "B10"
+  ],
+  [
+   "B10",
+   "room_tone",
+   0.1,
+   "onset",
+   "B14"
+  ],
+  [
+   "B10+8",
+   "step",
+   0.1
+  ],
+  [
+   "B10+22",
+   "step",
+   0.1
+  ],
+  [
+   "B10+36",
+   "step",
+   0.1
+  ],
+  [
+   "B11+16",
+   "paper_land",
+   0.2
+  ],
+  [
+   "B12+2",
+   "select_draw",
+   0.14,
+   "onset",
+   "B13"
+  ],
+  [
+   "B13+3",
+   "select_draw",
+   0.14,
+   "onset",
+   "B14"
+  ],
+  [
+   "B14",
+   "roof_wind",
+   0.08,
+   "onset",
+   "B17"
+  ],
+  [
+   "B14+4",
+   "step",
+   0.12
+  ],
+  [
+   "B14+9",
+   "step",
+   0.12
+  ],
+  [
+   "B14+14",
+   "step",
+   0.12
+  ],
+  [
+   "B14+19",
+   "step",
+   0.12
+  ],
+  [
+   "B14+24",
+   "step",
+   0.12
+  ],
+  [
+   "B14+31",
+   "fall_whoosh",
+   0.1,
+   "onset",
+   "B15"
+  ],
+  [
+   "B14+54",
+   "land",
+   0.2
+  ],
+  [
+   "B17",
+   "roof_wind",
+   0.08,
+   "onset",
+   "B22"
+  ],
+  [
+   "B17+4",
+   "fall_whoosh",
+   0.12,
+   "onset",
+   "B18"
+  ],
+  [
+   "B18+2",
+   "fall_whoosh",
+   0.12,
+   "onset",
+   "B19"
+  ],
+  [
+   "B19+6",
+   "step",
+   0.1
+  ],
+  [
+   "B19+16",
+   "step",
+   0.1
+  ],
+  [
+   "B19+26",
+   "step",
+   0.1
+  ],
+  [
+   "B19+36",
+   "step",
+   0.1
+  ],
+  [
+   "B19+46",
+   "step",
+   0.1
+  ],
+  [
+   "B20+2",
+   "gasp",
+   0.14
+  ],
+  [
+   "B21+3",
+   "fall_whoosh",
+   0.12,
+   "onset",
+   "B22"
+  ],
+  [
+   "B22",
+   "roof_wind",
+   0.08,
+   "onset",
+   "B23"
+  ],
+  [
+   "B23",
+   "room_tone",
+   0.1,
+   "onset",
+   "B27"
+  ],
+  [
+   "B26+20",
+   "clink",
+   0.16
+  ],
+  [
+   "B27",
+   "room_tone",
+   0.1,
+   "onset",
+   "B31"
+  ],
+  [
+   "B27+16",
+   "sparkle",
+   0.12
+  ],
+  [
+   "B28+10",
+   "fall_whoosh",
+   0.1,
+   "onset",
+   "B29"
+  ],
+  [
+   "B28+12",
+   "sparkle",
+   0.1
+  ],
+  [
+   "B28+42",
+   "land",
+   0.14
+  ],
+  [
+   "B29+12",
+   "land",
+   0.1
+  ],
+  [
+   "B29+20",
+   "land",
+   0.1
+  ],
+  [
+   "B29+28",
+   "land",
+   0.1
+  ],
+  [
+   "B29+36",
+   "land",
+   0.1
+  ],
+  [
+   "B29+44",
+   "land",
+   0.1
+  ],
+  [
+   "B29+47",
+   "paste_pop",
+   0.2
+  ],
+  [
+   "B29+49",
+   "sparkle",
+   0.15
+  ],
+  [
+   "B31",
+   "roof_wind",
+   0.1,
+   "onset",
+   "B32"
+  ],
+  [
+   "B31+2",
+   "fall_whoosh",
+   0.1,
+   "onset",
+   "B32"
+  ],
+  [
+   "B32",
+   "roof_wind",
+   0.08,
+   "onset",
+   "B33"
+  ],
+  [
+   "B33+14",
+   "power_down",
+   0.1,
+   "onset",
+   "B34"
+  ],
+  [
+   "B34+22",
+   "drone_hit",
+   0.14
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "B23+2",
+   "clip": "big_step",
+   "n": 5,
+   "every": 15,
+   "gain": [
+    0.08,
+    0.1
+   ],
+   "pitch": [
+    0.7,
+    0.8
+   ]
+  },
+  {
+   "at": "B24+2",
+   "clip": "big_step",
+   "n": 3,
+   "every": 15,
+   "gain": [
+    0.04,
+    0.05
+   ],
+   "pitch": [
+    0.65,
+    0.7
+   ]
+  },
+  {
+   "at": "B33+10",
+   "clip": "bulb_pop",
+   "n": 8,
+   "every": 3,
+   "gain": [
+    0.04,
+    0.08
+   ],
+   "pitch": [
+    0.9,
+    1.2
+   ]
+  }
+ ]
+}

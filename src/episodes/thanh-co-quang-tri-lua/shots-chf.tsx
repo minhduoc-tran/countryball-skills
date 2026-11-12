@@ -1,0 +1,27 @@
+import { makeShot } from './shot';
+
+export const F1 = makeShot({"mode": "radio", "stage": "off", "tag": "F", "angle": 0, "first": 15927, "until": 16251, "label": "Đêm mười lăm tháng chín"});
+export const F2 = makeShot({"mode": "radio", "stage": "off", "tag": "F", "angle": 1, "first": 15927, "until": 16251});
+export const F3 = makeShot({"mode": "radio", "stage": "power", "tag": "F", "angle": 1, "first": 15927, "until": 16251});
+export const F4 = makeShot({"mode": "radio", "stage": "power", "tag": "F", "angle": 2, "first": 15927, "until": 16251});
+export const F5 = makeShot({"mode": "cross", "stage": "withdraw", "tag": "F", "angle": 2, "first": 15927, "until": 16251});
+export const F6 = makeShot({"mode": "cross", "stage": "withdraw", "tag": "F", "angle": 0, "first": 16254, "until": 16611, "label": "Trở lại Thạch Hãn"});
+export const F7 = makeShot({"mode": "cross", "stage": "withdraw", "tag": "F", "angle": 1, "first": 16254, "until": 16611});
+export const F8 = makeShot({"mode": "fort", "stage": "posts", "tag": "F", "angle": 2, "first": 16254, "until": 16611});
+export const F9 = makeShot({"mode": "date", "stage": "end", "tag": "F", "angle": 0, "first": 16611, "until": 16989});
+export const F10 = makeShot({"mode": "title", "stage": "hold", "tag": "F", "angle": 1, "first": 16611, "until": 16989});
+export const F11 = makeShot({"mode": "map", "stage": "local", "tag": "F", "angle": 2, "first": 16611, "until": 16989});
+export const F12 = makeShot({"mode": "letter", "stage": "home", "tag": "F", "angle": 0, "first": 16611, "until": 16989});
+export const F13 = makeShot({"mode": "letter", "stage": "home", "tag": "F", "angle": 1, "first": 16611, "until": 16989});
+export const F14 = makeShot({"mode": "letter", "stage": "home", "tag": "F", "angle": 0, "first": 16996, "until": 17362, "label": "Lá thư về tới nhà"});
+export const F15 = makeShot({"mode": "letter", "stage": "home", "tag": "F", "angle": 1, "first": 16996, "until": 17362});
+export const F16 = makeShot({"mode": "letter", "stage": "write", "tag": "F", "angle": 2, "first": 16996, "until": 17362});
+export const F17 = makeShot({"mode": "letter", "stage": "write", "tag": "F", "angle": 0, "first": 16996, "until": 17362});
+export const F18 = makeShot({"mode": "letter", "stage": "home", "tag": "F", "angle": 0, "first": 16996, "until": 17362});
+export const F19 = makeShot({"mode": "photo", "stage": "2012", "tag": "F", "angle": 0, "first": 17368, "until": 17677, "label": "Cổng thành hôm nay"});
+export const F20 = makeShot({"mode": "school", "stage": "hold", "tag": "F", "angle": 1, "first": 17368, "until": 17677});
+export const F21 = makeShot({"mode": "school", "stage": "hold", "tag": "F", "angle": 2, "first": 17368, "until": 17677});
+export const F22 = makeShot({"mode": "photo", "stage": "river2018", "tag": "F", "angle": 0, "first": 17678, "until": 18068, "label": "Sông Thạch Hãn"});
+export const F23 = makeShot({"mode": "memorial", "stage": "flowers", "tag": "F", "angle": 1, "first": 17678, "until": 18068});
+export const F24 = makeShot({"mode": "memorial", "stage": "flowers", "tag": "F", "angle": 2, "first": 17678, "until": 18068});
+export const F25 = makeShot({"mode": "memorial", "stage": "flowers", "tag": "F", "angle": 2, "first": 17678, "until": 18068});

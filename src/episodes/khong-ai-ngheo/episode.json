@@ -1,0 +1,3495 @@
+{
+ "id": "NoPoverty",
+ "slug": "khong-ai-ngheo",
+ "topic": "Sẽ ra sao nếu thế giới này không còn ai nghèo?",
+ "title": [
+  "SẼ RA SAO NẾU THẾ GIỚI",
+  "KHÔNG CÒN AI NGHÈO?"
+ ],
+ "accent": "NGHÈO",
+ "power": {
+  "word": "Không một ai nghèo.",
+  "rule": "overnight nobody is poor: no one becomes rich, everyone simply has enough (food, a roof, school, a doctor); a floor nobody falls below",
+  "look": "a world counter chip 'NGƯỜI NGHÈO: 0' with a green tick; a glowing floor line under everyone"
+ },
+ "script": [
+  {
+   "beat": "0 cold open, water",
+   "text": "Sáng nay, ở một ngôi làng trên núi, một cô bé không phải nghỉ học để đi gánh nước."
+  },
+  {
+   "beat": "0 cold open, hospital",
+   "text": "Ở bệnh viện, không ai phải bán chiếc xe máy để trả viện phí."
+  },
+  {
+   "beat": "0 cold open, lottery",
+   "text": "Ở đầu ngõ, bà cụ bán vé số được về nhà nghỉ sớm."
+  },
+  {
+   "beat": "0 cold open, hook",
+   "text": "Tám tỷ người. Không một ai nghèo."
+  },
+  {
+   "beat": "1 premise",
+   "text": "Sẽ ra sao nếu thế giới này không còn ai nghèo?"
+  },
+  {
+   "beat": "1 rule",
+   "text": "Không ai trở thành tỷ phú cả. Chỉ là ai cũng có đủ. Đủ ăn. Có mái nhà. Được đi học. Được khám bệnh. Như một cái sàn, không ai rơi xuống dưới."
+  },
+  {
+   "beat": "2 scale: world",
+   "text": "Nghe như chuyện cổ tích. Nhưng hãy nhìn con số thật. Năm một nghìn chín trăm chín mươi, khoảng hai tỷ người sống trong cảnh nghèo cùng cực, hơn một phần ba thế giới. Ngày nay, vẫn còn gần bảy trăm triệu người. Ít hơn rất nhiều, nhưng vẫn gần bằng bảy lần dân số Việt Nam. Đó là thật."
+  },
+  {
+   "beat": "2 scale: vietnam",
+   "text": "Việt Nam mình cũng từng như vậy. Năm một nghìn chín trăm chín mươi ba, gần sáu trên mười người Việt sống dưới chuẩn nghèo."
+  },
+  {
+   "beat": "3 fun: children",
+   "text": "Thay đổi đầu tiên là trẻ em. Năm hai nghìn không trăm hai mươi hai, gần năm triệu trẻ em trên thế giới mất trước sinh nhật năm tuổi, phần lớn vì những bệnh chữa được. Viêm phổi. Tiêu chảy. Sốt rét. Trong thế giới mới, một vỉ thuốc không còn là thứ xa xỉ."
+  },
+  {
+   "beat": "3 fun: world",
+   "text": "Khắp thế giới, những thứ nhỏ bé bắt đầu thay đổi. Một bóng đèn sáng lên trong căn nhà chưa từng có điện. Ngày nay, gần bảy trăm triệu người vẫn sống không có điện. Một chiếc cặp sách cho đứa trẻ chưa từng tới lớp. Khoảng hai trăm năm mươi triệu trẻ em vẫn đang không được đi học. Đó là thật."
+  },
+  {
+   "beat": "3 fun: mind",
+   "text": "Rồi đến cái đầu. Các nhà khoa học theo dõi những nông dân trồng mía ở Ấn Độ. Trước mùa thu hoạch, khi túi gần rỗng, họ làm bài kiểm tra trí tuệ kém hẳn. Sau mùa thu hoạch, khi đã có tiền, cùng những người đó làm tốt hơn. Nỗi lo tiền bạc chiếm chỗ trong đầu, giống như mất trắng một đêm ngủ. Đó là thật."
+  },
+  {
+   "beat": "3 fun: family",
+   "text": "Mẹ bạn vẫn dậy lúc bốn giờ sáng để bán xôi. Nhưng giờ mẹ dậy vì thích, không phải vì sợ. Mo bỏ ca làm thêm buổi tối, đi học vẽ. Còn bạn, lần đầu tiên, câu hỏi lớn lên con muốn làm gì không còn đi kèm câu nhà mình có đủ tiền không."
+  },
+  {
+   "beat": "3 fun: grandma",
+   "text": "Còn bà cụ bán vé số ở đầu ngõ? Ba mươi năm đi bộ khắp phố. Giờ bà ngồi trước hiên, pha một ấm trà, chỉ đường cho bọn trẻ đi học. Lần đầu tiên, bà được già đi thong thả."
+  },
+  {
+   "beat": "4 doubt: inflation",
+   "text": "Nhưng khoan đã. Đưa tiền cho người nghèo, giá cả có tăng vọt không? Ở Kenya, các nhà kinh tế đã thử thật. Họ chuyển tiền cho hơn mười nghìn hộ nghèo, mỗi hộ khoảng một nghìn đô. Mỗi đồng chuyển đi tạo ra khoảng hai đồng rưỡi cho cả vùng. Còn giá cả chỉ nhích lên chưa tới một phần trăm. Đó là thật."
+  },
+  {
+   "beat": "4 doubt: lazy",
+   "text": "Vậy có ai lười đi không? Phần Lan đã thử trả cho hai nghìn người thất nghiệp năm trăm sáu mươi euro mỗi tháng, suốt hai năm, không cần điều kiện gì. Họ không nằm dài ở nhà. Họ đi làm nhiều hơn một chút, và bớt căng thẳng hơn hẳn."
+  },
+  {
+   "beat": "4 cost: hard jobs",
+   "text": "Nhưng có một thứ thay đổi thật. Khi không ai bị buộc phải nhận việc lương bèo, những việc nặng nhọc nhất phải trả lương cao hơn. Quét đường. Đổ rác. Hái cà phê trên dốc. Tô phở đắt hơn một chút. Chiếc áo cũng vậy."
+  },
+  {
+   "beat": "4 cost: earth",
+   "text": "Và còn Trái Đất. Nếu tám tỷ người đều sống như một người Mỹ trung bình, chúng ta cần khoảng năm Trái Đất. Đó là thật. Hết nghèo không có nghĩa là ai cũng tiêu thật nhiều. Mà là ai cũng đủ."
+  },
+  {
+   "beat": "5 relative",
+   "text": "Rồi một tối, tivi đưa tin. Ở châu Âu, vẫn có hàng triệu người được xếp vào nhóm có nguy cơ nghèo. Sao lại thế? Vì ở đó, người ta tính nghèo bằng cách so sánh. Thu nhập dưới sáu mươi phần trăm mức giữa của cả nước là có nguy cơ nghèo. Đó là cách tính thật."
+  },
+  {
+   "beat": "5 relative: neighbour",
+   "text": "Tức là dù cả thế giới giàu lên gấp mười, chỉ cần bạn kém xa hàng xóm, bạn vẫn có thể thấy mình nghèo. Người đàn ông mặc vest ở khu bên cạnh có ba chiếc xe hơi. Ông ấy vẫn buồn, vì bạn ông có bốn chiếc."
+  },
+  {
+   "beat": "6 sister",
+   "text": "Tối đó, em gái bạn hỏi. Anh ơi, nhà mình có nghèo không? Bạn nhìn quanh. Mẹ đang cười. Nồi xôi còn ấm. Em có sách mới. Mo vừa gửi tấm tranh đầu tiên của cậu ấy. Bạn trả lời. Không. Nhà mình đủ."
+  },
+  {
+   "beat": "7 ending",
+   "text": "Có lẽ, một thế giới không ai nghèo không phải là thế giới ai cũng giàu. Mà là thế giới không ai phải chọn giữa bữa cơm và viên thuốc. Giữa đi học và đi làm."
+  },
+  {
+   "beat": "7 question",
+   "text": "Còn với bạn, đủ là bao nhiêu? Viết ở phần bình luận nhé."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Năm 1990 khoảng 2 tỷ người sống trong nghèo cùng cực, hơn 1/3 thế giới.",
+   "working": "World Bank PIP, chuẩn 2,15 USD/ngày (PPP 2017): 1990 ≈ 38% dân số thế giới ≈ 2,0 tỷ người.",
+   "source": "World Bank Poverty and Inequality Platform; Our World in Data, Extreme poverty"
+  },
+  {
+   "claim": "Ngày nay vẫn còn gần 700 triệu người nghèo cùng cực, gần 7 lần dân số Việt Nam.",
+   "working": "Poverty, Prosperity and Planet Report 2024: gần 700 triệu người (8,5%) sống dưới 2,15 USD/ngày. Dân số VN 2024 ≈ 101 triệu: 700/101 ≈ 6,9. (Chuẩn mới 3 USD/ngày từ 6/2025 cho con số cao hơn.)",
+   "source": "World Bank, Poverty, Prosperity and Planet Report 2024; GSO 2024"
+  },
+  {
+   "claim": "Năm 1993 gần 6/10 người Việt sống dưới chuẩn nghèo.",
+   "working": "Tỷ lệ nghèo chung 58,1% (VLSS 1993).",
+   "source": "Tổng cục Thống kê / World Bank, Vietnam Living Standards Survey 1993"
+  },
+  {
+   "claim": "Năm 2022 gần 5 triệu trẻ em chết trước 5 tuổi, phần lớn vì bệnh phòng/chữa được (viêm phổi, tiêu chảy, sốt rét).",
+   "working": "UN IGME 2023: 4,9 triệu ca tử vong dưới 5 tuổi năm 2022; nguyên nhân hàng đầu sau sơ sinh: viêm phổi, tiêu chảy, sốt rét.",
+   "source": "UN Inter-agency Group for Child Mortality Estimation, Levels & Trends in Child Mortality 2023"
+  },
+  {
+   "claim": "Gần 700 triệu người chưa có điện; khoảng 250 triệu trẻ em không được đi học.",
+   "working": "Tracking SDG7 2024: 685 triệu người không có điện năm 2022. UNESCO GEM 2023: 250 triệu trẻ em và thanh thiếu niên ngoài nhà trường.",
+   "source": "IEA/IRENA/UNSD/World Bank/WHO, Tracking SDG7: The Energy Progress Report 2024; UNESCO Global Education Monitoring Report, 2023"
+  },
+  {
+   "claim": "Nông dân trồng mía ở Ấn Độ làm bài kiểm tra trí tuệ kém hơn trước thu hoạch so với sau; tác động ngang mất một đêm ngủ.",
+   "working": "Mani, Mullainathan, Shafir & Zhao (2013): cùng nông dân, trước thu hoạch (thiếu tiền) điểm Raven và Stroop kém hơn sau thu hoạch; các tác giả so sánh mức giảm với mất một đêm ngủ (~13 điểm IQ trong thí nghiệm khác).",
+   "source": "Mani et al. (2013), Poverty Impedes Cognitive Function, Science 341:976-980"
+  },
+  {
+   "claim": "Kenya: chuyển ~1.000 USD cho hơn 10.000 hộ nghèo; mỗi đồng tạo ~2,5 đồng hoạt động kinh tế cho vùng; giá chỉ tăng ~0,1%.",
+   "working": "Egger et al. (2022): ~10.500 hộ nhận ~1.000 USD (GiveDirectly); số nhân tài khóa địa phương ~2,5; lạm phát giá bình quân ~0,1%.",
+   "source": "Egger, Haushofer, Miguel, Niehaus & Walker (2022), General Equilibrium Effects of Cash Transfers, Econometrica 90(6)"
+  },
+  {
+   "claim": "Phần Lan 2017-2018: 2.000 người thất nghiệp nhận 560 euro/tháng không điều kiện; đi làm nhiều hơn chút, bớt căng thẳng.",
+   "working": "Kela, kết quả cuối (2020): số ngày có việc làm nhỉnh hơn nhóm đối chứng; sức khỏe tinh thần, mức căng thẳng tốt hơn.",
+   "source": "Kela (2020), The Basic Income Experiment 2017–2018 in Finland: Preliminary results / final report"
+  },
+  {
+   "claim": "Nếu ai cũng sống như người Mỹ trung bình cần khoảng 5 Trái Đất.",
+   "working": "Global Footprint Network: dấu chân sinh thái Mỹ tương đương ~5,1 Trái Đất.",
+   "source": "Global Footprint Network, Country Overshoot Days 2024"
+  },
+  {
+   "claim": "Châu Âu tính nguy cơ nghèo bằng thu nhập dưới 60% trung vị quốc gia (nghèo tương đối).",
+   "working": "Ngưỡng at-risk-of-poverty = 60% thu nhập khả dụng tương đương trung vị quốc gia (sau trợ cấp).",
+   "source": "Eurostat, Glossary: At-risk-of-poverty rate"
+  }
+ ],
+ "cast": [
+  "pipHood",
+  "mo",
+  "sis",
+  "mom",
+  "suit"
+ ],
+ "voice": {
+  "provider": "lucylab",
+  "userVoiceId": "u4ZCcxDX4FJScdJ97iN8pr",
+  "speed": 0.9
+ },
+ "gaps": {
+  "word": 0.12,
+  "comma": 0.3,
+  "sentence": 0.55,
+  "question": 0.75
+ },
+ "holds": {
+  "nghèo|Sẽ": 0.8,
+  "nghèo|Không": 1.0,
+  "dưới|Nghe": 1.0,
+  "nghèo|Thay": 1.0,
+  "không|Nhưng": 1.0,
+  "đủ|Rồi": 1.0,
+  "chiếc|Tối": 1.0,
+  "đủ|Có": 1.2
+ },
+ "tail": 3.0,
+ "sound": {
+  "clips": {
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+    0.7
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "shatter": [
+    "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
+    1.3
+   ],
+   "rewind": [
+    "a VHS tape rewinding fast, high whirring tape squeal with mechanical hum",
+    1.6
+   ],
+   "catch": [
+    "a hand catching a ceramic mug mid-air, soft slap and thud",
+    0.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "cat_yowl": [
+    "an angry cat yowl and hiss, short and startled",
+    0.9
+   ],
+   "tumble": [
+    "a cartoon character tumbling down wooden stairs, a quick series of bumps and thuds",
+    1.3
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "dizzy": [
+    "cartoon dizzy birds tweeting in a circle after a bonk",
+    1.4
+   ],
+   "big_step": [
+    "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+    0.7
+   ],
+   "cat_chirp": [
+    "a cat making a short curious chirp meow",
+    0.6
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "shades": [
+    "cool sunglasses sliding on with a swoosh and a bright metallic glint",
+    0.9
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "clock_back": [
+    "a clock ticking very fast then spinning backwards, mechanical ratchet whirr",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "crack": [
+    "glass cracking sharply, the crack spreading across a pane",
+    1.1
+   ],
+   "bulb_pop": [
+    "a small light bulb popping out, a tiny glass tink and fizz",
+    0.5
+   ],
+   "rewind_start": [
+    "a quick reverse swoosh, like a sound being sucked backwards",
+    0.7
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "class_murmur": [
+    "a quiet classroom murmur, kids whispering, chairs shuffling",
+    2.0
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "copy_click": [
+    "a crisp satisfying computer copy click with a tiny soft digital chime, short",
+    0.5
+   ],
+   "paste_pop": [
+    "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+    0.7
+   ],
+   "paper_land": [
+    "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+    0.7
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "cookie_crunch": [
+    "one crunchy bite into a chocolate chip cookie, close up",
+    0.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "power_hum": [
+    "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+    3.0
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "phone_ring": [
+    "synth: a modern phone ringback tone, two soft electronic burrs (generated locally with numpy)",
+    1.2
+   ],
+   "ting": [
+    "synth: bank app notification chime, two bright bell notes (generated locally with numpy)",
+    0.5
+   ],
+   "punch_hit": [
+    "synth: huge cartoon punch impact boom, deep sub drop with a sharp crack",
+    1.8
+   ],
+   "swoosh": [
+    "synth: fast fist swing whoosh",
+    0.7
+   ],
+   "sonic_crack": [
+    "synth: supersonic whip crack, sonic boom N-wave with echo",
+    1.4
+   ],
+   "rubble": [
+    "synth: debris and rubble falling and settling",
+    2.4
+   ],
+   "metal_crash": [
+    "synth: giant robot metal crash and clang",
+    2.2
+   ],
+   "splash": [
+    "synth: huge wave splash with a deep thump",
+    2.4
+   ],
+   "rain": [
+    "synth: heavy tropical storm rain bed",
+    20
+   ],
+   "thunder": [
+    "synth: thunder crack and long rumble",
+    4.5
+   ],
+   "siren": [
+    "synth: two-tone emergency alert beeps",
+    3.0
+   ],
+   "drone_buzz": [
+    "synth: small quadcopter drone hovering buzz",
+    5.0
+   ],
+   "arcade_count": [
+    "synth: arcade score counter rising beeps",
+    1.6
+   ],
+   "score": [
+    "synth: khong-ai-ngheo score, tools/synth-score.py",
+    231.06
+   ]
+  },
+  "events": [
+   [
+    "A1",
+    "roof_wind",
+    0.1,
+    "onset",
+    "A4"
+   ],
+   [
+    "A2+30",
+    "step",
+    0.12
+   ],
+   [
+    "A3+4",
+    "paper_land",
+    0.1
+   ],
+   [
+    "A4",
+    "room_tone",
+    0.08,
+    "onset",
+    "A7"
+   ],
+   [
+    "A6+8",
+    "sparkle",
+    0.1
+   ],
+   [
+    "A7",
+    "room_tone",
+    0.08,
+    "onset",
+    "A9"
+   ],
+   [
+    "A8+6",
+    "paper_land",
+    0.1
+   ],
+   [
+    "A10+17",
+    "ding",
+    0.12
+   ],
+   [
+    "A11+0",
+    "title_boom",
+    0.14
+   ],
+   [
+    "A12+34",
+    "crack",
+    0.12
+   ],
+   [
+    "A14+3",
+    "pop",
+    0.08
+   ],
+   [
+    "A14+28",
+    "pop",
+    0.08
+   ],
+   [
+    "A14+57",
+    "pop",
+    0.08
+   ],
+   [
+    "A14+81",
+    "pop",
+    0.08
+   ],
+   [
+    "A16+26",
+    "land",
+    0.14
+   ],
+   [
+    "A16+27",
+    "sparkle",
+    0.1
+   ],
+   [
+    "A17+6",
+    "sparkle",
+    0.1
+   ],
+   [
+    "A25+2",
+    "ding",
+    0.1
+   ],
+   [
+    "A27+7",
+    "drone_hit",
+    0.12
+   ],
+   [
+    "B1+8",
+    "laugh",
+    0.08
+   ],
+   [
+    "B5+22",
+    "ding",
+    0.12
+   ],
+   [
+    "B6+12",
+    "pop",
+    0.07
+   ],
+   [
+    "B7+10",
+    "pop",
+    0.07
+   ],
+   [
+    "B8+10",
+    "pop",
+    0.07
+   ],
+   [
+    "B10+10",
+    "catch",
+    0.12
+   ],
+   [
+    "B11+22",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B11+28",
+    "laugh",
+    0.1
+   ],
+   [
+    "B12+30",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B13+13",
+    "bulb_pop",
+    0.2
+   ],
+   [
+    "B13+17",
+    "sparkle",
+    0.12
+   ],
+   [
+    "B16+8",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B17+16",
+    "catch",
+    0.12
+   ],
+   [
+    "B17+28",
+    "laugh",
+    0.1
+   ],
+   [
+    "B19+12",
+    "clink",
+    0.1
+   ],
+   [
+    "B20+6",
+    "ding",
+    0.15
+   ],
+   [
+    "B22+14",
+    "select_draw",
+    0.1
+   ],
+   [
+    "B23+8",
+    "ding",
+    0.08
+   ],
+   [
+    "B25+16",
+    "clink",
+    0.12
+   ],
+   [
+    "B26+18",
+    "buzzer",
+    0.07
+   ],
+   [
+    "B28+6",
+    "paper_land",
+    0.12
+   ],
+   [
+    "B28+9",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B29+36",
+    "ding",
+    0.1
+   ],
+   [
+    "B32",
+    "room_tone",
+    0.08,
+    "onset",
+    "B34"
+   ],
+   [
+    "B34+6",
+    "ding",
+    0.15
+   ],
+   [
+    "C1",
+    "room_tone",
+    0.08,
+    "onset",
+    "C2"
+   ],
+   [
+    "C1+3",
+    "ting",
+    0.1
+   ],
+   [
+    "C2",
+    "room_tone",
+    0.08,
+    "onset",
+    "C4"
+   ],
+   [
+    "C4+40",
+    "paper_land",
+    0.12
+   ],
+   [
+    "C5",
+    "class_murmur",
+    0.1,
+    "onset",
+    "C6"
+   ],
+   [
+    "C6+14",
+    "sparkle",
+    0.08
+   ],
+   [
+    "C7+10",
+    "pop",
+    0.08
+   ],
+   [
+    "C8+38",
+    "pop",
+    0.22
+   ],
+   [
+    "C8+40",
+    "sparkle",
+    0.1
+   ],
+   [
+    "C9",
+    "room_tone",
+    0.08,
+    "onset",
+    "C11"
+   ],
+   [
+    "C10+22",
+    "rain",
+    0.1,
+    "onset",
+    "C11"
+   ],
+   [
+    "C11",
+    "room_tone",
+    0.07,
+    "onset",
+    "C14"
+   ],
+   [
+    "C11+44",
+    "splash",
+    0.07
+   ],
+   [
+    "C13+12",
+    "sparkle",
+    0.08
+   ],
+   [
+    "C14",
+    "switch_off",
+    0.12
+   ],
+   [
+    "C14+30",
+    "paper_land",
+    0.1
+   ],
+   [
+    "C15+22",
+    "gasp",
+    0.08
+   ],
+   [
+    "C16+14",
+    "ding",
+    0.1
+   ],
+   [
+    "C18+16",
+    "clink",
+    0.14
+   ],
+   [
+    "C19+19",
+    "clink",
+    0.14
+   ],
+   [
+    "C19+34",
+    "clink",
+    0.14
+   ],
+   [
+    "C19+49",
+    "clink",
+    0.14
+   ],
+   [
+    "C20+8",
+    "pop",
+    0.12
+   ],
+   [
+    "C20+12",
+    "pop",
+    0.12
+   ],
+   [
+    "C20+20",
+    "ding",
+    0.1
+   ],
+   [
+    "C22+24",
+    "ding",
+    0.16
+   ],
+   [
+    "C23",
+    "room_tone",
+    0.07,
+    "onset",
+    "C24"
+   ],
+   [
+    "C25+20",
+    "paper_land",
+    0.12
+   ],
+   [
+    "C26+40",
+    "ding",
+    0.12
+   ],
+   [
+    "C27",
+    "room_tone",
+    0.07,
+    "onset",
+    "C28"
+   ],
+   [
+    "C28+22",
+    "ding",
+    0.1
+   ],
+   [
+    "C29+10",
+    "sparkle",
+    0.1
+   ],
+   [
+    "D1",
+    "roof_wind",
+    0.07,
+    "onset",
+    "D7"
+   ],
+   [
+    "D1+12",
+    "ting",
+    0.1
+   ],
+   [
+    "D4+7",
+    "step",
+    0.1
+   ],
+   [
+    "D5+25",
+    "land",
+    0.14
+   ],
+   [
+    "D7",
+    "room_tone",
+    0.08,
+    "onset",
+    "D9"
+   ],
+   [
+    "D7+18",
+    "ting",
+    0.14
+   ],
+   [
+    "D8+12",
+    "ting",
+    0.14
+   ],
+   [
+    "D9",
+    "power_hum",
+    0.06,
+    "onset",
+    "D14"
+   ],
+   [
+    "D13+7",
+    "land",
+    0.14
+   ],
+   [
+    "D14",
+    "room_tone",
+    0.08,
+    "onset",
+    "D17"
+   ],
+   [
+    "D15+14",
+    "land",
+    0.18
+   ],
+   [
+    "D16+5",
+    "sparkle",
+    0.12
+   ],
+   [
+    "D16+22",
+    "ding",
+    0.12
+   ],
+   [
+    "D17",
+    "room_tone",
+    0.1,
+    "onset",
+    "D22"
+   ],
+   [
+    "D17+22",
+    "paste_pop",
+    0.1
+   ],
+   [
+    "D18",
+    "power_hum",
+    0.07,
+    "onset",
+    "D19"
+   ],
+   [
+    "D21+20",
+    "pop",
+    0.1
+   ],
+   [
+    "D22+52",
+    "select_draw",
+    0.1
+   ],
+   [
+    "D23+2",
+    "select_draw",
+    0.12
+   ],
+   [
+    "D23+24",
+    "pop",
+    0.1
+   ],
+   [
+    "D24+3",
+    "ting",
+    0.1
+   ],
+   [
+    "D25+3",
+    "pop",
+    0.12
+   ],
+   [
+    "D26+4",
+    "land",
+    0.16
+   ],
+   [
+    "D26+5",
+    "ding",
+    0.1
+   ],
+   [
+    "D27+38",
+    "sparkle",
+    0.1
+   ],
+   [
+    "D28+8",
+    "select_draw",
+    0.1
+   ],
+   [
+    "D30",
+    "roof_wind",
+    0.07,
+    "onset",
+    "D33"
+   ],
+   [
+    "D31+2",
+    "sparkle",
+    0.08
+   ],
+   [
+    "D33+20",
+    "ting",
+    0.1
+   ],
+   [
+    "E1",
+    "room_tone",
+    0.1,
+    "onset",
+    "E13"
+   ],
+   [
+    "E13",
+    "room_tone",
+    0.08,
+    "onset",
+    "E19"
+   ],
+   [
+    "E8+2",
+    "ting",
+    0.16
+   ],
+   [
+    "E12+10",
+    "sparkle",
+    0.12
+   ],
+   [
+    "E14+20",
+    "sparkle",
+    0.1
+   ],
+   [
+    "E16+40",
+    "ding",
+    0.1
+   ],
+   [
+    "E19+4",
+    "sparkle",
+    0.1
+   ]
+  ],
+  "repeats": [
+   {
+    "at": "A9+2",
+    "clip": "counter_tick",
+    "n": 8,
+    "every": 3,
+    "gain": [
+     0.06,
+     0.09
+    ],
+    "pitch": [
+     0.98,
+     1.1
+    ]
+   },
+   {
+    "at": "A10+1",
+    "clip": "counter_tick",
+    "n": 5,
+    "every": 3,
+    "gain": [
+     0.06,
+     0.09
+    ],
+    "pitch": [
+     0.98,
+     1.1
+    ]
+   },
+   {
+    "at": "A13+4",
+    "clip": "pop",
+    "n": 5,
+    "every": 7,
+    "gain": [
+     0.06,
+     0.09
+    ],
+    "pitch": [
+     0.95,
+     1.15
+    ]
+   },
+   {
+    "at": "A24+22",
+    "clip": "pop",
+    "n": 7,
+    "every": 4,
+    "gain": [
+     0.05,
+     0.08
+    ],
+    "pitch": [
+     0.95,
+     1.15
+    ]
+   },
+   {
+    "at": "B3+3",
+    "clip": "counter_tick",
+    "n": 8,
+    "every": 3,
+    "gain": [
+     0.05,
+     0.08
+    ],
+    "pitch": [
+     0.95,
+     1.1
+    ]
+   },
+   {
+    "at": "B15+3",
+    "clip": "counter_tick",
+    "n": 12,
+    "every": 3,
+    "gain": [
+     0.05,
+     0.08
+    ],
+    "pitch": [
+     0.95,
+     1.1
+    ]
+   },
+   {
+    "at": "B18+3",
+    "clip": "counter_tick",
+    "n": 11,
+    "every": 3,
+    "gain": [
+     0.05,
+     0.08
+    ],
+    "pitch": [
+     0.95,
+     1.1
+    ]
+   },
+   {
+    "at": "B31+2",
+    "clip": "pop",
+    "n": 9,
+    "every": 3,
+    "gain": [
+     0.05,
+     0.09
+    ],
+    "pitch": [
+     0.9,
+     1.2
+    ]
+   },
+   {
+    "at": "C10+2",
+    "clip": "step",
+    "n": 5,
+    "every": 9,
+    "gain": [
+     0.08,
+     0.12
+    ]
+   },
+   {
+    "at": "C17+4",
+    "clip": "counter_tick",
+    "n": 8,
+    "every": 3,
+    "gain": [
+     0.05,
+     0.08
+    ]
+   },
+   {
+    "at": "C24+12",
+    "clip": "counter_tick",
+    "n": 10,
+    "every": 3,
+    "gain": [
+     0.04,
+     0.07
+    ]
+   },
+   {
+    "at": "C27+6",
+    "clip": "step",
+    "n": 5,
+    "every": 8,
+    "gain": [
+     0.08,
+     0.12
+    ]
+   },
+   {
+    "at": "D2+2",
+    "clip": "step",
+    "n": 3,
+    "every": 7,
+    "gain": [
+     0.08,
+     0.1
+    ]
+   },
+   {
+    "at": "D2+50",
+    "clip": "step",
+    "n": 4,
+    "every": 7,
+    "gain": [
+     0.08,
+     0.1
+    ]
+   },
+   {
+    "at": "D3+10",
+    "clip": "counter_tick",
+    "n": 6,
+    "every": 7,
+    "gain": [
+     0.06,
+     0.08
+    ]
+   },
+   {
+    "at": "D6+4",
+    "clip": "pop",
+    "n": 4,
+    "every": 9,
+    "gain": [
+     0.05,
+     0.07
+    ],
+    "pitch": [
+     1.2,
+     1.6
+    ]
+   },
+   {
+    "at": "D10+2",
+    "clip": "counter_tick",
+    "n": 11,
+    "every": 2,
+    "gain": [
+     0.05,
+     0.08
+    ]
+   },
+   {
+    "at": "D11+4",
+    "clip": "pop",
+    "n": 5,
+    "every": 3,
+    "gain": [
+     0.07,
+     0.1
+    ],
+    "pitch": [
+     0.9,
+     1.3
+    ]
+   },
+   {
+    "at": "D12+3",
+    "clip": "pop",
+    "n": 5,
+    "every": 4,
+    "gain": [
+     0.08,
+     0.11
+    ],
+    "pitch": [
+     0.9,
+     1.4
+    ]
+   },
+   {
+    "at": "D15+2",
+    "clip": "clink",
+    "n": 6,
+    "every": 2,
+    "gain": [
+     0.05,
+     0.09
+    ]
+   },
+   {
+    "at": "D16+6",
+    "clip": "pop",
+    "n": 3,
+    "every": 4,
+    "gain": [
+     0.08,
+     0.1
+    ],
+    "pitch": [
+     0.9,
+     1.2
+    ]
+   },
+   {
+    "at": "D19+4",
+    "clip": "copy_click",
+    "n": 18,
+    "every": 2,
+    "gain": [
+     0.02,
+     0.035
+    ]
+   },
+   {
+    "at": "D22+3",
+    "clip": "pop",
+    "n": 9,
+    "every": 3,
+    "gain": [
+     0.04,
+     0.07
+    ],
+    "pitch": [
+     0.9,
+     1.3
+    ]
+   },
+   {
+    "at": "D27+10",
+    "clip": "counter_tick",
+    "n": 9,
+    "every": 3,
+    "gain": [
+     0.06,
+     0.1
+    ]
+   },
+   {
+    "at": "D31+2",
+    "clip": "pop",
+    "n": 3,
+    "every": 7,
+    "gain": [
+     0.1,
+     0.12
+    ],
+    "pitch": [
+     1.0,
+     1.3
+    ]
+   },
+   {
+    "at": "D33+10",
+    "clip": "pop",
+    "n": 4,
+    "every": 4,
+    "gain": [
+     0.1,
+     0.12
+    ],
+    "pitch": [
+     0.9,
+     1.3
+    ]
+   }
+  ],
+  "score": [
+   {
+    "kind": "pad",
+    "from": "0 cold open, water",
+    "to": "1 premise",
+    "chords": [
+     "C",
+     "Am",
+     "F",
+     "G"
+    ],
+    "every": 4,
+    "gain": 0.13
+   },
+   {
+    "kind": "bells",
+    "from": "0 cold open, water",
+    "to": "1 premise",
+    "notes": [
+     72,
+     null,
+     76,
+     null,
+     79,
+     null,
+     77,
+     76
+    ],
+    "step": 0.55,
+    "gain": 0.05,
+    "decay": 1.4
+   },
+   {
+    "kind": "pluck",
+    "from": "1 premise",
+    "to": "2 scale: world",
+    "chords": [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    "bpm": 100,
+    "gain": 0.17
+   },
+   {
+    "kind": "pad",
+    "from": "2 scale: world",
+    "to": "3 fun: children",
+    "chords": [
+     "Am",
+     "F",
+     "Dm",
+     "E"
+    ],
+    "every": 5,
+    "gain": 0.12
+   },
+   {
+    "kind": "drone",
+    "from": "2 scale: world",
+    "to": "3 fun: children",
+    "note": 33,
+    "gain": 0.07
+   },
+   {
+    "kind": "pad",
+    "from": "3 fun: children",
+    "to": "3 fun: world",
+    "chords": [
+     "Am",
+     "F",
+     "C",
+     "G"
+    ],
+    "every": 5,
+    "gain": 0.12
+   },
+   {
+    "kind": "pluck",
+    "from": "3 fun: world",
+    "to": "3 fun: family",
+    "chords": [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    "bpm": 104,
+    "gain": 0.16
+   },
+   {
+    "kind": "pad",
+    "from": "3 fun: family",
+    "to": "4 doubt: inflation",
+    "chords": [
+     "F",
+     "C",
+     "G",
+     "Am"
+    ],
+    "every": 5,
+    "gain": 0.13
+   },
+   {
+    "kind": "bells",
+    "from": "3 fun: family",
+    "to": "4 doubt: inflation",
+    "notes": [
+     72,
+     76,
+     79,
+     77,
+     76,
+     74,
+     72,
+     null
+    ],
+    "step": 0.62,
+    "gain": 0.05,
+    "decay": 1.4
+   },
+   {
+    "kind": "pluck",
+    "from": "4 doubt: inflation",
+    "to": "4 cost: hard jobs",
+    "chords": [
+     "C",
+     "Em",
+     "F",
+     "G"
+    ],
+    "bpm": 104,
+    "gain": 0.16
+   },
+   {
+    "kind": "pad",
+    "from": "4 cost: hard jobs",
+    "to": "5 relative",
+    "chords": [
+     "Am",
+     "Em",
+     "F",
+     "G"
+    ],
+    "every": 5,
+    "gain": 0.12
+   },
+   {
+    "kind": "drone",
+    "from": "4 cost: earth",
+    "to": "5 relative",
+    "note": 31,
+    "gain": 0.08
+   },
+   {
+    "kind": "pluck",
+    "from": "5 relative",
+    "to": "6 sister",
+    "to_off": -0.3,
+    "chords": [
+     "Dm",
+     "G",
+     "C",
+     "Am"
+    ],
+    "bpm": 96,
+    "gain": 0.15
+   },
+   {
+    "kind": "pad",
+    "from": "6 sister",
+    "to": "END",
+    "chords": [
+     "F",
+     "C",
+     "G",
+     "Am",
+     "F",
+     "C",
+     "Dm",
+     "G"
+    ],
+    "every": 5,
+    "gain": 0.14
+   },
+   {
+    "kind": "bells",
+    "from": "6 sister",
+    "from_off": 2,
+    "to": "END",
+    "notes": [
+     72,
+     76,
+     79,
+     77,
+     76,
+     74,
+     72,
+     null,
+     67,
+     69,
+     72,
+     74,
+     76,
+     null,
+     74,
+     72
+    ],
+    "step": 0.62,
+    "gain": 0.06,
+    "decay": 1.4
+   },
+   {
+    "kind": "pluck",
+    "from": "7 question",
+    "to": "END",
+    "chords": [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    "bpm": 92,
+    "gain": 0.14
+   }
+  ],
+  "music": {
+   "clip": "score"
+  },
+  "levels": {
+   "sfx_lu": -10.5,
+   "music_lu": -14
+  }
+ },
+ "shots": [
+  {
+   "id": "A1",
+   "file": "shots-cha-cold-open-village",
+   "size": "wide",
+   "set": "village",
+   "key": 30,
+   "note": "before: girl with pole and buckets walks past school"
+  },
+  {
+   "id": "A2",
+   "file": "shots-cha-cold-open-village",
+   "size": "medium",
+   "set": "classroom",
+   "key": 30,
+   "note": "after: girl walks into class on golden floor"
+  },
+  {
+   "id": "A3",
+   "file": "shots-cha-cold-open-village",
+   "size": "macro",
+   "set": "school gate",
+   "key": 20,
+   "note": "tap runs, pole leans unused"
+  },
+  {
+   "id": "A4",
+   "file": "shots-cha-cold-open-hospital-lottery",
+   "size": "wide",
+   "set": "hospital",
+   "key": 30,
+   "note": "man hands motorbike keys through fee window"
+  },
+  {
+   "id": "A5",
+   "file": "shots-cha-cold-open-hospital-lottery",
+   "size": "macro",
+   "set": "hospital counter",
+   "key": 22,
+   "note": "keys slide to clerk hand, fee slip"
+  },
+  {
+   "id": "A6",
+   "file": "shots-cha-cold-open-hospital-lottery",
+   "size": "medium",
+   "set": "hospital",
+   "key": 24,
+   "note": "doctor hands medicine, window shuttered"
+  },
+  {
+   "id": "A7",
+   "file": "shots-cha-cold-open-hospital-lottery",
+   "size": "medium",
+   "set": "street dusk",
+   "key": 20,
+   "note": "grandma with lottery tray at dusk"
+  },
+  {
+   "id": "A8",
+   "file": "shots-cha-cold-open-hospital-lottery",
+   "size": "medium",
+   "set": "street dusk",
+   "key": 34,
+   "note": "she folds tray, walks home smiling"
+  },
+  {
+   "id": "A9",
+   "file": "shots-cha-hook-premise-rule",
+   "size": "wide",
+   "set": "space",
+   "key": 30,
+   "note": "Earth at night, lights for 8 billion"
+  },
+  {
+   "id": "A10",
+   "file": "shots-cha-hook-premise-rule",
+   "size": "medium",
+   "set": "space",
+   "key": 26,
+   "note": "poverty counter runs to 0, green tick"
+  },
+  {
+   "id": "A11",
+   "file": "shots-cha-hook-premise-rule",
+   "size": "wide",
+   "set": "dawn alley",
+   "key": 60,
+   "note": "TitleCard over dawn alley"
+  },
+  {
+   "id": "A12",
+   "file": "shots-cha-hook-premise-rule",
+   "size": "medium",
+   "set": "stage",
+   "key": 44,
+   "note": "gold pile + crown crossed out"
+  },
+  {
+   "id": "A13",
+   "file": "shots-cha-hook-premise-rule",
+   "size": "medium",
+   "set": "stage",
+   "key": 44,
+   "note": "five people, ticks pop one by one"
+  },
+  {
+   "id": "A14",
+   "file": "shots-cha-hook-premise-rule",
+   "size": "medium",
+   "set": "stage",
+   "key": 100,
+   "note": "four icons: rice, roof, school, doctor"
+  },
+  {
+   "id": "A15",
+   "file": "shots-cha-hook-premise-rule",
+   "size": "wide",
+   "set": "stage",
+   "key": 20,
+   "note": "crowd on one golden floor line"
+  },
+  {
+   "id": "A16",
+   "file": "shots-cha-hook-premise-rule",
+   "size": "medium",
+   "set": "stage",
+   "key": 34,
+   "note": "steps off ledge, floor catches him"
+  },
+  {
+   "id": "A17",
+   "file": "shots-cha-world-numbers",
+   "size": "medium",
+   "set": "book",
+   "key": 34,
+   "note": "open fairy-tale book, castle rises"
+  },
+  {
+   "id": "A18",
+   "file": "shots-cha-world-numbers",
+   "size": "medium",
+   "set": "schematic",
+   "key": 22,
+   "note": "magnifier sweeps a crowd of 50"
+  },
+  {
+   "id": "A19",
+   "file": "shots-cha-world-numbers",
+   "size": "close-up",
+   "set": "schematic",
+   "key": 30,
+   "note": "year 1990 rolls up"
+  },
+  {
+   "id": "A20",
+   "file": "shots-cha-world-numbers",
+   "size": "medium",
+   "set": "schematic",
+   "key": 66,
+   "note": "1990: 2 TY, 19 of 50 dimmed"
+  },
+  {
+   "id": "A21",
+   "file": "shots-cha-world-numbers",
+   "size": "close-up",
+   "set": "schematic",
+   "key": 40,
+   "note": "> 1/3 of the world, dimmed block pulses"
+  },
+  {
+   "id": "A22",
+   "file": "shots-cha-world-numbers",
+   "size": "medium",
+   "set": "schematic",
+   "key": 60,
+   "note": "today: dimmed relight, ~700 TRIEU"
+  },
+  {
+   "id": "A23",
+   "file": "shots-cha-world-numbers",
+   "size": "medium",
+   "set": "schematic",
+   "key": 28,
+   "note": "bars: 2 TY vs 700 TRIEU"
+  },
+  {
+   "id": "A24",
+   "file": "shots-cha-world-numbers",
+   "size": "wide",
+   "set": "schematic",
+   "key": 70,
+   "note": "seven Vietnam outlines, x7"
+  },
+  {
+   "id": "A25",
+   "file": "shots-cha-world-numbers",
+   "size": "close-up",
+   "set": "schematic",
+   "key": 24,
+   "note": "green tick: Do la that"
+  },
+  {
+   "id": "A26",
+   "file": "shots-cha-vietnam-numbers",
+   "size": "medium",
+   "set": "schematic",
+   "key": 40,
+   "note": "Vietnam outline, mostly dim people"
+  },
+  {
+   "id": "A27",
+   "file": "shots-cha-vietnam-numbers",
+   "size": "close-up",
+   "set": "schematic",
+   "key": 30,
+   "note": "1993 slams down"
+  },
+  {
+   "id": "A28",
+   "file": "shots-cha-vietnam-numbers",
+   "size": "medium",
+   "set": "schematic",
+   "key": 40,
+   "note": "10 people, 6 dim"
+  },
+  {
+   "id": "A29",
+   "file": "shots-cha-vietnam-numbers",
+   "size": "medium",
+   "set": "schematic",
+   "key": 62,
+   "note": "6 slide under poverty line, 58%"
+  },
+  {
+   "id": "B1",
+   "file": "shots-chb-kids-a",
+   "size": "wide",
+   "set": "village",
+   "key": 30,
+   "note": "kids hop at sunrise on the golden floor"
+  },
+  {
+   "id": "B2",
+   "file": "shots-chb-kids-a",
+   "size": "card",
+   "set": "schematic",
+   "key": 40,
+   "note": "2022"
+  },
+  {
+   "id": "B3",
+   "file": "shots-chb-kids-a",
+   "size": "card",
+   "set": "schematic",
+   "key": 30,
+   "note": "4,9 TRIEU count-up"
+  },
+  {
+   "id": "B4",
+   "file": "shots-chb-kids-a",
+   "size": "medium",
+   "set": "room",
+   "key": 45,
+   "note": "cake 5 candles + empty chair"
+  },
+  {
+   "id": "B5",
+   "file": "shots-chb-kids-a",
+   "size": "insert",
+   "set": "schematic",
+   "key": 40,
+   "note": "blister + green tick CHUA DUOC"
+  },
+  {
+   "id": "B6",
+   "file": "shots-chb-kids-b",
+   "size": "icon",
+   "set": "schematic",
+   "key": 14,
+   "note": "lungs"
+  },
+  {
+   "id": "B7",
+   "file": "shots-chb-kids-b",
+   "size": "icon",
+   "set": "schematic",
+   "key": 12,
+   "note": "droplet"
+  },
+  {
+   "id": "B8",
+   "file": "shots-chb-kids-b",
+   "size": "icon",
+   "set": "schematic",
+   "key": 12,
+   "note": "mosquito"
+  },
+  {
+   "id": "B9",
+   "file": "shots-chb-kids-b",
+   "size": "wide",
+   "set": "village",
+   "key": 26,
+   "note": "clinic, mum+girl walk up, doctor waves"
+  },
+  {
+   "id": "B10",
+   "file": "shots-chb-kids-b",
+   "size": "insert",
+   "set": "clinic counter",
+   "key": 24,
+   "note": "hand takes blister pack"
+  },
+  {
+   "id": "B11",
+   "file": "shots-chb-kids-b",
+   "size": "medium",
+   "set": "room",
+   "key": 38,
+   "note": "girl blows 5 candles, family claps"
+  },
+  {
+   "id": "B12",
+   "file": "shots-chb-world-a",
+   "size": "card",
+   "set": "schematic map",
+   "key": 70,
+   "note": "map lights pop on"
+  },
+  {
+   "id": "B13",
+   "file": "shots-chb-world-a",
+   "size": "wide",
+   "set": "hut",
+   "key": 40,
+   "note": "dark hut, bulb on"
+  },
+  {
+   "id": "B14",
+   "file": "shots-chb-world-a",
+   "size": "medium",
+   "set": "hut",
+   "key": 25,
+   "note": "kids homework under bulb"
+  },
+  {
+   "id": "B15",
+   "file": "shots-chb-world-a",
+   "size": "card",
+   "set": "schematic",
+   "key": 80,
+   "note": "685 TRIEU"
+  },
+  {
+   "id": "B16",
+   "file": "shots-chb-world-b",
+   "size": "insert",
+   "set": "bag",
+   "key": 28,
+   "note": "hand holds schoolbag"
+  },
+  {
+   "id": "B17",
+   "file": "shots-chb-world-b",
+   "size": "medium",
+   "set": "village",
+   "key": 38,
+   "note": "girl takes the bag"
+  },
+  {
+   "id": "B18",
+   "file": "shots-chb-world-b",
+   "size": "card",
+   "set": "schematic",
+   "key": 55,
+   "note": "250 TRIEU"
+  },
+  {
+   "id": "B19",
+   "file": "shots-chb-world-b",
+   "size": "wide",
+   "set": "school gate",
+   "key": 28,
+   "note": "closed school gate"
+  },
+  {
+   "id": "B20",
+   "file": "shots-chb-world-b",
+   "size": "card",
+   "set": "schematic",
+   "key": 14,
+   "note": "tick Do la that"
+  },
+  {
+   "id": "B21",
+   "file": "shots-chb-mind-a",
+   "size": "medium",
+   "set": "head",
+   "key": 22,
+   "note": "head with bulb"
+  },
+  {
+   "id": "B22",
+   "file": "shots-chb-mind-a",
+   "size": "wide",
+   "set": "cane field",
+   "key": 50,
+   "note": "farmer walks, marquee THEO DOI"
+  },
+  {
+   "id": "B23",
+   "file": "shots-chb-mind-a",
+   "size": "card",
+   "set": "map",
+   "key": 20,
+   "note": "map AN DO"
+  },
+  {
+   "id": "B24",
+   "file": "shots-chb-mind-a",
+   "size": "medium",
+   "set": "cane field",
+   "key": 20,
+   "note": "before harvest worried"
+  },
+  {
+   "id": "B25",
+   "file": "shots-chb-mind-a",
+   "size": "insert",
+   "set": "pocket",
+   "key": 28,
+   "note": "empty pocket coin"
+  },
+  {
+   "id": "B26",
+   "file": "shots-chb-mind-a",
+   "size": "medium",
+   "set": "test",
+   "key": 55,
+   "note": "test low score"
+  },
+  {
+   "id": "B27",
+   "file": "shots-chb-mind-b",
+   "size": "wide",
+   "set": "cane field",
+   "key": 20,
+   "note": "after harvest cane on shoulder"
+  },
+  {
+   "id": "B28",
+   "file": "shots-chb-mind-b",
+   "size": "insert",
+   "set": "cash",
+   "key": 22,
+   "note": "hand fans cash"
+  },
+  {
+   "id": "B29",
+   "file": "shots-chb-mind-b",
+   "size": "split",
+   "set": "test",
+   "key": 50,
+   "note": "before|after split"
+  },
+  {
+   "id": "B30",
+   "file": "shots-chb-mind-b",
+   "size": "close",
+   "set": "face",
+   "key": 22,
+   "note": "worried face, coins orbit"
+  },
+  {
+   "id": "B31",
+   "file": "shots-chb-mind-b",
+   "size": "card",
+   "set": "head",
+   "key": 24,
+   "note": "head fills with coins, bulb squeezed"
+  },
+  {
+   "id": "B32",
+   "file": "shots-chb-mind-b",
+   "size": "insert",
+   "set": "night",
+   "key": 20,
+   "note": "moon + 03:00 clock"
+  },
+  {
+   "id": "B33",
+   "file": "shots-chb-mind-b",
+   "size": "close",
+   "set": "bed",
+   "key": 22,
+   "note": "tired farmer, Zzz crossed"
+  },
+  {
+   "id": "B34",
+   "file": "shots-chb-mind-b",
+   "size": "card",
+   "set": "schematic",
+   "key": 16,
+   "note": "tick Do la that"
+  },
+  {
+   "id": "C1",
+   "file": "shots-chc-family-mum",
+   "size": "macro",
+   "set": "bedroom",
+   "key": 40,
+   "note": "4:00 alarm, dawn warming in window"
+  },
+  {
+   "id": "C2",
+   "file": "shots-chc-family-mum",
+   "size": "wide",
+   "set": "street",
+   "key": 24,
+   "note": "dawn alley, mum at xoi cart"
+  },
+  {
+   "id": "C3",
+   "file": "shots-chc-family-mum",
+   "size": "medium",
+   "set": "street",
+   "key": 26,
+   "note": "mum hums, worried ghost fades, tin ignored"
+  },
+  {
+   "id": "C4",
+   "file": "shots-chc-family-mo-pip",
+   "size": "medium",
+   "set": "street",
+   "key": 34,
+   "note": "Mo drops night-shift apron"
+  },
+  {
+   "id": "C5",
+   "file": "shots-chc-family-mo-pip",
+   "size": "wide",
+   "set": "room",
+   "key": 22,
+   "note": "Mo enters art class, easel"
+  },
+  {
+   "id": "C6",
+   "file": "shots-chc-family-mo-pip",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "Pip looks up, thought coming"
+  },
+  {
+   "id": "C7",
+   "file": "shots-chc-family-mo-pip",
+   "size": "wide",
+   "set": "street",
+   "key": 44,
+   "note": "bubble fills with dreams"
+  },
+  {
+   "id": "C8",
+   "file": "shots-chc-family-mo-pip",
+   "size": "wide",
+   "set": "street",
+   "key": 32,
+   "note": "money bubble pops"
+  },
+  {
+   "id": "C9",
+   "file": "shots-chc-grandma",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "ticket seller at alley mouth"
+  },
+  {
+   "id": "C10",
+   "file": "shots-chc-grandma",
+   "size": "low",
+   "set": "street",
+   "key": 24,
+   "note": "feet, sun then rain, 30 NAM"
+  },
+  {
+   "id": "C11",
+   "file": "shots-chc-grandma",
+   "size": "wide",
+   "set": "porch",
+   "key": 56,
+   "note": "porch, pours tea"
+  },
+  {
+   "id": "C12",
+   "file": "shots-chc-grandma",
+   "size": "medium",
+   "set": "porch",
+   "key": 36,
+   "note": "points kids to school"
+  },
+  {
+   "id": "C13",
+   "file": "shots-chc-grandma",
+   "size": "close",
+   "set": "porch",
+   "key": 50,
+   "note": "slow push-in, birds, steam"
+  },
+  {
+   "id": "C14",
+   "file": "shots-chc-kenya-intro",
+   "size": "card",
+   "set": "schematic",
+   "key": 30,
+   "note": "NHUNG KHOAN DA freeze, worried tag"
+  },
+  {
+   "id": "C15",
+   "file": "shots-chc-kenya-intro",
+   "size": "card",
+   "set": "schematic",
+   "key": 30,
+   "note": "price tag shoots up ?"
+  },
+  {
+   "id": "C16",
+   "file": "shots-chc-kenya-intro",
+   "size": "card",
+   "set": "schematic",
+   "key": 50,
+   "note": "KENYA outline, economists"
+  },
+  {
+   "id": "C17",
+   "file": "shots-chc-kenya-intro",
+   "size": "card",
+   "set": "schematic",
+   "key": 50,
+   "note": "10.000+ HO houses light up"
+  },
+  {
+   "id": "C18",
+   "file": "shots-chc-kenya-intro",
+   "size": "card",
+   "set": "schematic",
+   "key": 30,
+   "note": "1.000 USD per household"
+  },
+  {
+   "id": "C19",
+   "file": "shots-chc-kenya-multiplier",
+   "size": "wide",
+   "set": "market",
+   "key": 40,
+   "note": "one coin circulates through market"
+  },
+  {
+   "id": "C20",
+   "file": "shots-chc-kenya-multiplier",
+   "size": "card",
+   "set": "schematic",
+   "key": 30,
+   "note": "x2,5 coins"
+  },
+  {
+   "id": "C21",
+   "file": "shots-chc-kenya-multiplier",
+   "size": "card",
+   "set": "schematic",
+   "key": 30,
+   "note": "price tag barely moves"
+  },
+  {
+   "id": "C22",
+   "file": "shots-chc-kenya-multiplier",
+   "size": "card",
+   "set": "schematic",
+   "key": 36,
+   "note": "< 1% + DO LA THAT"
+  },
+  {
+   "id": "C23",
+   "file": "shots-chc-finland-trial",
+   "size": "medium",
+   "set": "room",
+   "key": 30,
+   "note": "lazy? couch + question"
+  },
+  {
+   "id": "C24",
+   "file": "shots-chc-finland-trial",
+   "size": "card",
+   "set": "schematic",
+   "key": 40,
+   "note": "PHAN LAN 2.000 NGUOI"
+  },
+  {
+   "id": "C25",
+   "file": "shots-chc-finland-trial",
+   "size": "card",
+   "set": "schematic",
+   "key": 30,
+   "note": "560 EUR / THANG"
+  },
+  {
+   "id": "C26",
+   "file": "shots-chc-finland-trial",
+   "size": "card",
+   "set": "schematic",
+   "key": 50,
+   "note": "2 NAM + KHONG DIEU KIEN"
+  },
+  {
+   "id": "C27",
+   "file": "shots-chc-finland-result",
+   "size": "medium",
+   "set": "room",
+   "key": 30,
+   "note": "empty couch"
+  },
+  {
+   "id": "C28",
+   "file": "shots-chc-finland-result",
+   "size": "card",
+   "set": "schematic",
+   "key": 36,
+   "note": "work bar a bit up"
+  },
+  {
+   "id": "C29",
+   "file": "shots-chc-finland-result",
+   "size": "card",
+   "set": "schematic",
+   "key": 40,
+   "note": "stress meter down"
+  },
+  {
+   "id": "D1",
+   "file": "shots-chd-hard-jobs-wages",
+   "size": "wide",
+   "set": "street",
+   "key": 40,
+   "note": "help-wanted board at dawn, six wages tick up"
+  },
+  {
+   "id": "D2",
+   "file": "shots-chd-hard-jobs-wages",
+   "size": "medium",
+   "set": "street",
+   "key": 36,
+   "note": "WORKER stops at the old LUONG BEO sign, shakes head"
+  },
+  {
+   "id": "D3",
+   "file": "shots-chd-hard-jobs-wages",
+   "size": "close-up",
+   "set": "board",
+   "key": 60,
+   "note": "notice THU GOM RAC wage climbs with arrow"
+  },
+  {
+   "id": "D4",
+   "file": "shots-chd-hard-jobs-work",
+   "size": "medium",
+   "set": "street",
+   "key": 12,
+   "note": "sweeper at dawn, broom swing, wage arrow"
+  },
+  {
+   "id": "D5",
+   "file": "shots-chd-hard-jobs-work",
+   "size": "medium",
+   "set": "street",
+   "key": 16,
+   "note": "WORKER heaves a bag into the garbage truck"
+  },
+  {
+   "id": "D6",
+   "file": "shots-chd-hard-jobs-work",
+   "size": "wide",
+   "set": "hillside",
+   "key": 24,
+   "note": "coffee picking on a steep red-soil slope"
+  },
+  {
+   "id": "D7",
+   "file": "shots-chd-hard-jobs-wages",
+   "size": "macro",
+   "set": "shop",
+   "key": 34,
+   "note": "pho bowl, price tag 45.000 -> 48.000"
+  },
+  {
+   "id": "D8",
+   "file": "shots-chd-hard-jobs-wages",
+   "size": "insert",
+   "set": "shop",
+   "key": 24,
+   "note": "shirt on hanger, tag 180.000 -> 190.000"
+  },
+  {
+   "id": "D9",
+   "file": "shots-chd-earth-scale",
+   "size": "wide",
+   "set": "space",
+   "key": 20,
+   "note": "Earth turning in space"
+  },
+  {
+   "id": "D10",
+   "file": "shots-chd-earth-scale",
+   "size": "wide",
+   "set": "schematic",
+   "key": 34,
+   "note": "8 billion person icons light up, 8 TY counts"
+  },
+  {
+   "id": "D11",
+   "file": "shots-chd-earth-scale",
+   "size": "medium",
+   "set": "schematic",
+   "key": 22,
+   "note": "average American with house car plane TV bag"
+  },
+  {
+   "id": "D12",
+   "file": "shots-chd-earth-scale",
+   "size": "wide",
+   "set": "space",
+   "key": 40,
+   "note": "five Earths pop in: 5 TRAI DAT"
+  },
+  {
+   "id": "D13",
+   "file": "shots-chd-earth-scale",
+   "size": "medium",
+   "set": "schematic",
+   "key": 22,
+   "note": "Pip shocked, THAT stamp with source"
+  },
+  {
+   "id": "D14",
+   "file": "shots-chd-earth-scale",
+   "size": "wide",
+   "set": "scale",
+   "key": 24,
+   "note": "empty scale, plates TIEU THAT NHIEU / AI CUNG DU"
+  },
+  {
+   "id": "D15",
+   "file": "shots-chd-earth-scale",
+   "size": "wide",
+   "set": "scale",
+   "key": 26,
+   "note": "pile crashes onto the left pan"
+  },
+  {
+   "id": "D16",
+   "file": "shots-chd-earth-scale",
+   "size": "wide",
+   "set": "scale",
+   "key": 34,
+   "note": "pile poofs, bowl roof books land, beam settles on DU"
+  },
+  {
+   "id": "D17",
+   "file": "shots-chd-tv-news",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 26,
+   "note": "evening, family at the island, TV lights up"
+  },
+  {
+   "id": "D18",
+   "file": "shots-chd-tv-news",
+   "size": "close-up",
+   "set": "tv",
+   "key": 20,
+   "note": "TV picture opens: studio and anchor"
+  },
+  {
+   "id": "D19",
+   "file": "shots-chd-tv-news",
+   "size": "close-up",
+   "set": "tv",
+   "key": 50,
+   "note": "banner types CHAU AU: HANG TRIEU NGUOI CO NGUY CO NGHEO"
+  },
+  {
+   "id": "D20",
+   "file": "shots-chd-tv-news",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 40,
+   "note": "family in the TV light, mum worried, Pip leans in"
+  },
+  {
+   "id": "D21",
+   "file": "shots-chd-tv-news",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 20,
+   "note": "Pip puzzled, question mark pops"
+  },
+  {
+   "id": "D22",
+   "file": "shots-chd-relative-card",
+   "size": "wide",
+   "set": "schematic",
+   "key": 60,
+   "note": "nine people on income bars grow in sorted low to high, compare arrow"
+  },
+  {
+   "id": "D23",
+   "file": "shots-chd-relative-card",
+   "size": "close-up",
+   "set": "schematic",
+   "key": 22,
+   "note": "red 60% line draws across, pill pops"
+  },
+  {
+   "id": "D24",
+   "file": "shots-chd-relative-card",
+   "size": "wide",
+   "set": "schematic",
+   "key": 30,
+   "note": "MUC GIUA marker on the middle bar, bracket CA NUOC"
+  },
+  {
+   "id": "D25",
+   "file": "shots-chd-relative-card",
+   "size": "medium",
+   "set": "schematic",
+   "key": 22,
+   "note": "three under the line flash red NGUY CO NGHEO"
+  },
+  {
+   "id": "D26",
+   "file": "shots-chd-relative-card",
+   "size": "wide",
+   "set": "schematic",
+   "key": 16,
+   "note": "card dims, THAT stamp (EUROSTAT)"
+  },
+  {
+   "id": "D27",
+   "file": "shots-chd-relative-card",
+   "size": "wide",
+   "set": "schematic",
+   "key": 50,
+   "note": "bars grow x10, line rises with them, GIAU LEN GAP MUOI"
+  },
+  {
+   "id": "D28",
+   "file": "shots-chd-relative-card",
+   "size": "medium",
+   "set": "schematic",
+   "key": 40,
+   "note": "camera runs from the three under the line to the tallest neighbour"
+  },
+  {
+   "id": "D29",
+   "file": "shots-chd-relative-card",
+   "size": "medium",
+   "set": "schematic",
+   "key": 40,
+   "note": "Pip on his small bar looks up at the red line"
+  },
+  {
+   "id": "D30",
+   "file": "shots-chd-neighbour-cars",
+   "size": "medium",
+   "set": "yard",
+   "key": 40,
+   "note": "the suit next door in front of his villa, hands on hips"
+  },
+  {
+   "id": "D31",
+   "file": "shots-chd-neighbour-cars",
+   "size": "wide",
+   "set": "yard",
+   "key": 36,
+   "note": "three shiny cars pop in on the driveway, big 3"
+  },
+  {
+   "id": "D32",
+   "file": "shots-chd-neighbour-cars",
+   "size": "close-up",
+   "set": "yard",
+   "key": 26,
+   "note": "the suit sad, tiny rain cloud over his head"
+  },
+  {
+   "id": "D33",
+   "file": "shots-chd-neighbour-cars",
+   "size": "medium",
+   "set": "yard",
+   "key": 50,
+   "note": "over the fence: friend has four cars, the suit looks sad (comic)"
+  },
+  {
+   "id": "E1",
+   "file": "shots-che-sister-question",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 30,
+   "note": "family kitchen at night, mum laughs"
+  },
+  {
+   "id": "E2",
+   "file": "shots-che-sister-question",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 24,
+   "note": "sis asks, head tilted"
+  },
+  {
+   "id": "E3",
+   "file": "shots-che-sister-question",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 30,
+   "note": "her face + ?"
+  },
+  {
+   "id": "E4",
+   "file": "shots-che-sister-question",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 20,
+   "note": "Pip looks around"
+  },
+  {
+   "id": "E5",
+   "file": "shots-che-sister-question",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 16,
+   "note": "mum laughing"
+  },
+  {
+   "id": "E6",
+   "file": "shots-che-sister-question",
+   "size": "insert",
+   "set": "kitchen",
+   "key": 20,
+   "note": "xoi pot steaming"
+  },
+  {
+   "id": "E7",
+   "file": "shots-che-sister-question",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 20,
+   "note": "sis with new books"
+  },
+  {
+   "id": "E8",
+   "file": "shots-che-sister-answer",
+   "size": "insert",
+   "set": "phone",
+   "key": 14,
+   "note": "Mo message lands"
+  },
+  {
+   "id": "E9",
+   "file": "shots-che-sister-answer",
+   "size": "insert",
+   "set": "painting",
+   "key": 14,
+   "note": "Mo first painting of the family"
+  },
+  {
+   "id": "E10",
+   "file": "shots-che-sister-answer",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 18,
+   "note": "Pip turns to sis"
+  },
+  {
+   "id": "E11",
+   "file": "shots-che-sister-answer",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 14,
+   "note": "Khong. warm close-up"
+  },
+  {
+   "id": "E12",
+   "file": "shots-che-sister-answer",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 40,
+   "note": "sis hugs him"
+  },
+  {
+   "id": "E13",
+   "file": "shots-che-ending-balance",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 30,
+   "note": "family on golden floor"
+  },
+  {
+   "id": "E14",
+   "file": "shots-che-ending-balance",
+   "size": "medium",
+   "set": "dusk",
+   "key": 40,
+   "note": "gold pile fades, floor stays"
+  },
+  {
+   "id": "E15",
+   "file": "shots-che-ending-balance",
+   "size": "wide",
+   "set": "dusk",
+   "key": 20,
+   "note": "empty balance sways"
+  },
+  {
+   "id": "E16",
+   "file": "shots-che-ending-balance",
+   "size": "medium",
+   "set": "dusk",
+   "key": 50,
+   "note": "rice and pill rise together"
+  },
+  {
+   "id": "E17",
+   "file": "shots-che-ending-balance",
+   "size": "medium",
+   "set": "dusk",
+   "key": 40,
+   "note": "schoolbag and hoe rise"
+  },
+  {
+   "id": "E18",
+   "file": "shots-che-ending-balance",
+   "size": "medium",
+   "set": "dusk",
+   "key": 20,
+   "note": "girl walks on with schoolbag"
+  },
+  {
+   "id": "E19",
+   "file": "shots-che-end-card-question",
+   "size": "wide",
+   "set": "dawn alley",
+   "key": 40,
+   "note": "end card line 1"
+  },
+  {
+   "id": "E20",
+   "file": "shots-che-end-card-question",
+   "size": "wide",
+   "set": "dawn alley",
+   "key": 100,
+   "note": "end card line 2, fade out"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "s:0.00",
+   "look": "before"
+  },
+  {
+   "shot": "A2",
+   "at": "s:2.03",
+   "look": "zero"
+  },
+  {
+   "shot": "A3",
+   "at": "s:3.46",
+   "look": "zero"
+  },
+  {
+   "shot": "A4",
+   "at": "s:4.51",
+   "look": "before"
+  },
+  {
+   "shot": "A5",
+   "at": "s:5.66",
+   "look": "before"
+  },
+  {
+   "shot": "A6",
+   "at": "s:6.89",
+   "look": "zero"
+  },
+  {
+   "shot": "A7",
+   "at": "s:8.06",
+   "look": "before"
+  },
+  {
+   "shot": "A8",
+   "at": "s:9.83",
+   "look": "zero"
+  },
+  {
+   "shot": "A9",
+   "at": "s:11.46"
+  },
+  {
+   "shot": "A10",
+   "at": "s:12.55",
+   "look": "zero"
+  },
+  {
+   "shot": "A11",
+   "at": "s:14.09"
+  },
+  {
+   "shot": "A12",
+   "at": "s:17.46"
+  },
+  {
+   "shot": "A13",
+   "at": "s:19.32",
+   "look": "zero"
+  },
+  {
+   "shot": "A14",
+   "at": "s:20.84",
+   "look": "zero"
+  },
+  {
+   "shot": "A15",
+   "at": "s:24.24",
+   "look": "zero"
+  },
+  {
+   "shot": "A16",
+   "at": "s:25.27",
+   "look": "zero"
+  },
+  {
+   "shot": "A17",
+   "at": "s:27.21",
+   "look": "before"
+  },
+  {
+   "shot": "A18",
+   "at": "s:28.63",
+   "look": "before"
+  },
+  {
+   "shot": "A19",
+   "at": "s:30.07",
+   "look": "before"
+  },
+  {
+   "shot": "A20",
+   "at": "s:31.65",
+   "look": "before"
+  },
+  {
+   "shot": "A21",
+   "at": "s:33.90",
+   "look": "before"
+  },
+  {
+   "shot": "A22",
+   "at": "s:35.55",
+   "look": "before"
+  },
+  {
+   "shot": "A23",
+   "at": "s:37.89",
+   "look": "before"
+  },
+  {
+   "shot": "A24",
+   "at": "s:38.92",
+   "look": "before"
+  },
+  {
+   "shot": "A25",
+   "at": "s:41.42",
+   "look": "before"
+  },
+  {
+   "shot": "A26",
+   "at": "s:42.38",
+   "look": "before"
+  },
+  {
+   "shot": "A27",
+   "at": "s:44.06",
+   "look": "before"
+  },
+  {
+   "shot": "A28",
+   "at": "s:45.81",
+   "look": "before"
+  },
+  {
+   "shot": "A29",
+   "at": "s:47.17",
+   "look": "before"
+  },
+  {
+   "shot": "B1",
+   "at": "s:49.32",
+   "look": "zero"
+  },
+  {
+   "shot": "B2",
+   "at": "s:51.08",
+   "look": "before"
+  },
+  {
+   "shot": "B3",
+   "at": "s:52.9",
+   "look": "before"
+  },
+  {
+   "shot": "B4",
+   "at": "s:54.27",
+   "look": "before"
+  },
+  {
+   "shot": "B5",
+   "at": "s:55.98",
+   "look": "before"
+  },
+  {
+   "shot": "B6",
+   "at": "s:57.99",
+   "look": "before"
+  },
+  {
+   "shot": "B7",
+   "at": "s:58.82",
+   "look": "before"
+  },
+  {
+   "shot": "B8",
+   "at": "s:59.57",
+   "look": "before"
+  },
+  {
+   "shot": "B9",
+   "at": "s:60.28",
+   "look": "zero"
+  },
+  {
+   "shot": "B10",
+   "at": "s:61.34",
+   "look": "zero"
+  },
+  {
+   "shot": "B11",
+   "at": "s:62.29",
+   "look": "zero"
+  },
+  {
+   "shot": "B12",
+   "at": "s:63.9",
+   "look": "zero"
+  },
+  {
+   "shot": "B13",
+   "at": "s:66.5",
+   "look": "zero"
+  },
+  {
+   "shot": "B14",
+   "at": "s:68.05",
+   "look": "zero"
+  },
+  {
+   "shot": "B15",
+   "at": "s:69.35",
+   "look": "before"
+  },
+  {
+   "shot": "B16",
+   "at": "s:72.47",
+   "look": "zero"
+  },
+  {
+   "shot": "B17",
+   "at": "s:73.86",
+   "look": "zero"
+  },
+  {
+   "shot": "B18",
+   "at": "s:75.31",
+   "look": "before"
+  },
+  {
+   "shot": "B19",
+   "at": "s:77.33",
+   "look": "before"
+  },
+  {
+   "shot": "B20",
+   "at": "s:78.68"
+  },
+  {
+   "shot": "B21",
+   "at": "s:79.43",
+   "look": "before"
+  },
+  {
+   "shot": "B22",
+   "at": "s:80.54",
+   "look": "before"
+  },
+  {
+   "shot": "B23",
+   "at": "s:83.15",
+   "look": "before"
+  },
+  {
+   "shot": "B24",
+   "at": "s:84.0",
+   "look": "before"
+  },
+  {
+   "shot": "B25",
+   "at": "s:84.98",
+   "look": "before"
+  },
+  {
+   "shot": "B26",
+   "at": "s:86.04",
+   "look": "before"
+  },
+  {
+   "shot": "B27",
+   "at": "s:88.28"
+  },
+  {
+   "shot": "B28",
+   "at": "s:89.28"
+  },
+  {
+   "shot": "B29",
+   "at": "s:90.25"
+  },
+  {
+   "shot": "B30",
+   "at": "s:92.15",
+   "look": "before"
+  },
+  {
+   "shot": "B31",
+   "at": "s:93.22",
+   "look": "before"
+  },
+  {
+   "shot": "B32",
+   "at": "s:94.11",
+   "look": "before"
+  },
+  {
+   "shot": "B33",
+   "at": "s:95.04",
+   "look": "before"
+  },
+  {
+   "shot": "B34",
+   "at": "s:96.06"
+  },
+  {
+   "shot": "C1",
+   "at": "s:96.97",
+   "look": "warm"
+  },
+  {
+   "shot": "C2",
+   "at": "s:98.80",
+   "look": "warm"
+  },
+  {
+   "shot": "C3",
+   "at": "s:100.41",
+   "look": "warm"
+  },
+  {
+   "shot": "C4",
+   "at": "s:102.37",
+   "look": "warm"
+  },
+  {
+   "shot": "C5",
+   "at": "s:104.16",
+   "look": "warm"
+  },
+  {
+   "shot": "C6",
+   "at": "s:105.05",
+   "look": "warm"
+  },
+  {
+   "shot": "C7",
+   "at": "s:106.59",
+   "look": "warm"
+  },
+  {
+   "shot": "C8",
+   "at": "s:108.49",
+   "look": "warm"
+  },
+  {
+   "shot": "C9",
+   "at": "s:110.92",
+   "look": "before"
+  },
+  {
+   "shot": "C10",
+   "at": "s:112.83",
+   "look": "before"
+  },
+  {
+   "shot": "C11",
+   "at": "s:114.58",
+   "look": "zero"
+  },
+  {
+   "shot": "C12",
+   "at": "s:116.85",
+   "look": "zero"
+  },
+  {
+   "shot": "C13",
+   "at": "s:118.43",
+   "look": "zero"
+  },
+  {
+   "shot": "C14",
+   "at": "s:120.89",
+   "look": "before"
+  },
+  {
+   "shot": "C15",
+   "at": "s:123.14",
+   "look": "before"
+  },
+  {
+   "shot": "C16",
+   "at": "s:124.63"
+  },
+  {
+   "shot": "C17",
+   "at": "s:127.23"
+  },
+  {
+   "shot": "C18",
+   "at": "s:129.60"
+  },
+  {
+   "shot": "C19",
+   "at": "s:131.13"
+  },
+  {
+   "shot": "C20",
+   "at": "s:133.22"
+  },
+  {
+   "shot": "C21",
+   "at": "s:134.58"
+  },
+  {
+   "shot": "C22",
+   "at": "s:136.42"
+  },
+  {
+   "shot": "C23",
+   "at": "s:137.97",
+   "look": "before"
+  },
+  {
+   "shot": "C24",
+   "at": "s:139.44"
+  },
+  {
+   "shot": "C25",
+   "at": "s:141.89"
+  },
+  {
+   "shot": "C26",
+   "at": "s:143.96"
+  },
+  {
+   "shot": "C27",
+   "at": "s:146.23",
+   "look": "zero"
+  },
+  {
+   "shot": "C28",
+   "at": "s:147.80",
+   "look": "zero"
+  },
+  {
+   "shot": "C29",
+   "at": "s:149.35",
+   "look": "zero"
+  },
+  {
+   "shot": "D1",
+   "at": "s:151.03",
+   "look": "zero"
+  },
+  {
+   "shot": "D2",
+   "at": "s:152.85",
+   "look": "zero"
+  },
+  {
+   "shot": "D3",
+   "at": "s:155.08",
+   "look": "zero"
+  },
+  {
+   "shot": "D4",
+   "at": "s:157.84",
+   "look": "zero"
+  },
+  {
+   "shot": "D5",
+   "at": "s:158.58",
+   "look": "zero"
+  },
+  {
+   "shot": "D6",
+   "at": "s:159.48",
+   "look": "zero"
+  },
+  {
+   "shot": "D7",
+   "at": "s:160.85",
+   "look": "zero"
+  },
+  {
+   "shot": "D8",
+   "at": "s:162.36",
+   "look": "zero"
+  },
+  {
+   "shot": "D9",
+   "at": "s:163.55",
+   "look": "before"
+  },
+  {
+   "shot": "D10",
+   "at": "s:164.66",
+   "look": "before"
+  },
+  {
+   "shot": "D11",
+   "at": "s:166.36",
+   "look": "before"
+  },
+  {
+   "shot": "D12",
+   "at": "s:167.25",
+   "look": "before"
+  },
+  {
+   "shot": "D13",
+   "at": "s:168.94",
+   "look": "before"
+  },
+  {
+   "shot": "D14",
+   "at": "s:169.86",
+   "look": "zero"
+  },
+  {
+   "shot": "D15",
+   "at": "s:171.22",
+   "look": "zero"
+  },
+  {
+   "shot": "D16",
+   "at": "s:172.37",
+   "look": "zero"
+  },
+  {
+   "shot": "D17",
+   "at": "s:174.17",
+   "look": "warm"
+  },
+  {
+   "shot": "D18",
+   "at": "s:175.13",
+   "look": "warm"
+  },
+  {
+   "shot": "D19",
+   "at": "s:176.34",
+   "look": "warm"
+  },
+  {
+   "shot": "D20",
+   "at": "s:178.14",
+   "look": "warm"
+  },
+  {
+   "shot": "D21",
+   "at": "s:180.18",
+   "look": "warm"
+  },
+  {
+   "shot": "D22",
+   "at": "s:181.20",
+   "look": "before"
+  },
+  {
+   "shot": "D23",
+   "at": "s:184.06",
+   "look": "before"
+  },
+  {
+   "shot": "D24",
+   "at": "s:185.75",
+   "look": "before"
+  },
+  {
+   "shot": "D25",
+   "at": "s:187.21",
+   "look": "before"
+  },
+  {
+   "shot": "D26",
+   "at": "s:188.42",
+   "look": "before"
+  },
+  {
+   "shot": "D27",
+   "at": "s:189.61",
+   "look": "before"
+  },
+  {
+   "shot": "D28",
+   "at": "s:191.91",
+   "look": "before"
+  },
+  {
+   "shot": "D29",
+   "at": "s:193.68",
+   "look": "before"
+  },
+  {
+   "shot": "D30",
+   "at": "s:195.42",
+   "look": "warm"
+  },
+  {
+   "shot": "D31",
+   "at": "s:197.75",
+   "look": "warm"
+  },
+  {
+   "shot": "D32",
+   "at": "s:198.98",
+   "look": "warm"
+  },
+  {
+   "shot": "D33",
+   "at": "s:199.99",
+   "look": "warm"
+  },
+  {
+   "shot": "E1",
+   "at": "s:202.02",
+   "look": "warm"
+  },
+  {
+   "shot": "E2",
+   "at": "s:202.73",
+   "look": "warm"
+  },
+  {
+   "shot": "E3",
+   "at": "s:203.75",
+   "look": "warm"
+  },
+  {
+   "shot": "E4",
+   "at": "s:205.77",
+   "look": "warm"
+  },
+  {
+   "shot": "E5",
+   "at": "s:206.85",
+   "look": "warm"
+  },
+  {
+   "shot": "E6",
+   "at": "s:207.92",
+   "look": "warm"
+  },
+  {
+   "shot": "E7",
+   "at": "s:209.07",
+   "look": "warm"
+  },
+  {
+   "shot": "E8",
+   "at": "s:210.13",
+   "look": "warm"
+  },
+  {
+   "shot": "E9",
+   "at": "s:210.85",
+   "look": "warm"
+  },
+  {
+   "shot": "E10",
+   "at": "s:212.46",
+   "look": "warm"
+  },
+  {
+   "shot": "E11",
+   "at": "s:213.44",
+   "look": "warm"
+  },
+  {
+   "shot": "E12",
+   "at": "s:214.04",
+   "look": "warm"
+  },
+  {
+   "shot": "E13",
+   "at": "s:215.84",
+   "look": "warm"
+  },
+  {
+   "shot": "E14",
+   "at": "s:218.14",
+   "look": "warm"
+  },
+  {
+   "shot": "E15",
+   "at": "s:219.97",
+   "look": "warm"
+  },
+  {
+   "shot": "E16",
+   "at": "s:221.52",
+   "look": "warm"
+  },
+  {
+   "shot": "E17",
+   "at": "s:223.04",
+   "look": "warm"
+  },
+  {
+   "shot": "E18",
+   "at": "s:224.09",
+   "look": "warm"
+  },
+  {
+   "shot": "E19",
+   "at": "s:225.11",
+   "look": "warm"
+  },
+  {
+   "shot": "E20",
+   "at": "s:227.05",
+   "look": "warm"
+  }
+ ],
+ "fx": [
+  {
+   "at": "A10+17",
+   "kind": "flash",
+   "color": "#BFFFD6",
+   "o": 0.3
+  },
+  {
+   "at": "A11+0",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.3
+  },
+  {
+   "at": "A16+26",
+   "kind": "shake",
+   "len": 5,
+   "amp": 5
+  },
+  {
+   "at": "A27+7",
+   "kind": "shake",
+   "len": 6,
+   "amp": 6
+  },
+  {
+   "at": "B13+13",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.35
+  },
+  {
+   "at": "B20",
+   "kind": "flash",
+   "color": "#CFFFE0",
+   "o": 0.2
+  },
+  {
+   "at": "D12+20",
+   "kind": "flash",
+   "color": "#BFE4FF",
+   "o": 0.2
+  },
+  {
+   "at": "D13+7",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.22
+  },
+  {
+   "at": "D17+22",
+   "kind": "flash",
+   "color": "#BFD8FF",
+   "o": 0.18
+  },
+  {
+   "at": "D26+4",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.22
+  }
+ ]
+}

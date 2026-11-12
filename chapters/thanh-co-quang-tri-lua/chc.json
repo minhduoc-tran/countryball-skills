@@ -1,0 +1,713 @@
+{
+ "chapter": "c",
+ "shots": [
+  {
+   "id": "C1",
+   "file": "shots-chc",
+   "size": "title",
+   "set": "date",
+   "key": 17,
+   "note": "Đêm mùng chín tháng bảy"
+  },
+  {
+   "id": "C2",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Đêm mùng chín tháng bảy"
+  },
+  {
+   "id": "C3",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "cross",
+   "key": 17,
+   "note": "Đêm mùng chín tháng bảy"
+  },
+  {
+   "id": "C4",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "cross",
+   "key": 17,
+   "note": "Từ Nhan Biều sang thị xã"
+  },
+  {
+   "id": "C5",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "cross",
+   "key": 17,
+   "note": "Từ Nhan Biều sang thị xã"
+  },
+  {
+   "id": "C6",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ Nhan Biều sang thị xã"
+  },
+  {
+   "id": "C7",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ Nhan Biều sang thị xã"
+  },
+  {
+   "id": "C8",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ Nhan Biều sang thị xã"
+  },
+  {
+   "id": "C9",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "trench",
+   "key": 17,
+   "note": "Hầm đang ngập"
+  },
+  {
+   "id": "C10",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "trench",
+   "key": 17,
+   "note": "Hầm đang ngập"
+  },
+  {
+   "id": "C11",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "trench",
+   "key": 17,
+   "note": "Hầm đang ngập"
+  },
+  {
+   "id": "C12",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "cross",
+   "key": 17,
+   "note": "Hầm đang ngập"
+  },
+  {
+   "id": "C13",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "cross",
+   "key": 17,
+   "note": "Hầm đang ngập"
+  },
+  {
+   "id": "C14",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Trực thăng của lực lượng phản công"
+  },
+  {
+   "id": "C15",
+   "file": "shots-chc",
+   "size": "archive",
+   "set": "photo",
+   "key": 17,
+   "note": "Trực thăng của lực lượng phản công"
+  },
+  {
+   "id": "C16",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "air",
+   "key": 17,
+   "note": "Trực thăng của lực lượng phản công"
+  },
+  {
+   "id": "C17",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "air",
+   "key": 17,
+   "note": "Trực thăng của lực lượng phản công"
+  },
+  {
+   "id": "C18",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "air",
+   "key": 17,
+   "note": "Mười một tháng bảy"
+  },
+  {
+   "id": "C19",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "air",
+   "key": 17,
+   "note": "Mười một tháng bảy"
+  },
+  {
+   "id": "C20",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Mười một tháng bảy"
+  },
+  {
+   "id": "C21",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Mười một tháng bảy"
+  },
+  {
+   "id": "C22",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "air",
+   "key": 17,
+   "note": "Mười một tháng bảy"
+  },
+  {
+   "id": "C23",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "air",
+   "key": 17,
+   "note": "Đổ quân dưới hỏa lực"
+  },
+  {
+   "id": "C24",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "air",
+   "key": 17,
+   "note": "Đổ quân dưới hỏa lực"
+  },
+  {
+   "id": "C25",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "air",
+   "key": 17,
+   "note": "Đổ quân dưới hỏa lực"
+  },
+  {
+   "id": "C26",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "map",
+   "key": 17,
+   "note": "Đổ quân dưới hỏa lực"
+  },
+  {
+   "id": "C27",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "map",
+   "key": 17,
+   "note": "Đổ quân dưới hỏa lực"
+  },
+  {
+   "id": "C28",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Tổ điện đài A ba năm không"
+  },
+  {
+   "id": "C29",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "radio",
+   "key": 17,
+   "note": "Tổ điện đài A ba năm không"
+  },
+  {
+   "id": "C30",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "radio",
+   "key": 17,
+   "note": "Tổ điện đài A ba năm không"
+  },
+  {
+   "id": "C31",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Tổ điện đài A ba năm không"
+  },
+  {
+   "id": "C32",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Máy, ắc quy, máy nổ"
+  },
+  {
+   "id": "C33",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "radio",
+   "key": 17,
+   "note": "Máy, ắc quy, máy nổ"
+  },
+  {
+   "id": "C34",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "radio",
+   "key": 17,
+   "note": "Máy, ắc quy, máy nổ"
+  },
+  {
+   "id": "C35",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "cross",
+   "key": 17,
+   "note": "Máy, ắc quy, máy nổ"
+  },
+  {
+   "id": "C36",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "cross",
+   "key": 17,
+   "note": "Đàm Văn Ngọ bị nước cuốn"
+  },
+  {
+   "id": "C37",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "cross",
+   "key": 17,
+   "note": "Đàm Văn Ngọ bị nước cuốn"
+  },
+  {
+   "id": "C38",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "cross",
+   "key": 17,
+   "note": "Đàm Văn Ngọ bị nước cuốn"
+  },
+  {
+   "id": "C39",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "cross",
+   "key": 17,
+   "note": "Đàm Văn Ngọ bị nước cuốn"
+  },
+  {
+   "id": "C40",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Sấy máy dưới hầm"
+  },
+  {
+   "id": "C41",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "radio",
+   "key": 17,
+   "note": "Sấy máy dưới hầm"
+  },
+  {
+   "id": "C42",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "radio",
+   "key": 17,
+   "note": "Sấy máy dưới hầm"
+  },
+  {
+   "id": "C43",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Sấy máy dưới hầm"
+  },
+  {
+   "id": "C44",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "radio",
+   "key": 17,
+   "note": "Sấy máy dưới hầm"
+  },
+  {
+   "id": "C45",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Giữ ăng ten bằng tay"
+  },
+  {
+   "id": "C46",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "radio",
+   "key": 17,
+   "note": "Giữ ăng ten bằng tay"
+  },
+  {
+   "id": "C47",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "radio",
+   "key": 17,
+   "note": "Giữ ăng ten bằng tay"
+  },
+  {
+   "id": "C48",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Giữ ăng ten bằng tay"
+  },
+  {
+   "id": "C49",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Tín hiệu qua hai bờ"
+  },
+  {
+   "id": "C50",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "radio",
+   "key": 17,
+   "note": "Tín hiệu qua hai bờ"
+  },
+  {
+   "id": "C51",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "radio",
+   "key": 17,
+   "note": "Tín hiệu qua hai bờ"
+  },
+  {
+   "id": "C52",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Tín hiệu qua hai bờ"
+  },
+  {
+   "id": "C53",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "radio",
+   "key": 17,
+   "note": "Tín hiệu qua hai bờ"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "C1",
+   "at": "s:194.4000"
+  },
+  {
+   "shot": "C2",
+   "at": "s:197.9000"
+  },
+  {
+   "shot": "C3",
+   "at": "s:200.9667"
+  },
+  {
+   "shot": "C4",
+   "at": "s:204.1000"
+  },
+  {
+   "shot": "C5",
+   "at": "s:205.8000"
+  },
+  {
+   "shot": "C6",
+   "at": "s:210.0667"
+  },
+  {
+   "shot": "C7",
+   "at": "s:212.8333"
+  },
+  {
+   "shot": "C8",
+   "at": "s:214.7667"
+  },
+  {
+   "shot": "C9",
+   "at": "s:217.8333"
+  },
+  {
+   "shot": "C10",
+   "at": "s:219.8667"
+  },
+  {
+   "shot": "C11",
+   "at": "s:222.6333"
+  },
+  {
+   "shot": "C12",
+   "at": "s:224.8667"
+  },
+  {
+   "shot": "C13",
+   "at": "s:226.9333"
+  },
+  {
+   "shot": "C14",
+   "at": "s:229.8667"
+  },
+  {
+   "shot": "C15",
+   "at": "s:232.2667"
+  },
+  {
+   "shot": "C16",
+   "at": "s:237.0000"
+  },
+  {
+   "shot": "C17",
+   "at": "s:238.2333"
+  },
+  {
+   "shot": "C18",
+   "at": "s:241.8333"
+  },
+  {
+   "shot": "C19",
+   "at": "s:243.1333"
+  },
+  {
+   "shot": "C20",
+   "at": "s:248.0667"
+  },
+  {
+   "shot": "C21",
+   "at": "s:250.5000"
+  },
+  {
+   "shot": "C22",
+   "at": "s:252.7667"
+  },
+  {
+   "shot": "C23",
+   "at": "s:255.4000"
+  },
+  {
+   "shot": "C24",
+   "at": "s:257.6667"
+  },
+  {
+   "shot": "C25",
+   "at": "s:260.4000"
+  },
+  {
+   "shot": "C26",
+   "at": "s:262.9000"
+  },
+  {
+   "shot": "C27",
+   "at": "s:265.2000"
+  },
+  {
+   "shot": "C28",
+   "at": "s:267.7333"
+  },
+  {
+   "shot": "C29",
+   "at": "s:271.9333"
+  },
+  {
+   "shot": "C30",
+   "at": "s:273.5667"
+  },
+  {
+   "shot": "C31",
+   "at": "s:275.8667"
+  },
+  {
+   "shot": "C32",
+   "at": "s:279.2000"
+  },
+  {
+   "shot": "C33",
+   "at": "s:280.7667"
+  },
+  {
+   "shot": "C34",
+   "at": "s:283.1000"
+  },
+  {
+   "shot": "C35",
+   "at": "s:286.2667"
+  },
+  {
+   "shot": "C36",
+   "at": "s:289.3333"
+  },
+  {
+   "shot": "C37",
+   "at": "s:292.8667"
+  },
+  {
+   "shot": "C38",
+   "at": "s:295.5000"
+  },
+  {
+   "shot": "C39",
+   "at": "s:297.6667"
+  },
+  {
+   "shot": "C40",
+   "at": "s:300.2667"
+  },
+  {
+   "shot": "C41",
+   "at": "s:304.2000"
+  },
+  {
+   "shot": "C42",
+   "at": "s:305.5000"
+  },
+  {
+   "shot": "C43",
+   "at": "s:309.0667"
+  },
+  {
+   "shot": "C44",
+   "at": "s:310.3000"
+  },
+  {
+   "shot": "C45",
+   "at": "s:312.8667"
+  },
+  {
+   "shot": "C46",
+   "at": "s:315.9333"
+  },
+  {
+   "shot": "C47",
+   "at": "s:319.8000"
+  },
+  {
+   "shot": "C48",
+   "at": "s:321.8667"
+  },
+  {
+   "shot": "C49",
+   "at": "s:324.9667"
+  },
+  {
+   "shot": "C50",
+   "at": "s:328.6667"
+  },
+  {
+   "shot": "C51",
+   "at": "s:331.0667"
+  },
+  {
+   "shot": "C52",
+   "at": "s:333.1333"
+  },
+  {
+   "shot": "C53",
+   "at": "s:334.5000"
+  }
+ ],
+ "events": [
+  [
+   "C1+8",
+   "roof_wind",
+   0.09,
+   "onset"
+  ],
+  [
+   "C10+8",
+   "rain",
+   0.22,
+   "onset"
+  ],
+  [
+   "C18+8",
+   "bomber_drone",
+   0.16,
+   "onset"
+  ],
+  [
+   "C23+8",
+   "bomb_far",
+   0.19,
+   "onset"
+  ],
+  [
+   "C28+8",
+   "radio_static",
+   0.08,
+   "onset"
+  ],
+  [
+   "C35+8",
+   "splash",
+   0.12,
+   "onset"
+  ],
+  [
+   "C37+8",
+   "splash",
+   0.18,
+   "onset"
+  ],
+  [
+   "C41+8",
+   "radio_static",
+   0.12,
+   "onset"
+  ],
+  [
+   "C43+8",
+   "rubble",
+   0.17,
+   "onset"
+  ],
+  [
+   "C46+8",
+   "radio_static",
+   0.1,
+   "onset"
+  ]
+ ],
+ "fx": [
+  {
+   "at": "C23+11",
+   "kind": "shake",
+   "amp": 9,
+   "len": 9
+  }
+ ]
+}

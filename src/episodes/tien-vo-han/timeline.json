@@ -1,0 +1,2391 @@
+{
+ "slug": "tien-vo-han",
+ "title": "SẼ RA SAO NẾU BẠN CÓ TIỀN VÔ HẠN?",
+ "fps": 30,
+ "total": 8029,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 33,
+   "t0": 0,
+   "t1": 33,
+   "line": "Một chiếc thẻ đen."
+  },
+  {
+   "shot": "A2",
+   "a": 33,
+   "b": 66,
+   "t0": 0,
+   "t1": 33,
+   "line": "Không có hạn mức."
+  },
+  {
+   "shot": "A3",
+   "a": 66,
+   "b": 135,
+   "t0": 0,
+   "t1": 69,
+   "line": "Mua hết bánh mì của cả con phố."
+  },
+  {
+   "shot": "A4",
+   "a": 135,
+   "b": 159,
+   "t0": 0,
+   "t1": 24,
+   "line": "Quẹt thẻ."
+  },
+  {
+   "shot": "A5",
+   "a": 159,
+   "b": 177,
+   "t0": 0,
+   "t1": 18,
+   "line": "Thanh toán thành",
+   "look": "card"
+  },
+  {
+   "shot": "A6",
+   "a": 177,
+   "b": 196,
+   "t0": 0,
+   "t1": 19,
+   "line": "công."
+  },
+  {
+   "shot": "A7",
+   "a": 196,
+   "b": 232,
+   "t0": 0,
+   "t1": 36,
+   "line": "Mua luôn một hòn đảo."
+  },
+  {
+   "shot": "A8",
+   "a": 232,
+   "b": 259,
+   "t0": 0,
+   "t1": 27,
+   "line": "Quẹt thẻ."
+  },
+  {
+   "shot": "A9",
+   "a": 259,
+   "b": 293,
+   "t0": 0,
+   "t1": 34,
+   "line": "Thanh toán thành công.",
+   "look": "card"
+  },
+  {
+   "shot": "A10",
+   "a": 293,
+   "b": 372,
+   "t0": 0,
+   "t1": 79,
+   "line": "Sẽ ra sao nếu bạn có tiền vô hạn?"
+  },
+  {
+   "shot": "A11",
+   "a": 372,
+   "b": 421,
+   "t0": 0,
+   "t1": 49,
+   "line": "Sáng nay, trong hộp thư có"
+  },
+  {
+   "shot": "A12",
+   "a": 421,
+   "b": 454,
+   "t0": 0,
+   "t1": 33,
+   "line": "một phong bì không tên."
+  },
+  {
+   "shot": "A13",
+   "a": 454,
+   "b": 515,
+   "t0": 0,
+   "t1": 61,
+   "line": "Bên trong là một chiếc thẻ đen,"
+  },
+  {
+   "shot": "A14",
+   "a": 515,
+   "b": 600,
+   "t0": 0,
+   "t1": 85,
+   "line": "và một mảnh giấy chỉ ghi ba chữ: không giới hạn."
+  },
+  {
+   "shot": "A15",
+   "a": 600,
+   "b": 659,
+   "t0": 0,
+   "t1": 59,
+   "line": "Mua gì cũng được. Bao nhiêu cũng được."
+  },
+  {
+   "shot": "A16",
+   "a": 659,
+   "b": 704,
+   "t0": 0,
+   "t1": 45,
+   "line": "Ngân hàng kiểm tra rồi:"
+  },
+  {
+   "shot": "A17",
+   "a": 704,
+   "b": 775,
+   "t0": 0,
+   "t1": 71,
+   "line": "đó là tiền thật, và nó không bao giờ hết."
+  },
+  {
+   "shot": "A18",
+   "a": 775,
+   "b": 837,
+   "t0": 0,
+   "t1": 62,
+   "line": "Bạn thử mua một ly trà sữa."
+  },
+  {
+   "shot": "A19",
+   "a": 837,
+   "b": 863,
+   "t0": 0,
+   "t1": 26,
+   "line": "Quẹt thẻ.",
+   "look": "card"
+  },
+  {
+   "shot": "A20",
+   "a": 863,
+   "b": 897,
+   "t0": 0,
+   "t1": 34,
+   "line": "Thanh toán thành công.",
+   "look": "card"
+  },
+  {
+   "shot": "A21",
+   "a": 897,
+   "b": 932,
+   "t0": 0,
+   "t1": 35,
+   "line": "Số dư hiện lên:"
+  },
+  {
+   "shot": "A22",
+   "a": 932,
+   "b": 952,
+   "t0": 0,
+   "t1": 20,
+   "line": "vô cực.",
+   "look": "card"
+  },
+  {
+   "shot": "A23",
+   "a": 952,
+   "b": 989,
+   "t0": 0,
+   "t1": 37,
+   "line": "Để dễ hình dung:"
+  },
+  {
+   "shot": "A24",
+   "a": 989,
+   "b": 1082,
+   "t0": 0,
+   "t1": 93,
+   "line": "năm hai nghìn không trăm hai mươi lăm, cả nền kinh tế Việt Nam làm"
+  },
+  {
+   "shot": "A25",
+   "a": 1082,
+   "b": 1188,
+   "t0": 0,
+   "t1": 106,
+   "line": "ra khoảng mười hai phẩy tám triệu tỷ đồng, hơn năm trăm tỷ đô la."
+  },
+  {
+   "shot": "A26",
+   "a": 1188,
+   "b": 1283,
+   "t0": 0,
+   "t1": 95,
+   "line": "Với chiếc thẻ này, bạn quẹt một lần là đủ con số đó.",
+   "look": "card"
+  },
+  {
+   "shot": "A27",
+   "a": 1283,
+   "b": 1348,
+   "t0": 0,
+   "t1": 65,
+   "line": "Rồi quẹt thêm lần nữa.",
+   "look": "card"
+  },
+  {
+   "shot": "B1",
+   "a": 1348,
+   "b": 1386,
+   "t0": 0,
+   "t1": 38,
+   "line": "Ngày đầu tiên, bạn bao"
+  },
+  {
+   "shot": "B2",
+   "a": 1386,
+   "b": 1428,
+   "t0": 0,
+   "t1": 42,
+   "line": "bữa sáng cho cả xóm."
+  },
+  {
+   "shot": "B3",
+   "a": 1428,
+   "b": 1466,
+   "t0": 0,
+   "t1": 38,
+   "line": "Bánh mì, phở,"
+  },
+  {
+   "shot": "B4",
+   "a": 1466,
+   "b": 1510,
+   "t0": 0,
+   "t1": 44,
+   "line": "xôi, cà phê."
+  },
+  {
+   "shot": "B5",
+   "a": 1510,
+   "b": 1539,
+   "t0": 0,
+   "t1": 29,
+   "line": "Quẹt thẻ.",
+   "look": "card"
+  },
+  {
+   "shot": "B6",
+   "a": 1539,
+   "b": 1594,
+   "t0": 0,
+   "t1": 55,
+   "line": "Bạn trả hết nợ căn nhà của bố mẹ."
+  },
+  {
+   "shot": "B7",
+   "a": 1594,
+   "b": 1669,
+   "t0": 0,
+   "t1": 75,
+   "line": "Mua cho em gái nguyên một cửa hàng đồ chơi."
+  },
+  {
+   "shot": "B8",
+   "a": 1669,
+   "b": 1736,
+   "t0": 0,
+   "t1": 67,
+   "line": "Tặng bạn thân một chiếc xe máy mới."
+  },
+  {
+   "shot": "B9",
+   "a": 1736,
+   "b": 1803,
+   "t0": 0,
+   "t1": 67,
+   "line": "Quẹt thẻ, quẹt thẻ, quẹt thẻ.",
+   "look": "card"
+  },
+  {
+   "shot": "B10",
+   "a": 1803,
+   "b": 1859,
+   "t0": 0,
+   "t1": 56,
+   "line": "Bạn xây lại ngôi trường cũ của mình."
+  },
+  {
+   "shot": "B11",
+   "a": 1859,
+   "b": 1888,
+   "t0": 0,
+   "t1": 29,
+   "line": "Phòng học mát lạnh,"
+  },
+  {
+   "shot": "B12",
+   "a": 1888,
+   "b": 1917,
+   "t0": 0,
+   "t1": 29,
+   "line": "thư viện đầy sách,"
+  },
+  {
+   "shot": "B13",
+   "a": 1917,
+   "b": 1959,
+   "t0": 0,
+   "t1": 42,
+   "line": "sân bóng mới tinh."
+  },
+  {
+   "shot": "B14",
+   "a": 1959,
+   "b": 2006,
+   "t0": 0,
+   "t1": 47,
+   "line": "Bạn mở cửa rạp chiếu phim"
+  },
+  {
+   "shot": "B15",
+   "a": 2006,
+   "b": 2060,
+   "t0": 0,
+   "t1": 54,
+   "line": "cho cả trường vào xem miễn phí."
+  },
+  {
+   "shot": "B16",
+   "a": 2060,
+   "b": 2118,
+   "t0": 0,
+   "t1": 58,
+   "line": "Bạn mua tòa nhà cao nhất thành phố,"
+  },
+  {
+   "shot": "B17",
+   "a": 2118,
+   "b": 2173,
+   "t0": 0,
+   "t1": 55,
+   "line": "rồi mở cửa sân thượng cho mọi người lên"
+  },
+  {
+   "shot": "B18",
+   "a": 2173,
+   "b": 2219,
+   "t0": 0,
+   "t1": 46,
+   "line": "ngắm hoàng hôn miễn phí."
+  },
+  {
+   "shot": "B19",
+   "a": 2219,
+   "b": 2275,
+   "t0": 0,
+   "t1": 56,
+   "line": "Bạn mua một chuyến bay vào vũ trụ,"
+  },
+  {
+   "shot": "B20",
+   "a": 2275,
+   "b": 2361,
+   "t0": 0,
+   "t1": 86,
+   "line": "vé giá hàng chục triệu đô la. Quẹt thẻ.",
+   "look": "card"
+  },
+  {
+   "shot": "B21",
+   "a": 2361,
+   "b": 2399,
+   "t0": 0,
+   "t1": 38,
+   "line": "Rồi bạn nghĩ lớn hơn."
+  },
+  {
+   "shot": "B22",
+   "a": 2399,
+   "b": 2481,
+   "t0": 0,
+   "t1": 82,
+   "line": "Theo một nghiên cứu tên Ceres hai nghìn không trăm ba mươi,"
+  },
+  {
+   "shot": "B23",
+   "a": 2481,
+   "b": 2550,
+   "t0": 0,
+   "t1": 69,
+   "line": "thế giới cần thêm khoảng ba mươi ba tỷ đô la mỗi năm"
+  },
+  {
+   "shot": "B24",
+   "a": 2550,
+   "b": 2656,
+   "t0": 0,
+   "t1": 106,
+   "line": "để chấm dứt nạn đói vào năm hai nghìn không trăm ba mươi."
+  },
+  {
+   "shot": "B25",
+   "a": 2656,
+   "b": 2699,
+   "t0": 0,
+   "t1": 43,
+   "line": "Với bạn, đó chỉ là một lần",
+   "look": "card"
+  },
+  {
+   "shot": "B26",
+   "a": 2699,
+   "b": 2728,
+   "t0": 0,
+   "t1": 29,
+   "line": "quẹt thẻ.",
+   "look": "card"
+  },
+  {
+   "shot": "B27",
+   "a": 2728,
+   "b": 2778,
+   "t0": 0,
+   "t1": 50,
+   "line": "Nghe như bạn vừa trở thành người tốt bụng"
+  },
+  {
+   "shot": "B28",
+   "a": 2778,
+   "b": 2832,
+   "t0": 0,
+   "t1": 54,
+   "line": "nhất hành tinh, đúng không?"
+  },
+  {
+   "shot": "B29",
+   "a": 2832,
+   "b": 2893,
+   "t0": 0,
+   "t1": 61,
+   "line": "Nhưng chiếc thẻ này có một vấn đề mà",
+   "look": "card"
+  },
+  {
+   "shot": "B30",
+   "a": 2893,
+   "b": 2955,
+   "t0": 0,
+   "t1": 62,
+   "line": "không ai nói cho bạn biết."
+  },
+  {
+   "shot": "C1",
+   "a": 2955,
+   "b": 2993,
+   "t0": 0,
+   "t1": 38,
+   "line": "Mỗi lần bạn quẹt thẻ,",
+   "look": "card"
+  },
+  {
+   "shot": "C2",
+   "a": 2993,
+   "b": 3068,
+   "t0": 0,
+   "t1": 75,
+   "line": "có thêm tiền mới đi vào nền kinh tế."
+  },
+  {
+   "shot": "C3",
+   "a": 3068,
+   "b": 3157,
+   "t0": 0,
+   "t1": 89,
+   "line": "Nhưng không có thêm hàng hóa nào được làm ra cả."
+  },
+  {
+   "shot": "C4",
+   "a": 3157,
+   "b": 3220,
+   "t0": 0,
+   "t1": 63,
+   "line": "Bạn mua hết bánh mì của cả con phố.",
+   "look": "card"
+  },
+  {
+   "shot": "C5",
+   "a": 3220,
+   "b": 3305,
+   "t0": 0,
+   "t1": 85,
+   "line": "Sáng hôm sau, người khác không còn bánh mì để mua."
+  },
+  {
+   "shot": "C6",
+   "a": 3305,
+   "b": 3354,
+   "t0": 0,
+   "t1": 49,
+   "line": "Người bán thấy ai cũng muốn mua,",
+   "look": "prices"
+  },
+  {
+   "shot": "C7",
+   "a": 3354,
+   "b": 3387,
+   "t0": 0,
+   "t1": 33,
+   "line": "nên tăng giá.",
+   "look": "prices"
+  },
+  {
+   "shot": "C8",
+   "a": 3387,
+   "b": 3455,
+   "t0": 0,
+   "t1": 68,
+   "line": "Bạn mua mười nghìn bao gạo gửi vùng lũ."
+  },
+  {
+   "shot": "C9",
+   "a": 3455,
+   "b": 3500,
+   "t0": 0,
+   "t1": 45,
+   "line": "Nhưng nông dân không thể trồng thêm lúa"
+  },
+  {
+   "shot": "C10",
+   "a": 3500,
+   "b": 3542,
+   "t0": 0,
+   "t1": 42,
+   "line": "nhanh như bạn quẹt thẻ."
+  },
+  {
+   "shot": "C11",
+   "a": 3542,
+   "b": 3647,
+   "t0": 0,
+   "t1": 105,
+   "line": "Gạo khan hiếm. Giá gạo tăng, cho tất cả mọi người.",
+   "look": "prices"
+  },
+  {
+   "shot": "C12",
+   "a": 3647,
+   "b": 3699,
+   "t0": 0,
+   "t1": 52,
+   "line": "Người bán hàng bắt đầu nhận ra bạn.",
+   "look": "prices"
+  },
+  {
+   "shot": "C13",
+   "a": 3699,
+   "b": 3736,
+   "t0": 0,
+   "t1": 37,
+   "line": "Thấy bạn từ xa",
+   "look": "prices"
+  },
+  {
+   "shot": "C14",
+   "a": 3736,
+   "b": 3794,
+   "t0": 0,
+   "t1": 58,
+   "line": "là họ lặng lẽ đổi bảng giá.",
+   "look": "prices"
+  },
+  {
+   "shot": "C15",
+   "a": 3794,
+   "b": 3838,
+   "t0": 0,
+   "t1": 44,
+   "line": "Chuyện này từng xảy ra thật.",
+   "look": "memory"
+  },
+  {
+   "shot": "C16",
+   "a": 3838,
+   "b": 3896,
+   "t0": 0,
+   "t1": 58,
+   "line": "Năm một nghìn chín trăm tám mươi sáu,",
+   "look": "memory"
+  },
+  {
+   "shot": "C17",
+   "a": 3896,
+   "b": 4011,
+   "t0": 0,
+   "t1": 115,
+   "line": "lạm phát ở Việt Nam lên tới bảy trăm bảy mươi tư phẩy bảy phần trăm.",
+   "look": "memory"
+  },
+  {
+   "shot": "C18",
+   "a": 4011,
+   "b": 4063,
+   "t0": 0,
+   "t1": 52,
+   "line": "Một món đồ đầu năm giá một đồng,",
+   "look": "memory"
+  },
+  {
+   "shot": "C19",
+   "a": 4063,
+   "b": 4123,
+   "t0": 0,
+   "t1": 60,
+   "line": "đến cuối năm giá gần chín đồng.",
+   "look": "memory"
+  },
+  {
+   "shot": "C20",
+   "a": 4123,
+   "b": 4182,
+   "t0": 0,
+   "t1": 59,
+   "line": "Người ta phải xách cả túi tiền đi chợ.",
+   "look": "memory"
+  },
+  {
+   "shot": "C21",
+   "a": 4182,
+   "b": 4210,
+   "t0": 0,
+   "t1": 28,
+   "line": "Đó là sự thật."
+  },
+  {
+   "shot": "C22",
+   "a": 4210,
+   "b": 4291,
+   "t0": 0,
+   "t1": 81,
+   "line": "Ở Zimbabwe, có lúc giá cả tăng gấp đôi"
+  },
+  {
+   "shot": "C23",
+   "a": 4291,
+   "b": 4334,
+   "t0": 0,
+   "t1": 43,
+   "line": "chỉ sau khoảng một ngày."
+  },
+  {
+   "shot": "C24",
+   "a": 4334,
+   "b": 4386,
+   "t0": 0,
+   "t1": 52,
+   "line": "Năm hai nghìn không trăm lẻ chín,"
+  },
+  {
+   "shot": "C25",
+   "a": 4386,
+   "b": 4510,
+   "t0": 0,
+   "t1": 124,
+   "line": "nước này phải in tờ tiền mệnh giá một trăm nghìn tỷ đô la Zimbabwe."
+  },
+  {
+   "shot": "D1",
+   "a": 4510,
+   "b": 4592,
+   "t0": 0,
+   "t1": 82,
+   "line": "Và người thiệt nhất lại là những người chẳng làm gì cả."
+  },
+  {
+   "shot": "D2",
+   "a": 4592,
+   "b": 4685,
+   "t0": 0,
+   "t1": 93,
+   "line": "Bà ngoại bạn dành dụm cả đời được một cuốn sổ tiết kiệm."
+  },
+  {
+   "shot": "D3",
+   "a": 4685,
+   "b": 4726,
+   "t0": 0,
+   "t1": 41,
+   "line": "Mỗi lần bạn quẹt thẻ,",
+   "look": "card"
+  },
+  {
+   "shot": "D4",
+   "a": 4726,
+   "b": 4796,
+   "t0": 0,
+   "t1": 70,
+   "line": "cuốn sổ đó mua được ít đi một chút.",
+   "look": "prices"
+  },
+  {
+   "shot": "D5",
+   "a": 4796,
+   "b": 4894,
+   "t0": 0,
+   "t1": 98,
+   "line": "Một tuần sau, có một người đàn ông mặc vest đến gặp bạn."
+  },
+  {
+   "shot": "D6",
+   "a": 4894,
+   "b": 4951,
+   "t0": 0,
+   "t1": 57,
+   "line": "Ông ấy làm ở ngân hàng trung ương."
+  },
+  {
+   "shot": "D7",
+   "a": 4951,
+   "b": 5018,
+   "t0": 0,
+   "t1": 67,
+   "line": "Ông chỉ nói đúng một câu: làm ơn,"
+  },
+  {
+   "shot": "D8",
+   "a": 5018,
+   "b": 5067,
+   "t0": 0,
+   "t1": 49,
+   "line": "đừng quẹt nữa."
+  },
+  {
+   "shot": "D9",
+   "a": 5067,
+   "b": 5111,
+   "t0": 0,
+   "t1": 44,
+   "line": "Lúc đó bạn mới hiểu:"
+  },
+  {
+   "shot": "D10",
+   "a": 5111,
+   "b": 5158,
+   "t0": 0,
+   "t1": 47,
+   "line": "tiền tự nó không có giá trị."
+  },
+  {
+   "shot": "D11",
+   "a": 5158,
+   "b": 5275,
+   "t0": 0,
+   "t1": 117,
+   "line": "Tiền chỉ là một lời hứa, rằng ai đó sẽ đổi cho bạn công sức của họ."
+  },
+  {
+   "shot": "D12",
+   "a": 5275,
+   "b": 5321,
+   "t0": 0,
+   "t1": 46,
+   "line": "Hạt gạo người nông dân trồng."
+  },
+  {
+   "shot": "D13",
+   "a": 5321,
+   "b": 5363,
+   "t0": 0,
+   "t1": 42,
+   "line": "Ca mổ của bác sĩ."
+  },
+  {
+   "shot": "D14",
+   "a": 5363,
+   "b": 5474,
+   "t0": 0,
+   "t1": 111,
+   "line": "Ổ bánh mì mà cô bán hàng dậy từ bốn giờ sáng để nướng."
+  },
+  {
+   "shot": "D15",
+   "a": 5474,
+   "b": 5531,
+   "t0": 0,
+   "t1": 57,
+   "line": "Tiền vô hạn không làm ra thêm gạo.",
+   "look": "card"
+  },
+  {
+   "shot": "D16",
+   "a": 5531,
+   "b": 5579,
+   "t0": 0,
+   "t1": 48,
+   "line": "Không làm ra thêm bác sĩ.",
+   "look": "card"
+  },
+  {
+   "shot": "D17",
+   "a": 5579,
+   "b": 5658,
+   "t0": 0,
+   "t1": 79,
+   "line": "Không làm ra thêm một giờ nào trong ngày.",
+   "look": "card"
+  },
+  {
+   "shot": "D18",
+   "a": 5658,
+   "b": 5730,
+   "t0": 0,
+   "t1": 72,
+   "line": "Sáng hôm sau, mẹ bạn vẫn dậy sớm,"
+  },
+  {
+   "shot": "D19",
+   "a": 5730,
+   "b": 5798,
+   "t0": 0,
+   "t1": 68,
+   "line": "đẩy xe xôi ra đầu ngõ như mọi ngày."
+  },
+  {
+   "shot": "D20",
+   "a": 5798,
+   "b": 5898,
+   "t0": 0,
+   "t1": 100,
+   "line": "Bạn hỏi: con có tiền vô hạn rồi, sao mẹ còn đi bán?"
+  },
+  {
+   "shot": "D21",
+   "a": 5898,
+   "b": 5950,
+   "t0": 0,
+   "t1": 52,
+   "line": "Mẹ cười: vì người ta vẫn"
+  },
+  {
+   "shot": "D22",
+   "a": 5950,
+   "b": 5995,
+   "t0": 0,
+   "t1": 45,
+   "line": "cần ăn sáng, con ạ."
+  },
+  {
+   "shot": "E1",
+   "a": 5995,
+   "b": 6076,
+   "t0": 0,
+   "t1": 81,
+   "line": "Hôm đó, bạn đứng bán phụ mẹ một buổi sáng."
+  },
+  {
+   "shot": "E2",
+   "a": 6076,
+   "b": 6135,
+   "t0": 0,
+   "t1": 59,
+   "line": "Lần đầu tiên trong đời, bạn cầm trên tay"
+  },
+  {
+   "shot": "E3",
+   "a": 6135,
+   "b": 6196,
+   "t0": 0,
+   "t1": 61,
+   "line": "đồng tiền do chính mình làm ra."
+  },
+  {
+   "shot": "E4",
+   "a": 6196,
+   "b": 6235,
+   "t0": 0,
+   "t1": 39,
+   "line": "Mười lăm nghìn đồng."
+  },
+  {
+   "shot": "E5",
+   "a": 6235,
+   "b": 6284,
+   "t0": 0,
+   "t1": 49,
+   "line": "Nó nặng hơn cả chiếc thẻ đen."
+  },
+  {
+   "shot": "E6",
+   "a": 6284,
+   "b": 6378,
+   "t0": 0,
+   "t1": 94,
+   "line": "Vậy nếu có tiền vô hạn, cách tiêu khôn ngoan nhất là gì?"
+  },
+  {
+   "shot": "E7",
+   "a": 6378,
+   "b": 6423,
+   "t0": 0,
+   "t1": 45,
+   "line": "Không phải mua thêm đồ."
+  },
+  {
+   "shot": "E8",
+   "a": 6423,
+   "b": 6496,
+   "t0": 0,
+   "t1": 73,
+   "line": "Mà là giúp thế giới làm ra nhiều thứ hơn."
+  },
+  {
+   "shot": "E9",
+   "a": 6496,
+   "b": 6554,
+   "t0": 0,
+   "t1": 58,
+   "line": "Xây trường để đào tạo thêm bác sĩ."
+  },
+  {
+   "shot": "E10",
+   "a": 6554,
+   "b": 6628,
+   "t0": 0,
+   "t1": 74,
+   "line": "Nghiên cứu giống lúa mới cho năng suất cao hơn."
+  },
+  {
+   "shot": "E11",
+   "a": 6628,
+   "b": 6682,
+   "t0": 0,
+   "t1": 54,
+   "line": "Cho những đứa trẻ nghèo được đi học."
+  },
+  {
+   "shot": "E12",
+   "a": 6682,
+   "b": 6785,
+   "t0": 0,
+   "t1": 103,
+   "line": "Bạn trả lương thật cao cho thầy cô và bác sĩ ở vùng xa."
+  },
+  {
+   "shot": "E13",
+   "a": 6785,
+   "b": 6852,
+   "t0": 0,
+   "t1": 67,
+   "line": "Bạn chi tiền cho các nhà khoa học, để họ tìm ra"
+  },
+  {
+   "shot": "E14",
+   "a": 6852,
+   "b": 6928,
+   "t0": 0,
+   "t1": 76,
+   "line": "cách làm điện rẻ hơn, nước sạch hơn."
+  },
+  {
+   "shot": "E15",
+   "a": 6928,
+   "b": 6976,
+   "t0": 0,
+   "t1": 48,
+   "line": "Bạn quẹt thẻ chậm lại.",
+   "look": "card"
+  },
+  {
+   "shot": "E16",
+   "a": 6976,
+   "b": 7031,
+   "t0": 0,
+   "t1": 55,
+   "line": "Ít lại. Nhưng mỗi lần quẹt,",
+   "look": "card"
+  },
+  {
+   "shot": "E17",
+   "a": 7031,
+   "b": 7095,
+   "t0": 0,
+   "t1": 64,
+   "line": "thế giới có thêm một thứ thật.",
+   "look": "card"
+  },
+  {
+   "shot": "E18",
+   "a": 7095,
+   "b": 7181,
+   "t0": 0,
+   "t1": 86,
+   "line": "Một năm sau, chiếc thẻ đen vẫn nằm trong ví bạn."
+  },
+  {
+   "shot": "E19",
+   "a": 7181,
+   "b": 7240,
+   "t0": 0,
+   "t1": 59,
+   "line": "Bạn dùng nó ít hơn bạn từng nghĩ."
+  },
+  {
+   "shot": "E20",
+   "a": 7240,
+   "b": 7316,
+   "t0": 0,
+   "t1": 76,
+   "line": "Còn mẹ bạn, vẫn bán xôi ở đầu ngõ."
+  },
+  {
+   "shot": "E21",
+   "a": 7316,
+   "b": 7391,
+   "t0": 0,
+   "t1": 75,
+   "line": "Và đó vẫn là gói xôi ngon nhất thành phố."
+  },
+  {
+   "shot": "E22",
+   "a": 7391,
+   "b": 7519,
+   "t0": 0,
+   "t1": 128,
+   "line": "Một hôm, bạn thân hỏi: nếu được chọn lại, mày còn muốn chiếc thẻ đó không?"
+  },
+  {
+   "shot": "E23",
+   "a": 7519,
+   "b": 7584,
+   "t0": 0,
+   "t1": 65,
+   "line": "Bạn nghĩ rất lâu, rồi trả lời:"
+  },
+  {
+   "shot": "E24",
+   "a": 7584,
+   "b": 7702,
+   "t0": 0,
+   "t1": 118,
+   "line": "muốn. Nhưng giờ tao biết phải dùng nó vào việc gì rồi."
+  },
+  {
+   "shot": "E25",
+   "a": 7702,
+   "b": 7822,
+   "t0": 0,
+   "t1": 120,
+   "line": "Còn bạn, nếu có chiếc thẻ không giới hạn, thứ đầu tiên bạn quẹt là gì?"
+  },
+  {
+   "shot": "E26",
+   "a": 7822,
+   "b": 8029,
+   "t0": 0,
+   "t1": 207,
+   "line": "Và bạn có dám dùng nó để thay đổi thế giới không? Bình luận cho mình biết nhé."
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "macro",
+   "key": 12,
+   "len": 33,
+   "first": 0,
+   "line": "Một chiếc thẻ đen.",
+   "note": "black card turning under spotlight"
+  },
+  {
+   "id": "A2",
+   "size": "close-up",
+   "key": 12,
+   "len": 33,
+   "first": 33,
+   "line": "Không có hạn mức.",
+   "note": "gold infinity glint"
+  },
+  {
+   "id": "A3",
+   "size": "wide",
+   "key": 12,
+   "len": 69,
+   "first": 66,
+   "line": "Mua hết bánh mì của cả con phố.",
+   "note": "row of banh mi carts emptied, Pip sweeps card"
+  },
+  {
+   "id": "A4",
+   "size": "macro",
+   "key": 12,
+   "len": 24,
+   "first": 135,
+   "line": "Quẹt thẻ.",
+   "note": "card tap on terminal, street bokeh"
+  },
+  {
+   "id": "A5",
+   "size": "macro",
+   "key": 12,
+   "len": 18,
+   "first": 159,
+   "line": "Thanh toán thành",
+   "note": "terminal green THANH TOAN THANH CONG"
+  },
+  {
+   "id": "A6",
+   "size": "medium",
+   "key": 12,
+   "len": 19,
+   "first": 177,
+   "line": "công.",
+   "note": "vendors cheer, Pip card up"
+  },
+  {
+   "id": "A7",
+   "size": "wide",
+   "key": 12,
+   "len": 36,
+   "first": 196,
+   "line": "Mua luôn một hòn đảo.",
+   "note": "small island, Pip on sand points card"
+  },
+  {
+   "id": "A8",
+   "size": "macro",
+   "key": 12,
+   "len": 27,
+   "first": 232,
+   "line": "Quẹt thẻ.",
+   "note": "card tap, island bokeh"
+  },
+  {
+   "id": "A9",
+   "size": "medium",
+   "key": 12,
+   "len": 34,
+   "first": 259,
+   "line": "Thanh toán thành công.",
+   "note": "terminal green on stump, DA BAN sign"
+  },
+  {
+   "id": "A10",
+   "size": "wide",
+   "key": 12,
+   "len": 79,
+   "first": 293,
+   "line": "Sẽ ra sao nếu bạn có tiền vô hạn?",
+   "note": "title, Pip holds card up"
+  },
+  {
+   "id": "A11",
+   "size": "wide",
+   "key": 12,
+   "len": 49,
+   "first": 372,
+   "line": "Sáng nay, trong hộp thư có",
+   "note": "Pip walks to mailbox on gate"
+  },
+  {
+   "id": "A12",
+   "size": "medium",
+   "key": 12,
+   "len": 33,
+   "first": 421,
+   "line": "một phong bì không tên.",
+   "note": "opens mailbox, pulls plain envelope"
+  },
+  {
+   "id": "A13",
+   "size": "top-down",
+   "key": 12,
+   "len": 61,
+   "first": 454,
+   "line": "Bên trong là một chiếc thẻ đen,",
+   "note": "envelope opens, black card slides out"
+  },
+  {
+   "id": "A14",
+   "size": "macro",
+   "key": 12,
+   "len": 85,
+   "first": 515,
+   "line": "và một mảnh giấy chỉ ghi ba chữ: không giới hạn.",
+   "note": "note unfolds, KHONG GIOI HAN writes on"
+  },
+  {
+   "id": "A15",
+   "size": "close-up",
+   "key": 12,
+   "len": 59,
+   "first": 600,
+   "line": "Mua gì cũng được. Bao nhiêu cũng được.",
+   "note": "Pip wide eyes, item badges pop"
+  },
+  {
+   "id": "A16",
+   "size": "close-up",
+   "key": 12,
+   "len": 45,
+   "first": 659,
+   "line": "Ngân hàng kiểm tra rồi:",
+   "note": "bank app checking"
+  },
+  {
+   "id": "A17",
+   "size": "medium",
+   "key": 12,
+   "len": 71,
+   "first": 704,
+   "line": "đó là tiền thật, và nó không bao giờ hết.",
+   "note": "HOP LE tick, SO DU infinity"
+  },
+  {
+   "id": "A18",
+   "size": "medium",
+   "key": 12,
+   "len": 62,
+   "first": 775,
+   "line": "Bạn thử mua một ly trà sữa.",
+   "note": "drink stall, cup slides to Pip"
+  },
+  {
+   "id": "A19",
+   "size": "macro",
+   "key": 12,
+   "len": 26,
+   "first": 837,
+   "line": "Quẹt thẻ.",
+   "note": "tap at stall"
+  },
+  {
+   "id": "A20",
+   "size": "macro",
+   "key": 12,
+   "len": 34,
+   "first": 863,
+   "line": "Thanh toán thành công.",
+   "note": "terminal green + milk tea"
+  },
+  {
+   "id": "A21",
+   "size": "close-up",
+   "key": 12,
+   "len": 35,
+   "first": 897,
+   "line": "Số dư hiện lên:",
+   "note": "phone SO DU infinity"
+  },
+  {
+   "id": "A22",
+   "size": "medium",
+   "key": 12,
+   "len": 20,
+   "first": 932,
+   "line": "vô cực.",
+   "note": "Pip sips, amazed, infinity pops"
+  },
+  {
+   "id": "A23",
+   "size": "schematic",
+   "key": 12,
+   "len": 37,
+   "first": 952,
+   "line": "Để dễ hình dung:",
+   "note": "Vietnam outline draws on"
+  },
+  {
+   "id": "A24",
+   "size": "schematic",
+   "key": 12,
+   "len": 93,
+   "first": 989,
+   "line": "năm hai nghìn không trăm hai mươi lăm, cả nền kinh tế Việt Nam làm",
+   "note": "2025, icons light up"
+  },
+  {
+   "id": "A25",
+   "size": "schematic",
+   "key": 12,
+   "len": 106,
+   "first": 1082,
+   "line": "ra khoảng mười hai phẩy tám triệu tỷ đồng, hơn năm trăm tỷ đô la.",
+   "note": "counter 12,8 TRIEU TY D, >500 TY USD"
+  },
+  {
+   "id": "A26",
+   "size": "schematic",
+   "key": 12,
+   "len": 95,
+   "first": 1188,
+   "line": "Với chiếc thẻ này, bạn quẹt một lần là đủ con số đó.",
+   "note": "card swipes across number"
+  },
+  {
+   "id": "A27",
+   "size": "schematic",
+   "key": 12,
+   "len": 65,
+   "first": 1283,
+   "line": "Rồi quẹt thêm lần nữa.",
+   "note": "second swipe x2"
+  },
+  {
+   "id": "B1",
+   "size": "wide",
+   "key": 34,
+   "len": 38,
+   "first": 1348,
+   "line": "Ngày đầu tiên, bạn bao",
+   "note": "alley at dawn, Pip arms wide, neighbours erupt"
+  },
+  {
+   "id": "B2",
+   "size": "medium",
+   "key": 20,
+   "len": 42,
+   "first": 1386,
+   "line": "bữa sáng cho cả xóm.",
+   "note": "neighbours cheering at the table"
+  },
+  {
+   "id": "B3",
+   "size": "insert",
+   "key": 30,
+   "len": 38,
+   "first": 1428,
+   "line": "Bánh mì, phở,",
+   "note": "banh mi + pho pop on"
+  },
+  {
+   "id": "B4",
+   "size": "insert",
+   "key": 36,
+   "len": 44,
+   "first": 1466,
+   "line": "xôi, cà phê.",
+   "note": "xoi + ca phe pop on"
+  },
+  {
+   "id": "B5",
+   "size": "close",
+   "key": 22,
+   "len": 29,
+   "first": 1510,
+   "line": "Quẹt thẻ.",
+   "note": "card taps terminal, beep, tick"
+  },
+  {
+   "id": "B6",
+   "size": "insert",
+   "key": 48,
+   "len": 55,
+   "first": 1539,
+   "line": "Bạn trả hết nợ căn nhà của bố mẹ.",
+   "note": "contract stamped DA TAT TOAN, whip to mum hugging Pip"
+  },
+  {
+   "id": "B7",
+   "size": "wide",
+   "key": 50,
+   "len": 75,
+   "first": 1594,
+   "line": "Mua cho em gái nguyên một cửa hàng đồ chơi.",
+   "note": "sis leaps in toy store, toys fly"
+  },
+  {
+   "id": "B8",
+   "size": "medium",
+   "key": 50,
+   "len": 67,
+   "first": 1669,
+   "line": "Tặng bạn thân một chiếc xe máy mới.",
+   "note": "Mo + new scooter, red bow"
+  },
+  {
+   "id": "B9",
+   "size": "insert",
+   "key": 60,
+   "len": 67,
+   "first": 1736,
+   "line": "Quẹt thẻ, quẹt thẻ, quẹt thẻ.",
+   "note": "three fast swipes"
+  },
+  {
+   "id": "B10",
+   "size": "wide",
+   "key": 44,
+   "len": 56,
+   "first": 1803,
+   "line": "Bạn xây lại ngôi trường cũ của mình.",
+   "note": "school repainted new, Pip arms wide"
+  },
+  {
+   "id": "B11",
+   "size": "medium",
+   "key": 20,
+   "len": 29,
+   "first": 1859,
+   "line": "Phòng học mát lạnh,",
+   "note": "bright cool classroom"
+  },
+  {
+   "id": "B12",
+   "size": "insert",
+   "key": 26,
+   "len": 29,
+   "first": 1888,
+   "line": "thư viện đầy sách,",
+   "note": "books fill shelves"
+  },
+  {
+   "id": "B13",
+   "size": "wide",
+   "key": 24,
+   "len": 42,
+   "first": 1917,
+   "line": "sân bóng mới tinh.",
+   "note": "Pip kicks into goal, new pitch"
+  },
+  {
+   "id": "B14",
+   "size": "wide",
+   "key": 30,
+   "len": 47,
+   "first": 1959,
+   "line": "Bạn mở cửa rạp chiếu phim",
+   "note": "cinema doors open, light floods"
+  },
+  {
+   "id": "B15",
+   "size": "medium",
+   "key": 46,
+   "len": 54,
+   "first": 2006,
+   "line": "cho cả trường vào xem miễn phí.",
+   "note": "hall of laughing classmates, MIEN PHI ticket"
+  },
+  {
+   "id": "B16",
+   "size": "low",
+   "key": 40,
+   "len": 58,
+   "first": 2060,
+   "line": "Bạn mua tòa nhà cao nhất thành phố,",
+   "note": "tallest tower, low angle"
+  },
+  {
+   "id": "B17",
+   "size": "medium",
+   "key": 36,
+   "len": 55,
+   "first": 2118,
+   "line": "rồi mở cửa sân thượng cho mọi người lên",
+   "note": "roof door opens, crowd streams out"
+  },
+  {
+   "id": "B18",
+   "size": "wide",
+   "key": 34,
+   "len": 46,
+   "first": 2173,
+   "line": "ngắm hoàng hôn miễn phí.",
+   "note": "sunset rooftop full of people"
+  },
+  {
+   "id": "B19",
+   "size": "medium",
+   "key": 40,
+   "len": 56,
+   "first": 2219,
+   "line": "Bạn mua một chuyến bay vào vũ trụ,",
+   "note": "rocket launch"
+  },
+  {
+   "id": "B20",
+   "size": "medium",
+   "key": 60,
+   "len": 86,
+   "first": 2275,
+   "line": "vé giá hàng chục triệu đô la. Quẹt thẻ.",
+   "note": "Pip floats in capsule, Earth behind, price, swipe"
+  },
+  {
+   "id": "B21",
+   "size": "medium",
+   "key": 30,
+   "len": 38,
+   "first": 2361,
+   "line": "Rồi bạn nghĩ lớn hơn.",
+   "note": "Pip looks at a world map"
+  },
+  {
+   "id": "B22",
+   "size": "schematic",
+   "key": 50,
+   "len": 82,
+   "first": 2399,
+   "line": "Theo một nghiên cứu tên Ceres hai nghìn không trăm ba mươi,",
+   "note": "CERES2030 report card"
+  },
+  {
+   "id": "B23",
+   "size": "schematic",
+   "key": 50,
+   "len": 69,
+   "first": 2481,
+   "line": "thế giới cần thêm khoảng ba mươi ba tỷ đô la mỗi năm",
+   "note": "rice bowl 33 TY USD / NAM"
+  },
+  {
+   "id": "B24",
+   "size": "schematic",
+   "key": 70,
+   "len": 106,
+   "first": 2550,
+   "line": "để chấm dứt nạn đói vào năm hai nghìn không trăm ba mươi.",
+   "note": "hunger to 2030 timeline"
+  },
+  {
+   "id": "B25",
+   "size": "medium",
+   "key": 30,
+   "len": 43,
+   "first": 2656,
+   "line": "Với bạn, đó chỉ là một lần",
+   "note": "Pip with card: 33 ty vs infinity"
+  },
+  {
+   "id": "B26",
+   "size": "schematic",
+   "key": 24,
+   "len": 29,
+   "first": 2699,
+   "line": "quẹt thẻ.",
+   "note": "swipe, map lights up with bowls"
+  },
+  {
+   "id": "B27",
+   "size": "medium",
+   "key": 40,
+   "len": 50,
+   "first": 2728,
+   "line": "Nghe như bạn vừa trở thành người tốt bụng",
+   "note": "Pip on roof golden hour, confetti halo"
+  },
+  {
+   "id": "B28",
+   "size": "close",
+   "key": 40,
+   "len": 54,
+   "first": 2778,
+   "line": "nhất hành tinh, đúng không?",
+   "note": "close, halo, question"
+  },
+  {
+   "id": "B29",
+   "size": "close",
+   "key": 40,
+   "len": 61,
+   "first": 2832,
+   "line": "Nhưng chiếc thẻ này có một vấn đề mà",
+   "note": "card on table, crack/glitch"
+  },
+  {
+   "id": "B30",
+   "size": "close",
+   "key": 40,
+   "len": 62,
+   "first": 2893,
+   "line": "không ai nói cho bạn biết.",
+   "note": "smile drops, drone"
+  },
+  {
+   "id": "C1",
+   "size": "macro",
+   "key": 30,
+   "len": 38,
+   "first": 2955,
+   "line": "Mỗi lần bạn quẹt thẻ,",
+   "note": "card taps the terminal, green tick"
+  },
+  {
+   "id": "C2",
+   "size": "schematic",
+   "key": 60,
+   "len": 75,
+   "first": 2993,
+   "line": "có thêm tiền mới đi vào nền kinh tế.",
+   "note": "notes pour through a pipe into the economy jar"
+  },
+  {
+   "id": "C3",
+   "size": "schematic",
+   "key": 80,
+   "len": 89,
+   "first": 3068,
+   "line": "Nhưng không có thêm hàng hóa nào được làm ra cả.",
+   "note": "shelf same size, money piles, scale tips"
+  },
+  {
+   "id": "C4",
+   "size": "medium",
+   "key": 50,
+   "len": 63,
+   "first": 3157,
+   "line": "Bạn mua hết bánh mì của cả con phố.",
+   "note": "Pip arms full of banh mi bags, carts sold out"
+  },
+  {
+   "id": "C5",
+   "size": "wide",
+   "key": 70,
+   "len": 85,
+   "first": 3220,
+   "line": "Sáng hôm sau, người khác không còn bánh mì để mua.",
+   "note": "empty cart, neighbours queue"
+  },
+  {
+   "id": "C6",
+   "size": "medium",
+   "key": 40,
+   "len": 49,
+   "first": 3305,
+   "line": "Người bán thấy ai cũng muốn mua,",
+   "note": "seller sees crowd waving notes"
+  },
+  {
+   "id": "C7",
+   "size": "macro",
+   "key": 30,
+   "len": 33,
+   "first": 3354,
+   "line": "nên tăng giá.",
+   "note": "price board 25.000 -> 35.000"
+  },
+  {
+   "id": "C8",
+   "size": "wide",
+   "key": 50,
+   "len": 68,
+   "first": 3387,
+   "line": "Bạn mua mười nghìn bao gạo gửi vùng lũ.",
+   "note": "truck of rice sacks to the flood"
+  },
+  {
+   "id": "C9",
+   "size": "medium",
+   "key": 35,
+   "len": 45,
+   "first": 3455,
+   "line": "Nhưng nông dân không thể trồng thêm lúa",
+   "note": "farmer plants slowly"
+  },
+  {
+   "id": "C10",
+   "size": "split",
+   "key": 35,
+   "len": 42,
+   "first": 3500,
+   "line": "nhanh như bạn quẹt thẻ.",
+   "note": "paddy slow vs card swipes fast"
+  },
+  {
+   "id": "C11",
+   "size": "medium",
+   "key": 90,
+   "len": 105,
+   "first": 3542,
+   "line": "Gạo khan hiếm. Giá gạo tăng, cho tất cả mọi người.",
+   "note": "rice stall empties, price climbs"
+  },
+  {
+   "id": "C12",
+   "size": "medium",
+   "key": 45,
+   "len": 52,
+   "first": 3647,
+   "line": "Người bán hàng bắt đầu nhận ra bạn.",
+   "note": "seller spots Pip"
+  },
+  {
+   "id": "C13",
+   "size": "wide",
+   "key": 30,
+   "len": 37,
+   "first": 3699,
+   "line": "Thấy bạn từ xa",
+   "note": "all sellers see Pip from afar"
+  },
+  {
+   "id": "C14",
+   "size": "medium",
+   "key": 50,
+   "len": 58,
+   "first": 3736,
+   "line": "là họ lặng lẽ đổi bảng giá.",
+   "note": "seller swaps the price board"
+  },
+  {
+   "id": "C15",
+   "size": "wide",
+   "key": 30,
+   "len": 44,
+   "first": 3794,
+   "line": "Chuyện này từng xảy ra thật.",
+   "note": "sepia market"
+  },
+  {
+   "id": "C16",
+   "size": "schematic",
+   "key": 45,
+   "len": 58,
+   "first": 3838,
+   "line": "Năm một nghìn chín trăm tám mươi sáu,",
+   "note": "1986 stamped on timeline"
+  },
+  {
+   "id": "C17",
+   "size": "schematic",
+   "key": 100,
+   "len": 115,
+   "first": 3896,
+   "line": "lạm phát ở Việt Nam lên tới bảy trăm bảy mươi tư phẩy bảy phần trăm.",
+   "note": "774,7% counts up"
+  },
+  {
+   "id": "C18",
+   "size": "schematic",
+   "key": 40,
+   "len": 52,
+   "first": 4011,
+   "line": "Một món đồ đầu năm giá một đồng,",
+   "note": "item tag 1 d, January"
+  },
+  {
+   "id": "C19",
+   "size": "schematic",
+   "key": 50,
+   "len": 60,
+   "first": 4063,
+   "line": "đến cuối năm giá gần chín đồng.",
+   "note": "tag becomes ~9 d, December"
+  },
+  {
+   "id": "C20",
+   "size": "medium",
+   "key": 45,
+   "len": 59,
+   "first": 4123,
+   "line": "Người ta phải xách cả túi tiền đi chợ.",
+   "note": "bag of banknotes for a few vegetables"
+  },
+  {
+   "id": "C21",
+   "size": "close-up",
+   "key": 20,
+   "len": 28,
+   "first": 4182,
+   "line": "Đó là sự thật.",
+   "note": "Pip close-up"
+  },
+  {
+   "id": "C22",
+   "size": "schematic",
+   "key": 70,
+   "len": 81,
+   "first": 4210,
+   "line": "Ở Zimbabwe, có lúc giá cả tăng gấp đôi",
+   "note": "Zimbabwe, price doubling"
+  },
+  {
+   "id": "C23",
+   "size": "schematic",
+   "key": 35,
+   "len": 43,
+   "first": 4291,
+   "line": "chỉ sau khoảng một ngày.",
+   "note": "clock ~24 GIO x2"
+  },
+  {
+   "id": "C24",
+   "size": "schematic",
+   "key": 45,
+   "len": 52,
+   "first": 4334,
+   "line": "Năm hai nghìn không trăm lẻ chín,",
+   "note": "2009 printing press"
+  },
+  {
+   "id": "C25",
+   "size": "schematic",
+   "key": 100,
+   "len": 124,
+   "first": 4386,
+   "line": "nước này phải in tờ tiền mệnh giá một trăm nghìn tỷ đô la Zimbabwe.",
+   "note": "the 100 trillion banknote"
+  },
+  {
+   "id": "D1",
+   "size": "wide",
+   "key": 40,
+   "len": 82,
+   "first": 4510,
+   "line": "Và người thiệt nhất lại là những người chẳng làm gì cả.",
+   "note": "people waiting at the bus stop"
+  },
+  {
+   "id": "D2",
+   "size": "medium",
+   "key": 50,
+   "len": 93,
+   "first": 4592,
+   "line": "Bà ngoại bạn dành dụm cả đời được một cuốn sổ tiết kiệm.",
+   "note": "grandma with passbook under lamp"
+  },
+  {
+   "id": "D3",
+   "size": "insert",
+   "key": 38,
+   "len": 41,
+   "first": 4685,
+   "line": "Mỗi lần bạn quẹt thẻ,",
+   "note": "black card taps terminal"
+  },
+  {
+   "id": "D4",
+   "size": "split",
+   "key": 50,
+   "len": 70,
+   "first": 4726,
+   "line": "cuốn sổ đó mua được ít đi một chút.",
+   "note": "passbook vs shopping basket shrinking"
+  },
+  {
+   "id": "D5",
+   "size": "wide",
+   "key": 50,
+   "len": 98,
+   "first": 4796,
+   "line": "Một tuần sau, có một người đàn ông mặc vest đến gặp bạn.",
+   "note": "MỘT TUẦN SAU: suit walks into kitchen"
+  },
+  {
+   "id": "D6",
+   "size": "insert",
+   "key": 30,
+   "len": 57,
+   "first": 4894,
+   "line": "Ông ấy làm ở ngân hàng trung ương.",
+   "note": "badge NGÂN HÀNG TRUNG ƯƠNG slid across table"
+  },
+  {
+   "id": "D7",
+   "size": "close-up",
+   "key": 30,
+   "len": 67,
+   "first": 4951,
+   "line": "Ông chỉ nói đúng một câu: làm ơn,",
+   "note": "suit tired close-up"
+  },
+  {
+   "id": "D8",
+   "size": "insert",
+   "key": 30,
+   "len": 49,
+   "first": 5018,
+   "line": "đừng quẹt nữa.",
+   "note": "Pip's hand frozen above terminal"
+  },
+  {
+   "id": "D9",
+   "size": "close-up",
+   "key": 30,
+   "len": 44,
+   "first": 5067,
+   "line": "Lúc đó bạn mới hiểu:",
+   "note": "Pip understands"
+  },
+  {
+   "id": "D10",
+   "size": "macro",
+   "key": 45,
+   "len": 47,
+   "first": 5111,
+   "line": "tiền tự nó không có giá trị.",
+   "note": "banknote fades to paper"
+  },
+  {
+   "id": "D11",
+   "size": "schematic",
+   "key": 90,
+   "len": 117,
+   "first": 5158,
+   "line": "Tiền chỉ là một lời hứa, rằng ai đó sẽ đổi cho bạn công sức của họ.",
+   "note": "note <-> person, LỜI HỨA"
+  },
+  {
+   "id": "D12",
+   "size": "medium",
+   "key": 30,
+   "len": 46,
+   "first": 5275,
+   "line": "Hạt gạo người nông dân trồng.",
+   "note": "farmer plants rice at dawn"
+  },
+  {
+   "id": "D13",
+   "size": "medium",
+   "key": 30,
+   "len": 42,
+   "first": 5321,
+   "line": "Ca mổ của bác sĩ.",
+   "note": "surgeon under lamp"
+  },
+  {
+   "id": "D14",
+   "size": "medium",
+   "key": 40,
+   "len": 111,
+   "first": 5363,
+   "line": "Ổ bánh mì mà cô bán hàng dậy từ bốn giờ sáng để nướng.",
+   "note": "baker at clay oven 04:00"
+  },
+  {
+   "id": "D15",
+   "size": "card",
+   "key": 50,
+   "len": 57,
+   "first": 5474,
+   "line": "Tiền vô hạn không làm ra thêm gạo.",
+   "note": "rice bowl +0"
+  },
+  {
+   "id": "D16",
+   "size": "card",
+   "key": 40,
+   "len": 48,
+   "first": 5531,
+   "line": "Không làm ra thêm bác sĩ.",
+   "note": "doctor +0"
+  },
+  {
+   "id": "D17",
+   "size": "card",
+   "key": 50,
+   "len": 79,
+   "first": 5579,
+   "line": "Không làm ra thêm một giờ nào trong ngày.",
+   "note": "clock 24 GIỜ +0"
+  },
+  {
+   "id": "D18",
+   "size": "wide",
+   "key": 40,
+   "len": 72,
+   "first": 5658,
+   "line": "Sáng hôm sau, mẹ bạn vẫn dậy sớm,",
+   "note": "mum and xôi cart at alley mouth"
+  },
+  {
+   "id": "D19",
+   "size": "medium",
+   "key": 30,
+   "len": 68,
+   "first": 5730,
+   "line": "đẩy xe xôi ra đầu ngõ như mọi ngày.",
+   "note": "mum pushes cart"
+  },
+  {
+   "id": "D20",
+   "size": "medium",
+   "key": 30,
+   "len": 100,
+   "first": 5798,
+   "line": "Bạn hỏi: con có tiền vô hạn rồi, sao mẹ còn đi bán?",
+   "note": "Pip asks mum"
+  },
+  {
+   "id": "D21",
+   "size": "close-up",
+   "key": 30,
+   "len": 52,
+   "first": 5898,
+   "line": "Mẹ cười: vì người ta vẫn",
+   "note": "mum smiles"
+  },
+  {
+   "id": "D22",
+   "size": "insert",
+   "key": 36,
+   "len": 45,
+   "first": 5950,
+   "line": "cần ăn sáng, con ạ.",
+   "note": "neighbour takes xôi packet"
+  },
+  {
+   "id": "E1",
+   "size": "wide",
+   "key": 30,
+   "len": 81,
+   "first": 5995,
+   "line": "Hôm đó, bạn đứng bán phụ mẹ một buổi sáng.",
+   "note": "dawn alley wide: mum + Pip at the xoi cart, customers, steam"
+  },
+  {
+   "id": "E2",
+   "size": "medium",
+   "key": 24,
+   "len": 59,
+   "first": 6076,
+   "line": "Lần đầu tiên trong đời, bạn cầm trên tay",
+   "note": "Pip takes a 10.000 note, hands a packet"
+  },
+  {
+   "id": "E3",
+   "size": "insert",
+   "key": 34,
+   "len": 61,
+   "first": 6135,
+   "line": "đồng tiền do chính mình làm ra.",
+   "note": "insert: notes land in Pip mitten"
+  },
+  {
+   "id": "E4",
+   "size": "insert",
+   "key": 24,
+   "len": 39,
+   "first": 6196,
+   "line": "Mười lăm nghìn đồng.",
+   "note": "insert: 15.000 d tag"
+  },
+  {
+   "id": "E5",
+   "size": "medium",
+   "key": 46,
+   "len": 49,
+   "first": 6235,
+   "line": "Nó nặng hơn cả chiếc thẻ đen.",
+   "note": "scale: notes outweigh the black card"
+  },
+  {
+   "id": "E6",
+   "size": "medium",
+   "key": 40,
+   "len": 94,
+   "first": 6284,
+   "line": "Vậy nếu có tiền vô hạn, cách tiêu khôn ngoan nhất là gì?",
+   "note": "Pip thinking at desk, ? bubble"
+  },
+  {
+   "id": "E7",
+   "size": "medium",
+   "key": 44,
+   "len": 45,
+   "first": 6378,
+   "line": "Không phải mua thêm đồ.",
+   "note": "pile of stuff crossed out"
+  },
+  {
+   "id": "E8",
+   "size": "wide",
+   "key": 66,
+   "len": 73,
+   "first": 6423,
+   "line": "Mà là giúp thế giới làm ra nhiều thứ hơn.",
+   "note": "schematic: money -> factory+school -> goods"
+  },
+  {
+   "id": "E9",
+   "size": "wide",
+   "key": 50,
+   "len": 58,
+   "first": 6496,
+   "line": "Xây trường để đào tạo thêm bác sĩ.",
+   "note": "medical school rising, crane"
+  },
+  {
+   "id": "E10",
+   "size": "medium",
+   "key": 50,
+   "len": 74,
+   "first": 6554,
+   "line": "Nghiên cứu giống lúa mới cho năng suất cao hơn.",
+   "note": "scientists, taller rice"
+  },
+  {
+   "id": "E11",
+   "size": "wide",
+   "key": 30,
+   "len": 54,
+   "first": 6628,
+   "line": "Cho những đứa trẻ nghèo được đi học.",
+   "note": "kids with backpacks walk to school"
+  },
+  {
+   "id": "E12",
+   "size": "wide",
+   "key": 50,
+   "len": 103,
+   "first": 6682,
+   "line": "Bạn trả lương thật cao cho thầy cô và bác sĩ ở vùng xa.",
+   "note": "mountain teacher then village doctor, pan"
+  },
+  {
+   "id": "E13",
+   "size": "medium",
+   "key": 40,
+   "len": 67,
+   "first": 6785,
+   "line": "Bạn chi tiền cho các nhà khoa học, để họ tìm ra",
+   "note": "scientist with glowing flask"
+  },
+  {
+   "id": "E14",
+   "size": "wide",
+   "key": 66,
+   "len": 76,
+   "first": 6852,
+   "line": "cách làm điện rẻ hơn, nước sạch hơn.",
+   "note": "solar panel + water drop"
+  },
+  {
+   "id": "E15",
+   "size": "insert",
+   "key": 30,
+   "len": 48,
+   "first": 6928,
+   "line": "Bạn quẹt thẻ chậm lại.",
+   "note": "card taps terminal slowly, green tick"
+  },
+  {
+   "id": "E16",
+   "size": "medium",
+   "key": 40,
+   "len": 55,
+   "first": 6976,
+   "line": "Ít lại. Nhưng mỗi lần quẹt,",
+   "note": "tap, a school pops up"
+  },
+  {
+   "id": "E17",
+   "size": "wide",
+   "key": 50,
+   "len": 64,
+   "first": 7031,
+   "line": "thế giới có thêm một thứ thật.",
+   "note": "taps: well + clinic pop up"
+  },
+  {
+   "id": "E18",
+   "size": "insert",
+   "key": 50,
+   "len": 86,
+   "first": 7095,
+   "line": "Một năm sau, chiếc thẻ đen vẫn nằm trong ví bạn.",
+   "note": "wallet with the card, MOT NAM SAU"
+  },
+  {
+   "id": "E19",
+   "size": "close",
+   "key": 40,
+   "len": 59,
+   "first": 7181,
+   "line": "Bạn dùng nó ít hơn bạn từng nghĩ.",
+   "note": "Pip at desk, card unused, mug"
+  },
+  {
+   "id": "E20",
+   "size": "medium",
+   "key": 40,
+   "len": 76,
+   "first": 7240,
+   "line": "Còn mẹ bạn, vẫn bán xôi ở đầu ngõ.",
+   "note": "mum scooping xoi"
+  },
+  {
+   "id": "E21",
+   "size": "wide",
+   "key": 40,
+   "len": 75,
+   "first": 7316,
+   "line": "Và đó vẫn là gói xôi ngon nhất thành phố.",
+   "note": "Pip eating xoi on a stool, mum at cart"
+  },
+  {
+   "id": "E22",
+   "size": "medium",
+   "key": 70,
+   "len": 128,
+   "first": 7391,
+   "line": "Một hôm, bạn thân hỏi: nếu được chọn lại, mày còn muốn chiếc thẻ đó không?",
+   "note": "Mo asks, Pip holds card"
+  },
+  {
+   "id": "E23",
+   "size": "close",
+   "key": 40,
+   "len": 65,
+   "first": 7519,
+   "line": "Bạn nghĩ rất lâu, rồi trả lời:",
+   "note": "Pip thinks, close-up"
+  },
+  {
+   "id": "E24",
+   "size": "medium",
+   "key": 60,
+   "len": 118,
+   "first": 7584,
+   "line": "muốn. Nhưng giờ tao biết phải dùng nó vào việc gì rồi.",
+   "note": "Pip smiles, card up to sunset"
+  },
+  {
+   "id": "E25",
+   "size": "wide",
+   "key": 60,
+   "len": 120,
+   "first": 7702,
+   "line": "Còn bạn, nếu có chiếc thẻ không giới hạn, thứ đầu tiên bạn quẹt là gì?",
+   "note": "end card line 1"
+  },
+  {
+   "id": "E26",
+   "size": "wide",
+   "key": 120,
+   "len": 207,
+   "first": 7822,
+   "line": "Và bạn có dám dùng nó để thay đổi thế giới không? Bình luận cho mình biết nhé.",
+   "note": "end card line 2, fade out"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#BFFFD6",
+   "o": 0.3,
+   "f": 159
+  },
+  {
+   "kind": "flash",
+   "color": "#BFFFD6",
+   "o": 0.3,
+   "f": 259
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.35,
+   "f": 293
+  },
+  {
+   "kind": "flash",
+   "color": "#BFFFD6",
+   "o": 0.3,
+   "f": 863
+  },
+  {
+   "kind": "shake",
+   "len": 5,
+   "amp": 5,
+   "f": 293
+  },
+  {
+   "kind": "flash",
+   "color": "#BFFFD6",
+   "o": 0.25,
+   "f": 1242
+  },
+  {
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.2,
+   "f": 1526
+  },
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 6,
+   "f": 1553
+  },
+  {
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.22,
+   "f": 1749
+  },
+  {
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.22,
+   "f": 1771
+  },
+  {
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.26,
+   "f": 1793
+  },
+  {
+   "kind": "shake",
+   "len": 40,
+   "amp": 4,
+   "f": 2229
+  },
+  {
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.2,
+   "f": 2343
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25,
+   "f": 2711
+  },
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 8,
+   "f": 2862
+  },
+  {
+   "kind": "flash",
+   "color": "#FF6A5A",
+   "o": 0.3,
+   "f": 2862
+  },
+  {
+   "kind": "shake",
+   "len": 4,
+   "amp": 5,
+   "f": 3376
+  },
+  {
+   "kind": "shake",
+   "len": 4,
+   "amp": 5,
+   "f": 3770
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25,
+   "f": 4466
+  },
+  {
+   "kind": "flash",
+   "color": "#BFFFD8",
+   "o": 0.2,
+   "f": 6950
+  },
+  {
+   "kind": "flash",
+   "color": "#FFE9A8",
+   "o": 0.14,
+   "f": 7614
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.415,
+  "musicVol": 0.3007,
+  "voice": "tien-vo-han/voice.wav",
+  "sfx": "tien-vo-han/sfx.wav",
+  "music": "tien-vo-han/music.wav"
+ }
+}

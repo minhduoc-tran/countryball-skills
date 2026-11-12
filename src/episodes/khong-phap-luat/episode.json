@@ -1,0 +1,3545 @@
+{
+ "id": "NoLaw",
+ "slug": "khong-phap-luat",
+ "topic": "Sẽ ra sao nếu một xã hội không có pháp luật?",
+ "title": [
+  "SẼ RA SAO NẾU XÃ HỘI",
+  "KHÔNG CÓ PHÁP LUẬT?"
+ ],
+ "accent": "PHÁP",
+ "power": {
+  "word": "Không còn luật nào nữa.",
+  "rule": "fiction: overnight every law, rule, police, court and contract in your city disappears; people stay the same; the story follows time (hour 1, day 1, week 1, month 1) from fun freedom to chaos to people writing rules again; only the numbers and historical events are real",
+  "look": "a time chip top-left; a crossed-out scales-of-justice icon chip while lawless; warm look when the neighbourhood rebuilds rules"
+ },
+ "script": [
+  {
+   "beat": "0 cold open",
+   "text": "Sáng nay, bạn vượt đèn đỏ. Không ai phạt. Bạn chạy xe không đội mũ bảo hiểm. Không ai nói gì. Bạn bước vào cửa hàng, cầm một hộp sữa, đi thẳng ra cửa, không trả tiền. Cũng chẳng ai ngăn. Vì từ đêm qua, không còn luật nào nữa."
+  },
+  {
+   "beat": "1 premise",
+   "text": "Sẽ ra sao nếu một xã hội không có pháp luật? Không cảnh sát. Không tòa án. Không hợp đồng. Không một điều cấm nào."
+  },
+  {
+   "beat": "1 rule",
+   "text": "Con người vẫn vậy. Nhà cửa, xe cộ, cửa hàng vẫn ở đó. Chỉ có điều, mọi quy định đều biến mất. Không ai phải nghe theo ai nữa."
+  },
+  {
+   "beat": "2 hour one: freedom",
+   "text": "Giờ đầu tiên, nghe thật tự do. Mo phóng xe máy giữa phố, nhanh hết cỡ. Không ai bắt. Bạn tuyên bố nghỉ học thêm, vì làm gì có luật nào bắt đi học. Cả hai cười vang."
+  },
+  {
+   "beat": "2 hour one: crossroads",
+   "text": "Rồi bạn tới ngã tư. Đèn vẫn nhấp nháy, nhưng chẳng ai dừng. Xe từ bốn phía cùng lao vào. Còi inh ỏi. Một tiếng rầm. Cả ngã tư kẹt cứng, không ai nhường ai, vì không có luật nào nói ai được đi trước. Phía sau, một chiếc xe cứu thương hú còi mãi, nhưng chẳng ai nhường đường."
+  },
+  {
+   "beat": "2 hour one: helmets",
+   "text": "Mỗi năm, khoảng một triệu một trăm chín mươi nghìn người trên thế giới chết vì tai nạn giao thông. Đội mũ bảo hiểm đúng cách giảm khoảng bốn mươi hai phần trăm nguy cơ tử vong. Năm hai nghìn không trăm lẻ bảy, khi Việt Nam bắt buộc đội mũ bảo hiểm, tỷ lệ người đội mũ tăng từ khoảng ba mươi phần trăm lên hơn chín mươi phần trăm. Chỉ nhờ một điều luật. Đó là thật."
+  },
+  {
+   "beat": "3 day one: shops",
+   "text": "Ngày đầu tiên. Cửa hàng tiện lợi đầu ngõ không mở cửa. Ông chủ sợ người ta lấy hàng mà không trả tiền. Chợ vắng tanh. Mẹ bạn không dám đẩy xe xôi ra đầu ngõ. Khi không có luật, chẳng ai chắc mình được giữ thứ mình làm ra."
+  },
+  {
+   "beat": "3 day one: money",
+   "text": "Công ty của bố Mo không trả lương, vì chẳng có hợp đồng nào bắt họ phải trả. Ngân hàng đóng cửa. Bạn nhìn số dư trong điện thoại. Hóa ra, tiền trong tài khoản chỉ là một con số, nếu không có luật nào đứng sau nó. Trên mạng, lừa đảo mọc lên khắp nơi, vì lừa ai cũng chẳng bị phạt."
+  },
+  {
+   "beat": "3 day one: montreal",
+   "text": "Chuyện này đã từng xảy ra. Năm một nghìn chín trăm sáu mươi chín, cảnh sát thành phố Montreal ở Canada đình công. Chỉ trong khoảng mười sáu giờ, có sáu vụ cướp ngân hàng, hơn một trăm cửa hàng bị cướp phá, và mười hai đám cháy. Đó là thật."
+  },
+  {
+   "beat": "4 week one: jungle",
+   "text": "Tuần đầu tiên. Những người to khỏe nhất bắt đầu lấy thứ họ muốn. Một nhóm thanh niên dựng chốt ở đầu ngõ, ai đi qua phải nộp tiền. Bà cụ bán vé số bị giật mất xấp vé, mà không biết kêu ai. Nhà nhà khóa cửa, dựng rào, thay phiên nhau thức canh. Em gái bạn không dám ra đường khi trời tối."
+  },
+  {
+   "beat": "4 week one: family",
+   "text": "Tối đó, cả nhà ngồi quanh một ngọn nến. Mẹ nói khẽ. Hồi trước mẹ cứ nghĩ luật lệ chỉ để phạt người ta. Giờ mẹ mới hiểu, nó còn để bảo vệ những người yếu nhất."
+  },
+  {
+   "beat": "4 week one: hobbes",
+   "text": "Gần bốn trăm năm trước, nhà triết học người Anh Thomas Hobbes đã viết rằng, nếu không có luật lệ, cuộc sống con người sẽ cô độc, nghèo khổ, tồi tệ, tàn bạo và ngắn ngủi."
+  },
+  {
+   "beat": "4 week one: history",
+   "text": "Lịch sử cho thấy ông không nói quá. Ở châu Âu thời Trung Cổ, khi luật pháp còn yếu, tỷ lệ giết người cao gấp hàng chục lần ngày nay. Đó là thật. Không có luật, kẻ mạnh nhất chính là luật."
+  },
+  {
+   "beat": "5 twist: tonga",
+   "text": "Nhưng rồi, có một chuyện lạ. Năm một nghìn chín trăm sáu mươi lăm, sáu cậu bé người Tonga bị đắm thuyền, dạt vào một hòn đảo hoang. Không người lớn. Không luật pháp. Họ sống ở đó mười lăm tháng. Và họ không đánh nhau đến chết như trong tiểu thuyết. Họ tự đặt ra luật. Làm việc theo cặp. Thay phiên giữ lửa. Ai cãi nhau thì tách ra cho bình tĩnh, rồi làm hòa. Khi được cứu, cả sáu người đều sống sót. Đó là thật."
+  },
+  {
+   "beat": "6 month one: milk",
+   "text": "Bạn chợt nhớ tới hộp sữa hôm đầu tiên. Bạn quay lại cửa hàng, đặt tiền lên bậu cửa. Ông chủ nhìn bạn rất lâu qua khe cửa. Rồi ông kéo cửa lên một nửa."
+  },
+  {
+   "beat": "6 month one: rebuild",
+   "text": "Tháng đầu tiên. Ở khu phố của bạn, chuyện tương tự bắt đầu. Bà cụ bán vé số gõ cửa từng nhà. Cả xóm họp nhau ở sân đình. Quy định đầu tiên được viết lên một tấm bảng: không ai được lấy đồ của người khác. Quy định thứ hai: chạy chậm qua cổng trường. Ai vi phạm, cả xóm cùng nhắc. Mẹ lại đẩy xe xôi ra đầu ngõ. Em gái lại đi học."
+  },
+  {
+   "beat": "6 month one: ostrom",
+   "text": "Nhà kinh tế Elinor Ostrom đã nhận giải Nobel năm hai nghìn không trăm lẻ chín vì chứng minh điều này. Những cộng đồng bình thường, như làng chài hay những người cùng chung một con mương tưới ruộng, có thể tự đặt ra luật để chia nhau tài nguyên, và giữ được hàng trăm năm. Đó là thật."
+  },
+  {
+   "beat": "7 insight",
+   "text": "Hóa ra, luật pháp không phải thứ từ trên trời rơi xuống. Luật không hoàn hảo. Có luật hay, có luật dở, và con người luôn phải sửa nó. Nó là một lời hứa mà hàng triệu người cùng giữ. Đèn đỏ thì dừng. Mượn thì trả. Không ai được làm hại ai. Khi ai cũng giữ lời hứa đó, ta mới tự do thật sự. Tự do đi đường mà không sợ. Tự do mở cửa hàng. Tự do ngủ một giấc thật ngon."
+  },
+  {
+   "beat": "7 question",
+   "text": "Nếu được viết điều luật đầu tiên cho một xã hội mới, bạn sẽ viết gì? Viết ở phần bình luận nhé."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Mỗi năm khoảng 1,19 triệu người chết vì tai nạn giao thông.",
+   "working": "WHO: 1,19 triệu ca tử vong do giao thông đường bộ năm 2021.",
+   "source": "WHO, Global status report on road safety 2023"
+  },
+  {
+   "claim": "Đội mũ bảo hiểm đúng cách giảm khoảng 42% nguy cơ tử vong.",
+   "working": "WHO: mũ bảo hiểm đúng cách giảm 42% nguy cơ tử vong và 69% nguy cơ chấn thương đầu.",
+   "source": "WHO, Road traffic injuries fact sheet; Helmets: a road safety manual"
+  },
+  {
+   "claim": "Năm 2007 Việt Nam bắt buộc đội mũ bảo hiểm, tỷ lệ đội tăng từ ~30% lên hơn 90%.",
+   "working": "Luật bắt buộc đội mũ trên mọi tuyến đường từ 15/12/2007; tỷ lệ đội mũ tăng từ khoảng 30% lên 90-99%.",
+   "source": "Passmore et al. (2010), Impact of mandatory motorcycle helmet wearing legislation on head injuries in Viet Nam, WHO Bulletin; AIP Foundation"
+  },
+  {
+   "claim": "Montreal 1969: cảnh sát đình công, trong ~16 giờ có 6 vụ cướp ngân hàng, hơn 100 cửa hàng bị cướp phá, 12 đám cháy.",
+   "working": "Vụ 'Murray-Hill riot' 7/10/1969; số liệu theo các tường thuật, được Steven Pinker trích lại.",
+   "source": "Pinker (2011), The Better Angels of Our Nature; Montreal Gazette, 10/1969"
+  },
+  {
+   "claim": "Hobbes (1651): không có luật lệ, đời người 'cô độc, nghèo khổ, tồi tệ, tàn bạo và ngắn ngủi'.",
+   "working": "Câu 'solitary, poor, nasty, brutish, and short', Leviathan, chương XIII.",
+   "source": "Thomas Hobbes, Leviathan (1651)"
+  },
+  {
+   "claim": "Châu Âu thời Trung Cổ tỷ lệ giết người cao gấp hàng chục lần ngày nay.",
+   "working": "Eisner: thế kỷ 13-14 khoảng 20-40 vụ/100.000 dân/năm, thế kỷ 20 khoảng 1 vụ/100.000.",
+   "source": "Manuel Eisner (2003), Long-Term Historical Trends in Violent Crime, Crime and Justice 30"
+  },
+  {
+   "claim": "1965: sáu cậu bé Tonga đắm thuyền sống 15 tháng trên đảo hoang 'Ata, tự đặt luật, cả sáu sống sót.",
+   "working": "Được thuyền trưởng Peter Warner cứu năm 1966; các cậu làm việc theo cặp, giữ lửa liên tục, tách nhau ra khi cãi nhau.",
+   "source": "Rutger Bregman (2020), Humankind; The Guardian (5/2020), 'The real Lord of the Flies'"
+  },
+  {
+   "claim": "Elinor Ostrom đoạt Nobel kinh tế 2009 vì chứng minh cộng đồng tự quản tài nguyên chung.",
+   "working": "Nobel 2009 'for her analysis of economic governance, especially the commons'; các ví dụ: ngư trường, hệ thống thủy lợi tự quản hàng trăm năm.",
+   "source": "Nobel Prize in Economic Sciences 2009; Ostrom (1990), Governing the Commons"
+  }
+ ],
+ "cast": [
+  "pipHood",
+  "mo",
+  "sis",
+  "mom",
+  "suit"
+ ],
+ "voice": {
+  "provider": "lucylab",
+  "userVoiceId": "u4ZCcxDX4FJScdJ97iN8pr",
+  "speed": 0.9
+ },
+ "gaps": {
+  "word": 0.12,
+  "comma": 0.3,
+  "sentence": 0.55,
+  "question": 0.75
+ },
+ "holds": {
+  "nữa|Sẽ": 1.0,
+  "nữa|Giờ": 1.0,
+  "phạt|Chuyện": 0.6,
+  "thật|Tuần": 1.0,
+  "luật|Nhưng": 1.2,
+  "nửa|Tháng": 1.0,
+  "thật|Hóa": 1.2,
+  "thật|Ngày": 1.0
+ },
+ "tail": 3.0,
+ "sound": {
+  "clips": {
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+    0.7
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "shatter": [
+    "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
+    1.3
+   ],
+   "rewind": [
+    "a VHS tape rewinding fast, high whirring tape squeal with mechanical hum",
+    1.6
+   ],
+   "catch": [
+    "a hand catching a ceramic mug mid-air, soft slap and thud",
+    0.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "cat_yowl": [
+    "an angry cat yowl and hiss, short and startled",
+    0.9
+   ],
+   "tumble": [
+    "a cartoon character tumbling down wooden stairs, a quick series of bumps and thuds",
+    1.3
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "dizzy": [
+    "cartoon dizzy birds tweeting in a circle after a bonk",
+    1.4
+   ],
+   "big_step": [
+    "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+    0.7
+   ],
+   "cat_chirp": [
+    "a cat making a short curious chirp meow",
+    0.6
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "shades": [
+    "cool sunglasses sliding on with a swoosh and a bright metallic glint",
+    0.9
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "clock_back": [
+    "a clock ticking very fast then spinning backwards, mechanical ratchet whirr",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "crack": [
+    "glass cracking sharply, the crack spreading across a pane",
+    1.1
+   ],
+   "bulb_pop": [
+    "a small light bulb popping out, a tiny glass tink and fizz",
+    0.5
+   ],
+   "rewind_start": [
+    "a quick reverse swoosh, like a sound being sucked backwards",
+    0.7
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "class_murmur": [
+    "a quiet classroom murmur, kids whispering, chairs shuffling",
+    2.0
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "copy_click": [
+    "a crisp satisfying computer copy click with a tiny soft digital chime, short",
+    0.5
+   ],
+   "paste_pop": [
+    "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+    0.7
+   ],
+   "paper_land": [
+    "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+    0.7
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "cookie_crunch": [
+    "one crunchy bite into a chocolate chip cookie, close up",
+    0.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "power_hum": [
+    "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+    3.0
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "phone_ring": [
+    "synth: a modern phone ringback tone, two soft electronic burrs (generated locally with numpy)",
+    1.2
+   ],
+   "ting": [
+    "synth: bank app notification chime, two bright bell notes (generated locally with numpy)",
+    0.5
+   ],
+   "punch_hit": [
+    "synth: huge cartoon punch impact boom, deep sub drop with a sharp crack",
+    1.8
+   ],
+   "swoosh": [
+    "synth: fast fist swing whoosh",
+    0.7
+   ],
+   "sonic_crack": [
+    "synth: supersonic whip crack, sonic boom N-wave with echo",
+    1.4
+   ],
+   "rubble": [
+    "synth: debris and rubble falling and settling",
+    2.4
+   ],
+   "metal_crash": [
+    "synth: giant robot metal crash and clang",
+    2.2
+   ],
+   "splash": [
+    "synth: huge wave splash with a deep thump",
+    2.4
+   ],
+   "rain": [
+    "synth: heavy tropical storm rain bed",
+    20
+   ],
+   "thunder": [
+    "synth: thunder crack and long rumble",
+    4.5
+   ],
+   "siren": [
+    "synth: two-tone emergency alert beeps",
+    3.0
+   ],
+   "drone_buzz": [
+    "synth: small quadcopter drone hovering buzz",
+    5.0
+   ],
+   "arcade_count": [
+    "synth: arcade score counter rising beeps",
+    1.6
+   ],
+   "score": [
+    "synth: khong-phap-luat score, tools/synth-score.py",
+    266.58
+   ]
+  },
+  "events": [
+   [
+    "A1",
+    "class_murmur",
+    0.07,
+    "onset",
+    "A4"
+   ],
+   [
+    "A1+34",
+    "swoosh",
+    0.16,
+    "peak"
+   ],
+   [
+    "A2+2",
+    "roof_wind",
+    0.1,
+    "onset",
+    "A3"
+   ],
+   [
+    "A3+4",
+    "swoosh",
+    0.12,
+    "peak"
+   ],
+   [
+    "A4",
+    "room_tone",
+    0.1,
+    "onset",
+    "A8"
+   ],
+   [
+    "A4+2",
+    "ding",
+    0.12
+   ],
+   [
+    "A5+10",
+    "catch",
+    0.12
+   ],
+   [
+    "A7+62",
+    "gasp",
+    0.1
+   ],
+   [
+    "A8",
+    "roof_wind",
+    0.072,
+    "onset",
+    "A10"
+   ],
+   [
+    "A8+20",
+    "drone_hit",
+    0.096
+   ],
+   [
+    "A8+6",
+    "sparkle",
+    0.06
+   ],
+   [
+    "A9+12",
+    "sparkle",
+    0.08
+   ],
+   [
+    "A10",
+    "class_murmur",
+    0.07,
+    "onset",
+    "A11"
+   ],
+   [
+    "A10+2",
+    "title_boom",
+    0.12,
+    "peak"
+   ],
+   [
+    "A11",
+    "room_tone",
+    0.08,
+    "onset",
+    "A15"
+   ],
+   [
+    "A11+24",
+    "pop",
+    0.1
+   ],
+   [
+    "A12+24",
+    "land",
+    0.1
+   ],
+   [
+    "A13+22",
+    "paper_land",
+    0.1
+   ],
+   [
+    "A15",
+    "class_murmur",
+    0.09,
+    "onset",
+    "A19"
+   ],
+   [
+    "A16+10",
+    "swoosh",
+    0.08,
+    "peak"
+   ],
+   [
+    "A16+34",
+    "swoosh",
+    0.08,
+    "peak"
+   ],
+   [
+    "A16+60",
+    "swoosh",
+    0.08,
+    "peak"
+   ],
+   [
+    "A17+8",
+    "glitch",
+    0.08
+   ],
+   [
+    "A19+6",
+    "sparkle",
+    0.12
+   ],
+   [
+    "A19+12",
+    "swoosh",
+    0.12,
+    "peak"
+   ],
+   [
+    "A20+6",
+    "swoosh",
+    0.2,
+    "peak"
+   ],
+   [
+    "A20+20",
+    "laugh",
+    0.1
+   ],
+   [
+    "A21+4",
+    "swoosh",
+    0.14,
+    "peak"
+   ],
+   [
+    "A22+8",
+    "pop",
+    0.12
+   ],
+   [
+    "A23+10",
+    "crack",
+    0.2
+   ],
+   [
+    "A23+26",
+    "paper_land",
+    0.1
+   ],
+   [
+    "A24+2",
+    "laugh",
+    0.14
+   ],
+   [
+    "A24+10",
+    "sparkle",
+    0.08
+   ],
+   [
+    "A25",
+    "class_murmur",
+    0.08,
+    "onset",
+    "A29"
+   ],
+   [
+    "A25+4",
+    "swoosh",
+    0.1,
+    "peak"
+   ],
+   [
+    "A27+4",
+    "swoosh",
+    0.12,
+    "peak"
+   ],
+   [
+    "A27+14",
+    "swoosh",
+    0.12,
+    "peak"
+   ],
+   [
+    "A27+26",
+    "swoosh",
+    0.12,
+    "peak"
+   ],
+   [
+    "A28+50",
+    "buzzer",
+    0.08
+   ],
+   [
+    "A29+2",
+    "buzzer",
+    0.12
+   ],
+   [
+    "A30+12",
+    "metal_crash",
+    0.108,
+    "peak"
+   ],
+   [
+    "A30+13",
+    "crack",
+    0.06
+   ],
+   [
+    "A31",
+    "class_murmur",
+    0.1,
+    "onset",
+    "A34"
+   ],
+   [
+    "A34",
+    "siren",
+    0.06,
+    "onset",
+    "A35"
+   ],
+   [
+    "A35",
+    "siren",
+    0.06
+   ],
+   [
+    "B1+6",
+    "counter_tick",
+    0.08
+   ],
+   [
+    "B2+6",
+    "siren",
+    0.07,
+    "onset",
+    "B3"
+   ],
+   [
+    "B3+2",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B4+8",
+    "ding",
+    0.08
+   ],
+   [
+    "B6+8",
+    "pop",
+    0.1
+   ],
+   [
+    "B9+4",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B10+6",
+    "ding",
+    0.12
+   ],
+   [
+    "B12+9",
+    "metal_crash",
+    0.12
+   ],
+   [
+    "B13+44",
+    "swoosh",
+    0.08
+   ],
+   [
+    "B14",
+    "roof_wind",
+    0.08,
+    "onset",
+    "B15"
+   ],
+   [
+    "B16",
+    "room_tone",
+    0.08,
+    "onset",
+    "B17"
+   ],
+   [
+    "B17",
+    "room_tone",
+    0.08,
+    "onset",
+    "B18"
+   ],
+   [
+    "B18+14",
+    "glitch",
+    0.06
+   ],
+   [
+    "B19+20",
+    "clink",
+    0.12
+   ],
+   [
+    "B21+32",
+    "glitch",
+    0.08
+   ],
+   [
+    "B22+30",
+    "fall_whoosh",
+    0.08
+   ],
+   [
+    "B24+34",
+    "buzzer",
+    0.08
+   ],
+   [
+    "B25+4",
+    "paper_land",
+    0.1
+   ],
+   [
+    "B27+46",
+    "land",
+    0.08
+   ],
+   [
+    "B32+6",
+    "ding",
+    0.12
+   ],
+   [
+    "C1",
+    "room_tone",
+    0.06,
+    "onset",
+    "C10"
+   ],
+   [
+    "C2+18",
+    "step",
+    0.09
+   ],
+   [
+    "C3+8",
+    "clink",
+    0.1
+   ],
+   [
+    "C3+40",
+    "land",
+    0.1
+   ],
+   [
+    "C4+34",
+    "clink",
+    0.12
+   ],
+   [
+    "C5+30",
+    "swoosh",
+    0.14
+   ],
+   [
+    "C5+34",
+    "drone_hit",
+    0.12
+   ],
+   [
+    "C5+40",
+    "gasp",
+    0.1
+   ],
+   [
+    "C7+10",
+    "land",
+    0.1
+   ],
+   [
+    "C7+20",
+    "switch_off",
+    0.12
+   ],
+   [
+    "C7+30",
+    "clink",
+    0.14
+   ],
+   [
+    "C7+44",
+    "paper_land",
+    0.12
+   ],
+   [
+    "C8",
+    "roof_wind",
+    0.07,
+    "onset",
+    "C10"
+   ],
+   [
+    "C10",
+    "room_tone",
+    0.06,
+    "onset",
+    "C16"
+   ],
+   [
+    "C15+14",
+    "ting",
+    0.06
+   ],
+   [
+    "C16",
+    "room_tone",
+    0.05,
+    "onset",
+    "C21"
+   ],
+   [
+    "C17+8",
+    "ting",
+    0.08
+   ],
+   [
+    "C19+14",
+    "land",
+    0.1
+   ],
+   [
+    "C19+34",
+    "land",
+    0.1
+   ],
+   [
+    "C20+14",
+    "land",
+    0.1
+   ],
+   [
+    "C20+36",
+    "land",
+    0.1
+   ],
+   [
+    "C20+58",
+    "land",
+    0.12
+   ],
+   [
+    "C22",
+    "roof_wind",
+    0.06,
+    "onset",
+    "C23"
+   ],
+   [
+    "C23+39",
+    "ting",
+    0.08
+   ],
+   [
+    "C24+8",
+    "land",
+    0.18
+   ],
+   [
+    "C24+8",
+    "drone_hit",
+    0.1
+   ],
+   [
+    "C25",
+    "drone_hit",
+    0.1
+   ],
+   [
+    "D1",
+    "paper_land",
+    0.1
+   ],
+   [
+    "D1+4",
+    "roof_wind",
+    0.07,
+    "onset",
+    "D7"
+   ],
+   [
+    "D4",
+    "rain",
+    0.1,
+    "onset",
+    "D5"
+   ],
+   [
+    "D4+6",
+    "thunder",
+    0.12
+   ],
+   [
+    "D6+4",
+    "drone_hit",
+    0.12
+   ],
+   [
+    "D6+30",
+    "drone_hit",
+    0.1
+   ],
+   [
+    "D8+22",
+    "swoosh",
+    0.1
+   ],
+   [
+    "D8+36",
+    "paper_land",
+    0.1
+   ],
+   [
+    "D12+72",
+    "ting",
+    0.1
+   ],
+   [
+    "D13",
+    "swoosh",
+    0.08
+   ],
+   [
+    "D14+23",
+    "ding",
+    0.16
+   ],
+   [
+    "D15+11",
+    "gasp",
+    0.1
+   ],
+   [
+    "D15+20",
+    "swoosh",
+    0.1
+   ],
+   [
+    "D17+20",
+    "paper_land",
+    0.12
+   ],
+   [
+    "D18",
+    "room_tone",
+    0.08,
+    "onset",
+    "D19"
+   ],
+   [
+    "D19+44",
+    "sparkle",
+    0.1
+   ],
+   [
+    "D20",
+    "room_tone",
+    0.08,
+    "onset",
+    "D23"
+   ],
+   [
+    "D21+4",
+    "pop",
+    0.1
+   ],
+   [
+    "D21+15",
+    "pop",
+    0.1
+   ],
+   [
+    "D21+26",
+    "pop",
+    0.1
+   ],
+   [
+    "D21+37",
+    "pop",
+    0.1
+   ],
+   [
+    "D23",
+    "class_murmur",
+    0.1,
+    "onset",
+    "D26"
+   ],
+   [
+    "D24+14",
+    "paper_land",
+    0.08
+   ],
+   [
+    "D25+34",
+    "ding",
+    0.1
+   ],
+   [
+    "D27+16",
+    "swoosh",
+    0.1
+   ],
+   [
+    "D27+20",
+    "gasp",
+    0.08
+   ],
+   [
+    "D28",
+    "room_tone",
+    0.08,
+    "onset",
+    "D29"
+   ],
+   [
+    "D29+22",
+    "sparkle",
+    0.1
+   ],
+   [
+    "E2+8",
+    "ding",
+    0.12
+   ],
+   [
+    "E4",
+    "class_murmur",
+    0.08,
+    "onset",
+    "E7"
+   ],
+   [
+    "E5",
+    "roof_wind",
+    0.08,
+    "onset",
+    "E7"
+   ],
+   [
+    "E9+11",
+    "land",
+    0.13
+   ],
+   [
+    "E9+14",
+    "ding",
+    0.1
+   ],
+   [
+    "E10+32",
+    "land",
+    0.13
+   ],
+   [
+    "E12+8",
+    "ding",
+    0.1
+   ],
+   [
+    "E12+27",
+    "buzzer",
+    0.07
+   ],
+   [
+    "E14+8",
+    "sparkle",
+    0.12
+   ],
+   [
+    "E15",
+    "sparkle",
+    0.08
+   ],
+   [
+    "E18+14",
+    "catch",
+    0.12
+   ],
+   [
+    "E19+4",
+    "sparkle",
+    0.1
+   ],
+   [
+    "E21",
+    "room_tone",
+    0.08,
+    "onset",
+    "E22"
+   ],
+   [
+    "E22",
+    "room_tone",
+    0.08,
+    "onset",
+    "E23"
+   ],
+   [
+    "E23",
+    "room_tone",
+    0.07,
+    "onset",
+    "E24"
+   ],
+   [
+    "E24",
+    "room_tone",
+    0.07,
+    "onset",
+    "E25"
+   ],
+   [
+    "E25+3",
+    "pop",
+    0.08
+   ]
+  ],
+  "repeats": [
+   {
+    "at": "A4+2",
+    "clip": "step",
+    "n": 6,
+    "every": 6,
+    "gain": [
+     0.1,
+     0.14
+    ],
+    "pitch": [
+     0.92,
+     1.08
+    ]
+   },
+   {
+    "at": "A6+2",
+    "clip": "step",
+    "n": 6,
+    "every": 5,
+    "gain": [
+     0.1,
+     0.14
+    ],
+    "pitch": [
+     0.92,
+     1.08
+    ]
+   },
+   {
+    "at": "A14+6",
+    "clip": "pop",
+    "n": 5,
+    "every": 5,
+    "gain": [
+     0.06,
+     0.09
+    ],
+    "pitch": [
+     0.95,
+     1.2
+    ]
+   },
+   {
+    "at": "A15+2",
+    "clip": "step",
+    "n": 4,
+    "every": 9,
+    "gain": [
+     0.07,
+     0.1
+    ],
+    "pitch": [
+     0.92,
+     1.08
+    ]
+   },
+   {
+    "at": "A26+2",
+    "clip": "counter_tick",
+    "n": 3,
+    "every": 14,
+    "gain": [
+     0.08,
+     0.1
+    ],
+    "pitch": [
+     0.9,
+     1.0
+    ]
+   },
+   {
+    "at": "A29+4",
+    "clip": "buzzer",
+    "n": 4,
+    "every": 5,
+    "gain": [
+     0.08,
+     0.12
+    ],
+    "pitch": [
+     0.8,
+     1.3
+    ]
+   },
+   {
+    "at": "A31+2",
+    "clip": "buzzer",
+    "n": 6,
+    "every": 6,
+    "gain": [
+     0.06,
+     0.09
+    ],
+    "pitch": [
+     0.8,
+     1.3
+    ]
+   },
+   {
+    "at": "B7+44",
+    "clip": "pop",
+    "n": 4,
+    "every": 9,
+    "gain": [
+     0.06,
+     0.09
+    ],
+    "pitch": [
+     0.9,
+     1.2
+    ]
+   },
+   {
+    "at": "B8+2",
+    "clip": "pop",
+    "n": 9,
+    "every": 4,
+    "gain": [
+     0.05,
+     0.08
+    ],
+    "pitch": [
+     0.9,
+     1.3
+    ]
+   },
+   {
+    "at": "B23+2",
+    "clip": "ting",
+    "n": 8,
+    "every": 5,
+    "gain": [
+     0.05,
+     0.09
+    ],
+    "pitch": [
+     0.9,
+     1.4
+    ]
+   },
+   {
+    "at": "B26+2",
+    "clip": "counter_tick",
+    "n": 8,
+    "every": 5,
+    "gain": [
+     0.05,
+     0.08
+    ],
+    "pitch": [
+     0.9,
+     1.1
+    ]
+   },
+   {
+    "at": "B29+3",
+    "clip": "pop",
+    "n": 6,
+    "every": 4,
+    "gain": [
+     0.05,
+     0.08
+    ],
+    "pitch": [
+     0.8,
+     1.0
+    ]
+   },
+   {
+    "at": "B30+3",
+    "clip": "shatter",
+    "n": 5,
+    "every": 6,
+    "gain": [
+     0.04,
+     0.07
+    ],
+    "pitch": [
+     0.9,
+     1.2
+    ]
+   },
+   {
+    "at": "B31+3",
+    "clip": "bulb_pop",
+    "n": 6,
+    "every": 5,
+    "gain": [
+     0.04,
+     0.07
+    ],
+    "pitch": [
+     0.8,
+     1.0
+    ]
+   },
+   {
+    "at": "C23+4",
+    "clip": "counter_tick",
+    "n": 4,
+    "every": 6,
+    "gain": [
+     0.05,
+     0.07
+    ]
+   },
+   {
+    "at": "D7+2",
+    "clip": "counter_tick",
+    "n": 15,
+    "every": 2,
+    "gain": [
+     0.06,
+     0.09
+    ]
+   },
+   {
+    "at": "D16+2",
+    "clip": "step",
+    "n": 6,
+    "every": 6,
+    "gain": [
+     0.08,
+     0.12
+    ]
+   },
+   {
+    "at": "D19+8",
+    "clip": "counter_tick",
+    "n": 10,
+    "every": 3,
+    "gain": [
+     0.06,
+     0.09
+    ]
+   },
+   {
+    "at": "D22+4",
+    "clip": "pop",
+    "n": 3,
+    "every": 5,
+    "gain": [
+     0.1,
+     0.14
+    ]
+   },
+   {
+    "at": "D22+32",
+    "clip": "pop",
+    "n": 3,
+    "every": 5,
+    "gain": [
+     0.1,
+     0.14
+    ]
+   }
+  ],
+  "score": [
+   {
+    "kind": "loop",
+    "from": "0 cold open",
+    "to": "2 hour one: crossroads",
+    "to_off": -0.3,
+    "gain": 0.5
+   },
+   {
+    "kind": "drone",
+    "from": "2 hour one: crossroads",
+    "to": "2 hour one: helmets",
+    "note": 33,
+    "gain": 0.1
+   },
+   {
+    "kind": "heartbeat",
+    "from": "2 hour one: crossroads",
+    "to": "2 hour one: helmets",
+    "bpm": 96,
+    "gain": 0.2
+   },
+   {
+    "kind": "pad",
+    "from": "2 hour one: helmets",
+    "to": "3 day one: shops",
+    "chords": [
+     "Am",
+     "F",
+     "C",
+     "G"
+    ],
+    "every": 5,
+    "gain": 0.11
+   },
+   {
+    "kind": "pluck",
+    "from": "3 day one: shops",
+    "to": "4 week one: jungle",
+    "to_off": -0.3,
+    "chords": [
+     "Am",
+     "Dm",
+     "E",
+     "Am"
+    ],
+    "bpm": 100,
+    "gain": 0.15
+   },
+   {
+    "kind": "drone",
+    "from": "3 day one: montreal",
+    "to": "4 week one: family",
+    "note": 31,
+    "gain": 0.1
+   },
+   {
+    "kind": "heartbeat",
+    "from": "4 week one: jungle",
+    "to": "4 week one: family",
+    "bpm": 76,
+    "gain": 0.2
+   },
+   {
+    "kind": "pad",
+    "from": "4 week one: family",
+    "to": "5 twist: tonga",
+    "chords": [
+     "Am",
+     "Em",
+     "F",
+     "E"
+    ],
+    "every": 5,
+    "gain": 0.12
+   },
+   {
+    "kind": "bells",
+    "from": "4 week one: family",
+    "to": "4 week one: hobbes",
+    "notes": [
+     69,
+     null,
+     null,
+     null,
+     67,
+     null,
+     null,
+     null
+    ],
+    "step": 0.9,
+    "gain": 0.03,
+    "decay": 1.8
+   },
+   {
+    "kind": "pad",
+    "from": "5 twist: tonga",
+    "to": "6 month one: rebuild",
+    "chords": [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    "every": 4,
+    "gain": 0.12
+   },
+   {
+    "kind": "bells",
+    "from": "5 twist: tonga",
+    "to": "6 month one: milk",
+    "notes": [
+     72,
+     null,
+     76,
+     null,
+     79,
+     null,
+     77,
+     76
+    ],
+    "step": 0.6,
+    "gain": 0.04
+   },
+   {
+    "kind": "pluck",
+    "from": "6 month one: rebuild",
+    "to": "7 insight",
+    "chords": [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    "bpm": 104,
+    "gain": 0.16
+   },
+   {
+    "kind": "pad",
+    "from": "7 insight",
+    "to": "END",
+    "chords": [
+     "F",
+     "C",
+     "G",
+     "Am",
+     "F",
+     "C",
+     "Dm",
+     "G"
+    ],
+    "every": 5,
+    "gain": 0.14
+   },
+   {
+    "kind": "bells",
+    "from": "7 insight",
+    "from_off": 1,
+    "to": "END",
+    "notes": [
+     72,
+     76,
+     79,
+     77,
+     76,
+     74,
+     72,
+     null,
+     67,
+     69,
+     72,
+     74,
+     76,
+     null,
+     74,
+     72
+    ],
+    "step": 0.62,
+    "gain": 0.06,
+    "decay": 1.4
+   }
+  ],
+  "music": {
+   "clip": "score"
+  },
+  "levels": {
+   "sfx_lu": -11.5,
+   "music_lu": -14
+  }
+ },
+ "shots": [
+  {
+   "id": "A1",
+   "file": "shots-cha-cold-open-ride",
+   "size": "wide",
+   "set": "street",
+   "key": 40,
+   "note": "Pip runs the red light on his scooter"
+  },
+  {
+   "id": "A2",
+   "file": "shots-cha-cold-open-ride",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "rides without helmet, helmet on the hook"
+  },
+  {
+   "id": "A3",
+   "file": "shots-cha-cold-open-ride",
+   "size": "medium",
+   "set": "street",
+   "key": 28,
+   "note": "passers-by watch and shrug"
+  },
+  {
+   "id": "A4",
+   "file": "shots-cha-cold-open-shop",
+   "size": "wide",
+   "set": "supermarket",
+   "key": 24,
+   "note": "walks into the store, cashier looks up"
+  },
+  {
+   "id": "A5",
+   "file": "shots-cha-cold-open-shop",
+   "size": "insert",
+   "set": "supermarket",
+   "key": 22,
+   "note": "mitten lifts a milk carton"
+  },
+  {
+   "id": "A6",
+   "file": "shots-cha-cold-open-shop",
+   "size": "wide",
+   "set": "supermarket",
+   "key": 20,
+   "note": "walks across to the door with the milk"
+  },
+  {
+   "id": "A7",
+   "file": "shots-cha-cold-open-shop",
+   "size": "medium",
+   "set": "supermarket",
+   "key": 36,
+   "note": "cashier stares as he walks past, no pay"
+  },
+  {
+   "id": "A8",
+   "file": "shots-cha-cold-open-night",
+   "size": "insert",
+   "set": "icons",
+   "key": 10,
+   "note": "law book crumbles into moonlit dust"
+  },
+  {
+   "id": "A9",
+   "file": "shots-cha-cold-open-night",
+   "size": "wide",
+   "set": "street",
+   "key": 16,
+   "note": "night street, rule signs fade"
+  },
+  {
+   "id": "A10",
+   "file": "shots-cha-premise-icons",
+   "size": "wide",
+   "set": "street",
+   "key": 60,
+   "note": "title card over the street"
+  },
+  {
+   "id": "A11",
+   "file": "shots-cha-premise-icons",
+   "size": "insert",
+   "set": "icons",
+   "key": 18,
+   "note": "empty police booth"
+  },
+  {
+   "id": "A12",
+   "file": "shots-cha-premise-icons",
+   "size": "wide",
+   "set": "icons",
+   "key": 18,
+   "note": "courthouse doors shut, gavel gone"
+  },
+  {
+   "id": "A13",
+   "file": "shots-cha-premise-icons",
+   "size": "insert",
+   "set": "icons",
+   "key": 18,
+   "note": "contract text fades to blank"
+  },
+  {
+   "id": "A14",
+   "file": "shots-cha-premise-icons",
+   "size": "insert",
+   "set": "icons",
+   "key": 3,
+   "note": "forbidden signs pop away"
+  },
+  {
+   "id": "A15",
+   "file": "shots-cha-rule-and-people",
+   "size": "medium",
+   "set": "street",
+   "key": 18,
+   "note": "family and neighbours stroll across"
+  },
+  {
+   "id": "A16",
+   "file": "shots-cha-rule-and-people",
+   "size": "wide",
+   "set": "street",
+   "key": 40,
+   "note": "normal busy street"
+  },
+  {
+   "id": "A17",
+   "file": "shots-cha-rule-and-people",
+   "size": "top-down",
+   "set": "crossroads",
+   "key": 14,
+   "note": "road paint and signs wipe away"
+  },
+  {
+   "id": "A18",
+   "file": "shots-cha-rule-and-people",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "two people shrug at each other"
+  },
+  {
+   "id": "A19",
+   "file": "shots-cha-freedom-scenes",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "Pip arms wide, bikes whizz past"
+  },
+  {
+   "id": "A20",
+   "file": "shots-cha-freedom-scenes",
+   "size": "wide",
+   "set": "street",
+   "key": 24,
+   "note": "Mo rips across the road cheering"
+  },
+  {
+   "id": "A21",
+   "file": "shots-cha-freedom-scenes",
+   "size": "close-up",
+   "set": "street",
+   "key": 20,
+   "note": "Mo hunched over bars, speed blur"
+  },
+  {
+   "id": "A22",
+   "file": "shots-cha-freedom-scenes",
+   "size": "medium",
+   "set": "street",
+   "key": 24,
+   "note": "Pip holds up the HOC THEM timetable"
+  },
+  {
+   "id": "A23",
+   "file": "shots-cha-freedom-scenes",
+   "size": "insert",
+   "set": "icons",
+   "key": 22,
+   "note": "two mittens rip the timetable"
+  },
+  {
+   "id": "A24",
+   "file": "shots-cha-freedom-scenes",
+   "size": "medium",
+   "set": "street",
+   "key": 20,
+   "note": "both laugh"
+  },
+  {
+   "id": "A25",
+   "file": "shots-cha-crossroads-approach",
+   "size": "wide",
+   "set": "street",
+   "key": 34,
+   "note": "Pip and Mo roll up to the crossing"
+  },
+  {
+   "id": "A26",
+   "file": "shots-cha-crossroads-approach",
+   "size": "insert",
+   "set": "street",
+   "key": 20,
+   "note": "signal blinking amber"
+  },
+  {
+   "id": "A27",
+   "file": "shots-cha-crossroads-approach",
+   "size": "top-down",
+   "set": "crossroads",
+   "key": 24,
+   "note": "traffic sails through the blinking light"
+  },
+  {
+   "id": "A28",
+   "file": "shots-cha-crossroads-approach",
+   "size": "top-down",
+   "set": "crossroads",
+   "key": 40,
+   "note": "four streams pour in"
+  },
+  {
+   "id": "A29",
+   "file": "shots-cha-crossroads-crash",
+   "size": "medium",
+   "set": "street",
+   "key": 14,
+   "note": "horns blaring, riders crammed in"
+  },
+  {
+   "id": "A30",
+   "file": "shots-cha-crossroads-crash",
+   "size": "medium",
+   "set": "street",
+   "key": 19,
+   "note": "the crash: bump, fallen bike, shocked rider"
+  },
+  {
+   "id": "A31",
+   "file": "shots-cha-crossroads-crash",
+   "size": "top-down",
+   "set": "crossroads",
+   "key": 20,
+   "note": "crossroads jammed solid"
+  },
+  {
+   "id": "A32",
+   "file": "shots-cha-crossroads-crash",
+   "size": "medium",
+   "set": "street",
+   "key": 16,
+   "note": "nose to nose, nobody gives way"
+  },
+  {
+   "id": "A33",
+   "file": "shots-cha-crossroads-crash",
+   "size": "wide",
+   "set": "street",
+   "key": 40,
+   "note": "who goes first? question marks"
+  },
+  {
+   "id": "A34",
+   "file": "shots-cha-crossroads-crash",
+   "size": "top-down",
+   "set": "crossroads",
+   "key": 70,
+   "note": "ambulance behind the jam, siren"
+  },
+  {
+   "id": "A35",
+   "file": "shots-cha-crossroads-crash",
+   "size": "medium",
+   "set": "street",
+   "key": 24,
+   "note": "ambulance fronts camera, nobody gives way"
+  },
+  {
+   "id": "B1",
+   "file": "shots-chb-helmets",
+   "size": "card",
+   "set": "schematic",
+   "key": 40,
+   "note": "1,19 TRIỆU counts, person icons light"
+  },
+  {
+   "id": "B2",
+   "file": "shots-chb-helmets",
+   "size": "medium",
+   "set": "schematic",
+   "key": 30,
+   "note": "scooter tips over, siren, warning triangle"
+  },
+  {
+   "id": "B3",
+   "file": "shots-chb-helmets",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": "helmet pops in huge, sparkles"
+  },
+  {
+   "id": "B4",
+   "file": "shots-chb-helmets",
+   "size": "card",
+   "set": "schematic",
+   "key": 50,
+   "note": "-42% risk bar"
+  },
+  {
+   "id": "B5",
+   "file": "shots-chb-helmets",
+   "size": "card",
+   "set": "schematic",
+   "key": 20,
+   "note": "2007 card"
+  },
+  {
+   "id": "B6",
+   "file": "shots-chb-helmets",
+   "size": "medium",
+   "set": "road",
+   "key": 30,
+   "note": "helmet sign pops beside road, bare heads ride by"
+  },
+  {
+   "id": "B7",
+   "file": "shots-chb-helmets",
+   "size": "wide",
+   "set": "road",
+   "key": 70,
+   "note": "~30% of riders put helmets on"
+  },
+  {
+   "id": "B8",
+   "file": "shots-chb-helmets",
+   "size": "medium",
+   "set": "road",
+   "key": 30,
+   "note": "the rest follow, 90%+"
+  },
+  {
+   "id": "B9",
+   "file": "shots-chb-helmets",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": "law document glowing"
+  },
+  {
+   "id": "B10",
+   "file": "shots-chb-helmets",
+   "size": "card",
+   "set": "schematic",
+   "key": 20,
+   "note": "ĐÓ LÀ THẬT tick"
+  },
+  {
+   "id": "B11",
+   "file": "shots-chb-shops",
+   "size": "wide",
+   "set": "street",
+   "key": 30,
+   "note": "alley at dawn, shutters down"
+  },
+  {
+   "id": "B12",
+   "file": "shots-chb-shops",
+   "size": "medium",
+   "set": "shopfront",
+   "key": 30,
+   "note": "convenience store shutter slams down"
+  },
+  {
+   "id": "B13",
+   "file": "shots-chb-shops",
+   "size": "close",
+   "set": "shopfront",
+   "key": 50,
+   "note": "owner peeks through gap, hand takes a bottle"
+  },
+  {
+   "id": "B14",
+   "file": "shots-chb-shops",
+   "size": "wide",
+   "set": "street",
+   "key": 20,
+   "note": "market empty, bag blows"
+  },
+  {
+   "id": "B15",
+   "file": "shots-chb-shops",
+   "size": "medium",
+   "set": "street",
+   "key": 20,
+   "note": "mum hesitates at xôi cart"
+  },
+  {
+   "id": "B16",
+   "file": "shots-chb-shops",
+   "size": "insert",
+   "set": "counter",
+   "key": 60,
+   "note": "mum hands guard the pot"
+  },
+  {
+   "id": "B17",
+   "file": "shots-chb-money",
+   "size": "medium",
+   "set": "gate",
+   "key": 40,
+   "note": "Mo dad, shut gate, empty pay envelope"
+  },
+  {
+   "id": "B18",
+   "file": "shots-chb-money",
+   "size": "insert",
+   "set": "counter",
+   "key": 30,
+   "note": "contract dissolves"
+  },
+  {
+   "id": "B19",
+   "file": "shots-chb-money",
+   "size": "wide",
+   "set": "bank",
+   "key": 30,
+   "note": "bank grille down, padlock"
+  },
+  {
+   "id": "B20",
+   "file": "shots-chb-money",
+   "size": "medium",
+   "set": "dark",
+   "key": 30,
+   "note": "Pip looks at balance on phone"
+  },
+  {
+   "id": "B21",
+   "file": "shots-chb-money",
+   "size": "insert",
+   "set": "dark",
+   "key": 20,
+   "note": "number blinks then digits float away"
+  },
+  {
+   "id": "B22",
+   "file": "shots-chb-money",
+   "size": "medium",
+   "set": "dark",
+   "key": 22,
+   "note": "pillar LUẬT fades, number falls"
+  },
+  {
+   "id": "B23",
+   "file": "shots-chb-money",
+   "size": "insert",
+   "set": "dark",
+   "key": 40,
+   "note": "phone floods with scam pop-ups"
+  },
+  {
+   "id": "B24",
+   "file": "shots-chb-money",
+   "size": "wide",
+   "set": "dark",
+   "key": 40,
+   "note": "hooded scammer, PHẠT crossed out"
+  },
+  {
+   "id": "B25",
+   "file": "shots-chb-montreal",
+   "size": "medium",
+   "set": "paper",
+   "key": 30,
+   "note": "old photograph of plain skyline"
+  },
+  {
+   "id": "B26",
+   "file": "shots-chb-montreal",
+   "size": "card",
+   "set": "paper",
+   "key": 40,
+   "note": "year flips back to 1969"
+  },
+  {
+   "id": "B27",
+   "file": "shots-chb-montreal",
+   "size": "wide",
+   "set": "paper",
+   "key": 50,
+   "note": "empty patrol car, ĐÌNH CÔNG, MONTREAL label"
+  },
+  {
+   "id": "B28",
+   "file": "shots-chb-montreal",
+   "size": "card",
+   "set": "paper",
+   "key": 40,
+   "note": "16-hour clock"
+  },
+  {
+   "id": "B29",
+   "file": "shots-chb-montreal",
+   "size": "card",
+   "set": "paper",
+   "key": 30,
+   "note": "6 banks"
+  },
+  {
+   "id": "B30",
+   "file": "shots-chb-montreal",
+   "size": "card",
+   "set": "paper",
+   "key": 40,
+   "note": "100+ shops"
+  },
+  {
+   "id": "B31",
+   "file": "shots-chb-montreal",
+   "size": "card",
+   "set": "paper",
+   "key": 35,
+   "note": "12 fires"
+  },
+  {
+   "id": "B32",
+   "file": "shots-chb-montreal",
+   "size": "card",
+   "set": "paper",
+   "key": 30,
+   "note": "ĐÓ LÀ THẬT tick"
+  },
+  {
+   "id": "C1",
+   "file": "shots-chc-jungle-street",
+   "size": "wide",
+   "set": "street",
+   "key": 60,
+   "note": "week one: street hurries, big man strides with stack"
+  },
+  {
+   "id": "C2",
+   "file": "shots-chc-jungle-street",
+   "size": "medium",
+   "set": "street",
+   "key": 20,
+   "note": "big man lifts stack off the stall, seller steps back"
+  },
+  {
+   "id": "C3",
+   "file": "shots-chc-jungle-street",
+   "size": "wide",
+   "set": "alley",
+   "key": 50,
+   "note": "gang strings the rope, sign, cash box"
+  },
+  {
+   "id": "C4",
+   "file": "shots-chc-jungle-street",
+   "size": "medium",
+   "set": "alley",
+   "key": 40,
+   "note": "reluctant payer drops a note in the box"
+  },
+  {
+   "id": "C5",
+   "file": "shots-chc-jungle-grandma-home",
+   "size": "medium",
+   "set": "street",
+   "key": 34,
+   "note": "grandma's ticket strip snatched, fluttering tickets (alert)"
+  },
+  {
+   "id": "C6",
+   "file": "shots-chc-jungle-grandma-home",
+   "size": "wide",
+   "set": "street",
+   "key": 30,
+   "note": "grandma looks around, empty police booth"
+  },
+  {
+   "id": "C7",
+   "file": "shots-chc-jungle-grandma-home",
+   "size": "medium",
+   "set": "door",
+   "key": 50,
+   "note": "door shut, bolt, padlock, bar"
+  },
+  {
+   "id": "C8",
+   "file": "shots-chc-jungle-grandma-home",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "neighbours swap the night-watch torch"
+  },
+  {
+   "id": "C9",
+   "file": "shots-chc-jungle-grandma-home",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 50,
+   "note": "sis at the window, torch beam on the glass"
+  },
+  {
+   "id": "C10",
+   "file": "shots-chc-family-candle",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 35,
+   "note": "family round one candle, dark kitchen"
+  },
+  {
+   "id": "C11",
+   "file": "shots-chc-family-candle",
+   "size": "insert",
+   "set": "kitchen",
+   "key": 20,
+   "note": "candle flame macro, soft faces"
+  },
+  {
+   "id": "C12",
+   "file": "shots-chc-family-candle",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 40,
+   "note": "mum speaks softly, push-in"
+  },
+  {
+   "id": "C13",
+   "file": "shots-chc-family-candle",
+   "size": "close",
+   "set": "kitchen",
+   "key": 40,
+   "note": "mum profile, eyes on the flame"
+  },
+  {
+   "id": "C14",
+   "file": "shots-chc-family-candle",
+   "size": "close",
+   "set": "kitchen",
+   "key": 28,
+   "note": "mum turns to sis, small smile"
+  },
+  {
+   "id": "C15",
+   "file": "shots-chc-family-candle",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 32,
+   "note": "sis leans on mum"
+  },
+  {
+   "id": "C16",
+   "file": "shots-chc-hobbes",
+   "size": "medium",
+   "set": "study",
+   "key": 30,
+   "note": "quill writing by candlelight"
+  },
+  {
+   "id": "C17",
+   "file": "shots-chc-hobbes",
+   "size": "medium",
+   "set": "card",
+   "key": 35,
+   "note": "Hobbes portrait + LEVIATHAN + name plate"
+  },
+  {
+   "id": "C18",
+   "file": "shots-chc-hobbes",
+   "size": "wide",
+   "set": "hill",
+   "key": 40,
+   "note": "lone figure on empty hill"
+  },
+  {
+   "id": "C19",
+   "file": "shots-chc-hobbes",
+   "size": "card",
+   "set": "card",
+   "key": 40,
+   "note": "CÔ ĐỘC, NGHÈO KHỔ stamped"
+  },
+  {
+   "id": "C20",
+   "file": "shots-chc-hobbes",
+   "size": "card",
+   "set": "card",
+   "key": 60,
+   "note": "TỒI TỆ, TÀN BẠO, NGẮN NGỦI stamped"
+  },
+  {
+   "id": "C21",
+   "file": "shots-chc-history",
+   "size": "medium",
+   "set": "card",
+   "key": 35,
+   "note": "history scroll unrolls"
+  },
+  {
+   "id": "C22",
+   "file": "shots-chc-history",
+   "size": "wide",
+   "set": "castle",
+   "key": 50,
+   "note": "medieval castle village sepia"
+  },
+  {
+   "id": "C23",
+   "file": "shots-chc-history",
+   "size": "card",
+   "set": "chart",
+   "key": 70,
+   "note": "bar chart medieval vs today"
+  },
+  {
+   "id": "C24",
+   "file": "shots-chc-history",
+   "size": "card",
+   "set": "chart",
+   "key": 30,
+   "note": "stamp ĐÓ LÀ THẬT"
+  },
+  {
+   "id": "C25",
+   "file": "shots-chc-history",
+   "size": "wide",
+   "set": "alley",
+   "key": 60,
+   "note": "leader's long shadow over the alley"
+  },
+  {
+   "id": "D1",
+   "file": "shots-chd-tonga-a",
+   "size": "wide",
+   "set": "map",
+   "key": 40,
+   "note": "Pacific parchment map, dot at TONGA pulsing, push-in"
+  },
+  {
+   "id": "D2",
+   "file": "shots-chd-tonga-a",
+   "size": "card",
+   "set": "schematic",
+   "key": 14,
+   "note": "1965 number card"
+  },
+  {
+   "id": "D3",
+   "file": "shots-chd-tonga-a",
+   "size": "wide",
+   "set": "beach",
+   "key": 44,
+   "note": "six Tongan boys pop in on the beach, 6 CAU BE banner"
+  },
+  {
+   "id": "D4",
+   "file": "shots-chd-tonga-a",
+   "size": "wide",
+   "set": "sea",
+   "key": 30,
+   "note": "boat capsizing in a storm, six heads in the water"
+  },
+  {
+   "id": "D5",
+   "file": "shots-chd-tonga-a",
+   "size": "wide",
+   "set": "island",
+   "key": 20,
+   "note": "rocky island, label DAO ATA, mini map with dot"
+  },
+  {
+   "id": "D6",
+   "file": "shots-chd-tonga-a",
+   "size": "medium",
+   "set": "beach",
+   "key": 50,
+   "note": "no adults / no law crossed-out signs"
+  },
+  {
+   "id": "D7",
+   "file": "shots-chd-tonga-a",
+   "size": "insert",
+   "set": "rock",
+   "key": 48,
+   "note": "15 tally marks on a rock, 15 THANG"
+  },
+  {
+   "id": "D8",
+   "file": "shots-chd-tonga-b",
+   "size": "insert",
+   "set": "novel",
+   "key": 50,
+   "note": "closed title-less novel crossed with red X"
+  },
+  {
+   "id": "D9",
+   "file": "shots-chd-tonga-b",
+   "size": "medium",
+   "set": "beach",
+   "key": 40,
+   "note": "boys round a slate, three rules scratch in"
+  },
+  {
+   "id": "D10",
+   "file": "shots-chd-tonga-b",
+   "size": "medium",
+   "set": "garden",
+   "key": 28,
+   "note": "two boys gardening as a pair"
+  },
+  {
+   "id": "D11",
+   "file": "shots-chd-tonga-b",
+   "size": "medium",
+   "set": "fire",
+   "key": 26,
+   "note": "fire, day to night, watch handed over"
+  },
+  {
+   "id": "D12",
+   "file": "shots-chd-tonga-b",
+   "size": "wide",
+   "set": "beach",
+   "key": 80,
+   "note": "quarrel, apart at opposite ends, handshake"
+  },
+  {
+   "id": "D13",
+   "file": "shots-chd-tonga-b",
+   "size": "wide",
+   "set": "sea",
+   "key": 36,
+   "note": "rescue boat arrives, boys wave"
+  },
+  {
+   "id": "D14",
+   "file": "shots-chd-tonga-b",
+   "size": "card",
+   "set": "schematic",
+   "key": 14,
+   "note": "6/6 then DO LA THAT stamp"
+  },
+  {
+   "id": "D15",
+   "file": "shots-chd-milk",
+   "size": "medium",
+   "set": "street",
+   "key": 36,
+   "note": "Pip remembers, iris onto the day-one fridge theft"
+  },
+  {
+   "id": "D16",
+   "file": "shots-chd-milk",
+   "size": "wide",
+   "set": "street",
+   "key": 20,
+   "note": "Pip walks back past the shut shops"
+  },
+  {
+   "id": "D17",
+   "file": "shots-chd-milk",
+   "size": "insert",
+   "set": "shop",
+   "key": 30,
+   "note": "notes land on the sill"
+  },
+  {
+   "id": "D18",
+   "file": "shots-chd-milk",
+   "size": "medium",
+   "set": "shop",
+   "key": 40,
+   "note": "owner eyes in the shutter gap, push-in"
+  },
+  {
+   "id": "D19",
+   "file": "shots-chd-milk",
+   "size": "medium",
+   "set": "shop",
+   "key": 40,
+   "note": "shutter rolls half up, light spills"
+  },
+  {
+   "id": "D20",
+   "file": "shots-chd-rebuild-a",
+   "size": "wide",
+   "set": "alley",
+   "key": 30,
+   "note": "dawn alley, neighbour sweeping"
+  },
+  {
+   "id": "D21",
+   "file": "shots-chd-rebuild-a",
+   "size": "wide",
+   "set": "doors",
+   "key": 50,
+   "note": "doors open one by one"
+  },
+  {
+   "id": "D22",
+   "file": "shots-chd-rebuild-a",
+   "size": "medium",
+   "set": "doors",
+   "key": 50,
+   "note": "grandma knocking door to door"
+  },
+  {
+   "id": "D23",
+   "file": "shots-chd-rebuild-a",
+   "size": "wide",
+   "set": "dinh",
+   "key": 40,
+   "note": "neighbourhood gathers in the communal courtyard"
+  },
+  {
+   "id": "D24",
+   "file": "shots-chd-rebuild-a",
+   "size": "medium",
+   "set": "dinh",
+   "key": 40,
+   "note": "board goes up, heading chalked"
+  },
+  {
+   "id": "D25",
+   "file": "shots-chd-rebuild-a",
+   "size": "insert",
+   "set": "board",
+   "key": 50,
+   "note": "rule 1 in chalk word by word"
+  },
+  {
+   "id": "D26",
+   "file": "shots-chd-rebuild-b",
+   "size": "medium",
+   "set": "school gate",
+   "key": 60,
+   "note": "rule 2 hand-painted sign at the school gate"
+  },
+  {
+   "id": "D27",
+   "file": "shots-chd-rebuild-b",
+   "size": "wide",
+   "set": "school gate",
+   "key": 44,
+   "note": "rider slows, neighbours wag fingers"
+  },
+  {
+   "id": "D28",
+   "file": "shots-chd-rebuild-b",
+   "size": "medium",
+   "set": "alley",
+   "key": 40,
+   "note": "mum pushes the xoi cart out, steam"
+  },
+  {
+   "id": "D29",
+   "file": "shots-chd-rebuild-b",
+   "size": "medium",
+   "set": "alley",
+   "key": 26,
+   "note": "sis walks to school with her bag"
+  },
+  {
+   "id": "E1",
+   "file": "shots-che-ostrom-intro",
+   "size": "medium",
+   "set": "sketch",
+   "key": 20,
+   "note": "Ostrom portrait sketch + name label"
+  },
+  {
+   "id": "E2",
+   "file": "shots-che-ostrom-intro",
+   "size": "close",
+   "set": "sketch",
+   "key": 20,
+   "note": "Nobel medal swings, NOBEL 2009 rolls"
+  },
+  {
+   "id": "E3",
+   "file": "shots-che-ostrom-intro",
+   "size": "medium",
+   "set": "sketch",
+   "key": 20,
+   "note": "sketched proof: villagers round a shared pot, tick"
+  },
+  {
+   "id": "E4",
+   "file": "shots-che-communities",
+   "size": "wide",
+   "set": "village",
+   "key": 20,
+   "note": "ordinary people of a community gather"
+  },
+  {
+   "id": "E5",
+   "file": "shots-che-communities",
+   "size": "wide",
+   "set": "village",
+   "key": 20,
+   "note": "fishing village: boats take turns, board of turns"
+  },
+  {
+   "id": "E6",
+   "file": "shots-che-communities",
+   "size": "wide",
+   "set": "field",
+   "key": 20,
+   "note": "irrigation canal: gates opened in turns"
+  },
+  {
+   "id": "E7",
+   "file": "shots-che-communities",
+   "size": "medium",
+   "set": "village",
+   "key": 20,
+   "note": "villagers share equal portions by a rule scroll"
+  },
+  {
+   "id": "E8",
+   "file": "shots-che-generations-and-stamp",
+   "size": "wide",
+   "set": "card",
+   "key": 20,
+   "note": "HANG TRAM NAM generations pass the rule scroll"
+  },
+  {
+   "id": "E9",
+   "file": "shots-che-generations-and-stamp",
+   "size": "medium",
+   "set": "sketch",
+   "key": 20,
+   "note": "DO LA THAT stamp"
+  },
+  {
+   "id": "E10",
+   "file": "shots-che-law-is-a-promise",
+   "size": "wide",
+   "set": "sky",
+   "key": 20,
+   "note": "law book falls from the sky, crossed out"
+  },
+  {
+   "id": "E11",
+   "file": "shots-che-law-is-a-promise",
+   "size": "medium",
+   "set": "insert",
+   "key": 20,
+   "note": "many hands write the law together, wobbly"
+  },
+  {
+   "id": "E12",
+   "file": "shots-che-law-is-a-promise",
+   "size": "medium",
+   "set": "board",
+   "key": 20,
+   "note": "good rule ticked, silly rule crossed"
+  },
+  {
+   "id": "E13",
+   "file": "shots-che-law-is-a-promise",
+   "size": "close",
+   "set": "insert",
+   "key": 20,
+   "note": "eraser and pencil fix a rule on the board"
+  },
+  {
+   "id": "E14",
+   "file": "shots-che-law-is-a-promise",
+   "size": "close",
+   "set": "insert",
+   "key": 20,
+   "note": "pinky promise"
+  },
+  {
+   "id": "E15",
+   "file": "shots-che-law-is-a-promise",
+   "size": "wide",
+   "set": "city",
+   "key": 20,
+   "note": "city of tiny people each holding a glowing thread"
+  },
+  {
+   "id": "E16",
+   "file": "shots-che-three-promises",
+   "size": "medium",
+   "set": "street",
+   "key": 20,
+   "note": "red light: everyone stops"
+  },
+  {
+   "id": "E17",
+   "file": "shots-che-three-promises",
+   "size": "medium",
+   "set": "street",
+   "key": 20,
+   "note": "borrowed bicycle handed back"
+  },
+  {
+   "id": "E18",
+   "file": "shots-che-three-promises",
+   "size": "insert",
+   "set": "street",
+   "key": 20,
+   "note": "a hand helps someone up"
+  },
+  {
+   "id": "E19",
+   "file": "shots-che-three-promises",
+   "size": "wide",
+   "set": "street",
+   "key": 20,
+   "note": "neighbours hold one glowing thread"
+  },
+  {
+   "id": "E20",
+   "file": "shots-che-freedom",
+   "size": "medium",
+   "set": "street",
+   "key": 20,
+   "note": "Pip arms wide, free"
+  },
+  {
+   "id": "E21",
+   "file": "shots-che-freedom",
+   "size": "wide",
+   "set": "street",
+   "key": 20,
+   "note": "lit street at night, sis skips"
+  },
+  {
+   "id": "E22",
+   "file": "shots-che-freedom",
+   "size": "medium",
+   "set": "street",
+   "key": 20,
+   "note": "mum xoi cart open at dawn"
+  },
+  {
+   "id": "E23",
+   "file": "shots-che-freedom",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 20,
+   "note": "Pip sleeps soundly, moonlit"
+  },
+  {
+   "id": "E24",
+   "file": "shots-che-end-card",
+   "size": "wide",
+   "set": "street",
+   "key": 20,
+   "note": "end card: question over the rule board"
+  },
+  {
+   "id": "E25",
+   "file": "shots-che-end-card",
+   "size": "wide",
+   "set": "street",
+   "key": 20,
+   "note": "end card: comment line, pencil waits"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "s:0.00",
+   "look": "h1"
+  },
+  {
+   "shot": "A2",
+   "at": "s:2.89",
+   "look": "h1"
+  },
+  {
+   "shot": "A3",
+   "at": "s:4.92",
+   "look": "h1"
+  },
+  {
+   "shot": "A4",
+   "at": "s:6.05",
+   "look": "h1"
+  },
+  {
+   "shot": "A5",
+   "at": "s:7.29",
+   "look": "h1"
+  },
+  {
+   "shot": "A6",
+   "at": "s:8.35",
+   "look": "h1"
+  },
+  {
+   "shot": "A7",
+   "at": "s:9.42",
+   "look": "h1"
+  },
+  {
+   "shot": "A8",
+   "at": "s:11.64",
+   "look": "h1"
+  },
+  {
+   "shot": "A9",
+   "at": "s:12.68",
+   "look": "h1"
+  },
+  {
+   "shot": "A10",
+   "at": "s:14.61"
+  },
+  {
+   "shot": "A11",
+   "at": "s:17.67"
+  },
+  {
+   "shot": "A12",
+   "at": "s:18.74"
+  },
+  {
+   "shot": "A13",
+   "at": "s:19.75"
+  },
+  {
+   "shot": "A14",
+   "at": "s:20.72"
+  },
+  {
+   "shot": "A15",
+   "at": "s:21.89"
+  },
+  {
+   "shot": "A16",
+   "at": "s:22.84"
+  },
+  {
+   "shot": "A17",
+   "at": "s:25.65"
+  },
+  {
+   "shot": "A18",
+   "at": "s:28.01"
+  },
+  {
+   "shot": "A19",
+   "at": "s:30.26",
+   "look": "h1"
+  },
+  {
+   "shot": "A20",
+   "at": "s:32.30",
+   "look": "h1"
+  },
+  {
+   "shot": "A21",
+   "at": "s:33.90",
+   "look": "h1"
+  },
+  {
+   "shot": "A22",
+   "at": "s:35.58",
+   "look": "h1"
+  },
+  {
+   "shot": "A23",
+   "at": "s:36.98",
+   "look": "h1"
+  },
+  {
+   "shot": "A24",
+   "at": "s:38.93",
+   "look": "h1"
+  },
+  {
+   "shot": "A25",
+   "at": "s:40.27",
+   "look": "h1"
+  },
+  {
+   "shot": "A26",
+   "at": "s:41.69",
+   "look": "h1"
+  },
+  {
+   "shot": "A27",
+   "at": "s:42.86",
+   "look": "h1"
+  },
+  {
+   "shot": "A28",
+   "at": "s:44.07",
+   "look": "h1"
+  },
+  {
+   "shot": "A29",
+   "at": "s:45.98",
+   "look": "h1"
+  },
+  {
+   "shot": "A30",
+   "at": "s:46.90",
+   "look": "alert"
+  },
+  {
+   "shot": "A31",
+   "at": "s:47.81",
+   "look": "alert"
+  },
+  {
+   "shot": "A32",
+   "at": "s:49.08",
+   "look": "h1"
+  },
+  {
+   "shot": "A33",
+   "at": "s:50.16",
+   "look": "h1"
+  },
+  {
+   "shot": "A34",
+   "at": "s:52.52",
+   "look": "h1"
+  },
+  {
+   "shot": "A35",
+   "at": "s:55.15",
+   "look": "h1"
+  },
+  {
+   "shot": "B1",
+   "at": "s:56.67",
+   "look": "h1"
+  },
+  {
+   "shot": "B2",
+   "at": "s:59.68",
+   "look": "h1"
+  },
+  {
+   "shot": "B3",
+   "at": "s:61.6",
+   "look": "h1"
+  },
+  {
+   "shot": "B4",
+   "at": "s:63.3",
+   "look": "h1"
+  },
+  {
+   "shot": "B5",
+   "at": "s:65.81",
+   "look": "h1"
+  },
+  {
+   "shot": "B6",
+   "at": "s:67.34",
+   "look": "h1"
+  },
+  {
+   "shot": "B7",
+   "at": "s:69.27",
+   "look": "h1"
+  },
+  {
+   "shot": "B8",
+   "at": "s:72.24",
+   "look": "h1"
+  },
+  {
+   "shot": "B9",
+   "at": "s:73.8",
+   "look": "h1"
+  },
+  {
+   "shot": "B10",
+   "at": "s:75.17",
+   "look": "h1"
+  },
+  {
+   "shot": "B11",
+   "at": "s:76.58",
+   "look": "d1"
+  },
+  {
+   "shot": "B12",
+   "at": "s:78.17",
+   "look": "d1"
+  },
+  {
+   "shot": "B13",
+   "at": "s:79.8",
+   "look": "d1"
+  },
+  {
+   "shot": "B14",
+   "at": "s:82.42",
+   "look": "d1"
+  },
+  {
+   "shot": "B15",
+   "at": "s:83.36",
+   "look": "d1"
+  },
+  {
+   "shot": "B16",
+   "at": "s:85.95",
+   "look": "d1"
+  },
+  {
+   "shot": "B17",
+   "at": "s:89.24",
+   "look": "d1"
+  },
+  {
+   "shot": "B18",
+   "at": "s:91.22",
+   "look": "d1"
+  },
+  {
+   "shot": "B19",
+   "at": "s:93.72",
+   "look": "d1"
+  },
+  {
+   "shot": "B20",
+   "at": "s:95.02",
+   "look": "d1"
+  },
+  {
+   "shot": "B21",
+   "at": "s:96.69",
+   "look": "d1"
+  },
+  {
+   "shot": "B22",
+   "at": "s:99.36",
+   "look": "d1"
+  },
+  {
+   "shot": "B23",
+   "at": "s:101.25",
+   "look": "d1"
+  },
+  {
+   "shot": "B24",
+   "at": "s:103.32",
+   "look": "d1"
+  },
+  {
+   "shot": "B25",
+   "at": "s:105.35",
+   "look": "memory"
+  },
+  {
+   "shot": "B26",
+   "at": "s:106.86",
+   "look": "memory"
+  },
+  {
+   "shot": "B27",
+   "at": "s:108.64",
+   "look": "memory"
+  },
+  {
+   "shot": "B28",
+   "at": "s:111.36",
+   "look": "memory"
+  },
+  {
+   "shot": "B29",
+   "at": "s:113.08",
+   "look": "memory"
+  },
+  {
+   "shot": "B30",
+   "at": "s:114.44",
+   "look": "memory"
+  },
+  {
+   "shot": "B31",
+   "at": "s:116.27",
+   "look": "memory"
+  },
+  {
+   "shot": "B32",
+   "at": "s:117.83",
+   "look": "memory"
+  },
+  {
+   "shot": "C1",
+   "at": "s:119.22",
+   "look": "w1"
+  },
+  {
+   "shot": "C2",
+   "at": "s:121.64",
+   "look": "w1"
+  },
+  {
+   "shot": "C3",
+   "at": "s:123.02",
+   "look": "w1"
+  },
+  {
+   "shot": "C4",
+   "at": "s:125.07",
+   "look": "w1"
+  },
+  {
+   "shot": "C5",
+   "at": "s:126.7",
+   "look": "alert"
+  },
+  {
+   "shot": "C6",
+   "at": "s:128.96",
+   "look": "w1"
+  },
+  {
+   "shot": "C7",
+   "at": "s:130.31",
+   "look": "w1"
+  },
+  {
+   "shot": "C8",
+   "at": "s:132.16",
+   "look": "w1"
+  },
+  {
+   "shot": "C9",
+   "at": "s:133.36",
+   "look": "w1"
+  },
+  {
+   "shot": "C10",
+   "at": "s:135.69",
+   "look": "blackout"
+  },
+  {
+   "shot": "C11",
+   "at": "s:137.44",
+   "look": "blackout"
+  },
+  {
+   "shot": "C12",
+   "at": "s:138.43",
+   "look": "blackout"
+  },
+  {
+   "shot": "C13",
+   "at": "s:140.35",
+   "look": "blackout"
+  },
+  {
+   "shot": "C14",
+   "at": "s:142.4",
+   "look": "blackout"
+  },
+  {
+   "shot": "C15",
+   "at": "s:143.79",
+   "look": "blackout"
+  },
+  {
+   "shot": "C16",
+   "at": "s:145.42",
+   "look": "memory"
+  },
+  {
+   "shot": "C17",
+   "at": "s:147.38",
+   "look": "memory"
+  },
+  {
+   "shot": "C18",
+   "at": "s:149.05",
+   "look": "memory"
+  },
+  {
+   "shot": "C19",
+   "at": "s:151.24",
+   "look": "memory"
+  },
+  {
+   "shot": "C20",
+   "at": "s:152.69",
+   "look": "memory"
+  },
+  {
+   "shot": "C21",
+   "at": "s:154.88",
+   "look": "memory"
+  },
+  {
+   "shot": "C22",
+   "at": "s:156.91",
+   "look": "memory"
+  },
+  {
+   "shot": "C23",
+   "at": "s:159.48",
+   "look": "memory"
+  },
+  {
+   "shot": "C24",
+   "at": "s:162.15",
+   "look": "memory"
+  },
+  {
+   "shot": "C25",
+   "at": "s:163.75",
+   "look": "w1"
+  },
+  {
+   "shot": "D1",
+   "at": "s:166.25",
+   "look": "memory"
+  },
+  {
+   "shot": "D2",
+   "at": "s:167.98",
+   "look": "memory"
+  },
+  {
+   "shot": "D3",
+   "at": "s:169.77",
+   "look": "memory"
+  },
+  {
+   "shot": "D4",
+   "at": "s:171.48",
+   "look": "memory"
+  },
+  {
+   "shot": "D5",
+   "at": "s:173.04",
+   "look": "memory"
+  },
+  {
+   "shot": "D6",
+   "at": "s:174.23",
+   "look": "memory"
+  },
+  {
+   "shot": "D7",
+   "at": "s:176.07",
+   "look": "memory"
+  },
+  {
+   "shot": "D8",
+   "at": "s:177.85",
+   "look": "memory"
+  },
+  {
+   "shot": "D9",
+   "at": "s:180.37",
+   "look": "memory"
+  },
+  {
+   "shot": "D10",
+   "at": "s:181.67",
+   "look": "memory"
+  },
+  {
+   "shot": "D11",
+   "at": "s:182.88",
+   "look": "memory"
+  },
+  {
+   "shot": "D12",
+   "at": "s:184.14",
+   "look": "memory"
+  },
+  {
+   "shot": "D13",
+   "at": "s:187.49",
+   "look": "memory"
+  },
+  {
+   "shot": "D14",
+   "at": "s:189.06",
+   "look": "memory"
+  },
+  {
+   "shot": "D15",
+   "at": "s:190.81",
+   "look": "m1"
+  },
+  {
+   "shot": "D16",
+   "at": "s:193.16",
+   "look": "m1"
+  },
+  {
+   "shot": "D17",
+   "at": "s:194.51",
+   "look": "m1"
+  },
+  {
+   "shot": "D18",
+   "at": "s:196.05",
+   "look": "m1"
+  },
+  {
+   "shot": "D19",
+   "at": "s:198.28",
+   "look": "m1"
+  },
+  {
+   "shot": "D20",
+   "at": "s:200.51",
+   "look": "m1"
+  },
+  {
+   "shot": "D21",
+   "at": "s:202.27",
+   "look": "m1"
+  },
+  {
+   "shot": "D22",
+   "at": "s:204.26",
+   "look": "m1"
+  },
+  {
+   "shot": "D23",
+   "at": "s:206.6",
+   "look": "peace"
+  },
+  {
+   "shot": "D24",
+   "at": "s:208.36",
+   "look": "peace"
+  },
+  {
+   "shot": "D25",
+   "at": "s:210.64",
+   "look": "peace"
+  },
+  {
+   "shot": "D26",
+   "at": "s:212.46",
+   "look": "peace"
+  },
+  {
+   "shot": "D27",
+   "at": "s:215.13",
+   "look": "peace"
+  },
+  {
+   "shot": "D28",
+   "at": "s:217.38",
+   "look": "peace"
+  },
+  {
+   "shot": "D29",
+   "at": "s:219.22",
+   "look": "peace"
+  },
+  {
+   "shot": "E1",
+   "at": "s:220.45",
+   "look": "memory"
+  },
+  {
+   "shot": "E2",
+   "at": "s:222.31",
+   "look": "memory"
+  },
+  {
+   "shot": "E3",
+   "at": "s:224.03",
+   "look": "peace"
+  },
+  {
+   "shot": "E4",
+   "at": "s:225.69",
+   "look": "peace"
+  },
+  {
+   "shot": "E5",
+   "at": "s:226.93",
+   "look": "peace"
+  },
+  {
+   "shot": "E6",
+   "at": "s:228.36",
+   "look": "peace"
+  },
+  {
+   "shot": "E7",
+   "at": "s:230.14",
+   "look": "peace"
+  },
+  {
+   "shot": "E8",
+   "at": "s:232.76",
+   "look": "peace"
+  },
+  {
+   "shot": "E9",
+   "at": "s:234.25",
+   "look": "peace"
+  },
+  {
+   "shot": "E10",
+   "at": "s:236.54",
+   "look": "peace"
+  },
+  {
+   "shot": "E11",
+   "at": "s:238.32",
+   "look": "peace"
+  },
+  {
+   "shot": "E12",
+   "at": "s:240.25",
+   "look": "peace"
+  },
+  {
+   "shot": "E13",
+   "at": "s:241.93",
+   "look": "peace"
+  },
+  {
+   "shot": "E14",
+   "at": "s:243.78",
+   "look": "peace"
+  },
+  {
+   "shot": "E15",
+   "at": "s:245.09",
+   "look": "peace"
+  },
+  {
+   "shot": "E16",
+   "at": "s:246.78",
+   "look": "peace"
+  },
+  {
+   "shot": "E17",
+   "at": "s:247.97",
+   "look": "peace"
+  },
+  {
+   "shot": "E18",
+   "at": "s:248.99",
+   "look": "peace"
+  },
+  {
+   "shot": "E19",
+   "at": "s:250.46",
+   "look": "peace"
+  },
+  {
+   "shot": "E20",
+   "at": "s:252.07",
+   "look": "peace"
+  },
+  {
+   "shot": "E21",
+   "at": "s:253.50",
+   "look": "peace"
+  },
+  {
+   "shot": "E22",
+   "at": "s:255.13",
+   "look": "peace"
+  },
+  {
+   "shot": "E23",
+   "at": "s:256.62",
+   "look": "peace"
+  },
+  {
+   "shot": "E24",
+   "at": "s:258.46",
+   "look": "peace"
+  },
+  {
+   "shot": "E25",
+   "at": "s:262.64",
+   "look": "peace"
+  }
+ ],
+ "fx": [
+  {
+   "at": "A30+12",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.5
+  },
+  {
+   "at": "A30+12",
+   "kind": "shake",
+   "len": 8,
+   "amp": 12
+  },
+  {
+   "at": "B2+8",
+   "kind": "shake",
+   "len": 8,
+   "amp": 5
+  },
+  {
+   "at": "B12+9",
+   "kind": "shake",
+   "len": 8,
+   "amp": 6
+  },
+  {
+   "at": "B24+34",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25
+  },
+  {
+   "at": "C5+32",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.35
+  },
+  {
+   "at": "C24+8",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.3
+  },
+  {
+   "at": "E9+11",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.25
+  },
+  {
+   "at": "E10+32",
+   "kind": "flash",
+   "color": "#FFB0A0",
+   "o": 0.2
+  },
+  {
+   "at": "E14+8",
+   "kind": "flash",
+   "color": "#FFE9A8",
+   "o": 0.2
+  }
+ ]
+}

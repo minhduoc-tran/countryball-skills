@@ -1,0 +1,2547 @@
+{
+ "slug": "dai-duong-can",
+ "title": "SẼ RA SAO NẾU ĐẠI DƯƠNG KHÔNG CÒN NƯỚC?",
+ "fps": 30,
+ "total": 8490,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 48,
+   "t0": 0,
+   "t1": 48,
+   "line": "Bạn đang ở biển Đà Nẵng."
+  },
+  {
+   "shot": "A2",
+   "a": 48,
+   "b": 98,
+   "t0": 0,
+   "t1": 50,
+   "line": "Nắng đẹp, gió mát."
+  },
+  {
+   "shot": "A3",
+   "a": 98,
+   "b": 156,
+   "t0": 0,
+   "t1": 58,
+   "line": "Bạn vừa thả mình xuống làn nước."
+  },
+  {
+   "shot": "A4",
+   "a": 156,
+   "b": 196,
+   "t0": 0,
+   "t1": 40,
+   "line": "Rồi nước bắt đầu rút."
+  },
+  {
+   "shot": "A5",
+   "a": 196,
+   "b": 227,
+   "t0": 0,
+   "t1": 31,
+   "line": "Rút mãi."
+  },
+  {
+   "shot": "A6",
+   "a": 227,
+   "b": 286,
+   "t0": 0,
+   "t1": 59,
+   "line": "Và không bao giờ quay lại."
+  },
+  {
+   "shot": "A7",
+   "a": 286,
+   "b": 364,
+   "t0": 0,
+   "t1": 78,
+   "line": "Sẽ ra sao nếu đại dương không còn nước?"
+  },
+  {
+   "shot": "A8",
+   "a": 364,
+   "b": 395,
+   "t0": 0,
+   "t1": 31,
+   "line": "Không phải cạn dần."
+  },
+  {
+   "shot": "A9",
+   "a": 395,
+   "b": 472,
+   "t0": 0,
+   "t1": 77,
+   "line": "Mà biến mất, chỉ trong một giây."
+  },
+  {
+   "shot": "A10",
+   "a": 472,
+   "b": 534,
+   "t0": 0,
+   "t1": 62,
+   "line": "Giây đầu tiên, tiếng sóng tắt ngấm.",
+   "look": "sec1"
+  },
+  {
+   "shot": "A11",
+   "a": 534,
+   "b": 571,
+   "t0": 0,
+   "t1": 37,
+   "line": "Hàng tỷ con cá giãy đành",
+   "look": "sec1"
+  },
+  {
+   "shot": "A12",
+   "a": 571,
+   "b": 610,
+   "t0": 0,
+   "t1": 39,
+   "line": "đạch trên cát.",
+   "look": "sec1"
+  },
+  {
+   "shot": "A13",
+   "a": 610,
+   "b": 652,
+   "t0": 0,
+   "t1": 42,
+   "line": "Những con tàu khổng lồ nằm"
+  },
+  {
+   "shot": "A14",
+   "a": 652,
+   "b": 687,
+   "t0": 0,
+   "t1": 35,
+   "line": "nghiêng giữa bãi bùn."
+  },
+  {
+   "shot": "A15",
+   "a": 687,
+   "b": 724,
+   "t0": 0,
+   "t1": 37,
+   "line": "Mo đứng trên bờ kè,"
+  },
+  {
+   "shot": "A16",
+   "a": 724,
+   "b": 757,
+   "t0": 0,
+   "t1": 33,
+   "line": "tay cầm cần câu,"
+  },
+  {
+   "shot": "A17",
+   "a": 757,
+   "b": 807,
+   "t0": 0,
+   "t1": 50,
+   "line": "nhìn xuống một cái hố sâu hun hút."
+  },
+  {
+   "shot": "A18",
+   "a": 807,
+   "b": 840,
+   "t0": 0,
+   "t1": 33,
+   "line": "Biển đâu rồi mày?"
+  },
+  {
+   "shot": "A19",
+   "a": 840,
+   "b": 915,
+   "t0": 0,
+   "t1": 75,
+   "line": "Đại dương phủ bảy mươi mốt phần trăm bề mặt Trái Đất,"
+  },
+  {
+   "shot": "A20",
+   "a": 915,
+   "b": 1006,
+   "t0": 0,
+   "t1": 91,
+   "line": "chứa hơn một tỷ ba trăm triệu ki lô mét khối nước,"
+  },
+  {
+   "shot": "A21",
+   "a": 1006,
+   "b": 1099,
+   "t0": 0,
+   "t1": 93,
+   "line": "tức là chín mươi bảy phần trăm toàn bộ nước trên hành tinh."
+  },
+  {
+   "shot": "A22",
+   "a": 1099,
+   "b": 1176,
+   "t0": 0,
+   "t1": 77,
+   "line": "Giờ, tất cả chỉ còn là một cái hố khổng lồ,"
+  },
+  {
+   "shot": "A23",
+   "a": 1176,
+   "b": 1264,
+   "t0": 0,
+   "t1": 88,
+   "line": "sâu trung bình gần bốn cây số.",
+   "look": "drained"
+  },
+  {
+   "shot": "A24",
+   "a": 1264,
+   "b": 1318,
+   "t0": 0,
+   "t1": 54,
+   "line": "Rồi bạn thấy một thế giới bị giấu kín"
+  },
+  {
+   "shot": "A25",
+   "a": 1318,
+   "b": 1352,
+   "t0": 0,
+   "t1": 34,
+   "line": "suốt hàng triệu năm."
+  },
+  {
+   "shot": "A26",
+   "a": 1352,
+   "b": 1420,
+   "t0": 0,
+   "t1": 68,
+   "line": "Một dãy núi dài sáu mươi lăm nghìn cây số"
+  },
+  {
+   "shot": "A27",
+   "a": 1420,
+   "b": 1472,
+   "t0": 0,
+   "t1": 52,
+   "line": "chạy vòng quanh Trái Đất."
+  },
+  {
+   "shot": "A28",
+   "a": 1472,
+   "b": 1526,
+   "t0": 0,
+   "t1": 54,
+   "line": "Đó là dãy núi dài nhất hành tinh,"
+  },
+  {
+   "shot": "A29",
+   "a": 1526,
+   "b": 1579,
+   "t0": 0,
+   "t1": 53,
+   "line": "và trước giờ nó nằm dưới nước."
+  },
+  {
+   "shot": "A30",
+   "a": 1579,
+   "b": 1634,
+   "t0": 0,
+   "t1": 55,
+   "line": "Một ngọn núi lửa giữa Thái Bình Dương,"
+  },
+  {
+   "shot": "A31",
+   "a": 1634,
+   "b": 1713,
+   "t0": 0,
+   "t1": 79,
+   "line": "tính từ chân dưới đáy biển, cao hơn mười nghìn mét,"
+  },
+  {
+   "shot": "A32",
+   "a": 1713,
+   "b": 1770,
+   "t0": 0,
+   "t1": 57,
+   "line": "cao hơn cả đỉnh Everest."
+  },
+  {
+   "shot": "A33",
+   "a": 1770,
+   "b": 1850,
+   "t0": 0,
+   "t1": 80,
+   "line": "Còn rãnh Mariana sâu gần mười một nghìn mét."
+  },
+  {
+   "shot": "A34",
+   "a": 1850,
+   "b": 1901,
+   "t0": 0,
+   "t1": 51,
+   "line": "Đặt cả đỉnh Everest vào đó,"
+  },
+  {
+   "shot": "A35",
+   "a": 1901,
+   "b": 1966,
+   "t0": 0,
+   "t1": 65,
+   "line": "phía trên vẫn còn thừa hơn hai cây số."
+  },
+  {
+   "shot": "A36",
+   "a": 1966,
+   "b": 1990,
+   "t0": 0,
+   "t1": 24,
+   "line": "Đó là thật."
+  },
+  {
+   "shot": "B1",
+   "a": 1990,
+   "b": 2030,
+   "t0": 0,
+   "t1": 40,
+   "line": "Còn Việt Nam thì sao?",
+   "look": "drained"
+  },
+  {
+   "shot": "B2",
+   "a": 2030,
+   "b": 2099,
+   "t0": 0,
+   "t1": 69,
+   "line": "Vịnh Hạ Long biến thành một thung lũng khô,",
+   "look": "drained"
+  },
+  {
+   "shot": "B3",
+   "a": 2099,
+   "b": 2183,
+   "t0": 0,
+   "t1": 84,
+   "line": "hàng nghìn cột đá vôi đứng sừng sững giữa đồng bằng."
+  },
+  {
+   "shot": "B4",
+   "a": 2183,
+   "b": 2258,
+   "t0": 0,
+   "t1": 75,
+   "line": "Từ Đà Nẵng, bạn có thể đi bộ ra Hoàng Sa,"
+  },
+  {
+   "shot": "B5",
+   "a": 2258,
+   "b": 2330,
+   "t0": 0,
+   "t1": 72,
+   "line": "giờ là những cao nguyên nhô lên giữa sa mạc."
+  },
+  {
+   "shot": "B6",
+   "a": 2330,
+   "b": 2356,
+   "t0": 0,
+   "t1": 26,
+   "line": "Nghe như phim."
+  },
+  {
+   "shot": "B7",
+   "a": 2356,
+   "b": 2436,
+   "t0": 0,
+   "t1": 80,
+   "line": "Nhưng khoảng hai mươi nghìn năm trước, thời kỳ băng hà,",
+   "look": "past"
+  },
+  {
+   "shot": "B8",
+   "a": 2436,
+   "b": 2526,
+   "t0": 0,
+   "t1": 90,
+   "line": "mực nước biển thấp hơn bây giờ khoảng một trăm hai mươi mét.",
+   "look": "past"
+  },
+  {
+   "shot": "B9",
+   "a": 2526,
+   "b": 2589,
+   "t0": 0,
+   "t1": 63,
+   "line": "Khi đó, người xưa có thể đi bộ từ",
+   "look": "past"
+  },
+  {
+   "shot": "B10",
+   "a": 2589,
+   "b": 2666,
+   "t0": 0,
+   "t1": 77,
+   "line": "miền Nam Việt Nam sang tận đảo Borneo.",
+   "look": "past"
+  },
+  {
+   "shot": "B11",
+   "a": 2666,
+   "b": 2715,
+   "t0": 0,
+   "t1": 49,
+   "line": "Đó là thật.",
+   "look": "past"
+  },
+  {
+   "shot": "B12",
+   "a": 2715,
+   "b": 2783,
+   "t0": 0,
+   "t1": 68,
+   "line": "Những ngày đầu, cả thế giới phát cuồng.",
+   "look": "days"
+  },
+  {
+   "shot": "B13",
+   "a": 2783,
+   "b": 2857,
+   "t0": 0,
+   "t1": 74,
+   "line": "Người ta đổ xô xuống đáy biển tìm kho báu.",
+   "look": "days"
+  },
+  {
+   "shot": "B14",
+   "a": 2857,
+   "b": 2910,
+   "t0": 0,
+   "t1": 53,
+   "line": "Có khoảng ba triệu xác tàu đắm"
+  },
+  {
+   "shot": "B15",
+   "a": 2910,
+   "b": 2963,
+   "t0": 0,
+   "t1": 53,
+   "line": "nằm rải rác dưới đáy đại dương."
+  },
+  {
+   "shot": "B16",
+   "a": 2963,
+   "b": 3048,
+   "t0": 0,
+   "t1": 85,
+   "line": "Con tàu Titanic, nằm ở độ sâu gần bốn nghìn mét,"
+  },
+  {
+   "shot": "B17",
+   "a": 3048,
+   "b": 3086,
+   "t0": 0,
+   "t1": 38,
+   "line": "giờ thành điểm du lịch."
+  },
+  {
+   "shot": "B18",
+   "a": 3086,
+   "b": 3157,
+   "t0": 0,
+   "t1": 71,
+   "line": "Pip và Mo đạp xe xuống thềm lục địa,"
+  },
+  {
+   "shot": "B19",
+   "a": 3157,
+   "b": 3217,
+   "t0": 0,
+   "t1": 60,
+   "line": "nhặt được một cái mỏ neo hoen gỉ."
+  },
+  {
+   "shot": "B20",
+   "a": 3217,
+   "b": 3283,
+   "t0": 0,
+   "t1": 66,
+   "line": "Và lạ thay, Internet vẫn chạy."
+  },
+  {
+   "shot": "B21",
+   "a": 3283,
+   "b": 3359,
+   "t0": 0,
+   "t1": 76,
+   "line": "Hơn chín mươi chín phần trăm dữ liệu giữa các châu lục"
+  },
+  {
+   "shot": "B22",
+   "a": 3359,
+   "b": 3422,
+   "t0": 0,
+   "t1": 63,
+   "line": "đi qua những sợi cáp quang dưới biển."
+  },
+  {
+   "shot": "B23",
+   "a": 3422,
+   "b": 3525,
+   "t0": 0,
+   "t1": 103,
+   "line": "Giờ chúng vẫn nằm đó, phơi mình giữa sa mạc."
+  },
+  {
+   "shot": "C1",
+   "a": 3525,
+   "b": 3584,
+   "t0": 0,
+   "t1": 59,
+   "line": "Nhưng rồi, mùi bắt đầu bốc lên.",
+   "look": "days"
+  },
+  {
+   "shot": "C2",
+   "a": 3584,
+   "b": 3637,
+   "t0": 0,
+   "t1": 53,
+   "line": "Hơn hai trăm nghìn loài sinh vật biển,"
+  },
+  {
+   "shot": "C3",
+   "a": 3637,
+   "b": 3670,
+   "t0": 0,
+   "t1": 33,
+   "line": "từ cá voi xanh đến"
+  },
+  {
+   "shot": "C4",
+   "a": 3670,
+   "b": 3728,
+   "t0": 0,
+   "t1": 58,
+   "line": "những sinh vật phù du nhỏ xíu,"
+  },
+  {
+   "shot": "C5",
+   "a": 3728,
+   "b": 3776,
+   "t0": 0,
+   "t1": 48,
+   "line": "gần như chết cùng một lúc."
+  },
+  {
+   "shot": "C6",
+   "a": 3776,
+   "b": 3835,
+   "t0": 0,
+   "t1": 59,
+   "line": "Bờ biển nào cũng nồng nặc mùi tanh,"
+  },
+  {
+   "shot": "C7",
+   "a": 3835,
+   "b": 3871,
+   "t0": 0,
+   "t1": 36,
+   "line": "kéo dài hàng tháng.",
+   "look": "months"
+  },
+  {
+   "shot": "C8",
+   "a": 3871,
+   "b": 3908,
+   "t0": 0,
+   "t1": 37,
+   "line": "Hơn ba tỷ người trên thế giới"
+  },
+  {
+   "shot": "C9",
+   "a": 3908,
+   "b": 3958,
+   "t0": 0,
+   "t1": 50,
+   "line": "dựa vào cá và hải sản để lấy"
+  },
+  {
+   "shot": "C10",
+   "a": 3958,
+   "b": 4032,
+   "t0": 0,
+   "t1": 74,
+   "line": "ít nhất một phần năm lượng đạm động vật."
+  },
+  {
+   "shot": "C11",
+   "a": 4032,
+   "b": 4088,
+   "t0": 0,
+   "t1": 56,
+   "line": "Ở Việt Nam, không còn cá cơm,"
+  },
+  {
+   "shot": "C12",
+   "a": 4088,
+   "b": 4131,
+   "t0": 0,
+   "t1": 43,
+   "line": "thì cũng không còn nước mắm."
+  },
+  {
+   "shot": "C13",
+   "a": 4131,
+   "b": 4175,
+   "t0": 0,
+   "t1": 44,
+   "line": "Rồi đến nền kinh tế."
+  },
+  {
+   "shot": "C14",
+   "a": 4175,
+   "b": 4239,
+   "t0": 0,
+   "t1": 64,
+   "line": "Hơn tám mươi phần trăm hàng hóa thế giới được"
+  },
+  {
+   "shot": "C15",
+   "a": 4239,
+   "b": 4276,
+   "t0": 0,
+   "t1": 37,
+   "line": "chở bằng đường biển."
+  },
+  {
+   "shot": "C16",
+   "a": 4276,
+   "b": 4307,
+   "t0": 0,
+   "t1": 31,
+   "line": "Chỉ sau một giây,",
+   "look": "sec1"
+  },
+  {
+   "shot": "C17",
+   "a": 4307,
+   "b": 4363,
+   "t0": 0,
+   "t1": 56,
+   "line": "hàng chục nghìn con tàu mắc cạn."
+  },
+  {
+   "shot": "C18",
+   "a": 4363,
+   "b": 4430,
+   "t0": 0,
+   "t1": 67,
+   "line": "Xăng dầu, lương thực, điện thoại,"
+  },
+  {
+   "shot": "C19",
+   "a": 4430,
+   "b": 4466,
+   "t0": 0,
+   "t1": 36,
+   "line": "tất cả kẹt lại."
+  },
+  {
+   "shot": "C20",
+   "a": 4466,
+   "b": 4500,
+   "t0": 0,
+   "t1": 34,
+   "line": "Giá cả tăng vọt."
+  },
+  {
+   "shot": "C21",
+   "a": 4500,
+   "b": 4554,
+   "t0": 0,
+   "t1": 54,
+   "line": "Mẹ đứng trước quầy cá trống trơn,"
+  },
+  {
+   "shot": "C22",
+   "a": 4554,
+   "b": 4593,
+   "t0": 0,
+   "t1": 39,
+   "line": "chỉ còn một tấm biển."
+  },
+  {
+   "shot": "C23",
+   "a": 4593,
+   "b": 4645,
+   "t0": 0,
+   "t1": 52,
+   "line": "Hết hàng."
+  },
+  {
+   "shot": "C24",
+   "a": 4645,
+   "b": 4681,
+   "t0": 0,
+   "t1": 36,
+   "line": "Và còn muối nữa."
+  },
+  {
+   "shot": "C25",
+   "a": 4681,
+   "b": 4751,
+   "t0": 0,
+   "t1": 70,
+   "line": "Nước biến mất, nhưng muối ở lại."
+  },
+  {
+   "shot": "C26",
+   "a": 4751,
+   "b": 4806,
+   "t0": 0,
+   "t1": 55,
+   "line": "Cả đáy đại dương phủ một lớp muối dày"
+  },
+  {
+   "shot": "C27",
+   "a": 4806,
+   "b": 4846,
+   "t0": 0,
+   "t1": 40,
+   "line": "khoảng sáu mươi mét."
+  },
+  {
+   "shot": "C28",
+   "a": 4846,
+   "b": 4894,
+   "t0": 0,
+   "t1": 48,
+   "line": "Gió cuốn bụi muối lên đất liền,"
+  },
+  {
+   "shot": "C29",
+   "a": 4894,
+   "b": 4939,
+   "t0": 0,
+   "t1": 45,
+   "line": "phủ trắng những cánh đồng lúa."
+  },
+  {
+   "shot": "C30",
+   "a": 4939,
+   "b": 4988,
+   "t0": 0,
+   "t1": 49,
+   "line": "Chuyện này đã từng xảy ra."
+  },
+  {
+   "shot": "C31",
+   "a": 4988,
+   "b": 5022,
+   "t0": 0,
+   "t1": 34,
+   "line": "Biển Aral ở Trung"
+  },
+  {
+   "shot": "C32",
+   "a": 5022,
+   "b": 5097,
+   "t0": 0,
+   "t1": 75,
+   "line": "Á từng là hồ nước lớn thứ tư thế giới."
+  },
+  {
+   "shot": "C33",
+   "a": 5097,
+   "b": 5128,
+   "t0": 0,
+   "t1": 31,
+   "line": "Khi nó cạn khô,"
+  },
+  {
+   "shot": "C34",
+   "a": 5128,
+   "b": 5196,
+   "t0": 0,
+   "t1": 68,
+   "line": "những cơn bão bụi muối đã tàn phá đồng ruộng"
+  },
+  {
+   "shot": "C35",
+   "a": 5196,
+   "b": 5256,
+   "t0": 0,
+   "t1": 60,
+   "line": "và sức khỏe của người dân quanh đó."
+  },
+  {
+   "shot": "C36",
+   "a": 5256,
+   "b": 5298,
+   "t0": 0,
+   "t1": 42,
+   "line": "Đó là thật."
+  },
+  {
+   "shot": "D1",
+   "a": 5298,
+   "b": 5367,
+   "t0": 0,
+   "t1": 69,
+   "line": "Nhưng thứ đáng sợ nhất, là bầu trời.",
+   "look": "drained"
+  },
+  {
+   "shot": "D2",
+   "a": 5367,
+   "b": 5439,
+   "t0": 0,
+   "t1": 72,
+   "line": "Đại dương là cái nồi hơi khổng lồ của Trái Đất."
+  },
+  {
+   "shot": "D3",
+   "a": 5439,
+   "b": 5543,
+   "t0": 0,
+   "t1": 104,
+   "line": "Khoảng tám mươi lăm phần trăm hơi nước bốc lên bầu trời là từ biển."
+  },
+  {
+   "shot": "D4",
+   "a": 5543,
+   "b": 5608,
+   "t0": 0,
+   "t1": 65,
+   "line": "Hơi nước thành mây, mây thành mưa."
+  },
+  {
+   "shot": "D5",
+   "a": 5608,
+   "b": 5699,
+   "t0": 0,
+   "t1": 91,
+   "line": "Khoảng sáu mươi phần trăm lượng mưa rơi xuống đất liền"
+  },
+  {
+   "shot": "D6",
+   "a": 5699,
+   "b": 5750,
+   "t0": 0,
+   "t1": 51,
+   "line": "có nguồn gốc từ đại dương."
+  },
+  {
+   "shot": "D7",
+   "a": 5750,
+   "b": 5834,
+   "t0": 0,
+   "t1": 84,
+   "line": "Không có biển, mây thưa dần. Mưa thưa dần."
+  },
+  {
+   "shot": "D8",
+   "a": 5834,
+   "b": 5895,
+   "t0": 0,
+   "t1": 61,
+   "line": "Đồng bằng sông Cửu Long, vựa lúa của"
+  },
+  {
+   "shot": "D9",
+   "a": 5895,
+   "b": 5936,
+   "t0": 0,
+   "t1": 41,
+   "line": "cả nước, nứt nẻ.",
+   "look": "years"
+  },
+  {
+   "shot": "D10",
+   "a": 5936,
+   "b": 5994,
+   "t0": 0,
+   "t1": 58,
+   "line": "Không có biển giữ nhiệt, thời tiết khắp nơi",
+   "look": "heat"
+  },
+  {
+   "shot": "D11",
+   "a": 5994,
+   "b": 6046,
+   "t0": 0,
+   "t1": 52,
+   "line": "khắc nghiệt dần như sa mạc.",
+   "look": "heat"
+  },
+  {
+   "shot": "D12",
+   "a": 6046,
+   "b": 6125,
+   "t0": 0,
+   "t1": 79,
+   "line": "Ban ngày nóng như lò nung, ban đêm lạnh buốt."
+  },
+  {
+   "shot": "D13",
+   "a": 6125,
+   "b": 6184,
+   "t0": 0,
+   "t1": 59,
+   "line": "Hôm nay, đại dương đang hấp thụ hơn",
+   "look": "heat"
+  },
+  {
+   "shot": "D14",
+   "a": 6184,
+   "b": 6246,
+   "t0": 0,
+   "t1": 62,
+   "line": "chín mươi phần trăm lượng nhiệt dư thừa",
+   "look": "heat"
+  },
+  {
+   "shot": "D15",
+   "a": 6246,
+   "b": 6302,
+   "t0": 0,
+   "t1": 56,
+   "line": "mà con người làm Trái Đất nóng lên.",
+   "look": "heat"
+  },
+  {
+   "shot": "D16",
+   "a": 6302,
+   "b": 6351,
+   "t0": 0,
+   "t1": 49,
+   "line": "Mất biển, chúng ta mất luôn cái",
+   "look": "heat"
+  },
+  {
+   "shot": "D17",
+   "a": 6351,
+   "b": 6428,
+   "t0": 0,
+   "t1": 77,
+   "line": "máy điều hòa lớn nhất hành tinh.",
+   "look": "heat"
+  },
+  {
+   "shot": "D18",
+   "a": 6428,
+   "b": 6505,
+   "t0": 0,
+   "t1": 77,
+   "line": "Tin tốt là, chúng ta không ngạt thở ngay.",
+   "look": "drained"
+  },
+  {
+   "shot": "D19",
+   "a": 6505,
+   "b": 6560,
+   "t0": 0,
+   "t1": 55,
+   "line": "Đúng là sinh vật phù du dưới biển"
+  },
+  {
+   "shot": "D20",
+   "a": 6560,
+   "b": 6650,
+   "t0": 0,
+   "t1": 90,
+   "line": "tạo ra khoảng một nửa lượng ô xy của Trái Đất."
+  },
+  {
+   "shot": "D21",
+   "a": 6650,
+   "b": 6743,
+   "t0": 0,
+   "t1": 93,
+   "line": "Nhưng bầu khí quyển đã tích trữ đủ ô xy cho hàng nghìn năm."
+  },
+  {
+   "shot": "D22",
+   "a": 6743,
+   "b": 6816,
+   "t0": 0,
+   "t1": 73,
+   "line": "Thứ giết chúng ta không phải thiếu không khí."
+  },
+  {
+   "shot": "D23",
+   "a": 6816,
+   "b": 6896,
+   "t0": 0,
+   "t1": 80,
+   "line": "Mà là thiếu nước, thiếu mưa, và thiếu cái ăn."
+  },
+  {
+   "shot": "D24",
+   "a": 6896,
+   "b": 6951,
+   "t0": 0,
+   "t1": 55,
+   "line": "Vậy có cách nào lấp lại không?"
+  },
+  {
+   "shot": "D25",
+   "a": 6951,
+   "b": 7018,
+   "t0": 0,
+   "t1": 67,
+   "line": "Nếu đổ hết mọi con sông, mọi hồ nước,"
+  },
+  {
+   "shot": "D26",
+   "a": 7018,
+   "b": 7090,
+   "t0": 0,
+   "t1": 72,
+   "line": "và làm tan toàn bộ băng ở hai cực vào đó,"
+  },
+  {
+   "shot": "D27",
+   "a": 7090,
+   "b": 7172,
+   "t0": 0,
+   "t1": 82,
+   "line": "chúng ta cũng chỉ lấp được chưa tới hai phần trăm."
+  },
+  {
+   "shot": "D28",
+   "a": 7172,
+   "b": 7228,
+   "t0": 0,
+   "t1": 56,
+   "line": "Không đủ để nghe lại một tiếng sóng."
+  },
+  {
+   "shot": "E1",
+   "a": 7228,
+   "b": 7287,
+   "t0": 0,
+   "t1": 59,
+   "line": "Hãy nhìn sang hàng xóm của chúng ta."
+  },
+  {
+   "shot": "E2",
+   "a": 7287,
+   "b": 7359,
+   "t0": 0,
+   "t1": 72,
+   "line": "Hàng tỷ năm trước, sao Hỏa từng có sông,"
+  },
+  {
+   "shot": "E3",
+   "a": 7359,
+   "b": 7419,
+   "t0": 0,
+   "t1": 60,
+   "line": "có hồ, có thể có cả biển."
+  },
+  {
+   "shot": "E4",
+   "a": 7419,
+   "b": 7486,
+   "t0": 0,
+   "t1": 67,
+   "line": "Rồi nó mất nước, mất lớp khí quyển dày,",
+   "look": "mars"
+  },
+  {
+   "shot": "E5",
+   "a": 7486,
+   "b": 7544,
+   "t0": 0,
+   "t1": 58,
+   "line": "và trở thành một sa mạc đỏ,",
+   "look": "mars"
+  },
+  {
+   "shot": "E6",
+   "a": 7544,
+   "b": 7612,
+   "t0": 0,
+   "t1": 68,
+   "line": "lạnh lẽo, chết chóc. Đó là thật.",
+   "look": "mars"
+  },
+  {
+   "shot": "E7",
+   "a": 7612,
+   "b": 7661,
+   "t0": 0,
+   "t1": 49,
+   "line": "Một Trái Đất không có đại dương,",
+   "look": "far"
+  },
+  {
+   "shot": "E8",
+   "a": 7661,
+   "b": 7714,
+   "t0": 0,
+   "t1": 53,
+   "line": "về lâu dài, sẽ trông rất giống",
+   "look": "far"
+  },
+  {
+   "shot": "E9",
+   "a": 7714,
+   "b": 7760,
+   "t0": 0,
+   "t1": 46,
+   "line": "sao Hỏa."
+  },
+  {
+   "shot": "E10",
+   "a": 7760,
+   "b": 7819,
+   "t0": 0,
+   "t1": 59,
+   "line": "Nhưng hôm nay, sóng vẫn vỗ.",
+   "look": "home"
+  },
+  {
+   "shot": "E11",
+   "a": 7819,
+   "b": 7892,
+   "t0": 0,
+   "t1": 73,
+   "line": "Mo đang vẫy tay gọi bạn xuống tắm.",
+   "look": "home"
+  },
+  {
+   "shot": "E12",
+   "a": 7892,
+   "b": 7933,
+   "t0": 0,
+   "t1": 41,
+   "line": "Nước mằn mặn trên môi.",
+   "look": "home"
+  },
+  {
+   "shot": "E13",
+   "a": 7933,
+   "b": 8012,
+   "t0": 0,
+   "t1": 79,
+   "line": "Bảy mươi mốt phần trăm hành tinh này là biển.",
+   "look": "home"
+  },
+  {
+   "shot": "E14",
+   "a": 8012,
+   "b": 8090,
+   "t0": 0,
+   "t1": 78,
+   "line": "Và mỗi giây, nó đang làm hàng nghìn việc cho bạn,",
+   "look": "home"
+  },
+  {
+   "shot": "E15",
+   "a": 8090,
+   "b": 8136,
+   "t0": 0,
+   "t1": 46,
+   "line": "mà bạn chưa từng để ý.",
+   "look": "home"
+  },
+  {
+   "shot": "E16",
+   "a": 8136,
+   "b": 8207,
+   "t0": 0,
+   "t1": 71,
+   "line": "Còn bạn, nếu được đi bộ một ngày dưới đáy biển",
+   "look": "home"
+  },
+  {
+   "shot": "E17",
+   "a": 8207,
+   "b": 8265,
+   "t0": 0,
+   "t1": 58,
+   "line": "khô, bạn muốn đến đâu đầu tiên?",
+   "look": "home"
+  },
+  {
+   "shot": "E18",
+   "a": 8265,
+   "b": 8368,
+   "t0": 0,
+   "t1": 103,
+   "line": "Rãnh Mariana, con tàu Titanic, hay Hoàng Sa?",
+   "look": "home"
+  },
+  {
+   "shot": "E19",
+   "a": 8368,
+   "b": 8490,
+   "t0": 0,
+   "t1": 122,
+   "line": "Viết ở phần bình luận nhé.",
+   "look": "home"
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "key": 30,
+   "len": 48,
+   "first": 0,
+   "line": "Bạn đang ở biển Đà Nẵng.",
+   "note": "calm bright Đà Nẵng bay, place tag, slow push-in"
+  },
+  {
+   "id": "A2",
+   "size": "low",
+   "key": 24,
+   "len": 50,
+   "first": 48,
+   "line": "Nắng đẹp, gió mát.",
+   "note": "sun glare through swaying palm over glittering sea"
+  },
+  {
+   "id": "A3",
+   "size": "medium",
+   "key": 24,
+   "len": 58,
+   "first": 98,
+   "line": "Bạn vừa thả mình xuống làn nước.",
+   "note": "Pip drops into the sea: splash rings, happy bobbing"
+  },
+  {
+   "id": "A4",
+   "size": "medium",
+   "key": 30,
+   "len": 40,
+   "first": 156,
+   "line": "Rồi nước bắt đầu rút.",
+   "note": "water slides away past Pip's chest, face drops, he lands"
+  },
+  {
+   "id": "A5",
+   "size": "wide",
+   "key": 20,
+   "len": 31,
+   "first": 196,
+   "line": "Rút mãi.",
+   "note": "waterline races to the horizon, bathers stranded"
+  },
+  {
+   "id": "A6",
+   "size": "medium",
+   "key": 30,
+   "len": 59,
+   "first": 227,
+   "line": "Và không bao giờ quay lại.",
+   "note": "Pip on bare wet sand, sea gone, slow push-in and slump"
+  },
+  {
+   "id": "A7",
+   "size": "wide",
+   "key": 70,
+   "len": 78,
+   "first": 286,
+   "line": "Sẽ ra sao nếu đại dương không còn nước?",
+   "note": "TitleCard over the drained beach, Pip small and stunned"
+  },
+  {
+   "id": "A8",
+   "size": "wide",
+   "key": 20,
+   "len": 31,
+   "first": 364,
+   "line": "Không phải cạn dần.",
+   "note": "NO circle over a slow trickle arrow: not gradually"
+  },
+  {
+   "id": "A9",
+   "size": "wide",
+   "key": 60,
+   "len": 77,
+   "first": 395,
+   "line": "Mà biến mất, chỉ trong một giây.",
+   "note": "stopwatch to 1,0 s then the sea vanishes in two frames"
+  },
+  {
+   "id": "A10",
+   "size": "wide",
+   "key": 50,
+   "len": 62,
+   "first": 472,
+   "line": "Giây đầu tiên, tiếng sóng tắt ngấm.",
+   "note": "speaker arcs die, slash; beach freezes in silence"
+  },
+  {
+   "id": "A11",
+   "size": "wide",
+   "key": 20,
+   "len": 37,
+   "first": 534,
+   "line": "Hàng tỷ con cá giãy đành",
+   "note": "dry shelf covered in flapping fish"
+  },
+  {
+   "id": "A12",
+   "size": "insert",
+   "key": 24,
+   "len": 39,
+   "first": 571,
+   "line": "đạch trên cát.",
+   "note": "macro: big fish thrashing, dust kicks up"
+  },
+  {
+   "id": "A13",
+   "size": "low",
+   "key": 24,
+   "len": 42,
+   "first": 610,
+   "line": "Những con tàu khổng lồ nằm",
+   "note": "container ship towers over camera, tipped in mud"
+  },
+  {
+   "id": "A14",
+   "size": "wide",
+   "key": 24,
+   "len": 35,
+   "first": 652,
+   "line": "nghiêng giữa bãi bùn.",
+   "note": "more ships tilted in the mud, pan"
+  },
+  {
+   "id": "A15",
+   "size": "medium",
+   "key": 20,
+   "len": 37,
+   "first": 687,
+   "line": "Mo đứng trên bờ kè,",
+   "note": "Mo on the sea wall with his rod, bare seabed behind"
+  },
+  {
+   "id": "A16",
+   "size": "insert",
+   "key": 20,
+   "len": 33,
+   "first": 724,
+   "line": "tay cầm cần câu,",
+   "note": "rod hand, line dangling over nothing"
+  },
+  {
+   "id": "A17",
+   "size": "high",
+   "key": 30,
+   "len": 50,
+   "first": 757,
+   "line": "nhìn xuống một cái hố sâu hun hút.",
+   "note": "POV down the wall: bottomless shaft, pebbles falling, line hanging"
+  },
+  {
+   "id": "A18",
+   "size": "close",
+   "key": 24,
+   "len": 33,
+   "first": 807,
+   "line": "Biển đâu rồi mày?",
+   "note": "Mo close-up: Biển đâu rồi mày?"
+  },
+  {
+   "id": "A19",
+   "size": "medium",
+   "key": 40,
+   "len": 75,
+   "first": 840,
+   "line": "Đại dương phủ bảy mươi mốt phần trăm bề mặt Trái Đất,",
+   "note": "Globe + 71% counting up"
+  },
+  {
+   "id": "A20",
+   "size": "medium",
+   "key": 40,
+   "len": 91,
+   "first": 915,
+   "line": "chứa hơn một tỷ ba trăm triệu ki lô mét khối nước,",
+   "note": "1,3 TỶ KM³ with water cubes"
+  },
+  {
+   "id": "A21",
+   "size": "medium",
+   "key": 50,
+   "len": 93,
+   "first": 1006,
+   "line": "tức là chín mươi bảy phần trăm toàn bộ nước trên hành tinh.",
+   "note": "100 droplets fill: 97% of all water"
+  },
+  {
+   "id": "A22",
+   "size": "medium",
+   "key": 50,
+   "len": 77,
+   "first": 1099,
+   "line": "Giờ, tất cả chỉ còn là một cái hố khổng lồ,",
+   "note": "globe drains, ocean meter 100% to 0%"
+  },
+  {
+   "id": "A23",
+   "size": "wide",
+   "key": 60,
+   "len": 88,
+   "first": 1176,
+   "line": "sâu trung bình gần bốn cây số.",
+   "note": "empty basin section, mean depth ≈ 3.700 M bracket"
+  },
+  {
+   "id": "A24",
+   "size": "wide",
+   "key": 40,
+   "len": 54,
+   "first": 1264,
+   "line": "Rồi bạn thấy một thế giới bị giấu kín",
+   "note": "Pip at the shelf lip, glowing far plain, push-in"
+  },
+  {
+   "id": "A25",
+   "size": "wide",
+   "key": 20,
+   "len": 34,
+   "first": 1318,
+   "line": "suốt hàng triệu năm.",
+   "note": "sweep across seamounts and the warm ridge seam"
+  },
+  {
+   "id": "A26",
+   "size": "medium",
+   "key": 40,
+   "len": 68,
+   "first": 1352,
+   "line": "Một dãy núi dài sáu mươi lăm nghìn cây số",
+   "note": "65.000 KM counting up, mountain line drawing"
+  },
+  {
+   "id": "A27",
+   "size": "medium",
+   "key": 30,
+   "len": 52,
+   "first": 1420,
+   "line": "chạy vòng quanh Trái Đất.",
+   "note": "globe turning, ridge glowing all the way round"
+  },
+  {
+   "id": "A28",
+   "size": "wide",
+   "key": 50,
+   "len": 54,
+   "first": 1472,
+   "line": "Đó là dãy núi dài nhất hành tinh,",
+   "note": "mountain range marching to the horizon, light pulses"
+  },
+  {
+   "id": "A29",
+   "size": "wide",
+   "key": 30,
+   "len": 53,
+   "first": 1526,
+   "line": "và trước giờ nó nằm dưới nước.",
+   "note": "water drains off the range: it lay under the sea"
+  },
+  {
+   "id": "A30",
+   "size": "wide",
+   "key": 50,
+   "len": 55,
+   "first": 1579,
+   "line": "Một ngọn núi lửa giữa Thái Bình Dương,",
+   "note": "Pacific volcano, smoke and glow, THÁI BÌNH DƯƠNG tag"
+  },
+  {
+   "id": "A31",
+   "size": "medium",
+   "key": 70,
+   "len": 79,
+   "first": 1634,
+   "line": "tính từ chân dưới đáy biển, cao hơn mười nghìn mét,",
+   "note": "section: volcano bracket > 10.000 m"
+  },
+  {
+   "id": "A32",
+   "size": "medium",
+   "key": 60,
+   "len": 57,
+   "first": 1713,
+   "line": "cao hơn cả đỉnh Everest.",
+   "note": "Everest 8.849 M vs volcano > 10.000 M"
+  },
+  {
+   "id": "A33",
+   "size": "medium",
+   "key": 50,
+   "len": 80,
+   "first": 1770,
+   "line": "Còn rãnh Mariana sâu gần mười một nghìn mét.",
+   "note": "Mariana trench, 10.935 M counting up"
+  },
+  {
+   "id": "A34",
+   "size": "medium",
+   "key": 40,
+   "len": 51,
+   "first": 1850,
+   "line": "Đặt cả đỉnh Everest vào đó,",
+   "note": "Everest lowered into the trench"
+  },
+  {
+   "id": "A35",
+   "size": "medium",
+   "key": 30,
+   "len": 65,
+   "first": 1901,
+   "line": "phía trên vẫn còn thừa hơn hai cây số.",
+   "note": "> 2 KM bracket above Everest"
+  },
+  {
+   "id": "A36",
+   "size": "wide",
+   "key": 14,
+   "len": 24,
+   "first": 1966,
+   "line": "Đó là thật.",
+   "note": "Pip at the lip, ĐÓ LÀ THẬT stamp thumps on"
+  },
+  {
+   "id": "B1",
+   "size": "card",
+   "key": 28,
+   "len": 40,
+   "first": 1990,
+   "line": "Còn Việt Nam thì sao?",
+   "note": "Vietnam coast map, sea dries east, big ?"
+  },
+  {
+   "id": "B2",
+   "size": "wide",
+   "key": 24,
+   "len": 69,
+   "first": 2030,
+   "line": "Vịnh Hạ Long biến thành một thung lũng khô,",
+   "note": "Ha Long dry valley, towers, boats on mud, Pip+Mo small"
+  },
+  {
+   "id": "B3",
+   "size": "low",
+   "key": 70,
+   "len": 84,
+   "first": 2099,
+   "line": "hàng nghìn cột đá vôi đứng sừng sững giữa đồng bằng.",
+   "note": "tilt up the limestone towers"
+  },
+  {
+   "id": "B4",
+   "size": "card",
+   "key": 50,
+   "len": 75,
+   "first": 2183,
+   "line": "Từ Đà Nẵng, bạn có thể đi bộ ra Hoàng Sa,",
+   "note": "dotted walking path Da Nang -> Hoang Sa"
+  },
+  {
+   "id": "B5",
+   "size": "wide",
+   "key": 48,
+   "len": 72,
+   "first": 2258,
+   "line": "giờ là những cao nguyên nhô lên giữa sa mạc.",
+   "note": "Hoang Sa plateaus in the desert, Pip+Mo trek"
+  },
+  {
+   "id": "B6",
+   "size": "insert",
+   "key": 24,
+   "len": 26,
+   "first": 2330,
+   "line": "Nghe như phim.",
+   "note": "film clapper snaps: Nghe nhu phim"
+  },
+  {
+   "id": "B7",
+   "size": "wide",
+   "key": 30,
+   "len": 80,
+   "first": 2356,
+   "line": "Nhưng khoảng hai mươi nghìn năm trước, thời kỳ băng hà,",
+   "note": "ice age: glacier wall, icebergs, snow"
+  },
+  {
+   "id": "B8",
+   "size": "section",
+   "key": 60,
+   "len": 90,
+   "first": 2436,
+   "line": "mực nước biển thấp hơn bây giờ khoảng một trăm hai mươi mét.",
+   "note": "coast section, sea sinks to -120 M, walkers on shelf"
+  },
+  {
+   "id": "B9",
+   "size": "medium",
+   "key": 30,
+   "len": 63,
+   "first": 2526,
+   "line": "Khi đó, người xưa có thể đi bộ từ",
+   "note": "ancient people walk across the plain"
+  },
+  {
+   "id": "B10",
+   "size": "card",
+   "key": 60,
+   "len": 77,
+   "first": 2589,
+   "line": "miền Nam Việt Nam sang tận đảo Borneo.",
+   "note": "Sundaland map, shelf turns to land, path to BORNEO"
+  },
+  {
+   "id": "B11",
+   "size": "card",
+   "key": 30,
+   "len": 49,
+   "first": 2666,
+   "line": "Đó là thật.",
+   "note": "Sundaland map + DO LA THAT stamp"
+  },
+  {
+   "id": "B12",
+   "size": "wide",
+   "key": 30,
+   "len": 68,
+   "first": 2715,
+   "line": "Những ngày đầu, cả thế giới phát cuồng.",
+   "note": "crowd runs onto the seabed"
+  },
+  {
+   "id": "B13",
+   "size": "medium",
+   "key": 60,
+   "len": 74,
+   "first": 2783,
+   "line": "Người ta đổ xô xuống đáy biển tìm kho báu.",
+   "note": "detectors beep, chest out of the mud"
+  },
+  {
+   "id": "B14",
+   "size": "card",
+   "key": 30,
+   "len": 53,
+   "first": 2857,
+   "line": "Có khoảng ba triệu xác tàu đắm",
+   "note": "3 TRIEU wrecks card"
+  },
+  {
+   "id": "B15",
+   "size": "wide",
+   "key": 30,
+   "len": 53,
+   "first": 2910,
+   "line": "nằm rải rác dưới đáy đại dương.",
+   "note": "wreck field pan"
+  },
+  {
+   "id": "B16",
+   "size": "wide",
+   "key": 40,
+   "len": 85,
+   "first": 2963,
+   "line": "Con tàu Titanic, nằm ở độ sâu gần bốn nghìn mét,",
+   "note": "Titanic wreck + 3.800 M ruler"
+  },
+  {
+   "id": "B17",
+   "size": "medium",
+   "key": 24,
+   "len": 38,
+   "first": 3048,
+   "line": "giờ thành điểm du lịch.",
+   "note": "Titanic tourist site, ticket booth, queue"
+  },
+  {
+   "id": "B18",
+   "size": "wide",
+   "key": 30,
+   "len": 71,
+   "first": 3086,
+   "line": "Pip và Mo đạp xe xuống thềm lục địa,",
+   "note": "Pip + Mo cycle down the shelf"
+  },
+  {
+   "id": "B19",
+   "size": "medium",
+   "key": 40,
+   "len": 60,
+   "first": 3157,
+   "line": "nhặt được một cái mỏ neo hoen gỉ.",
+   "note": "rusty anchor found"
+  },
+  {
+   "id": "B20",
+   "size": "insert",
+   "key": 36,
+   "len": 66,
+   "first": 3217,
+   "line": "Và lạ thay, Internet vẫn chạy.",
+   "note": "phone still loads in the desert"
+  },
+  {
+   "id": "B21",
+   "size": "card",
+   "key": 30,
+   "len": 76,
+   "first": 3283,
+   "line": "Hơn chín mươi chín phần trăm dữ liệu giữa các châu lục",
+   "note": "> 99% data card"
+  },
+  {
+   "id": "B22",
+   "size": "section",
+   "key": 30,
+   "len": 63,
+   "first": 3359,
+   "line": "đi qua những sợi cáp quang dưới biển.",
+   "note": "cable on the sea floor, pulses"
+  },
+  {
+   "id": "B23",
+   "size": "wide",
+   "key": 40,
+   "len": 103,
+   "first": 3422,
+   "line": "Giờ chúng vẫn nằm đó, phơi mình giữa sa mạc.",
+   "note": "cable bare across the desert"
+  },
+  {
+   "id": "C1",
+   "size": "medium",
+   "key": 44,
+   "len": 59,
+   "first": 3525,
+   "line": "Nhưng rồi, mùi bắt đầu bốc lên.",
+   "note": "Pip+Mo sniff, pinch noses, green stink rises"
+  },
+  {
+   "id": "C2",
+   "size": "insert",
+   "key": 40,
+   "len": 53,
+   "first": 3584,
+   "line": "Hơn hai trăm nghìn loài sinh vật biển,",
+   "note": "200.000+ LOÀI card"
+  },
+  {
+   "id": "C3",
+   "size": "wide",
+   "key": 26,
+   "len": 33,
+   "first": 3637,
+   "line": "từ cá voi xanh đến",
+   "note": "blue whale greys on dry seabed"
+  },
+  {
+   "id": "C4",
+   "size": "insert",
+   "key": 40,
+   "len": 58,
+   "first": 3670,
+   "line": "những sinh vật phù du nhỏ xíu,",
+   "note": "plankton under lens go grey"
+  },
+  {
+   "id": "C5",
+   "size": "medium",
+   "key": 30,
+   "len": 48,
+   "first": 3728,
+   "line": "gần như chết cùng một lúc.",
+   "note": "all sea life greys at once"
+  },
+  {
+   "id": "C6",
+   "size": "wide",
+   "key": 30,
+   "len": 59,
+   "first": 3776,
+   "line": "Bờ biển nào cũng nồng nặc mùi tanh,",
+   "note": "stinking coast dead fish flies"
+  },
+  {
+   "id": "C7",
+   "size": "wide",
+   "key": 18,
+   "len": 36,
+   "first": 3835,
+   "line": "kéo dài hàng tháng.",
+   "note": "months: day/night pulses"
+  },
+  {
+   "id": "C8",
+   "size": "insert",
+   "key": 30,
+   "len": 37,
+   "first": 3871,
+   "line": "Hơn ba tỷ người trên thế giới",
+   "note": "globe 3 TỶ NGƯỜI"
+  },
+  {
+   "id": "C9",
+   "size": "insert",
+   "key": 30,
+   "len": 50,
+   "first": 3908,
+   "line": "dựa vào cá và hải sản để lấy",
+   "note": "fish plate top view"
+  },
+  {
+   "id": "C10",
+   "size": "insert",
+   "key": 36,
+   "len": 74,
+   "first": 3958,
+   "line": "ít nhất một phần năm lượng đạm động vật.",
+   "note": "protein pie >= 1/5"
+  },
+  {
+   "id": "C11",
+   "size": "medium",
+   "key": 40,
+   "len": 56,
+   "first": 4032,
+   "line": "Ở Việt Nam, không còn cá cơm,",
+   "note": "cá cơm shoal vanishes, X"
+  },
+  {
+   "id": "C12",
+   "size": "medium",
+   "key": 30,
+   "len": 43,
+   "first": 4088,
+   "line": "thì cũng không còn nước mắm.",
+   "note": "Pip mourns rice, nước mắm empty"
+  },
+  {
+   "id": "C13",
+   "size": "insert",
+   "key": 30,
+   "len": 44,
+   "first": 4131,
+   "line": "Rồi đến nền kinh tế.",
+   "note": "falling chart"
+  },
+  {
+   "id": "C14",
+   "size": "insert",
+   "key": 30,
+   "len": 64,
+   "first": 4175,
+   "line": "Hơn tám mươi phần trăm hàng hóa thế giới được",
+   "note": "80% card"
+  },
+  {
+   "id": "C15",
+   "size": "wide",
+   "key": 20,
+   "len": 37,
+   "first": 4239,
+   "line": "chở bằng đường biển.",
+   "note": "shipping lanes"
+  },
+  {
+   "id": "C16",
+   "size": "wide",
+   "key": 16,
+   "len": 31,
+   "first": 4276,
+   "line": "Chỉ sau một giây,",
+   "note": "ship slams onto seabed"
+  },
+  {
+   "id": "C17",
+   "size": "wide",
+   "key": 30,
+   "len": 56,
+   "first": 4307,
+   "line": "hàng chục nghìn con tàu mắc cạn.",
+   "note": "fleet stranded"
+  },
+  {
+   "id": "C18",
+   "size": "medium",
+   "key": 40,
+   "len": 67,
+   "first": 4363,
+   "line": "Xăng dầu, lương thực, điện thoại,",
+   "note": "dead port, cargo badges pop"
+  },
+  {
+   "id": "C19",
+   "size": "medium",
+   "key": 24,
+   "len": 36,
+   "first": 4430,
+   "line": "tất cả kẹt lại.",
+   "note": "padlock shuts on cargo"
+  },
+  {
+   "id": "C20",
+   "size": "insert",
+   "key": 24,
+   "len": 34,
+   "first": 4466,
+   "line": "Giá cả tăng vọt.",
+   "note": "price tags climb"
+  },
+  {
+   "id": "C21",
+   "size": "wide",
+   "key": 30,
+   "len": 54,
+   "first": 4500,
+   "line": "Mẹ đứng trước quầy cá trống trơn,",
+   "note": "mum before empty fish counter"
+  },
+  {
+   "id": "C22",
+   "size": "insert",
+   "key": 30,
+   "len": 39,
+   "first": 4554,
+   "line": "chỉ còn một tấm biển.",
+   "note": "empty ice tray, blank sign drops"
+  },
+  {
+   "id": "C23",
+   "size": "closeup",
+   "key": 28,
+   "len": 52,
+   "first": 4593,
+   "line": "Hết hàng.",
+   "note": "sign flips: HẾT HÀNG"
+  },
+  {
+   "id": "C24",
+   "size": "insert",
+   "key": 30,
+   "len": 36,
+   "first": 4645,
+   "line": "Và còn muối nữa.",
+   "note": "salt grains pour onto heap"
+  },
+  {
+   "id": "C25",
+   "size": "medium",
+   "key": 60,
+   "len": 70,
+   "first": 4681,
+   "line": "Nước biến mất, nhưng muối ở lại.",
+   "note": "basin drains, salt stays"
+  },
+  {
+   "id": "C26",
+   "size": "wide",
+   "key": 40,
+   "len": 55,
+   "first": 4751,
+   "line": "Cả đáy đại dương phủ một lớp muối dày",
+   "note": "seabed turns white"
+  },
+  {
+   "id": "C27",
+   "size": "insert",
+   "key": 30,
+   "len": 40,
+   "first": 4806,
+   "line": "khoảng sáu mươi mét.",
+   "note": "~60 M salt layer"
+  },
+  {
+   "id": "C28",
+   "size": "wide",
+   "key": 30,
+   "len": 48,
+   "first": 4846,
+   "line": "Gió cuốn bụi muối lên đất liền,",
+   "note": "wind lifts salt dust"
+  },
+  {
+   "id": "C29",
+   "size": "wide",
+   "key": 30,
+   "len": 45,
+   "first": 4894,
+   "line": "phủ trắng những cánh đồng lúa.",
+   "note": "rice fields turn white"
+  },
+  {
+   "id": "C30",
+   "size": "medium",
+   "key": 30,
+   "len": 49,
+   "first": 4939,
+   "line": "Chuyện này đã từng xảy ra.",
+   "note": "globe ring over Central Asia"
+  },
+  {
+   "id": "C31",
+   "size": "wide",
+   "key": 30,
+   "len": 34,
+   "first": 4988,
+   "line": "Biển Aral ở Trung",
+   "note": "Aral Sea 1960"
+  },
+  {
+   "id": "C32",
+   "size": "insert",
+   "key": 36,
+   "len": 75,
+   "first": 5022,
+   "line": "Á từng là hồ nước lớn thứ tư thế giới.",
+   "note": "4th largest lake bars"
+  },
+  {
+   "id": "C33",
+   "size": "wide",
+   "key": 26,
+   "len": 31,
+   "first": 5097,
+   "line": "Khi nó cạn khô,",
+   "note": "lake dries up"
+  },
+  {
+   "id": "C34",
+   "size": "wide",
+   "key": 40,
+   "len": 68,
+   "first": 5128,
+   "line": "những cơn bão bụi muối đã tàn phá đồng ruộng",
+   "note": "salt dust storm over fields"
+  },
+  {
+   "id": "C35",
+   "size": "medium",
+   "key": 30,
+   "len": 60,
+   "first": 5196,
+   "line": "và sức khỏe của người dân quanh đó.",
+   "note": "village girl coughs"
+  },
+  {
+   "id": "C36",
+   "size": "wide",
+   "key": 20,
+   "len": 42,
+   "first": 5256,
+   "line": "Đó là thật.",
+   "note": "rusty ship in desert + FactStamp"
+  },
+  {
+   "id": "D1",
+   "size": "wide",
+   "key": 12,
+   "len": 69,
+   "first": 5298,
+   "line": "Nhưng thứ đáng sợ nhất, là bầu trời.",
+   "note": "Pip small on scorched seabed, camera tilts up to empty sky"
+  },
+  {
+   "id": "D2",
+   "size": "wide",
+   "key": 40,
+   "len": 72,
+   "first": 5367,
+   "line": "Đại dương là cái nồi hơi khổng lồ của Trái Đất.",
+   "note": "ocean as giant boiling pot, sun as burner"
+  },
+  {
+   "id": "D3",
+   "size": "close",
+   "key": 70,
+   "len": 104,
+   "first": 5439,
+   "line": "Khoảng tám mươi lăm phần trăm hơi nước bốc lên bầu trời là từ biển.",
+   "note": "85% of vapour, steam, sea/land bar"
+  },
+  {
+   "id": "D4",
+   "size": "wide",
+   "key": 50,
+   "len": 65,
+   "first": 5543,
+   "line": "Hơi nước thành mây, mây thành mưa.",
+   "note": "vapour -> cloud -> rain over land"
+  },
+  {
+   "id": "D5",
+   "size": "close",
+   "key": 60,
+   "len": 91,
+   "first": 5608,
+   "line": "Khoảng sáu mươi phần trăm lượng mưa rơi xuống đất liền",
+   "note": "60% rain on land"
+  },
+  {
+   "id": "D6",
+   "size": "medium",
+   "key": 36,
+   "len": 51,
+   "first": 5699,
+   "line": "có nguồn gốc từ đại dương.",
+   "note": "donut 60% from ocean"
+  },
+  {
+   "id": "D7",
+   "size": "medium",
+   "key": 20,
+   "len": 84,
+   "first": 5750,
+   "line": "Không có biển, mây thưa dần. Mưa thưa dần.",
+   "note": "clouds thin, rain stops, empty palm"
+  },
+  {
+   "id": "D8",
+   "size": "wide",
+   "key": 45,
+   "len": 61,
+   "first": 5834,
+   "line": "Đồng bằng sông Cửu Long, vựa lúa của",
+   "note": "lush Mekong delta, farmer, labels"
+  },
+  {
+   "id": "D9",
+   "size": "insert",
+   "key": 28,
+   "len": 41,
+   "first": 5895,
+   "line": "cả nước, nứt nẻ.",
+   "note": "mud cracks open, rice wilts"
+  },
+  {
+   "id": "D10",
+   "size": "wide",
+   "key": 44,
+   "len": 58,
+   "first": 5936,
+   "line": "Không có biển giữ nhiệt, thời tiết khắp nơi",
+   "note": "Earth loses its sea, heat aura"
+  },
+  {
+   "id": "D11",
+   "size": "wide",
+   "key": 38,
+   "len": 52,
+   "first": 5994,
+   "line": "khắc nghiệt dần như sa mạc.",
+   "note": "desert heat, Mo fanning"
+  },
+  {
+   "id": "D12",
+   "size": "wide",
+   "key": 56,
+   "len": 79,
+   "first": 6046,
+   "line": "Ban ngày nóng như lò nung, ban đêm lạnh buốt.",
+   "note": "day hot -> night cold thermometer + Pip"
+  },
+  {
+   "id": "D13",
+   "size": "wide",
+   "key": 40,
+   "len": 59,
+   "first": 6125,
+   "line": "Hôm nay, đại dương đang hấp thụ hơn",
+   "note": "sun arrows sink into the sea"
+  },
+  {
+   "id": "D14",
+   "size": "close",
+   "key": 46,
+   "len": 62,
+   "first": 6184,
+   "line": "chín mươi phần trăm lượng nhiệt dư thừa",
+   "note": "90% nine of ten blocks ocean"
+  },
+  {
+   "id": "D15",
+   "size": "wide",
+   "key": 42,
+   "len": 56,
+   "first": 6246,
+   "line": "mà con người làm Trái Đất nóng lên.",
+   "note": "factory smoke, Earth glows, thermometer rises"
+  },
+  {
+   "id": "D16",
+   "size": "medium",
+   "key": 36,
+   "len": 49,
+   "first": 6302,
+   "line": "Mất biển, chúng ta mất luôn cái",
+   "note": "Pip slumps in heat, sweat"
+  },
+  {
+   "id": "D17",
+   "size": "medium",
+   "key": 58,
+   "len": 77,
+   "first": 6351,
+   "line": "máy điều hòa lớn nhất hành tinh.",
+   "note": "AC powers down, room turns hot"
+  },
+  {
+   "id": "D18",
+   "size": "medium",
+   "key": 40,
+   "len": 77,
+   "first": 6428,
+   "line": "Tin tốt là, chúng ta không ngạt thở ngay.",
+   "note": "Pip breathes in relief, green tick"
+  },
+  {
+   "id": "D19",
+   "size": "close",
+   "key": 34,
+   "len": 55,
+   "first": 6505,
+   "line": "Đúng là sinh vật phù du dưới biển",
+   "note": "plankton under lens, O2 bubbles"
+  },
+  {
+   "id": "D20",
+   "size": "close",
+   "key": 60,
+   "len": 90,
+   "first": 6560,
+   "line": "tạo ra khoảng một nửa lượng ô xy của Trái Đất.",
+   "note": "1/2 of oxygen"
+  },
+  {
+   "id": "D21",
+   "size": "medium",
+   "key": 60,
+   "len": 93,
+   "first": 6650,
+   "line": "Nhưng bầu khí quyển đã tích trữ đủ ô xy cho hàng nghìn năm.",
+   "note": "atmosphere tank, enough for thousands of years"
+  },
+  {
+   "id": "D22",
+   "size": "close",
+   "key": 50,
+   "len": 73,
+   "first": 6743,
+   "line": "Thứ giết chúng ta không phải thiếu không khí.",
+   "note": "not lack of air: red cross"
+  },
+  {
+   "id": "D23",
+   "size": "medium",
+   "key": 60,
+   "len": 80,
+   "first": 6816,
+   "line": "Mà là thiếu nước, thiếu mưa, và thiếu cái ăn.",
+   "note": "three threats NUOC MUA CAI AN"
+  },
+  {
+   "id": "D24",
+   "size": "wide",
+   "key": 30,
+   "len": 55,
+   "first": 6896,
+   "line": "Vậy có cách nào lấp lại không?",
+   "note": "empty basin, big ?"
+  },
+  {
+   "id": "D25",
+   "size": "wide",
+   "key": 50,
+   "len": 67,
+   "first": 6951,
+   "line": "Nếu đổ hết mọi con sông, mọi hồ nước,",
+   "note": "jugs of rivers and lakes pour in"
+  },
+  {
+   "id": "D26",
+   "size": "wide",
+   "key": 50,
+   "len": 72,
+   "first": 7018,
+   "line": "và làm tan toàn bộ băng ở hai cực vào đó,",
+   "note": "polar ice melts in"
+  },
+  {
+   "id": "D27",
+   "size": "wide",
+   "key": 55,
+   "len": 82,
+   "first": 7090,
+   "line": "chúng ta cũng chỉ lấp được chưa tới hai phần trăm.",
+   "note": "level barely rises < 2%"
+  },
+  {
+   "id": "D28",
+   "size": "medium",
+   "key": 36,
+   "len": 56,
+   "first": 7172,
+   "line": "Không đủ để nghe lại một tiếng sóng.",
+   "note": "Pip listens, no wave"
+  },
+  {
+   "id": "E1",
+   "size": "wide",
+   "key": 30,
+   "len": 59,
+   "first": 7228,
+   "line": "Hãy nhìn sang hàng xóm của chúng ta.",
+   "note": "dry Earth, camera slides to Mars"
+  },
+  {
+   "id": "E2",
+   "size": "wide",
+   "key": 40,
+   "len": 72,
+   "first": 7287,
+   "line": "Hàng tỷ năm trước, sao Hỏa từng có sông,",
+   "note": "ancient Mars: river, blue sky"
+  },
+  {
+   "id": "E3",
+   "size": "medium",
+   "key": 40,
+   "len": 60,
+   "first": 7359,
+   "line": "có hồ, có thể có cả biển.",
+   "note": "lake, then a far sea?"
+  },
+  {
+   "id": "E4",
+   "size": "wide",
+   "key": 45,
+   "len": 67,
+   "first": 7419,
+   "line": "Rồi nó mất nước, mất lớp khí quyển dày,",
+   "note": "water and air drain away"
+  },
+  {
+   "id": "E5",
+   "size": "wide",
+   "key": 44,
+   "len": 58,
+   "first": 7486,
+   "line": "và trở thành một sa mạc đỏ,",
+   "note": "red dust desert"
+  },
+  {
+   "id": "E6",
+   "size": "wide",
+   "key": 60,
+   "len": 68,
+   "first": 7544,
+   "line": "lạnh lẽo, chết chóc. Đó là thật.",
+   "note": "cold dead Mars, buried probe, stamp"
+  },
+  {
+   "id": "E7",
+   "size": "wide",
+   "key": 30,
+   "len": 49,
+   "first": 7612,
+   "line": "Một Trái Đất không có đại dương,",
+   "note": "dry ocean floor, meter 0%"
+  },
+  {
+   "id": "E8",
+   "size": "wide",
+   "key": 30,
+   "len": 53,
+   "first": 7661,
+   "line": "về lâu dài, sẽ trông rất giống",
+   "note": "dry Earth morphs to Mars"
+  },
+  {
+   "id": "E9",
+   "size": "wide",
+   "key": 36,
+   "len": 46,
+   "first": 7714,
+   "line": "sao Hỏa.",
+   "note": "twin planets"
+  },
+  {
+   "id": "E10",
+   "size": "wide",
+   "key": 30,
+   "len": 59,
+   "first": 7760,
+   "line": "Nhưng hôm nay, sóng vẫn vỗ.",
+   "note": "real sea back, golden waves"
+  },
+  {
+   "id": "E11",
+   "size": "medium",
+   "key": 36,
+   "len": 73,
+   "first": 7819,
+   "line": "Mo đang vẫy tay gọi bạn xuống tắm.",
+   "note": "Mo waves from the surf"
+  },
+  {
+   "id": "E12",
+   "size": "close",
+   "key": 22,
+   "len": 41,
+   "first": 7892,
+   "line": "Nước mằn mặn trên môi.",
+   "note": "Pip tastes the salt"
+  },
+  {
+   "id": "E13",
+   "size": "wide",
+   "key": 50,
+   "len": 79,
+   "first": 7933,
+   "line": "Bảy mươi mốt phần trăm hành tinh này là biển.",
+   "note": "71% planet ring"
+  },
+  {
+   "id": "E14",
+   "size": "wide",
+   "key": 60,
+   "len": 78,
+   "first": 8012,
+   "line": "Và mỗi giây, nó đang làm hàng nghìn việc cho bạn,",
+   "note": "sea jobs badges"
+  },
+  {
+   "id": "E15",
+   "size": "medium",
+   "key": 24,
+   "len": 46,
+   "first": 8090,
+   "line": "mà bạn chưa từng để ý.",
+   "note": "Pip looks out to sea"
+  },
+  {
+   "id": "E16",
+   "size": "medium",
+   "key": 50,
+   "len": 71,
+   "first": 8136,
+   "line": "Còn bạn, nếu được đi bộ một ngày dưới đáy biển",
+   "note": "Pip to camera, dry seabed thought bubble"
+  },
+  {
+   "id": "E17",
+   "size": "medium",
+   "key": 40,
+   "len": 58,
+   "first": 8207,
+   "line": "khô, bạn muốn đến đâu đầu tiên?",
+   "note": "question title"
+  },
+  {
+   "id": "E18",
+   "size": "medium",
+   "key": 90,
+   "len": 103,
+   "first": 8265,
+   "line": "Rãnh Mariana, con tàu Titanic, hay Hoàng Sa?",
+   "note": "three choices"
+  },
+  {
+   "id": "E19",
+   "size": "medium",
+   "key": 100,
+   "len": 122,
+   "first": 8368,
+   "line": "Viết ở phần bình luận nhé.",
+   "note": "comment line, end card holds"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.5,
+   "f": 445
+  },
+  {
+   "kind": "shake",
+   "len": 6,
+   "amp": 8,
+   "f": 445
+  },
+  {
+   "kind": "shake",
+   "len": 4,
+   "amp": 5,
+   "f": 189
+  },
+  {
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.2,
+   "f": 1969
+  },
+  {
+   "kind": "flash",
+   "color": "#FFD04A",
+   "o": 0.3,
+   "f": 2831
+  },
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 6,
+   "f": 3161
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.3,
+   "f": 3750
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.3,
+   "f": 4282
+  },
+  {
+   "kind": "flash",
+   "color": "#FF6A5A",
+   "o": 0.12,
+   "f": 4603
+  },
+  {
+   "kind": "flash",
+   "color": "#000000",
+   "o": 0.35,
+   "f": 6365
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.3,
+   "f": 6093
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.4,
+   "f": 7761
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.4447,
+  "musicVol": 0.3452,
+  "voice": "dai-duong-can/voice.wav",
+  "sfx": "dai-duong-can/sfx.wav",
+  "music": "dai-duong-can/music.wav"
+ }
+}

@@ -1,0 +1,298 @@
+{
+  "chapter": "e",
+  "shots": [
+    {
+      "id": "E1",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "control",
+      "key": 30,
+      "note": "Giữ đặc quyền, hay ưu tiên nhu cầu thiết yếu?"
+    },
+    {
+      "id": "E2",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "control",
+      "key": 30,
+      "note": "Giữ đặc quyền, hay ưu tiên nhu cầu thiết yếu?"
+    },
+    {
+      "id": "E3",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "grid",
+      "key": 30,
+      "note": "Bạn chọn mạng dự phòng và quyền tiếp cận."
+    },
+    {
+      "id": "E4",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "grid",
+      "key": 30,
+      "note": "Bạn chọn mạng dự phòng và quyền tiếp cận."
+    },
+    {
+      "id": "E5",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "city",
+      "key": 30,
+      "note": "Ánh sáng trở lại, từng khu phố một."
+    },
+    {
+      "id": "E6",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "city",
+      "key": 30,
+      "note": "Ánh sáng trở lại, từng khu phố một."
+    },
+    {
+      "id": "E7",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "family",
+      "key": 30,
+      "note": "Em gái bạn mở lại cuốn sách."
+    },
+    {
+      "id": "E8",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "family",
+      "key": 30,
+      "note": "Em gái bạn mở lại cuốn sách."
+    },
+    {
+      "id": "E9",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "earth",
+      "key": 30,
+      "note": "Nhiều năng lượng mở ra nhiều khả năng."
+    },
+    {
+      "id": "E10",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "earth",
+      "key": 30,
+      "note": "Nhiều năng lượng mở ra nhiều khả năng."
+    },
+    {
+      "id": "E11",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "factory",
+      "key": 30,
+      "note": "Nó không tự xóa chiến tranh hay bất bình đẳng."
+    },
+    {
+      "id": "E12",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "factory",
+      "key": 30,
+      "note": "Nó không tự xóa chiến tranh hay bất bình đẳng."
+    },
+    {
+      "id": "E13",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "storm",
+      "key": 30,
+      "note": "Và không biến nhân loại thành bất tử."
+    },
+    {
+      "id": "E14",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "storm",
+      "key": 30,
+      "note": "Và không biến nhân loại thành bất tử."
+    },
+    {
+      "id": "E15",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "solar",
+      "key": 30,
+      "note": "Ta còn phải giữ hành tinh có thể sống được."
+    },
+    {
+      "id": "E16",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "solar",
+      "key": 30,
+      "note": "Ta còn phải giữ hành tinh có thể sống được."
+    },
+    {
+      "id": "E17",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "earth",
+      "key": 30,
+      "note": "Một nền văn minh lớn biết kiểm soát chính mình."
+    },
+    {
+      "id": "E18",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "earth",
+      "key": 30,
+      "note": "Một nền văn minh lớn biết kiểm soát chính mình."
+    },
+    {
+      "id": "E19",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "scale",
+      "key": 30,
+      "note": "Đạt cấp I chỉ là vượt một mốc năng lượng."
+    },
+    {
+      "id": "E20",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "scale",
+      "key": 30,
+      "note": "Đạt cấp I chỉ là vượt một mốc năng lượng."
+    },
+    {
+      "id": "E21",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "family",
+      "key": 30,
+      "note": "Điều quan trọng: cuộc sống của ai tốt hơn?"
+    },
+    {
+      "id": "E22",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "family",
+      "key": 30,
+      "note": "Điều quan trọng: cuộc sống của ai tốt hơn?"
+    },
+    {
+      "id": "E23",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "earth",
+      "key": 30,
+      "note": "Ngày mai có đủ điện. Ta đã đủ trưởng thành chưa?"
+    },
+    {
+      "id": "E24",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "earth",
+      "key": 30,
+      "note": "Ngày mai có đủ điện. Ta đã đủ trưởng thành chưa?"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "E1",
+      "at": "s:240.0"
+    },
+    {
+      "shot": "E2",
+      "at": "s:242.5"
+    },
+    {
+      "shot": "E3",
+      "at": "s:245.0"
+    },
+    {
+      "shot": "E4",
+      "at": "s:247.5"
+    },
+    {
+      "shot": "E5",
+      "at": "s:250.0"
+    },
+    {
+      "shot": "E6",
+      "at": "s:252.5"
+    },
+    {
+      "shot": "E7",
+      "at": "s:255.0"
+    },
+    {
+      "shot": "E8",
+      "at": "s:257.5"
+    },
+    {
+      "shot": "E9",
+      "at": "s:260.0"
+    },
+    {
+      "shot": "E10",
+      "at": "s:262.5"
+    },
+    {
+      "shot": "E11",
+      "at": "s:265.0"
+    },
+    {
+      "shot": "E12",
+      "at": "s:267.5"
+    },
+    {
+      "shot": "E13",
+      "at": "s:270.0"
+    },
+    {
+      "shot": "E14",
+      "at": "s:272.5"
+    },
+    {
+      "shot": "E15",
+      "at": "s:275.0"
+    },
+    {
+      "shot": "E16",
+      "at": "s:277.5"
+    },
+    {
+      "shot": "E17",
+      "at": "s:280.0"
+    },
+    {
+      "shot": "E18",
+      "at": "s:282.5"
+    },
+    {
+      "shot": "E19",
+      "at": "s:285.0"
+    },
+    {
+      "shot": "E20",
+      "at": "s:287.5"
+    },
+    {
+      "shot": "E21",
+      "at": "s:290.0"
+    },
+    {
+      "shot": "E22",
+      "at": "s:292.5"
+    },
+    {
+      "shot": "E23",
+      "at": "s:295.0"
+    },
+    {
+      "shot": "E24",
+      "at": "s:297.5"
+    }
+  ],
+  "fx": [],
+  "events": [],
+  "repeats": []
+}

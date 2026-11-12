@@ -1,0 +1,35 @@
+# chapter A: beats 0-7. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "0 cold open, demo 1"  0.00-1.79 s
+# Một chiếc thẻ đen. Không có hạn mức.
+Một@0.00 chiếc@0.10 thẻ@0.35 đen.@0.51 Không@1.16 có@1.36 hạn@1.46 mức.@1.59
+
+## beat "0 cold open, demo 2"  2.34-6.20 s
+# Mua hết bánh mì của cả con phố. Quẹt thẻ. Thanh toán thành công.
+Mua@2.27 hết@2.45 bánh@2.73 mì@2.95 của@3.09 cả@3.52 con@3.75 phố.@4.01 Quẹt@4.58 thẻ.@4.90 Thanh@5.36 toán@5.57 thành@5.75 công.@5.96
+
+## beat "0 cold open, demo 3"  6.66-9.56 s
+# Mua luôn một hòn đảo. Quẹt thẻ. Thanh toán thành công.
+Mua@6.59 luôn@6.76 một@6.97 hòn@7.14 đảo.@7.31 Quẹt@7.82 thẻ.@8.12 Thanh@8.70 toán@8.92 thành@9.10 công.@9.31
+
+## beat "0 title"  9.91-11.54 s
+# Sẽ ra sao nếu bạn có tiền vô hạn?
+Sẽ@9.84 ra@9.99 sao@10.14 nếu@10.34 bạn@10.54 có@10.73 tiền@10.88 vô@11.12 hạn?@11.27
+
+## beat "1 envelope"  12.54-19.75 s
+# Sáng nay, trong hộp thư có một phong bì không tên. Bên trong là một chiếc thẻ đen, và một mảnh giấy chỉ ghi ba chữ: không giới hạn.
+Sáng@12.47 nay,@12.73 trong@13.25 hộp@13.47 thư@13.69 có@13.84 một@13.95 phong@14.10 bì@14.32 không@14.43 tên.@14.65 Bên@15.22 trong@15.39 là@15.64 một@16.16 chiếc@16.33 thẻ@16.58 đen,@16.76 và@17.23 một@17.39 mảnh@17.58 giấy@17.83 chỉ@18.07 ghi@18.27 ba@18.47 chữ:@18.62 không@19.24 giới@19.41 hạn.@19.56
+
+## beat "1 rule"  20.13-25.44 s
+# Mua gì cũng được. Bao nhiêu cũng được. Ngân hàng kiểm tra rồi: đó là tiền thật, và nó không bao giờ hết.
+Mua@20.06 gì@20.20 cũng@20.31 được.@20.49 Bao@20.99 nhiêu@21.11 cũng@21.30 được.@21.45 Ngân@22.05 hàng@22.25 kiểm@22.53 tra@22.74 rồi:@22.91 đó@23.53 là@23.65 tiền@23.77 thật,@23.97 và@24.46 nó@24.58 không@24.70 bao@24.92 giờ@25.07 hết.@25.22
+
+## beat "1 test"  25.97-31.55 s
+# Bạn thử mua một ly trà sữa. Quẹt thẻ. Thanh toán thành công. Số dư hiện lên: vô cực.
+Bạn@25.91 thử@26.15 mua@26.38 một@26.62 ly@26.86 trà@27.04 sữa.@27.28 Quẹt@27.98 thẻ.@28.25 Thanh@28.83 toán@29.04 thành@29.21 công.@29.42 Số@29.98 dư@30.13 hiện@30.29 lên:@30.54 vô@31.14 cực.@31.29
+
+## beat "2 scale"  31.88-44.01 s
+# Để dễ hình dung: năm hai nghìn không trăm hai mươi lăm, cả nền kinh tế Việt Nam làm ra khoảng mười hai phẩy tám triệu tỷ đồng, hơn năm trăm tỷ đô la. Với chiếc thẻ này, bạn quẹt một lần là đủ con số đó. Rồi quẹt thêm lần nữa.
+Để@31.81 dễ@31.95 hình@32.08 dung:@32.29 năm@33.05 hai@33.20 nghìn@33.34 không@33.55 trăm@33.84 hai@34.01 mươi@34.15 lăm,@34.33 cả@34.77 nền@34.90 kinh@35.07 tế@35.27 Việt@35.39 Nam@35.60 làm@35.86 ra@36.02 khoảng@36.15 mười@36.51 hai@36.71 phẩy@36.87 tám@37.07 triệu@37.31 tỷ@37.54 đồng,@37.76 hơn@38.26 năm@38.45 trăm@38.64 tỷ@38.87 đô@39.02 la.@39.17 Với@39.67 chiếc@39.81 thẻ@40.03 này,@40.17 bạn@40.62 quẹt@40.89 một@41.13 lần@41.32 là@41.63 đủ@41.78 con@41.93 số@42.12 đó.@42.27 Rồi@42.85 quẹt@43.01 thêm@43.41 lần@43.61 nữa.@43.78
+
+# chapter ends at s:44.94 (next chapter's first cut, or the episode end)

@@ -1,0 +1,608 @@
+{
+ "chapter": "c",
+ "shots": [
+  {
+   "id": "C1",
+   "file": "shots-chc-history",
+   "size": "wide",
+   "set": "map",
+   "key": 50,
+   "note": "fly-in onto citadel, Gia Long name card"
+  },
+  {
+   "id": "C2",
+   "file": "shots-chc-history",
+   "size": "wide",
+   "set": "citadel",
+   "key": 40,
+   "note": "1809 earth rampart on blueprint tint"
+  },
+  {
+   "id": "C3",
+   "file": "shots-chc-history",
+   "size": "wide",
+   "set": "citadel",
+   "key": 110,
+   "note": "1837 Minh Mang brick rebuild"
+  },
+  {
+   "id": "C4",
+   "file": "shots-chc-history",
+   "size": "wide",
+   "set": "citadel",
+   "key": 60,
+   "note": "square + perimeter counter 2.000 m"
+  },
+  {
+   "id": "C5",
+   "file": "shots-chc-history",
+   "size": "wide",
+   "set": "card",
+   "key": 70,
+   "note": "wall side view 4 m + moat"
+  },
+  {
+   "id": "C6",
+   "file": "shots-chc-history",
+   "size": "wide",
+   "set": "citadel",
+   "key": 36,
+   "note": "four numbered gates"
+  },
+  {
+   "id": "C7",
+   "file": "shots-chc-history",
+   "size": "wide",
+   "set": "citadel",
+   "key": 80,
+   "note": "100+ years, admin centre, ruler"
+  },
+  {
+   "id": "C8",
+   "file": "shots-chc-photo-river",
+   "size": "wide",
+   "set": "photo",
+   "key": 60,
+   "note": "1967 aerial print over dimmed plan"
+  },
+  {
+   "id": "C9",
+   "file": "shots-chc-photo-river",
+   "size": "wide",
+   "set": "photo",
+   "key": 60,
+   "note": "print still, square outlined"
+  },
+  {
+   "id": "C10",
+   "file": "shots-chc-photo-river",
+   "size": "wide",
+   "set": "citadel",
+   "key": 50,
+   "note": "moat glow + small streets"
+  },
+  {
+   "id": "C11",
+   "file": "shots-chc-photo-river",
+   "size": "wide",
+   "set": "citadel",
+   "key": 40,
+   "note": "south bank"
+  },
+  {
+   "id": "C12",
+   "file": "shots-chc-photo-river",
+   "size": "wide",
+   "set": "citadel",
+   "key": 60,
+   "note": "north bank red rear, boat"
+  },
+  {
+   "id": "C13",
+   "file": "shots-chc-photo-river",
+   "size": "wide",
+   "set": "citadel",
+   "key": 70,
+   "note": "golden door on citadel"
+  },
+  {
+   "id": "C14",
+   "file": "shots-chc-defenders",
+   "size": "wide",
+   "set": "citadel",
+   "key": 60,
+   "note": "few defenders at first"
+  },
+  {
+   "id": "C15",
+   "file": "shots-chc-defenders",
+   "size": "wide",
+   "set": "citadel",
+   "key": 110,
+   "note": "E48/F320B card, Theo phia Viet Nam"
+  },
+  {
+   "id": "C16",
+   "file": "shots-chc-defenders",
+   "size": "wide",
+   "set": "citadel",
+   "key": 70,
+   "note": "E27 + local battalions"
+  },
+  {
+   "id": "C17",
+   "file": "shots-chc-defenders",
+   "size": "wide",
+   "set": "citadel",
+   "key": 60,
+   "note": "E95/F325 arrow crosses river"
+  },
+  {
+   "id": "C18",
+   "file": "shots-chc-defenders",
+   "size": "wide",
+   "set": "citadel",
+   "key": 80,
+   "note": "many more units"
+  },
+  {
+   "id": "C19",
+   "file": "shots-chc-landing",
+   "size": "wide",
+   "set": "citadel",
+   "key": 60,
+   "note": "11/7 helis from the sea, TQLC ball"
+  },
+  {
+   "id": "C20",
+   "file": "shots-chc-landing",
+   "size": "wide",
+   "set": "citadel",
+   "key": 50,
+   "note": "landing NE of town"
+  },
+  {
+   "id": "C21",
+   "file": "shots-chc-landing",
+   "size": "wide",
+   "set": "citadel",
+   "key": 60,
+   "note": "flank arrow cuts supply line"
+  },
+  {
+   "id": "C22",
+   "file": "shots-chc-landing",
+   "size": "wide",
+   "set": "citadel",
+   "key": 60,
+   "note": "big heli hit, smoke trail"
+  },
+  {
+   "id": "C23",
+   "file": "shots-chc-landing",
+   "size": "wide",
+   "set": "citadel",
+   "key": 60,
+   "note": "outskirts fighting, shells"
+  },
+  {
+   "id": "C24",
+   "file": "shots-chc-handover",
+   "size": "wide",
+   "set": "citadel",
+   "key": 100,
+   "note": "Du arrows from south stopped"
+  },
+  {
+   "id": "C25",
+   "file": "shots-chc-handover",
+   "size": "wide",
+   "set": "citadel",
+   "key": 70,
+   "note": "red beret ball exhausted, bar drains"
+  },
+  {
+   "id": "C26",
+   "file": "shots-chc-handover",
+   "size": "wide",
+   "set": "citadel",
+   "key": 60,
+   "note": "Ngo Quang Truong name card + order"
+  },
+  {
+   "id": "C27",
+   "file": "shots-chc-handover",
+   "size": "wide",
+   "set": "citadel",
+   "key": 45,
+   "note": "baton red beret -> green beret"
+  },
+  {
+   "id": "C28",
+   "file": "shots-chc-handover",
+   "size": "wide",
+   "set": "card",
+   "key": 70,
+   "note": "2 tuan struck, 1 thang calendar"
+  },
+  {
+   "id": "C29",
+   "file": "shots-chc-handover",
+   "size": "wide",
+   "set": "citadel",
+   "key": 70,
+   "note": "push-in dusk, arrows from east"
+  },
+  {
+   "id": "C30",
+   "file": "shots-chc-marines",
+   "size": "wide",
+   "set": "citadel",
+   "key": 70,
+   "note": "green beret Marines in a rank"
+  },
+  {
+   "id": "C31",
+   "file": "shots-chc-marines",
+   "size": "wide",
+   "set": "citadel",
+   "key": 40,
+   "note": "yellow arrow into east gate"
+  },
+  {
+   "id": "C32",
+   "file": "shots-chc-marines",
+   "size": "wide",
+   "set": "citadel",
+   "key": 70,
+   "note": "streets east of walls = front lines"
+  },
+  {
+   "id": "C33",
+   "file": "shots-chc-marines",
+   "size": "wide",
+   "set": "photo",
+   "key": 100,
+   "note": "front moves a few tens of metres + photo 024"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "C1",
+   "at": "s:205.19"
+  },
+  {
+   "shot": "C2",
+   "at": "s:207.38"
+  },
+  {
+   "shot": "C3",
+   "at": "s:209.14"
+  },
+  {
+   "shot": "C4",
+   "at": "s:213.57"
+  },
+  {
+   "shot": "C5",
+   "at": "s:215.96"
+  },
+  {
+   "shot": "C6",
+   "at": "s:218.84"
+  },
+  {
+   "shot": "C7",
+   "at": "s:220.25"
+  },
+  {
+   "shot": "C8",
+   "at": "s:223.65"
+  },
+  {
+   "shot": "C9",
+   "at": "s:227.08"
+  },
+  {
+   "shot": "C10",
+   "at": "s:229.78"
+  },
+  {
+   "shot": "C11",
+   "at": "s:232.57"
+  },
+  {
+   "shot": "C12",
+   "at": "s:234.63"
+  },
+  {
+   "shot": "C13",
+   "at": "s:237.63"
+  },
+  {
+   "shot": "C14",
+   "at": "s:241.08"
+  },
+  {
+   "shot": "C15",
+   "at": "s:244.30"
+  },
+  {
+   "shot": "C16",
+   "at": "s:249.11"
+  },
+  {
+   "shot": "C17",
+   "at": "s:252.14"
+  },
+  {
+   "shot": "C18",
+   "at": "s:255.29"
+  },
+  {
+   "shot": "C19",
+   "at": "s:258.38"
+  },
+  {
+   "shot": "C20",
+   "at": "s:261.36"
+  },
+  {
+   "shot": "C21",
+   "at": "s:263.42"
+  },
+  {
+   "shot": "C22",
+   "at": "s:266.03"
+  },
+  {
+   "shot": "C23",
+   "at": "s:269.35"
+  },
+  {
+   "shot": "C24",
+   "at": "s:272.41"
+  },
+  {
+   "shot": "C25",
+   "at": "s:276.00"
+  },
+  {
+   "shot": "C26",
+   "at": "s:278.83"
+  },
+  {
+   "shot": "C27",
+   "at": "s:281.25"
+  },
+  {
+   "shot": "C28",
+   "at": "s:283.03"
+  },
+  {
+   "shot": "C29",
+   "at": "s:285.77"
+  },
+  {
+   "shot": "C30",
+   "at": "s:288.48"
+  },
+  {
+   "shot": "C31",
+   "at": "s:291.50"
+  },
+  {
+   "shot": "C32",
+   "at": "s:293.32"
+  },
+  {
+   "shot": "C33",
+   "at": "s:296.71"
+  }
+ ],
+ "fx": [],
+ "events": [
+  [
+   "C1+4",
+   "swoosh",
+   0.1
+  ],
+  [
+   "C2+6",
+   "paper_land",
+   0.1
+  ],
+  [
+   "C3+60",
+   "ting",
+   0.08
+  ],
+  [
+   "C3+84",
+   "paper_land",
+   0.1
+  ],
+  [
+   "C6+4",
+   "pop",
+   0.1
+  ],
+  [
+   "C6+12",
+   "pop",
+   0.1
+  ],
+  [
+   "C6+20",
+   "pop",
+   0.1
+  ],
+  [
+   "C6+28",
+   "pop",
+   0.1
+  ],
+  [
+   "C8+3",
+   "paper_land",
+   0.12
+  ],
+  [
+   "C13+30",
+   "ting",
+   0.1
+  ],
+  [
+   "C15+46",
+   "paper_land",
+   0.08
+  ],
+  [
+   "C16+0",
+   "paper_land",
+   0.07
+  ],
+  [
+   "C16+36",
+   "paper_land",
+   0.07
+  ],
+  [
+   "C17+22",
+   "paper_land",
+   0.07
+  ],
+  [
+   "C17+18",
+   "swoosh",
+   0.08
+  ],
+  [
+   "C19+0",
+   "radio_static",
+   0.06
+  ],
+  [
+   "C21+6",
+   "swoosh",
+   0.1
+  ],
+  [
+   "C21+36",
+   "punch_hit",
+   0.14
+  ],
+  [
+   "C22+36",
+   "flak",
+   0.1
+  ],
+  [
+   "C22+78",
+   "bomb_far",
+   0.12
+  ],
+  [
+   "C23+10",
+   "bomb_far",
+   0.1
+  ],
+  [
+   "C23+44",
+   "bomb_far",
+   0.09
+  ],
+  [
+   "C24+0",
+   "swoosh",
+   0.1
+  ],
+  [
+   "C24+66",
+   "punch_hit",
+   0.14
+  ],
+  [
+   "C25+8",
+   "power_down",
+   0.1
+  ],
+  [
+   "C26+30",
+   "paper_land",
+   0.1
+  ],
+  [
+   "C27+16",
+   "swoosh",
+   0.1
+  ],
+  [
+   "C28+14",
+   "punch_hit",
+   0.12
+  ],
+  [
+   "C29+0",
+   "drone_hit",
+   0.12
+  ],
+  [
+   "C29+38",
+   "bomb_far",
+   0.1
+  ],
+  [
+   "C31+2",
+   "swoosh",
+   0.1
+  ],
+  [
+   "C32+8",
+   "bomb_far",
+   0.1
+  ],
+  [
+   "C32+34",
+   "rubble",
+   0.08
+  ],
+  [
+   "C33+8",
+   "paper_land",
+   0.1
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "C4+24",
+   "clip": "counter_tick",
+   "n": 8,
+   "every": 5,
+   "gain": [
+    0.05,
+    0.08
+   ]
+  },
+  {
+   "at": "C28+24",
+   "clip": "counter_tick",
+   "n": 23,
+   "every": 2,
+   "gain": [
+    0.05,
+    0.07
+   ]
+  },
+  {
+   "at": "C30+4",
+   "clip": "step",
+   "n": 5,
+   "every": 7,
+   "gain": [
+    0.06,
+    0.09
+   ]
+  }
+ ]
+}

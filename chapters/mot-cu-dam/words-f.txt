@@ -1,0 +1,15 @@
+# chapter F: beats 23-25. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "6 rescue"  247.85-258.46 s
+# Nên lần đầu tiên, bạn không đấm. Bạn chạy. Bạn giữ chặt mái tôn sắp bay. Bạn kéo chiếc xe buýt kẹt giữa dòng nước. Rồi bạn cõng em gái về nhà, thật nhẹ, như đang cầm một quả trứng.
+Nên@247.78 lần@247.94 đầu@248.10 tiên,@248.26 bạn@248.76 không@249.04 đấm.@249.25 Bạn@249.71 chạy.@249.96 Bạn@250.67 giữ@250.87 chặt@251.06 mái@251.43 tôn@251.63 sắp@251.83 bay.@252.02 Bạn@252.69 kéo@252.92 chiếc@253.06 xe@253.28 buýt@253.39 kẹt@253.57 giữa@253.82 dòng@254.00 nước.@254.18 Rồi@254.91 bạn@255.12 cõng@255.33 em@255.58 gái@255.75 về@255.96 nhà,@256.12 thật@256.63 nhẹ,@256.82 như@257.27 đang@257.43 cầm@257.62 một@257.78 quả@258.00 trứng.@258.16
+
+## beat "7 ending"  259.46-274.34 s
+# Sáng hôm sau, trời quang. Em gái bạn giơ tay lên, đòi đập tay. Bạn sợ. Bạn mở nắm tay ra, và chạm thật khẽ. Không có tiếng nổ. Không có gì vỡ cả. Hóa ra điều khó nhất không phải là đấm thật mạnh. Mà là biết khi nào nên mở nắm tay ra.
+Sáng@259.39 hôm@259.63 sau,@259.82 trời@260.26 quang.@260.48 Em@261.13 gái@261.28 bạn@261.48 giơ@261.67 tay@261.87 lên,@262.06 đòi@262.56 đập@262.97 tay.@263.50 Bạn@264.32 sợ.@264.40 Bạn@264.87 mở@265.05 nắm@265.19 tay@265.36 ra,@265.54 và@265.98 chạm@266.12 thật@266.33 khẽ.@266.67 Không@267.27 có@267.47 tiếng@267.58 nổ.@267.79 Không@268.29 có@268.54 gì@268.68 vỡ@268.82 cả.@268.95 Hóa@269.64 ra@269.80 điều@269.93 khó@270.12 nhất@270.28 không@270.48 phải@271.10 là@271.30 đấm@271.43 thật@271.69 mạnh.@271.88 Mà@272.40 là@272.54 biết@272.69 khi@273.05 nào@273.24 nên@273.43 mở@273.61 nắm@273.75 tay@273.94 ra.@274.13
+
+## beat "7 question"  274.89-280.10 s
+# Vậy nếu bạn có cú đấm mạnh nhất thế giới, bạn sẽ đấm thứ gì đầu tiên? Viết ở phần bình luận nhé.
+Vậy@274.82 nếu@275.00 bạn@275.18 có@275.36 cú@275.60 đấm@275.74 mạnh@275.93 nhất@276.15 thế@276.37 giới,@276.55 bạn@277.07 sẽ@277.27 đấm@277.42 thứ@277.62 gì@277.82 đầu@277.98 tiên?@278.18 Viết@278.91 ở@279.24 phần@279.32 bình@279.51 luận@279.69 nhé.@279.88
+
+# chapter ends at s:283.10 (next chapter's first cut, or the episode end)

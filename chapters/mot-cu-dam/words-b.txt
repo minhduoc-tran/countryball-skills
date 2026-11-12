@@ -1,0 +1,15 @@
+# chapter B: beats 7-9. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "2 fun: arcade"  41.03-55.86 s
+# Chiều đó, Mo kéo bạn ra khu trò chơi. Máy đấm bốc. Kỷ lục của cả quận là chín trăm điểm. Mo đấm. Bốn trăm hai mươi. Đến lượt bạn. Một cú đấm. Bùm. Cái máy bay xuyên qua bức tường. Màn hình hiện chín chín chín chín, rồi tắt luôn.
+Chiều@40.97 đó,@41.27 Mo@41.74 kéo@41.95 bạn@42.30 ra@42.68 khu@42.90 trò@43.18 chơi.@43.82 Máy@44.50 đấm@44.69 bốc.@45.03 Kỷ@45.87 lục@45.94 của@46.03 cả@46.12 quận@46.20 là@46.31 chín@46.38 trăm@46.49 điểm.@46.60 Mo@47.09 đấm.@47.29 Bốn@47.93 trăm@48.10 hai@48.32 mươi.@48.49 Đến@49.08 lượt@49.22 bạn.@49.40 Một@49.86 cú@50.17 đấm.@50.32 Bùm.@50.85 Cái@51.62 máy@51.78 bay@51.94 xuyên@52.09 qua@52.32 bức@52.47 tường.@52.74 Màn@53.43 hình@53.61 hiện@53.82 chín@54.15 chín@54.37 chín@54.58 chín,@54.79 rồi@55.29 tắt@55.45 luôn.@55.60
+
+## beat "2 fun: cockroach"  56.27-70.25 s
+# Tối hôm sau, một con gián to bằng chiếc xe buýt bò lên từ miệng cống. Cả con phố hét lên. Bạn bước tới. Một cú đấm. Bùm. Con gián bay qua ba dãy nhà. Mọi người giơ điện thoại lên quay. Sáng hôm sau, cả nước biết mặt bạn.
+Tối@56.20 hôm@56.37 sau,@56.53 một@56.99 con@57.17 gián@57.34 to@57.62 bằng@57.75 chiếc@58.28 xe@58.53 buýt@58.66 bò@58.97 lên@59.11 từ@59.36 miệng@59.49 cống.@59.87 Cả@60.53 con@60.65 phố@60.96 hét@61.11 lên.@61.26 Bạn@61.75 bước@61.91 tới.@62.19 Một@62.72 cú@63.04 đấm.@63.18 Bùm.@63.81 Con@64.53 gián@64.73 bay@64.98 qua@65.27 ba@65.47 dãy@65.63 nhà.@65.84 Mọi@66.60 người@66.79 giơ@67.06 điện@67.25 thoại@67.48 lên@67.75 quay.@67.94 Sáng@68.46 hôm@68.71 sau,@68.92 cả@69.43 nước@69.54 biết@69.72 mặt@69.89 bạn.@70.04
+
+## beat "2 fun: robot"  70.60-81.14 s
+# Tuần sau, một con robot mất điều khiển đi giữa khu công nghiệp. Đạn bắn không thủng. Bạn nhảy lên. Một cú đấm. Bùm. Ốc vít rơi như mưa. Bạn đáp xuống, phủi tay.
+Tuần@70.54 sau,@70.78 một@71.29 con@71.44 robot@71.60 mất@71.82 điều@72.18 khiển@72.37 đi@72.70 giữa@72.82 khu@73.01 công@73.16 nghiệp.@73.45 Đạn@74.04 bắn@74.21 không@74.39 thủng.@74.64 Bạn@75.31 nhảy@75.50 lên.@75.74 Một@76.29 cú@76.66 đấm.@76.82 Bùm.@77.40 Ốc@78.11 vít@78.39 rơi@78.60 như@78.82 mưa.@79.03 Bạn@79.67 đáp@79.87 xuống,@80.07 phủi@80.66 tay.@80.89
+
+# chapter ends at s:81.50 (next chapter's first cut, or the episode end)

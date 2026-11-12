@@ -1,0 +1,1726 @@
+{
+ "id": "TypeOne",
+ "slug": "type-one",
+ "topic": "Nếu ngày mai nhân loại trở thành nền văn minh cấp I?",
+ "title": [
+  "NẾU NGÀY MAI",
+  "NHÂN LOẠI ĐẠT CẤP I?"
+ ],
+ "script": [
+  {
+   "beat": "1",
+   "text": "Bạn thức dậy. Cả thành phố sáng rực."
+  },
+  {
+   "beat": "2",
+   "text": "Máy lạnh chạy. Xe sạc. Điện vẫn dư."
+  },
+  {
+   "beat": "3",
+   "text": "Một mạng năng lượng nối cả hành tinh."
+  },
+  {
+   "beat": "4",
+   "text": "Nhưng ai đang giữ công tắc?"
+  },
+  {
+   "beat": "5",
+   "text": "Nếu ngày mai, nhân loại đạt cấp I?"
+  },
+  {
+   "beat": "6",
+   "text": "Đây là thang đo khả năng dùng năng lượng."
+  },
+  {
+   "beat": "7",
+   "text": "Ta chọn mốc cấp I: mười triệu tỷ watt."
+  },
+  {
+   "beat": "8",
+   "text": "Đó là công suất, không phải kho điện vô hạn."
+  },
+  {
+   "beat": "9",
+   "text": "Cấp I gắn với quy mô hành tinh."
+  },
+  {
+   "beat": "10",
+   "text": "Cấp II và III lớn hơn rất nhiều."
+  },
+  {
+   "beat": "11",
+   "text": "Giả sử cả hạ tầng cũng xuất hiện qua đêm."
+  },
+  {
+   "beat": "12",
+   "text": "Nguồn điện sạch hoạt động khắp nơi."
+  },
+  {
+   "beat": "13",
+   "text": "Đường dây, lưu trữ và điều phối đều sẵn sàng."
+  },
+  {
+   "beat": "14",
+   "text": "Bạn bước vào một ngày chưa từng có."
+  },
+  {
+   "beat": "15",
+   "text": "Biển có thể trở thành nguồn nước ngọt."
+  },
+  {
+   "beat": "16",
+   "text": "Bơm ép nước qua màng, giữ muối lại."
+  },
+  {
+   "beat": "17",
+   "text": "Nhà kính có thêm điện cho đèn và bơm."
+  },
+  {
+   "beat": "18",
+   "text": "Nhưng cây vẫn cần đất, chất dinh dưỡng, thời gian."
+  },
+  {
+   "beat": "19",
+   "text": "Bệnh viện bớt lo thiếu điện vận hành."
+  },
+  {
+   "beat": "20",
+   "text": "Em gái bạn không còn học dưới đèn yếu."
+  },
+  {
+   "beat": "21",
+   "text": "Xe điện và tàu điện có thêm nguồn cấp."
+  },
+  {
+   "beat": "22",
+   "text": "Nhà máy có thể điện hóa nhiều công đoạn."
+  },
+  {
+   "beat": "23",
+   "text": "Robot làm việc. Con người đổi nghề."
+  },
+  {
+   "beat": "24",
+   "text": "Hóa đơn điện có thể giảm."
+  },
+  {
+   "beat": "25",
+   "text": "Nhưng giá điện còn do luật và thị trường."
+  },
+  {
+   "beat": "26",
+   "text": "Nước sạch vẫn cần đường ống và bảo trì."
+  },
+  {
+   "beat": "27",
+   "text": "Thực phẩm vẫn cần được vận chuyển."
+  },
+  {
+   "beat": "28",
+   "text": "Có đủ điện chưa chắc ai cũng được dùng."
+  },
+  {
+   "beat": "29",
+   "text": "Một nơi dư điện, nơi khác thiếu kết nối."
+  },
+  {
+   "beat": "30",
+   "text": "Cấp I là năng lượng, không phải công bằng."
+  },
+  {
+   "beat": "31",
+   "text": "Rồi bạn nhận ra: năng lượng đi về đâu?"
+  },
+  {
+   "beat": "32",
+   "text": "Khi sử dụng, phần lớn cuối cùng thành nhiệt."
+  },
+  {
+   "beat": "33",
+   "text": "Trái Đất nhận nắng và tỏa nhiệt ra ngoài."
+  },
+  {
+   "beat": "34",
+   "text": "Thêm nguồn nhiệt ròng sẽ đổi cân bằng ấy."
+  },
+  {
+   "beat": "35",
+   "text": "Mười triệu tỷ watt chia đều bề mặt..."
+  },
+  {
+   "beat": "36",
+   "text": "...xấp xỉ hai mươi watt mỗi mét vuông."
+  },
+  {
+   "beat": "37",
+   "text": "Đó là phép tính minh họa, không phải dự báo."
+  },
+  {
+   "beat": "38",
+   "text": "Thu ánh nắng vốn tới Trái Đất khác nguồn mới."
+  },
+  {
+   "beat": "39",
+   "text": "Khử mặn cũng để lại nước muối đậm đặc."
+  },
+  {
+   "beat": "40",
+   "text": "Công suất lớn cần giới hạn sinh thái lớn tương ứng."
+  },
+  {
+   "beat": "41",
+   "text": "Bạn không thể bấm nút xóa mọi cơn bão."
+  },
+  {
+   "beat": "42",
+   "text": "Cấp I không chứng minh khả năng điều khiển thời tiết."
+  },
+  {
+   "beat": "43",
+   "text": "Một trung tâm muốn nối mọi thứ vào nó."
+  },
+  {
+   "beat": "44",
+   "text": "Càng liên kết, lỗi càng cần được cô lập."
+  },
+  {
+   "beat": "45",
+   "text": "Trong kịch bản này, một vùng bất ngờ tắt điện."
+  },
+  {
+   "beat": "46",
+   "text": "Bệnh viện chuyển sang nguồn dự phòng."
+  },
+  {
+   "beat": "47",
+   "text": "Nhà em gái bạn cũng chìm vào tối."
+  },
+  {
+   "beat": "48",
+   "text": "Bạn có quyền chọn cách chia phần điện còn lại."
+  },
+  {
+   "beat": "49",
+   "text": "Giữ đặc quyền, hay ưu tiên nhu cầu thiết yếu?"
+  },
+  {
+   "beat": "50",
+   "text": "Bạn chọn mạng dự phòng và quyền tiếp cận."
+  },
+  {
+   "beat": "51",
+   "text": "Ánh sáng trở lại, từng khu phố một."
+  },
+  {
+   "beat": "52",
+   "text": "Em gái bạn mở lại cuốn sách."
+  },
+  {
+   "beat": "53",
+   "text": "Nhiều năng lượng mở ra nhiều khả năng."
+  },
+  {
+   "beat": "54",
+   "text": "Nó không tự xóa chiến tranh hay bất bình đẳng."
+  },
+  {
+   "beat": "55",
+   "text": "Và không biến nhân loại thành bất tử."
+  },
+  {
+   "beat": "56",
+   "text": "Ta còn phải giữ hành tinh có thể sống được."
+  },
+  {
+   "beat": "57",
+   "text": "Một nền văn minh lớn biết kiểm soát chính mình."
+  },
+  {
+   "beat": "58",
+   "text": "Đạt cấp I chỉ là vượt một mốc năng lượng."
+  },
+  {
+   "beat": "59",
+   "text": "Điều quan trọng: cuộc sống của ai tốt hơn?"
+  },
+  {
+   "beat": "60",
+   "text": "Ngày mai có đủ điện. Ta đã đủ trưởng thành chưa?"
+  }
+ ],
+ "science": [
+  {
+   "claim": "Mốc cấp I được chọn là 10^16 W theo cách nội suy phổ biến; không đồng nhất với mọi định nghĩa lịch sử.",
+   "working": "K=(log10(P)-6)/10; K=1 => P=10^16 W.",
+   "source": "https://www.nature.com/articles/s41598-023-38351-y"
+  },
+  {
+   "claim": "Minh họa nhiệt thải bổ sung khoảng 20 W/m².",
+   "working": "Giả sử 10^16 W là nhiệt ròng mới và chia đều diện tích 4*pi*(6.371e6)^2 =5.10e14 m²: 19.6 W/m². Không là dự báo nhiệt độ; ánh nắng thu lại khác nguồn nhiệt mới.",
+   "source": "https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/"
+  },
+  {
+   "claim": "Thẩm thấu ngược dùng bơm áp lực, tạo nước ngọt và nước muối đậm đặc.",
+   "working": "Chỉ mô tả cơ chế, không khẳng định cấp I loại bỏ mọi chi phí hoặc tác động môi trường.",
+   "source": "https://www.energy.gov/cmei/ito/desalination-basics"
+  }
+ ],
+ "voice": null,
+ "gaps": {},
+ "tail": 0,
+ "sound": {
+  "events": [],
+  "repeats": []
+ },
+ "silent": true,
+ "timing": "Manual visual timing, no TTS or synthetic word alignment. Each beat five seconds; two shots of 2.5 seconds.",
+ "chapters": [],
+ "shots": [
+  {
+   "id": "A1",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "city",
+   "key": 30,
+   "note": "Bạn thức dậy. Cả thành phố sáng rực."
+  },
+  {
+   "id": "A2",
+   "file": "shots-cha",
+   "size": "insert / close",
+   "set": "city",
+   "key": 30,
+   "note": "Bạn thức dậy. Cả thành phố sáng rực."
+  },
+  {
+   "id": "A3",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "home",
+   "key": 30,
+   "note": "Máy lạnh chạy. Xe sạc. Điện vẫn dư."
+  },
+  {
+   "id": "A4",
+   "file": "shots-cha",
+   "size": "insert / close",
+   "set": "home",
+   "key": 30,
+   "note": "Máy lạnh chạy. Xe sạc. Điện vẫn dư."
+  },
+  {
+   "id": "A5",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "earth",
+   "key": 30,
+   "note": "Một mạng năng lượng nối cả hành tinh."
+  },
+  {
+   "id": "A6",
+   "file": "shots-cha",
+   "size": "insert / close",
+   "set": "earth",
+   "key": 30,
+   "note": "Một mạng năng lượng nối cả hành tinh."
+  },
+  {
+   "id": "A7",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "control",
+   "key": 30,
+   "note": "Nhưng ai đang giữ công tắc?"
+  },
+  {
+   "id": "A8",
+   "file": "shots-cha",
+   "size": "insert / close",
+   "set": "control",
+   "key": 30,
+   "note": "Nhưng ai đang giữ công tắc?"
+  },
+  {
+   "id": "A9",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "earth",
+   "key": 30,
+   "note": "Nếu ngày mai, nhân loại đạt cấp I?"
+  },
+  {
+   "id": "A10",
+   "file": "shots-cha",
+   "size": "insert / close",
+   "set": "earth",
+   "key": 30,
+   "note": "Nếu ngày mai, nhân loại đạt cấp I?"
+  },
+  {
+   "id": "A11",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "scale",
+   "key": 30,
+   "note": "Đây là thang đo khả năng dùng năng lượng."
+  },
+  {
+   "id": "A12",
+   "file": "shots-cha",
+   "size": "insert / close",
+   "set": "scale",
+   "key": 30,
+   "note": "Đây là thang đo khả năng dùng năng lượng."
+  },
+  {
+   "id": "A13",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "scale",
+   "key": 30,
+   "note": "Ta chọn mốc cấp I: mười triệu tỷ watt."
+  },
+  {
+   "id": "A14",
+   "file": "shots-cha",
+   "size": "insert / close",
+   "set": "scale",
+   "key": 30,
+   "note": "Ta chọn mốc cấp I: mười triệu tỷ watt."
+  },
+  {
+   "id": "A15",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "solar",
+   "key": 30,
+   "note": "Đó là công suất, không phải kho điện vô hạn."
+  },
+  {
+   "id": "A16",
+   "file": "shots-cha",
+   "size": "insert / close",
+   "set": "solar",
+   "key": 30,
+   "note": "Đó là công suất, không phải kho điện vô hạn."
+  },
+  {
+   "id": "A17",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "earth",
+   "key": 30,
+   "note": "Cấp I gắn với quy mô hành tinh."
+  },
+  {
+   "id": "A18",
+   "file": "shots-cha",
+   "size": "insert / close",
+   "set": "earth",
+   "key": 30,
+   "note": "Cấp I gắn với quy mô hành tinh."
+  },
+  {
+   "id": "A19",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "scale",
+   "key": 30,
+   "note": "Cấp II và III lớn hơn rất nhiều."
+  },
+  {
+   "id": "A20",
+   "file": "shots-cha",
+   "size": "insert / close",
+   "set": "scale",
+   "key": 30,
+   "note": "Cấp II và III lớn hơn rất nhiều."
+  },
+  {
+   "id": "A21",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "home",
+   "key": 30,
+   "note": "Giả sử cả hạ tầng cũng xuất hiện qua đêm."
+  },
+  {
+   "id": "A22",
+   "file": "shots-cha",
+   "size": "insert / close",
+   "set": "home",
+   "key": 30,
+   "note": "Giả sử cả hạ tầng cũng xuất hiện qua đêm."
+  },
+  {
+   "id": "A23",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "solar",
+   "key": 30,
+   "note": "Nguồn điện sạch hoạt động khắp nơi."
+  },
+  {
+   "id": "A24",
+   "file": "shots-cha",
+   "size": "insert / close",
+   "set": "solar",
+   "key": 30,
+   "note": "Nguồn điện sạch hoạt động khắp nơi."
+  },
+  {
+   "id": "B1",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "grid",
+   "key": 30,
+   "note": "Đường dây, lưu trữ và điều phối đều sẵn sàng."
+  },
+  {
+   "id": "B2",
+   "file": "shots-chb",
+   "size": "insert / close",
+   "set": "grid",
+   "key": 30,
+   "note": "Đường dây, lưu trữ và điều phối đều sẵn sàng."
+  },
+  {
+   "id": "B3",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "city",
+   "key": 30,
+   "note": "Bạn bước vào một ngày chưa từng có."
+  },
+  {
+   "id": "B4",
+   "file": "shots-chb",
+   "size": "insert / close",
+   "set": "city",
+   "key": 30,
+   "note": "Bạn bước vào một ngày chưa từng có."
+  },
+  {
+   "id": "B5",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "water",
+   "key": 30,
+   "note": "Biển có thể trở thành nguồn nước ngọt."
+  },
+  {
+   "id": "B6",
+   "file": "shots-chb",
+   "size": "insert / close",
+   "set": "water",
+   "key": 30,
+   "note": "Biển có thể trở thành nguồn nước ngọt."
+  },
+  {
+   "id": "B7",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "water",
+   "key": 30,
+   "note": "Bơm ép nước qua màng, giữ muối lại."
+  },
+  {
+   "id": "B8",
+   "file": "shots-chb",
+   "size": "insert / close",
+   "set": "water",
+   "key": 30,
+   "note": "Bơm ép nước qua màng, giữ muối lại."
+  },
+  {
+   "id": "B9",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "farm",
+   "key": 30,
+   "note": "Nhà kính có thêm điện cho đèn và bơm."
+  },
+  {
+   "id": "B10",
+   "file": "shots-chb",
+   "size": "insert / close",
+   "set": "farm",
+   "key": 30,
+   "note": "Nhà kính có thêm điện cho đèn và bơm."
+  },
+  {
+   "id": "B11",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "farm",
+   "key": 30,
+   "note": "Nhưng cây vẫn cần đất, chất dinh dưỡng, thời gian."
+  },
+  {
+   "id": "B12",
+   "file": "shots-chb",
+   "size": "insert / close",
+   "set": "farm",
+   "key": 30,
+   "note": "Nhưng cây vẫn cần đất, chất dinh dưỡng, thời gian."
+  },
+  {
+   "id": "B13",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "hospital",
+   "key": 30,
+   "note": "Bệnh viện bớt lo thiếu điện vận hành."
+  },
+  {
+   "id": "B14",
+   "file": "shots-chb",
+   "size": "insert / close",
+   "set": "hospital",
+   "key": 30,
+   "note": "Bệnh viện bớt lo thiếu điện vận hành."
+  },
+  {
+   "id": "B15",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "family",
+   "key": 30,
+   "note": "Em gái bạn không còn học dưới đèn yếu."
+  },
+  {
+   "id": "B16",
+   "file": "shots-chb",
+   "size": "insert / close",
+   "set": "family",
+   "key": 30,
+   "note": "Em gái bạn không còn học dưới đèn yếu."
+  },
+  {
+   "id": "B17",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "city",
+   "key": 30,
+   "note": "Xe điện và tàu điện có thêm nguồn cấp."
+  },
+  {
+   "id": "B18",
+   "file": "shots-chb",
+   "size": "insert / close",
+   "set": "city",
+   "key": 30,
+   "note": "Xe điện và tàu điện có thêm nguồn cấp."
+  },
+  {
+   "id": "B19",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "factory",
+   "key": 30,
+   "note": "Nhà máy có thể điện hóa nhiều công đoạn."
+  },
+  {
+   "id": "B20",
+   "file": "shots-chb",
+   "size": "insert / close",
+   "set": "factory",
+   "key": 30,
+   "note": "Nhà máy có thể điện hóa nhiều công đoạn."
+  },
+  {
+   "id": "B21",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "factory",
+   "key": 30,
+   "note": "Robot làm việc. Con người đổi nghề."
+  },
+  {
+   "id": "B22",
+   "file": "shots-chb",
+   "size": "insert / close",
+   "set": "factory",
+   "key": 30,
+   "note": "Robot làm việc. Con người đổi nghề."
+  },
+  {
+   "id": "B23",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "home",
+   "key": 30,
+   "note": "Hóa đơn điện có thể giảm."
+  },
+  {
+   "id": "B24",
+   "file": "shots-chb",
+   "size": "insert / close",
+   "set": "home",
+   "key": 30,
+   "note": "Hóa đơn điện có thể giảm."
+  },
+  {
+   "id": "C1",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "control",
+   "key": 30,
+   "note": "Nhưng giá điện còn do luật và thị trường."
+  },
+  {
+   "id": "C2",
+   "file": "shots-chc",
+   "size": "insert / close",
+   "set": "control",
+   "key": 30,
+   "note": "Nhưng giá điện còn do luật và thị trường."
+  },
+  {
+   "id": "C3",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "water",
+   "key": 30,
+   "note": "Nước sạch vẫn cần đường ống và bảo trì."
+  },
+  {
+   "id": "C4",
+   "file": "shots-chc",
+   "size": "insert / close",
+   "set": "water",
+   "key": 30,
+   "note": "Nước sạch vẫn cần đường ống và bảo trì."
+  },
+  {
+   "id": "C5",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "farm",
+   "key": 30,
+   "note": "Thực phẩm vẫn cần được vận chuyển."
+  },
+  {
+   "id": "C6",
+   "file": "shots-chc",
+   "size": "insert / close",
+   "set": "farm",
+   "key": 30,
+   "note": "Thực phẩm vẫn cần được vận chuyển."
+  },
+  {
+   "id": "C7",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "family",
+   "key": 30,
+   "note": "Có đủ điện chưa chắc ai cũng được dùng."
+  },
+  {
+   "id": "C8",
+   "file": "shots-chc",
+   "size": "insert / close",
+   "set": "family",
+   "key": 30,
+   "note": "Có đủ điện chưa chắc ai cũng được dùng."
+  },
+  {
+   "id": "C9",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "grid",
+   "key": 30,
+   "note": "Một nơi dư điện, nơi khác thiếu kết nối."
+  },
+  {
+   "id": "C10",
+   "file": "shots-chc",
+   "size": "insert / close",
+   "set": "grid",
+   "key": 30,
+   "note": "Một nơi dư điện, nơi khác thiếu kết nối."
+  },
+  {
+   "id": "C11",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "earth",
+   "key": 30,
+   "note": "Cấp I là năng lượng, không phải công bằng."
+  },
+  {
+   "id": "C12",
+   "file": "shots-chc",
+   "size": "insert / close",
+   "set": "earth",
+   "key": 30,
+   "note": "Cấp I là năng lượng, không phải công bằng."
+  },
+  {
+   "id": "C13",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "heat",
+   "key": 30,
+   "note": "Rồi bạn nhận ra: năng lượng đi về đâu?"
+  },
+  {
+   "id": "C14",
+   "file": "shots-chc",
+   "size": "insert / close",
+   "set": "heat",
+   "key": 30,
+   "note": "Rồi bạn nhận ra: năng lượng đi về đâu?"
+  },
+  {
+   "id": "C15",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "heat",
+   "key": 30,
+   "note": "Khi sử dụng, phần lớn cuối cùng thành nhiệt."
+  },
+  {
+   "id": "C16",
+   "file": "shots-chc",
+   "size": "insert / close",
+   "set": "heat",
+   "key": 30,
+   "note": "Khi sử dụng, phần lớn cuối cùng thành nhiệt."
+  },
+  {
+   "id": "C17",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "earth",
+   "key": 30,
+   "note": "Trái Đất nhận nắng và tỏa nhiệt ra ngoài."
+  },
+  {
+   "id": "C18",
+   "file": "shots-chc",
+   "size": "insert / close",
+   "set": "earth",
+   "key": 30,
+   "note": "Trái Đất nhận nắng và tỏa nhiệt ra ngoài."
+  },
+  {
+   "id": "C19",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "heat",
+   "key": 30,
+   "note": "Thêm nguồn nhiệt ròng sẽ đổi cân bằng ấy."
+  },
+  {
+   "id": "C20",
+   "file": "shots-chc",
+   "size": "insert / close",
+   "set": "heat",
+   "key": 30,
+   "note": "Thêm nguồn nhiệt ròng sẽ đổi cân bằng ấy."
+  },
+  {
+   "id": "C21",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "heat",
+   "key": 30,
+   "note": "Mười triệu tỷ watt chia đều bề mặt..."
+  },
+  {
+   "id": "C22",
+   "file": "shots-chc",
+   "size": "insert / close",
+   "set": "heat",
+   "key": 30,
+   "note": "Mười triệu tỷ watt chia đều bề mặt..."
+  },
+  {
+   "id": "C23",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "heat",
+   "key": 30,
+   "note": "...xấp xỉ hai mươi watt mỗi mét vuông."
+  },
+  {
+   "id": "C24",
+   "file": "shots-chc",
+   "size": "insert / close",
+   "set": "heat",
+   "key": 30,
+   "note": "...xấp xỉ hai mươi watt mỗi mét vuông."
+  },
+  {
+   "id": "D1",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "solar",
+   "key": 30,
+   "note": "Đó là phép tính minh họa, không phải dự báo."
+  },
+  {
+   "id": "D2",
+   "file": "shots-chd",
+   "size": "insert / close",
+   "set": "solar",
+   "key": 30,
+   "note": "Đó là phép tính minh họa, không phải dự báo."
+  },
+  {
+   "id": "D3",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "solar",
+   "key": 30,
+   "note": "Thu ánh nắng vốn tới Trái Đất khác nguồn mới."
+  },
+  {
+   "id": "D4",
+   "file": "shots-chd",
+   "size": "insert / close",
+   "set": "solar",
+   "key": 30,
+   "note": "Thu ánh nắng vốn tới Trái Đất khác nguồn mới."
+  },
+  {
+   "id": "D5",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "water",
+   "key": 30,
+   "note": "Khử mặn cũng để lại nước muối đậm đặc."
+  },
+  {
+   "id": "D6",
+   "file": "shots-chd",
+   "size": "insert / close",
+   "set": "water",
+   "key": 30,
+   "note": "Khử mặn cũng để lại nước muối đậm đặc."
+  },
+  {
+   "id": "D7",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "earth",
+   "key": 30,
+   "note": "Công suất lớn cần giới hạn sinh thái lớn tương ứng."
+  },
+  {
+   "id": "D8",
+   "file": "shots-chd",
+   "size": "insert / close",
+   "set": "earth",
+   "key": 30,
+   "note": "Công suất lớn cần giới hạn sinh thái lớn tương ứng."
+  },
+  {
+   "id": "D9",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "storm",
+   "key": 30,
+   "note": "Bạn không thể bấm nút xóa mọi cơn bão."
+  },
+  {
+   "id": "D10",
+   "file": "shots-chd",
+   "size": "insert / close",
+   "set": "storm",
+   "key": 30,
+   "note": "Bạn không thể bấm nút xóa mọi cơn bão."
+  },
+  {
+   "id": "D11",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "storm",
+   "key": 30,
+   "note": "Cấp I không chứng minh khả năng điều khiển thời tiết."
+  },
+  {
+   "id": "D12",
+   "file": "shots-chd",
+   "size": "insert / close",
+   "set": "storm",
+   "key": 30,
+   "note": "Cấp I không chứng minh khả năng điều khiển thời tiết."
+  },
+  {
+   "id": "D13",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "control",
+   "key": 30,
+   "note": "Một trung tâm muốn nối mọi thứ vào nó."
+  },
+  {
+   "id": "D14",
+   "file": "shots-chd",
+   "size": "insert / close",
+   "set": "control",
+   "key": 30,
+   "note": "Một trung tâm muốn nối mọi thứ vào nó."
+  },
+  {
+   "id": "D15",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "grid",
+   "key": 30,
+   "note": "Càng liên kết, lỗi càng cần được cô lập."
+  },
+  {
+   "id": "D16",
+   "file": "shots-chd",
+   "size": "insert / close",
+   "set": "grid",
+   "key": 30,
+   "note": "Càng liên kết, lỗi càng cần được cô lập."
+  },
+  {
+   "id": "D17",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "city",
+   "key": 30,
+   "note": "Trong kịch bản này, một vùng bất ngờ tắt điện."
+  },
+  {
+   "id": "D18",
+   "file": "shots-chd",
+   "size": "insert / close",
+   "set": "city",
+   "key": 30,
+   "note": "Trong kịch bản này, một vùng bất ngờ tắt điện."
+  },
+  {
+   "id": "D19",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "hospital",
+   "key": 30,
+   "note": "Bệnh viện chuyển sang nguồn dự phòng."
+  },
+  {
+   "id": "D20",
+   "file": "shots-chd",
+   "size": "insert / close",
+   "set": "hospital",
+   "key": 30,
+   "note": "Bệnh viện chuyển sang nguồn dự phòng."
+  },
+  {
+   "id": "D21",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "family",
+   "key": 30,
+   "note": "Nhà em gái bạn cũng chìm vào tối."
+  },
+  {
+   "id": "D22",
+   "file": "shots-chd",
+   "size": "insert / close",
+   "set": "family",
+   "key": 30,
+   "note": "Nhà em gái bạn cũng chìm vào tối."
+  },
+  {
+   "id": "D23",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "control",
+   "key": 30,
+   "note": "Bạn có quyền chọn cách chia phần điện còn lại."
+  },
+  {
+   "id": "D24",
+   "file": "shots-chd",
+   "size": "insert / close",
+   "set": "control",
+   "key": 30,
+   "note": "Bạn có quyền chọn cách chia phần điện còn lại."
+  },
+  {
+   "id": "E1",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "control",
+   "key": 30,
+   "note": "Giữ đặc quyền, hay ưu tiên nhu cầu thiết yếu?"
+  },
+  {
+   "id": "E2",
+   "file": "shots-che",
+   "size": "insert / close",
+   "set": "control",
+   "key": 30,
+   "note": "Giữ đặc quyền, hay ưu tiên nhu cầu thiết yếu?"
+  },
+  {
+   "id": "E3",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "grid",
+   "key": 30,
+   "note": "Bạn chọn mạng dự phòng và quyền tiếp cận."
+  },
+  {
+   "id": "E4",
+   "file": "shots-che",
+   "size": "insert / close",
+   "set": "grid",
+   "key": 30,
+   "note": "Bạn chọn mạng dự phòng và quyền tiếp cận."
+  },
+  {
+   "id": "E5",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "city",
+   "key": 30,
+   "note": "Ánh sáng trở lại, từng khu phố một."
+  },
+  {
+   "id": "E6",
+   "file": "shots-che",
+   "size": "insert / close",
+   "set": "city",
+   "key": 30,
+   "note": "Ánh sáng trở lại, từng khu phố một."
+  },
+  {
+   "id": "E7",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "family",
+   "key": 30,
+   "note": "Em gái bạn mở lại cuốn sách."
+  },
+  {
+   "id": "E8",
+   "file": "shots-che",
+   "size": "insert / close",
+   "set": "family",
+   "key": 30,
+   "note": "Em gái bạn mở lại cuốn sách."
+  },
+  {
+   "id": "E9",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "earth",
+   "key": 30,
+   "note": "Nhiều năng lượng mở ra nhiều khả năng."
+  },
+  {
+   "id": "E10",
+   "file": "shots-che",
+   "size": "insert / close",
+   "set": "earth",
+   "key": 30,
+   "note": "Nhiều năng lượng mở ra nhiều khả năng."
+  },
+  {
+   "id": "E11",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "factory",
+   "key": 30,
+   "note": "Nó không tự xóa chiến tranh hay bất bình đẳng."
+  },
+  {
+   "id": "E12",
+   "file": "shots-che",
+   "size": "insert / close",
+   "set": "factory",
+   "key": 30,
+   "note": "Nó không tự xóa chiến tranh hay bất bình đẳng."
+  },
+  {
+   "id": "E13",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "storm",
+   "key": 30,
+   "note": "Và không biến nhân loại thành bất tử."
+  },
+  {
+   "id": "E14",
+   "file": "shots-che",
+   "size": "insert / close",
+   "set": "storm",
+   "key": 30,
+   "note": "Và không biến nhân loại thành bất tử."
+  },
+  {
+   "id": "E15",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "solar",
+   "key": 30,
+   "note": "Ta còn phải giữ hành tinh có thể sống được."
+  },
+  {
+   "id": "E16",
+   "file": "shots-che",
+   "size": "insert / close",
+   "set": "solar",
+   "key": 30,
+   "note": "Ta còn phải giữ hành tinh có thể sống được."
+  },
+  {
+   "id": "E17",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "earth",
+   "key": 30,
+   "note": "Một nền văn minh lớn biết kiểm soát chính mình."
+  },
+  {
+   "id": "E18",
+   "file": "shots-che",
+   "size": "insert / close",
+   "set": "earth",
+   "key": 30,
+   "note": "Một nền văn minh lớn biết kiểm soát chính mình."
+  },
+  {
+   "id": "E19",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "scale",
+   "key": 30,
+   "note": "Đạt cấp I chỉ là vượt một mốc năng lượng."
+  },
+  {
+   "id": "E20",
+   "file": "shots-che",
+   "size": "insert / close",
+   "set": "scale",
+   "key": 30,
+   "note": "Đạt cấp I chỉ là vượt một mốc năng lượng."
+  },
+  {
+   "id": "E21",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "family",
+   "key": 30,
+   "note": "Điều quan trọng: cuộc sống của ai tốt hơn?"
+  },
+  {
+   "id": "E22",
+   "file": "shots-che",
+   "size": "insert / close",
+   "set": "family",
+   "key": 30,
+   "note": "Điều quan trọng: cuộc sống của ai tốt hơn?"
+  },
+  {
+   "id": "E23",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "earth",
+   "key": 30,
+   "note": "Ngày mai có đủ điện. Ta đã đủ trưởng thành chưa?"
+  },
+  {
+   "id": "E24",
+   "file": "shots-che",
+   "size": "insert / close",
+   "set": "earth",
+   "key": 30,
+   "note": "Ngày mai có đủ điện. Ta đã đủ trưởng thành chưa?"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "s:0.0"
+  },
+  {
+   "shot": "A2",
+   "at": "s:2.5"
+  },
+  {
+   "shot": "A3",
+   "at": "s:5.0"
+  },
+  {
+   "shot": "A4",
+   "at": "s:7.5"
+  },
+  {
+   "shot": "A5",
+   "at": "s:10.0"
+  },
+  {
+   "shot": "A6",
+   "at": "s:12.5"
+  },
+  {
+   "shot": "A7",
+   "at": "s:15.0"
+  },
+  {
+   "shot": "A8",
+   "at": "s:17.5"
+  },
+  {
+   "shot": "A9",
+   "at": "s:20.0"
+  },
+  {
+   "shot": "A10",
+   "at": "s:22.5"
+  },
+  {
+   "shot": "A11",
+   "at": "s:25.0"
+  },
+  {
+   "shot": "A12",
+   "at": "s:27.5"
+  },
+  {
+   "shot": "A13",
+   "at": "s:30.0"
+  },
+  {
+   "shot": "A14",
+   "at": "s:32.5"
+  },
+  {
+   "shot": "A15",
+   "at": "s:35.0"
+  },
+  {
+   "shot": "A16",
+   "at": "s:37.5"
+  },
+  {
+   "shot": "A17",
+   "at": "s:40.0"
+  },
+  {
+   "shot": "A18",
+   "at": "s:42.5"
+  },
+  {
+   "shot": "A19",
+   "at": "s:45.0"
+  },
+  {
+   "shot": "A20",
+   "at": "s:47.5"
+  },
+  {
+   "shot": "A21",
+   "at": "s:50.0"
+  },
+  {
+   "shot": "A22",
+   "at": "s:52.5"
+  },
+  {
+   "shot": "A23",
+   "at": "s:55.0"
+  },
+  {
+   "shot": "A24",
+   "at": "s:57.5"
+  },
+  {
+   "shot": "B1",
+   "at": "s:60.0"
+  },
+  {
+   "shot": "B2",
+   "at": "s:62.5"
+  },
+  {
+   "shot": "B3",
+   "at": "s:65.0"
+  },
+  {
+   "shot": "B4",
+   "at": "s:67.5"
+  },
+  {
+   "shot": "B5",
+   "at": "s:70.0"
+  },
+  {
+   "shot": "B6",
+   "at": "s:72.5"
+  },
+  {
+   "shot": "B7",
+   "at": "s:75.0"
+  },
+  {
+   "shot": "B8",
+   "at": "s:77.5"
+  },
+  {
+   "shot": "B9",
+   "at": "s:80.0"
+  },
+  {
+   "shot": "B10",
+   "at": "s:82.5"
+  },
+  {
+   "shot": "B11",
+   "at": "s:85.0"
+  },
+  {
+   "shot": "B12",
+   "at": "s:87.5"
+  },
+  {
+   "shot": "B13",
+   "at": "s:90.0"
+  },
+  {
+   "shot": "B14",
+   "at": "s:92.5"
+  },
+  {
+   "shot": "B15",
+   "at": "s:95.0"
+  },
+  {
+   "shot": "B16",
+   "at": "s:97.5"
+  },
+  {
+   "shot": "B17",
+   "at": "s:100.0"
+  },
+  {
+   "shot": "B18",
+   "at": "s:102.5"
+  },
+  {
+   "shot": "B19",
+   "at": "s:105.0"
+  },
+  {
+   "shot": "B20",
+   "at": "s:107.5"
+  },
+  {
+   "shot": "B21",
+   "at": "s:110.0"
+  },
+  {
+   "shot": "B22",
+   "at": "s:112.5"
+  },
+  {
+   "shot": "B23",
+   "at": "s:115.0"
+  },
+  {
+   "shot": "B24",
+   "at": "s:117.5"
+  },
+  {
+   "shot": "C1",
+   "at": "s:120.0"
+  },
+  {
+   "shot": "C2",
+   "at": "s:122.5"
+  },
+  {
+   "shot": "C3",
+   "at": "s:125.0"
+  },
+  {
+   "shot": "C4",
+   "at": "s:127.5"
+  },
+  {
+   "shot": "C5",
+   "at": "s:130.0"
+  },
+  {
+   "shot": "C6",
+   "at": "s:132.5"
+  },
+  {
+   "shot": "C7",
+   "at": "s:135.0"
+  },
+  {
+   "shot": "C8",
+   "at": "s:137.5"
+  },
+  {
+   "shot": "C9",
+   "at": "s:140.0"
+  },
+  {
+   "shot": "C10",
+   "at": "s:142.5"
+  },
+  {
+   "shot": "C11",
+   "at": "s:145.0"
+  },
+  {
+   "shot": "C12",
+   "at": "s:147.5"
+  },
+  {
+   "shot": "C13",
+   "at": "s:150.0"
+  },
+  {
+   "shot": "C14",
+   "at": "s:152.5"
+  },
+  {
+   "shot": "C15",
+   "at": "s:155.0"
+  },
+  {
+   "shot": "C16",
+   "at": "s:157.5"
+  },
+  {
+   "shot": "C17",
+   "at": "s:160.0"
+  },
+  {
+   "shot": "C18",
+   "at": "s:162.5"
+  },
+  {
+   "shot": "C19",
+   "at": "s:165.0"
+  },
+  {
+   "shot": "C20",
+   "at": "s:167.5"
+  },
+  {
+   "shot": "C21",
+   "at": "s:170.0"
+  },
+  {
+   "shot": "C22",
+   "at": "s:172.5"
+  },
+  {
+   "shot": "C23",
+   "at": "s:175.0"
+  },
+  {
+   "shot": "C24",
+   "at": "s:177.5"
+  },
+  {
+   "shot": "D1",
+   "at": "s:180.0"
+  },
+  {
+   "shot": "D2",
+   "at": "s:182.5"
+  },
+  {
+   "shot": "D3",
+   "at": "s:185.0"
+  },
+  {
+   "shot": "D4",
+   "at": "s:187.5"
+  },
+  {
+   "shot": "D5",
+   "at": "s:190.0"
+  },
+  {
+   "shot": "D6",
+   "at": "s:192.5"
+  },
+  {
+   "shot": "D7",
+   "at": "s:195.0"
+  },
+  {
+   "shot": "D8",
+   "at": "s:197.5"
+  },
+  {
+   "shot": "D9",
+   "at": "s:200.0"
+  },
+  {
+   "shot": "D10",
+   "at": "s:202.5"
+  },
+  {
+   "shot": "D11",
+   "at": "s:205.0"
+  },
+  {
+   "shot": "D12",
+   "at": "s:207.5"
+  },
+  {
+   "shot": "D13",
+   "at": "s:210.0"
+  },
+  {
+   "shot": "D14",
+   "at": "s:212.5"
+  },
+  {
+   "shot": "D15",
+   "at": "s:215.0"
+  },
+  {
+   "shot": "D16",
+   "at": "s:217.5"
+  },
+  {
+   "shot": "D17",
+   "at": "s:220.0"
+  },
+  {
+   "shot": "D18",
+   "at": "s:222.5"
+  },
+  {
+   "shot": "D19",
+   "at": "s:225.0"
+  },
+  {
+   "shot": "D20",
+   "at": "s:227.5"
+  },
+  {
+   "shot": "D21",
+   "at": "s:230.0"
+  },
+  {
+   "shot": "D22",
+   "at": "s:232.5"
+  },
+  {
+   "shot": "D23",
+   "at": "s:235.0"
+  },
+  {
+   "shot": "D24",
+   "at": "s:237.5"
+  },
+  {
+   "shot": "E1",
+   "at": "s:240.0"
+  },
+  {
+   "shot": "E2",
+   "at": "s:242.5"
+  },
+  {
+   "shot": "E3",
+   "at": "s:245.0"
+  },
+  {
+   "shot": "E4",
+   "at": "s:247.5"
+  },
+  {
+   "shot": "E5",
+   "at": "s:250.0"
+  },
+  {
+   "shot": "E6",
+   "at": "s:252.5"
+  },
+  {
+   "shot": "E7",
+   "at": "s:255.0"
+  },
+  {
+   "shot": "E8",
+   "at": "s:257.5"
+  },
+  {
+   "shot": "E9",
+   "at": "s:260.0"
+  },
+  {
+   "shot": "E10",
+   "at": "s:262.5"
+  },
+  {
+   "shot": "E11",
+   "at": "s:265.0"
+  },
+  {
+   "shot": "E12",
+   "at": "s:267.5"
+  },
+  {
+   "shot": "E13",
+   "at": "s:270.0"
+  },
+  {
+   "shot": "E14",
+   "at": "s:272.5"
+  },
+  {
+   "shot": "E15",
+   "at": "s:275.0"
+  },
+  {
+   "shot": "E16",
+   "at": "s:277.5"
+  },
+  {
+   "shot": "E17",
+   "at": "s:280.0"
+  },
+  {
+   "shot": "E18",
+   "at": "s:282.5"
+  },
+  {
+   "shot": "E19",
+   "at": "s:285.0"
+  },
+  {
+   "shot": "E20",
+   "at": "s:287.5"
+  },
+  {
+   "shot": "E21",
+   "at": "s:290.0"
+  },
+  {
+   "shot": "E22",
+   "at": "s:292.5"
+  },
+  {
+   "shot": "E23",
+   "at": "s:295.0"
+  },
+  {
+   "shot": "E24",
+   "at": "s:297.5"
+  }
+ ],
+ "fx": [],
+ "render": {
+  "grain": false
+ }
+}

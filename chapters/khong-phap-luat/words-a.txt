@@ -1,0 +1,23 @@
+# chapter A: beats 0-4. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "0 cold open"  0.01-13.68 s
+# Sáng nay, bạn vượt đèn đỏ. Không ai phạt. Bạn chạy xe không đội mũ bảo hiểm. Không ai nói gì. Bạn bước vào cửa hàng, cầm một hộp sữa, đi thẳng ra cửa, không trả tiền. Cũng chẳng ai ngăn. Vì từ đêm qua, không còn luật nào nữa.
+Sáng@0.00 nay,@0.19 bạn@0.69 vượt@0.88 đèn@1.12 đỏ.@1.31 Không@1.92 ai@2.09 phạt.@2.18 Bạn@2.89 chạy@3.07 xe@3.28 không@3.42 đội@3.67 mũ@3.85 bảo@3.98 hiểm.@4.16 Không@4.92 ai@5.17 nói@5.30 gì.@5.46 Bạn@6.05 bước@6.23 vào@6.44 cửa@6.61 hàng,@6.78 cầm@7.29 một@7.48 hộp@7.67 sữa,@7.86 đi@8.35 thẳng@8.50 ra@8.78 cửa,@8.93 không@9.42 trả@9.63 tiền.@9.86 Cũng@10.53 chẳng@10.74 ai@10.98 ngăn.@11.11 Vì@11.64 từ@11.80 đêm@11.96 qua,@12.17 không@12.68 còn@12.90 luật@13.05 nào@13.31 nữa.@13.46
+
+## beat "1 premise"  14.68-21.64 s
+# Sẽ ra sao nếu một xã hội không có pháp luật? Không cảnh sát. Không tòa án. Không hợp đồng. Không một điều cấm nào.
+Sẽ@14.61 ra@14.74 sao@14.87 nếu@15.04 một@15.21 xã@15.76 hội@15.90 không@16.06 có@16.31 pháp@16.51 luật?@16.71 Không@17.67 cảnh@17.87 sát.@18.05 Không@18.74 tòa@19.01 án.@19.20 Không@19.75 hợp@19.97 đồng.@20.12 Không@20.72 một@20.94 điều@21.09 cấm@21.27 nào.@21.42
+
+## beat "1 rule"  21.95-29.32 s
+# Con người vẫn vậy. Nhà cửa, xe cộ, cửa hàng vẫn ở đó. Chỉ có điều, mọi quy định đều biến mất. Không ai phải nghe theo ai nữa.
+Con@21.89 người@22.03 vẫn@22.24 vậy.@22.38 Nhà@22.84 cửa,@23.12 xe@23.61 cộ,@23.82 cửa@24.34 hàng@24.54 vẫn@24.79 ở@24.99 đó.@25.10 Chỉ@25.65 có@25.83 điều,@25.97 mọi@26.49 quy@26.62 định@26.83 đều@27.10 biến@27.24 mất.@27.40 Không@28.01 ai@28.24 phải@28.37 nghe@28.57 theo@28.77 ai@28.97 nữa.@29.09
+
+## beat "2 hour one: freedom"  30.32-39.79 s
+# Giờ đầu tiên, nghe thật tự do. Mo phóng xe máy giữa phố, nhanh hết cỡ. Không ai bắt. Bạn tuyên bố nghỉ học thêm, vì làm gì có luật nào bắt đi học. Cả hai cười vang.
+Giờ@30.26 đầu@30.44 tiên,@30.62 nghe@31.15 thật@31.36 tự@31.69 do.@31.83 Mo@32.30 phóng@32.46 xe@32.76 máy@32.92 giữa@33.13 phố,@33.39 nhanh@33.90 hết@34.13 cỡ.@34.39 Không@34.86 ai@35.04 bắt.@35.13 Bạn@35.58 tuyên@35.73 bố@35.95 nghỉ@36.07 học@36.25 thêm,@36.50 vì@36.98 làm@37.11 gì@37.28 có@37.41 luật@37.54 nào@37.75 bắt@37.92 đi@38.08 học.@38.22 Cả@38.93 hai@39.06 cười@39.23 vang.@39.52
+
+## beat "2 hour one: crossroads"  40.34-56.39 s
+# Rồi bạn tới ngã tư. Đèn vẫn nhấp nháy, nhưng chẳng ai dừng. Xe từ bốn phía cùng lao vào. Còi inh ỏi. Một tiếng rầm. Cả ngã tư kẹt cứng, không ai nhường ai, vì không có luật nào nói ai được đi trước. Phía sau, một chiếc xe cứu thương hú còi mãi, nhưng chẳng ai nhường đường.
+Rồi@40.27 bạn@40.45 tới@40.70 ngã@40.87 tư.@41.13 Đèn@41.69 vẫn@41.87 nhấp@42.05 nháy,@42.35 nhưng@42.86 chẳng@43.11 ai@43.35 dừng.@43.49 Xe@44.07 từ@44.23 bốn@44.45 phía@44.64 cùng@44.88 lao@45.12 vào.@45.32 Còi@45.98 inh@46.18 ỏi.@46.38 Một@46.90 tiếng@47.13 rầm.@47.33 Cả@47.81 ngã@47.95 tư@48.13 kẹt@48.26 cứng,@48.56 không@49.08 ai@49.32 nhường@49.45 ai,@49.73 vì@50.16 không@50.29 có@50.53 luật@50.66 nào@50.87 nói@51.03 ai@51.31 được@51.44 đi@51.65 trước.@51.78 Phía@52.52 sau,@52.75 một@53.24 chiếc@53.43 xe@53.69 cứu@53.84 thương@54.02 hú@54.33 còi@54.48 mãi,@54.66 nhưng@55.15 chẳng@55.40 ai@55.65 nhường@55.78 đường.@56.07
+
+# chapter ends at s:56.67 (next chapter's first cut, or the episode end)

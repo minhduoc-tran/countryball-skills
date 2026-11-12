@@ -1,0 +1,505 @@
+{
+ "chapter": "c",
+ "shots": [
+  {
+   "id": "C1",
+   "file": "shots-chc-jungle-street",
+   "size": "wide",
+   "set": "street",
+   "key": 60,
+   "note": "week one: street hurries, big man strides with stack"
+  },
+  {
+   "id": "C2",
+   "file": "shots-chc-jungle-street",
+   "size": "medium",
+   "set": "street",
+   "key": 20,
+   "note": "big man lifts stack off the stall, seller steps back"
+  },
+  {
+   "id": "C3",
+   "file": "shots-chc-jungle-street",
+   "size": "wide",
+   "set": "alley",
+   "key": 50,
+   "note": "gang strings the rope, sign, cash box"
+  },
+  {
+   "id": "C4",
+   "file": "shots-chc-jungle-street",
+   "size": "medium",
+   "set": "alley",
+   "key": 40,
+   "note": "reluctant payer drops a note in the box"
+  },
+  {
+   "id": "C5",
+   "file": "shots-chc-jungle-grandma-home",
+   "size": "medium",
+   "set": "street",
+   "key": 34,
+   "note": "grandma's ticket strip snatched, fluttering tickets (alert)"
+  },
+  {
+   "id": "C6",
+   "file": "shots-chc-jungle-grandma-home",
+   "size": "wide",
+   "set": "street",
+   "key": 30,
+   "note": "grandma looks around, empty police booth"
+  },
+  {
+   "id": "C7",
+   "file": "shots-chc-jungle-grandma-home",
+   "size": "medium",
+   "set": "door",
+   "key": 50,
+   "note": "door shut, bolt, padlock, bar"
+  },
+  {
+   "id": "C8",
+   "file": "shots-chc-jungle-grandma-home",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "neighbours swap the night-watch torch"
+  },
+  {
+   "id": "C9",
+   "file": "shots-chc-jungle-grandma-home",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 50,
+   "note": "sis at the window, torch beam on the glass"
+  },
+  {
+   "id": "C10",
+   "file": "shots-chc-family-candle",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 35,
+   "note": "family round one candle, dark kitchen"
+  },
+  {
+   "id": "C11",
+   "file": "shots-chc-family-candle",
+   "size": "insert",
+   "set": "kitchen",
+   "key": 20,
+   "note": "candle flame macro, soft faces"
+  },
+  {
+   "id": "C12",
+   "file": "shots-chc-family-candle",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 40,
+   "note": "mum speaks softly, push-in"
+  },
+  {
+   "id": "C13",
+   "file": "shots-chc-family-candle",
+   "size": "close",
+   "set": "kitchen",
+   "key": 40,
+   "note": "mum profile, eyes on the flame"
+  },
+  {
+   "id": "C14",
+   "file": "shots-chc-family-candle",
+   "size": "close",
+   "set": "kitchen",
+   "key": 28,
+   "note": "mum turns to sis, small smile"
+  },
+  {
+   "id": "C15",
+   "file": "shots-chc-family-candle",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 32,
+   "note": "sis leans on mum"
+  },
+  {
+   "id": "C16",
+   "file": "shots-chc-hobbes",
+   "size": "medium",
+   "set": "study",
+   "key": 30,
+   "note": "quill writing by candlelight"
+  },
+  {
+   "id": "C17",
+   "file": "shots-chc-hobbes",
+   "size": "medium",
+   "set": "card",
+   "key": 35,
+   "note": "Hobbes portrait + LEVIATHAN + name plate"
+  },
+  {
+   "id": "C18",
+   "file": "shots-chc-hobbes",
+   "size": "wide",
+   "set": "hill",
+   "key": 40,
+   "note": "lone figure on empty hill"
+  },
+  {
+   "id": "C19",
+   "file": "shots-chc-hobbes",
+   "size": "card",
+   "set": "card",
+   "key": 40,
+   "note": "CÔ ĐỘC, NGHÈO KHỔ stamped"
+  },
+  {
+   "id": "C20",
+   "file": "shots-chc-hobbes",
+   "size": "card",
+   "set": "card",
+   "key": 60,
+   "note": "TỒI TỆ, TÀN BẠO, NGẮN NGỦI stamped"
+  },
+  {
+   "id": "C21",
+   "file": "shots-chc-history",
+   "size": "medium",
+   "set": "card",
+   "key": 35,
+   "note": "history scroll unrolls"
+  },
+  {
+   "id": "C22",
+   "file": "shots-chc-history",
+   "size": "wide",
+   "set": "castle",
+   "key": 50,
+   "note": "medieval castle village sepia"
+  },
+  {
+   "id": "C23",
+   "file": "shots-chc-history",
+   "size": "card",
+   "set": "chart",
+   "key": 70,
+   "note": "bar chart medieval vs today"
+  },
+  {
+   "id": "C24",
+   "file": "shots-chc-history",
+   "size": "card",
+   "set": "chart",
+   "key": 30,
+   "note": "stamp ĐÓ LÀ THẬT"
+  },
+  {
+   "id": "C25",
+   "file": "shots-chc-history",
+   "size": "wide",
+   "set": "alley",
+   "key": 60,
+   "note": "leader's long shadow over the alley"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "C1",
+   "at": "s:119.22",
+   "look": "w1"
+  },
+  {
+   "shot": "C2",
+   "at": "s:121.64",
+   "look": "w1"
+  },
+  {
+   "shot": "C3",
+   "at": "s:123.02",
+   "look": "w1"
+  },
+  {
+   "shot": "C4",
+   "at": "s:125.07",
+   "look": "w1"
+  },
+  {
+   "shot": "C5",
+   "at": "s:126.7",
+   "look": "alert"
+  },
+  {
+   "shot": "C6",
+   "at": "s:128.96",
+   "look": "w1"
+  },
+  {
+   "shot": "C7",
+   "at": "s:130.31",
+   "look": "w1"
+  },
+  {
+   "shot": "C8",
+   "at": "s:132.16",
+   "look": "w1"
+  },
+  {
+   "shot": "C9",
+   "at": "s:133.36",
+   "look": "w1"
+  },
+  {
+   "shot": "C10",
+   "at": "s:135.69",
+   "look": "blackout"
+  },
+  {
+   "shot": "C11",
+   "at": "s:137.44",
+   "look": "blackout"
+  },
+  {
+   "shot": "C12",
+   "at": "s:138.43",
+   "look": "blackout"
+  },
+  {
+   "shot": "C13",
+   "at": "s:140.35",
+   "look": "blackout"
+  },
+  {
+   "shot": "C14",
+   "at": "s:142.4",
+   "look": "blackout"
+  },
+  {
+   "shot": "C15",
+   "at": "s:143.79",
+   "look": "blackout"
+  },
+  {
+   "shot": "C16",
+   "at": "s:145.42",
+   "look": "memory"
+  },
+  {
+   "shot": "C17",
+   "at": "s:147.38",
+   "look": "memory"
+  },
+  {
+   "shot": "C18",
+   "at": "s:149.05",
+   "look": "memory"
+  },
+  {
+   "shot": "C19",
+   "at": "s:151.24",
+   "look": "memory"
+  },
+  {
+   "shot": "C20",
+   "at": "s:152.69",
+   "look": "memory"
+  },
+  {
+   "shot": "C21",
+   "at": "s:154.88",
+   "look": "memory"
+  },
+  {
+   "shot": "C22",
+   "at": "s:156.91",
+   "look": "memory"
+  },
+  {
+   "shot": "C23",
+   "at": "s:159.48",
+   "look": "memory"
+  },
+  {
+   "shot": "C24",
+   "at": "s:162.15",
+   "look": "memory"
+  },
+  {
+   "shot": "C25",
+   "at": "s:163.75",
+   "look": "w1"
+  }
+ ],
+ "fx": [
+  {
+   "at": "C5+32",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.35
+  },
+  {
+   "at": "C24+8",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.3
+  }
+ ],
+ "events": [
+  [
+   "C1",
+   "room_tone",
+   0.06,
+   "onset",
+   "C10"
+  ],
+  [
+   "C2+18",
+   "step",
+   0.09
+  ],
+  [
+   "C3+8",
+   "clink",
+   0.1
+  ],
+  [
+   "C3+40",
+   "land",
+   0.1
+  ],
+  [
+   "C4+34",
+   "clink",
+   0.12
+  ],
+  [
+   "C5+30",
+   "swoosh",
+   0.14
+  ],
+  [
+   "C5+34",
+   "drone_hit",
+   0.12
+  ],
+  [
+   "C5+40",
+   "gasp",
+   0.1
+  ],
+  [
+   "C7+10",
+   "land",
+   0.1
+  ],
+  [
+   "C7+20",
+   "switch_off",
+   0.12
+  ],
+  [
+   "C7+30",
+   "clink",
+   0.14
+  ],
+  [
+   "C7+44",
+   "paper_land",
+   0.12
+  ],
+  [
+   "C8",
+   "roof_wind",
+   0.07,
+   "onset",
+   "C10"
+  ],
+  [
+   "C10",
+   "room_tone",
+   0.06,
+   "onset",
+   "C16"
+  ],
+  [
+   "C15+14",
+   "ting",
+   0.06
+  ],
+  [
+   "C16",
+   "room_tone",
+   0.05,
+   "onset",
+   "C21"
+  ],
+  [
+   "C17+8",
+   "ting",
+   0.08
+  ],
+  [
+   "C19+14",
+   "land",
+   0.1
+  ],
+  [
+   "C19+34",
+   "land",
+   0.1
+  ],
+  [
+   "C20+14",
+   "land",
+   0.1
+  ],
+  [
+   "C20+36",
+   "land",
+   0.1
+  ],
+  [
+   "C20+58",
+   "land",
+   0.12
+  ],
+  [
+   "C22",
+   "roof_wind",
+   0.06,
+   "onset",
+   "C23"
+  ],
+  [
+   "C23+39",
+   "ting",
+   0.08
+  ],
+  [
+   "C24+8",
+   "land",
+   0.18
+  ],
+  [
+   "C24+8",
+   "drone_hit",
+   0.1
+  ],
+  [
+   "C25",
+   "drone_hit",
+   0.1
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "C23+4",
+   "clip": "counter_tick",
+   "n": 4,
+   "every": 6,
+   "gain": [
+    0.05,
+    0.07
+   ]
+  }
+ ]
+}

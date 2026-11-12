@@ -1,0 +1,2391 @@
+{
+ "slug": "infinite-money",
+ "title": "WHAT IF YOU HAD INFINITE MONEY?",
+ "fps": 30,
+ "total": 8871,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 42,
+   "t0": 0,
+   "t1": 42,
+   "line": "A black card."
+  },
+  {
+   "shot": "A2",
+   "a": 42,
+   "b": 88,
+   "t0": 0,
+   "t1": 46,
+   "line": "No spending limit."
+  },
+  {
+   "shot": "A3",
+   "a": 88,
+   "b": 149,
+   "t0": 0,
+   "t1": 61,
+   "line": "Buy every sandwich on the whole street."
+  },
+  {
+   "shot": "A4",
+   "a": 149,
+   "b": 177,
+   "t0": 0,
+   "t1": 28,
+   "line": "Tap."
+  },
+  {
+   "shot": "A5",
+   "a": 177,
+   "b": 189,
+   "t0": 0,
+   "t1": 12,
+   "line": "Payment",
+   "look": "card"
+  },
+  {
+   "shot": "A6",
+   "a": 189,
+   "b": 214,
+   "t0": 0,
+   "t1": 25,
+   "line": "approved."
+  },
+  {
+   "shot": "A7",
+   "a": 214,
+   "b": 262,
+   "t0": 0,
+   "t1": 48,
+   "line": "Buy an entire island."
+  },
+  {
+   "shot": "A8",
+   "a": 262,
+   "b": 288,
+   "t0": 0,
+   "t1": 26,
+   "line": "Tap."
+  },
+  {
+   "shot": "A9",
+   "a": 288,
+   "b": 319,
+   "t0": 0,
+   "t1": 31,
+   "line": "Payment approved.",
+   "look": "card"
+  },
+  {
+   "shot": "A10",
+   "a": 319,
+   "b": 394,
+   "t0": 0,
+   "t1": 75,
+   "line": "What if you had infinite money?"
+  },
+  {
+   "shot": "A11",
+   "a": 394,
+   "b": 458,
+   "t0": 0,
+   "t1": 64,
+   "line": "This morning,"
+  },
+  {
+   "shot": "A12",
+   "a": 458,
+   "b": 507,
+   "t0": 0,
+   "t1": 49,
+   "line": "there's an envelope in your mailbox with no name on it."
+  },
+  {
+   "shot": "A13",
+   "a": 507,
+   "b": 558,
+   "t0": 0,
+   "t1": 51,
+   "line": "Inside is a black card,"
+  },
+  {
+   "shot": "A14",
+   "a": 558,
+   "b": 659,
+   "t0": 0,
+   "t1": 101,
+   "line": "and a note with just two words: no limit."
+  },
+  {
+   "shot": "A15",
+   "a": 659,
+   "b": 748,
+   "t0": 0,
+   "t1": 89,
+   "line": "Buy anything. As much as you want."
+  },
+  {
+   "shot": "A16",
+   "a": 748,
+   "b": 789,
+   "t0": 0,
+   "t1": 41,
+   "line": "The bank has checked it:"
+  },
+  {
+   "shot": "A17",
+   "a": 789,
+   "b": 873,
+   "t0": 0,
+   "t1": 84,
+   "line": "it's real money, and it never runs out."
+  },
+  {
+   "shot": "A18",
+   "a": 873,
+   "b": 940,
+   "t0": 0,
+   "t1": 67,
+   "line": "You try buying a bubble tea."
+  },
+  {
+   "shot": "A19",
+   "a": 940,
+   "b": 968,
+   "t0": 0,
+   "t1": 28,
+   "line": "Tap.",
+   "look": "card"
+  },
+  {
+   "shot": "A20",
+   "a": 968,
+   "b": 1010,
+   "t0": 0,
+   "t1": 42,
+   "line": "Payment approved.",
+   "look": "card"
+  },
+  {
+   "shot": "A21",
+   "a": 1010,
+   "b": 1051,
+   "t0": 0,
+   "t1": 41,
+   "line": "Your balance comes up:"
+  },
+  {
+   "shot": "A22",
+   "a": 1051,
+   "b": 1088,
+   "t0": 0,
+   "t1": 37,
+   "line": "infinity.",
+   "look": "card"
+  },
+  {
+   "shot": "A23",
+   "a": 1088,
+   "b": 1143,
+   "t0": 0,
+   "t1": 55,
+   "line": "To give you a sense of scale:"
+  },
+  {
+   "shot": "A24",
+   "a": 1143,
+   "b": 1229,
+   "t0": 0,
+   "t1": 86,
+   "line": "in twenty twenty five, Vietnam's entire economy produced"
+  },
+  {
+   "shot": "A25",
+   "a": 1229,
+   "b": 1362,
+   "t0": 0,
+   "t1": 133,
+   "line": "about five hundred billion dollars' worth of goods and services."
+  },
+  {
+   "shot": "A26",
+   "a": 1362,
+   "b": 1454,
+   "t0": 0,
+   "t1": 92,
+   "line": "With this card, one tap covers all of it.",
+   "look": "card"
+  },
+  {
+   "shot": "A27",
+   "a": 1454,
+   "b": 1515,
+   "t0": 0,
+   "t1": 61,
+   "line": "Then you tap again.",
+   "look": "card"
+  },
+  {
+   "shot": "B1",
+   "a": 1515,
+   "b": 1545,
+   "t0": 0,
+   "t1": 30,
+   "line": "On day one,"
+  },
+  {
+   "shot": "B2",
+   "a": 1545,
+   "b": 1613,
+   "t0": 0,
+   "t1": 68,
+   "line": "you buy breakfast for the whole neighborhood."
+  },
+  {
+   "shot": "B3",
+   "a": 1613,
+   "b": 1643,
+   "t0": 0,
+   "t1": 30,
+   "line": "Sandwiches,"
+  },
+  {
+   "shot": "B4",
+   "a": 1643,
+   "b": 1714,
+   "t0": 0,
+   "t1": 71,
+   "line": "noodle soup, sticky rice, coffee."
+  },
+  {
+   "shot": "B5",
+   "a": 1714,
+   "b": 1739,
+   "t0": 0,
+   "t1": 25,
+   "line": "Tap.",
+   "look": "card"
+  },
+  {
+   "shot": "B6",
+   "a": 1739,
+   "b": 1794,
+   "t0": 0,
+   "t1": 55,
+   "line": "You pay off your parents' mortgage."
+  },
+  {
+   "shot": "B7",
+   "a": 1794,
+   "b": 1886,
+   "t0": 0,
+   "t1": 92,
+   "line": "You buy your little sister an entire toy store."
+  },
+  {
+   "shot": "B8",
+   "a": 1886,
+   "b": 1972,
+   "t0": 0,
+   "t1": 86,
+   "line": "You give your best friend a brand new scooter."
+  },
+  {
+   "shot": "B9",
+   "a": 1972,
+   "b": 2032,
+   "t0": 0,
+   "t1": 60,
+   "line": "Tap, tap, tap.",
+   "look": "card"
+  },
+  {
+   "shot": "B10",
+   "a": 2032,
+   "b": 2097,
+   "t0": 0,
+   "t1": 65,
+   "line": "You rebuild your old school."
+  },
+  {
+   "shot": "B11",
+   "a": 2097,
+   "b": 2136,
+   "t0": 0,
+   "t1": 39,
+   "line": "Cool classrooms,"
+  },
+  {
+   "shot": "B12",
+   "a": 2136,
+   "b": 2184,
+   "t0": 0,
+   "t1": 48,
+   "line": "a library full of books,"
+  },
+  {
+   "shot": "B13",
+   "a": 2184,
+   "b": 2242,
+   "t0": 0,
+   "t1": 58,
+   "line": "a brand new football pitch."
+  },
+  {
+   "shot": "B14",
+   "a": 2242,
+   "b": 2285,
+   "t0": 0,
+   "t1": 43,
+   "line": "You open a movie theater and let"
+  },
+  {
+   "shot": "B15",
+   "a": 2285,
+   "b": 2352,
+   "t0": 0,
+   "t1": 67,
+   "line": "the whole school in for free."
+  },
+  {
+   "shot": "B16",
+   "a": 2352,
+   "b": 2417,
+   "t0": 0,
+   "t1": 65,
+   "line": "You buy the tallest building in the city,"
+  },
+  {
+   "shot": "B17",
+   "a": 2417,
+   "b": 2479,
+   "t0": 0,
+   "t1": 62,
+   "line": "and open the rooftop so anyone can watch"
+  },
+  {
+   "shot": "B18",
+   "a": 2479,
+   "b": 2530,
+   "t0": 0,
+   "t1": 51,
+   "line": "the sunset for free."
+  },
+  {
+   "shot": "B19",
+   "a": 2530,
+   "b": 2588,
+   "t0": 0,
+   "t1": 58,
+   "line": "You buy a trip to space."
+  },
+  {
+   "shot": "B20",
+   "a": 2588,
+   "b": 2691,
+   "t0": 0,
+   "t1": 103,
+   "line": "Tickets cost tens of millions of dollars. Tap.",
+   "look": "card"
+  },
+  {
+   "shot": "B21",
+   "a": 2691,
+   "b": 2737,
+   "t0": 0,
+   "t1": 46,
+   "line": "Then you think bigger."
+  },
+  {
+   "shot": "B22",
+   "a": 2737,
+   "b": 2824,
+   "t0": 0,
+   "t1": 87,
+   "line": "According to a study called Ceres twenty thirty,"
+  },
+  {
+   "shot": "B23",
+   "a": 2824,
+   "b": 2879,
+   "t0": 0,
+   "t1": 55,
+   "line": "the world needs about thirty three"
+  },
+  {
+   "shot": "B24",
+   "a": 2879,
+   "b": 2991,
+   "t0": 0,
+   "t1": 112,
+   "line": "billion extra dollars a year to end hunger by twenty thirty."
+  },
+  {
+   "shot": "B25",
+   "a": 2991,
+   "b": 3013,
+   "t0": 0,
+   "t1": 22,
+   "line": "For you,",
+   "look": "card"
+  },
+  {
+   "shot": "B26",
+   "a": 3013,
+   "b": 3055,
+   "t0": 0,
+   "t1": 42,
+   "line": "that's one tap.",
+   "look": "card"
+  },
+  {
+   "shot": "B27",
+   "a": 3055,
+   "b": 3104,
+   "t0": 0,
+   "t1": 49,
+   "line": "Sounds like you just became the kindest"
+  },
+  {
+   "shot": "B28",
+   "a": 3104,
+   "b": 3169,
+   "t0": 0,
+   "t1": 65,
+   "line": "person on the planet, right?"
+  },
+  {
+   "shot": "B29",
+   "a": 3169,
+   "b": 3215,
+   "t0": 0,
+   "t1": 46,
+   "line": "But this card has a problem nobody",
+   "look": "card"
+  },
+  {
+   "shot": "B30",
+   "a": 3215,
+   "b": 3276,
+   "t0": 0,
+   "t1": 61,
+   "line": "told you about."
+  },
+  {
+   "shot": "C1",
+   "a": 3276,
+   "b": 3314,
+   "t0": 0,
+   "t1": 38,
+   "line": "Every time you tap,",
+   "look": "card"
+  },
+  {
+   "shot": "C2",
+   "a": 3314,
+   "b": 3385,
+   "t0": 0,
+   "t1": 71,
+   "line": "new money flows into the economy."
+  },
+  {
+   "shot": "C3",
+   "a": 3385,
+   "b": 3456,
+   "t0": 0,
+   "t1": 71,
+   "line": "But not a single new thing gets made."
+  },
+  {
+   "shot": "C4",
+   "a": 3456,
+   "b": 3528,
+   "t0": 0,
+   "t1": 72,
+   "line": "You buy every sandwich on the street.",
+   "look": "card"
+  },
+  {
+   "shot": "C5",
+   "a": 3528,
+   "b": 3618,
+   "t0": 0,
+   "t1": 90,
+   "line": "The next morning, nobody else can buy one."
+  },
+  {
+   "shot": "C6",
+   "a": 3618,
+   "b": 3681,
+   "t0": 0,
+   "t1": 63,
+   "line": "Sellers see that everyone wants to buy,",
+   "look": "prices"
+  },
+  {
+   "shot": "C7",
+   "a": 3681,
+   "b": 3727,
+   "t0": 0,
+   "t1": 46,
+   "line": "so they raise their prices.",
+   "look": "prices"
+  },
+  {
+   "shot": "C8",
+   "a": 3727,
+   "b": 3827,
+   "t0": 0,
+   "t1": 100,
+   "line": "You buy ten thousand bags of rice for flood victims."
+  },
+  {
+   "shot": "C9",
+   "a": 3827,
+   "b": 3863,
+   "t0": 0,
+   "t1": 36,
+   "line": "But farmers can't grow"
+  },
+  {
+   "shot": "C10",
+   "a": 3863,
+   "b": 3926,
+   "t0": 0,
+   "t1": 63,
+   "line": "rice as fast as you can tap."
+  },
+  {
+   "shot": "C11",
+   "a": 3926,
+   "b": 4042,
+   "t0": 0,
+   "t1": 116,
+   "line": "Rice runs short. The price goes up, for everyone.",
+   "look": "prices"
+  },
+  {
+   "shot": "C12",
+   "a": 4042,
+   "b": 4114,
+   "t0": 0,
+   "t1": 72,
+   "line": "Shopkeepers start to recognize you.",
+   "look": "prices"
+  },
+  {
+   "shot": "C13",
+   "a": 4114,
+   "b": 4151,
+   "t0": 0,
+   "t1": 37,
+   "line": "When they see you coming,",
+   "look": "prices"
+  },
+  {
+   "shot": "C14",
+   "a": 4151,
+   "b": 4224,
+   "t0": 0,
+   "t1": 73,
+   "line": "they quietly change their price boards.",
+   "look": "prices"
+  },
+  {
+   "shot": "C15",
+   "a": 4224,
+   "b": 4275,
+   "t0": 0,
+   "t1": 51,
+   "line": "This has really happened.",
+   "look": "memory"
+  },
+  {
+   "shot": "C16",
+   "a": 4275,
+   "b": 4341,
+   "t0": 0,
+   "t1": 66,
+   "line": "In nineteen eighty six, inflation in Vietnam",
+   "look": "memory"
+  },
+  {
+   "shot": "C17",
+   "a": 4341,
+   "b": 4473,
+   "t0": 0,
+   "t1": 132,
+   "line": "hit seven hundred seventy four point seven percent. Something that cost",
+   "look": "memory"
+  },
+  {
+   "shot": "C18",
+   "a": 4473,
+   "b": 4533,
+   "t0": 0,
+   "t1": 60,
+   "line": "one dong in January cost almost",
+   "look": "memory"
+  },
+  {
+   "shot": "C19",
+   "a": 4533,
+   "b": 4582,
+   "t0": 0,
+   "t1": 49,
+   "line": "nine by December.",
+   "look": "memory"
+  },
+  {
+   "shot": "C20",
+   "a": 4582,
+   "b": 4662,
+   "t0": 0,
+   "t1": 80,
+   "line": "People carried bags of cash to the market.",
+   "look": "memory"
+  },
+  {
+   "shot": "C21",
+   "a": 4662,
+   "b": 4700,
+   "t0": 0,
+   "t1": 38,
+   "line": "That's real."
+  },
+  {
+   "shot": "C22",
+   "a": 4700,
+   "b": 4769,
+   "t0": 0,
+   "t1": 69,
+   "line": "In Zimbabwe, at one point prices"
+  },
+  {
+   "shot": "C23",
+   "a": 4769,
+   "b": 4816,
+   "t0": 0,
+   "t1": 47,
+   "line": "were doubling about every day."
+  },
+  {
+   "shot": "C24",
+   "a": 4816,
+   "b": 4859,
+   "t0": 0,
+   "t1": 43,
+   "line": "In two thousand nine,"
+  },
+  {
+   "shot": "C25",
+   "a": 4859,
+   "b": 4953,
+   "t0": 0,
+   "t1": 94,
+   "line": "the country printed a one hundred trillion dollar note."
+  },
+  {
+   "shot": "D1",
+   "a": 4953,
+   "b": 5061,
+   "t0": 0,
+   "t1": 108,
+   "line": "And the people who lose the most are the ones who did nothing at all."
+  },
+  {
+   "shot": "D2",
+   "a": 5061,
+   "b": 5145,
+   "t0": 0,
+   "t1": 84,
+   "line": "Your grandma saved her whole life into one savings book."
+  },
+  {
+   "shot": "D3",
+   "a": 5145,
+   "b": 5205,
+   "t0": 0,
+   "t1": 60,
+   "line": "Every time you tap,",
+   "look": "card"
+  },
+  {
+   "shot": "D4",
+   "a": 5205,
+   "b": 5266,
+   "t0": 0,
+   "t1": 61,
+   "line": "that book buys a little less.",
+   "look": "prices"
+  },
+  {
+   "shot": "D5",
+   "a": 5266,
+   "b": 5364,
+   "t0": 0,
+   "t1": 98,
+   "line": "A week later, a man in a suit comes to see you."
+  },
+  {
+   "shot": "D6",
+   "a": 5364,
+   "b": 5419,
+   "t0": 0,
+   "t1": 55,
+   "line": "He works at the central bank."
+  },
+  {
+   "shot": "D7",
+   "a": 5419,
+   "b": 5492,
+   "t0": 0,
+   "t1": 73,
+   "line": "He says just one thing: please,"
+  },
+  {
+   "shot": "D8",
+   "a": 5492,
+   "b": 5532,
+   "t0": 0,
+   "t1": 40,
+   "line": "stop tapping."
+  },
+  {
+   "shot": "D9",
+   "a": 5532,
+   "b": 5601,
+   "t0": 0,
+   "t1": 69,
+   "line": "That's when you finally understand."
+  },
+  {
+   "shot": "D10",
+   "a": 5601,
+   "b": 5629,
+   "t0": 0,
+   "t1": 28,
+   "line": "Money has no value"
+  },
+  {
+   "shot": "D11",
+   "a": 5629,
+   "b": 5772,
+   "t0": 0,
+   "t1": 143,
+   "line": "by itself. Money is just a promise that someone will trade you their work."
+  },
+  {
+   "shot": "D12",
+   "a": 5772,
+   "b": 5824,
+   "t0": 0,
+   "t1": 52,
+   "line": "The rice a farmer grows."
+  },
+  {
+   "shot": "D13",
+   "a": 5824,
+   "b": 5872,
+   "t0": 0,
+   "t1": 48,
+   "line": "A surgeon's operation."
+  },
+  {
+   "shot": "D14",
+   "a": 5872,
+   "b": 5965,
+   "t0": 0,
+   "t1": 93,
+   "line": "The bread a baker gets up at four in the morning to bake."
+  },
+  {
+   "shot": "D15",
+   "a": 5965,
+   "b": 6035,
+   "t0": 0,
+   "t1": 70,
+   "line": "Infinite money can't make more rice.",
+   "look": "card"
+  },
+  {
+   "shot": "D16",
+   "a": 6035,
+   "b": 6095,
+   "t0": 0,
+   "t1": 60,
+   "line": "It can't make more doctors.",
+   "look": "card"
+  },
+  {
+   "shot": "D17",
+   "a": 6095,
+   "b": 6188,
+   "t0": 0,
+   "t1": 93,
+   "line": "It can't add a single hour to the day.",
+   "look": "card"
+  },
+  {
+   "shot": "D18",
+   "a": 6188,
+   "b": 6286,
+   "t0": 0,
+   "t1": 98,
+   "line": "The next morning, your mom still gets up early and pushes her"
+  },
+  {
+   "shot": "D19",
+   "a": 6286,
+   "b": 6396,
+   "t0": 0,
+   "t1": 110,
+   "line": "sticky rice cart to the end of the alley, like every day."
+  },
+  {
+   "shot": "D20",
+   "a": 6396,
+   "b": 6510,
+   "t0": 0,
+   "t1": 114,
+   "line": "You ask: I have infinite money now, why are you still"
+  },
+  {
+   "shot": "D21",
+   "a": 6510,
+   "b": 6566,
+   "t0": 0,
+   "t1": 56,
+   "line": "selling? She smiles:"
+  },
+  {
+   "shot": "D22",
+   "a": 6566,
+   "b": 6640,
+   "t0": 0,
+   "t1": 74,
+   "line": "because people still need breakfast, sweetheart."
+  },
+  {
+   "shot": "E1",
+   "a": 6640,
+   "b": 6722,
+   "t0": 0,
+   "t1": 82,
+   "line": "That day, you help her sell for one morning."
+  },
+  {
+   "shot": "E2",
+   "a": 6722,
+   "b": 6763,
+   "t0": 0,
+   "t1": 41,
+   "line": "For the first time in your life,"
+  },
+  {
+   "shot": "E3",
+   "a": 6763,
+   "b": 6828,
+   "t0": 0,
+   "t1": 65,
+   "line": "you hold money you earned yourself."
+  },
+  {
+   "shot": "E4",
+   "a": 6828,
+   "b": 6881,
+   "t0": 0,
+   "t1": 53,
+   "line": "Fifteen thousand dong."
+  },
+  {
+   "shot": "E5",
+   "a": 6881,
+   "b": 6941,
+   "t0": 0,
+   "t1": 60,
+   "line": "It feels heavier than the black card."
+  },
+  {
+   "shot": "E6",
+   "a": 6941,
+   "b": 7069,
+   "t0": 0,
+   "t1": 128,
+   "line": "So if you had infinite money, what's the smartest way to spend it?"
+  },
+  {
+   "shot": "E7",
+   "a": 7069,
+   "b": 7119,
+   "t0": 0,
+   "t1": 50,
+   "line": "Not on more stuff."
+  },
+  {
+   "shot": "E8",
+   "a": 7119,
+   "b": 7195,
+   "t0": 0,
+   "t1": 76,
+   "line": "On helping the world make more things."
+  },
+  {
+   "shot": "E9",
+   "a": 7195,
+   "b": 7242,
+   "t0": 0,
+   "t1": 47,
+   "line": "Build schools to train more doctors."
+  },
+  {
+   "shot": "E10",
+   "a": 7242,
+   "b": 7324,
+   "t0": 0,
+   "t1": 82,
+   "line": "Fund research on better rice."
+  },
+  {
+   "shot": "E11",
+   "a": 7324,
+   "b": 7384,
+   "t0": 0,
+   "t1": 60,
+   "line": "Send poor kids to school."
+  },
+  {
+   "shot": "E12",
+   "a": 7384,
+   "b": 7495,
+   "t0": 0,
+   "t1": 111,
+   "line": "You pay teachers and doctors in remote villages really well."
+  },
+  {
+   "shot": "E13",
+   "a": 7495,
+   "b": 7534,
+   "t0": 0,
+   "t1": 39,
+   "line": "You fund scientists,"
+  },
+  {
+   "shot": "E14",
+   "a": 7534,
+   "b": 7621,
+   "t0": 0,
+   "t1": 87,
+   "line": "so they can find cheaper power and cleaner water."
+  },
+  {
+   "shot": "E15",
+   "a": 7621,
+   "b": 7669,
+   "t0": 0,
+   "t1": 48,
+   "line": "You tap slower.",
+   "look": "card"
+  },
+  {
+   "shot": "E16",
+   "a": 7669,
+   "b": 7749,
+   "t0": 0,
+   "t1": 80,
+   "line": "Less often. But every time you tap,",
+   "look": "card"
+  },
+  {
+   "shot": "E17",
+   "a": 7749,
+   "b": 7838,
+   "t0": 0,
+   "t1": 89,
+   "line": "the world gets one more real thing.",
+   "look": "card"
+  },
+  {
+   "shot": "E18",
+   "a": 7838,
+   "b": 7930,
+   "t0": 0,
+   "t1": 92,
+   "line": "A year later, the black card is still in your wallet."
+  },
+  {
+   "shot": "E19",
+   "a": 7930,
+   "b": 7996,
+   "t0": 0,
+   "t1": 66,
+   "line": "You use it less than you ever imagined."
+  },
+  {
+   "shot": "E20",
+   "a": 7996,
+   "b": 8096,
+   "t0": 0,
+   "t1": 100,
+   "line": "And your mom still sells sticky rice at the end of the alley."
+  },
+  {
+   "shot": "E21",
+   "a": 8096,
+   "b": 8183,
+   "t0": 0,
+   "t1": 87,
+   "line": "It's still the best in town."
+  },
+  {
+   "shot": "E22",
+   "a": 8183,
+   "b": 8330,
+   "t0": 0,
+   "t1": 147,
+   "line": "One day, your best friend asks: if you could choose again, would you still want that"
+  },
+  {
+   "shot": "E23",
+   "a": 8330,
+   "b": 8418,
+   "t0": 0,
+   "t1": 88,
+   "line": "card? You think for a long time. Then you say:"
+  },
+  {
+   "shot": "E24",
+   "a": 8418,
+   "b": 8541,
+   "t0": 0,
+   "t1": 123,
+   "line": "yes. But now I know what to use it for."
+  },
+  {
+   "shot": "E25",
+   "a": 8541,
+   "b": 8669,
+   "t0": 0,
+   "t1": 128,
+   "line": "So, if you had a card with no limit, what's the first thing you'd buy?"
+  },
+  {
+   "shot": "E26",
+   "a": 8669,
+   "b": 8871,
+   "t0": 0,
+   "t1": 202,
+   "line": "And would you dare to use it to change the world? Tell us in the comments."
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "macro",
+   "key": 12,
+   "len": 42,
+   "first": 0,
+   "line": "A black card.",
+   "note": "black card turning under spotlight"
+  },
+  {
+   "id": "A2",
+   "size": "close-up",
+   "key": 12,
+   "len": 46,
+   "first": 42,
+   "line": "No spending limit.",
+   "note": "gold infinity glint"
+  },
+  {
+   "id": "A3",
+   "size": "wide",
+   "key": 12,
+   "len": 61,
+   "first": 88,
+   "line": "Buy every sandwich on the whole street.",
+   "note": "row of banh mi carts emptied, Pip sweeps card"
+  },
+  {
+   "id": "A4",
+   "size": "macro",
+   "key": 12,
+   "len": 28,
+   "first": 149,
+   "line": "Tap.",
+   "note": "card tap on terminal, street bokeh"
+  },
+  {
+   "id": "A5",
+   "size": "macro",
+   "key": 12,
+   "len": 12,
+   "first": 177,
+   "line": "Payment",
+   "note": "terminal green THANH TOAN THANH CONG"
+  },
+  {
+   "id": "A6",
+   "size": "medium",
+   "key": 12,
+   "len": 25,
+   "first": 189,
+   "line": "approved.",
+   "note": "vendors cheer, Pip card up"
+  },
+  {
+   "id": "A7",
+   "size": "wide",
+   "key": 12,
+   "len": 48,
+   "first": 214,
+   "line": "Buy an entire island.",
+   "note": "small island, Pip on sand points card"
+  },
+  {
+   "id": "A8",
+   "size": "macro",
+   "key": 12,
+   "len": 26,
+   "first": 262,
+   "line": "Tap.",
+   "note": "card tap, island bokeh"
+  },
+  {
+   "id": "A9",
+   "size": "medium",
+   "key": 12,
+   "len": 31,
+   "first": 288,
+   "line": "Payment approved.",
+   "note": "terminal green on stump, DA BAN sign"
+  },
+  {
+   "id": "A10",
+   "size": "wide",
+   "key": 12,
+   "len": 75,
+   "first": 319,
+   "line": "What if you had infinite money?",
+   "note": "title, Pip holds card up"
+  },
+  {
+   "id": "A11",
+   "size": "wide",
+   "key": 12,
+   "len": 64,
+   "first": 394,
+   "line": "This morning,",
+   "note": "Pip walks to mailbox on gate"
+  },
+  {
+   "id": "A12",
+   "size": "medium",
+   "key": 12,
+   "len": 49,
+   "first": 458,
+   "line": "there's an envelope in your mailbox with no name on it.",
+   "note": "opens mailbox, pulls plain envelope"
+  },
+  {
+   "id": "A13",
+   "size": "top-down",
+   "key": 12,
+   "len": 51,
+   "first": 507,
+   "line": "Inside is a black card,",
+   "note": "envelope opens, black card slides out"
+  },
+  {
+   "id": "A14",
+   "size": "macro",
+   "key": 12,
+   "len": 101,
+   "first": 558,
+   "line": "and a note with just two words: no limit.",
+   "note": "note unfolds, KHONG GIOI HAN writes on"
+  },
+  {
+   "id": "A15",
+   "size": "close-up",
+   "key": 12,
+   "len": 89,
+   "first": 659,
+   "line": "Buy anything. As much as you want.",
+   "note": "Pip wide eyes, item badges pop"
+  },
+  {
+   "id": "A16",
+   "size": "close-up",
+   "key": 12,
+   "len": 41,
+   "first": 748,
+   "line": "The bank has checked it:",
+   "note": "bank app checking"
+  },
+  {
+   "id": "A17",
+   "size": "medium",
+   "key": 12,
+   "len": 84,
+   "first": 789,
+   "line": "it's real money, and it never runs out.",
+   "note": "HOP LE tick, SO DU infinity"
+  },
+  {
+   "id": "A18",
+   "size": "medium",
+   "key": 12,
+   "len": 67,
+   "first": 873,
+   "line": "You try buying a bubble tea.",
+   "note": "drink stall, cup slides to Pip"
+  },
+  {
+   "id": "A19",
+   "size": "macro",
+   "key": 12,
+   "len": 28,
+   "first": 940,
+   "line": "Tap.",
+   "note": "tap at stall"
+  },
+  {
+   "id": "A20",
+   "size": "macro",
+   "key": 12,
+   "len": 42,
+   "first": 968,
+   "line": "Payment approved.",
+   "note": "terminal green + milk tea"
+  },
+  {
+   "id": "A21",
+   "size": "close-up",
+   "key": 12,
+   "len": 41,
+   "first": 1010,
+   "line": "Your balance comes up:",
+   "note": "phone SO DU infinity"
+  },
+  {
+   "id": "A22",
+   "size": "medium",
+   "key": 12,
+   "len": 37,
+   "first": 1051,
+   "line": "infinity.",
+   "note": "Pip sips, amazed, infinity pops"
+  },
+  {
+   "id": "A23",
+   "size": "schematic",
+   "key": 12,
+   "len": 55,
+   "first": 1088,
+   "line": "To give you a sense of scale:",
+   "note": "Vietnam outline draws on"
+  },
+  {
+   "id": "A24",
+   "size": "schematic",
+   "key": 12,
+   "len": 86,
+   "first": 1143,
+   "line": "in twenty twenty five, Vietnam's entire economy produced",
+   "note": "2025, icons light up"
+  },
+  {
+   "id": "A25",
+   "size": "schematic",
+   "key": 12,
+   "len": 133,
+   "first": 1229,
+   "line": "about five hundred billion dollars' worth of goods and services.",
+   "note": "counter 12,8 TRIEU TY D, >500 TY USD"
+  },
+  {
+   "id": "A26",
+   "size": "schematic",
+   "key": 12,
+   "len": 92,
+   "first": 1362,
+   "line": "With this card, one tap covers all of it.",
+   "note": "card swipes across number"
+  },
+  {
+   "id": "A27",
+   "size": "schematic",
+   "key": 12,
+   "len": 61,
+   "first": 1454,
+   "line": "Then you tap again.",
+   "note": "second swipe x2"
+  },
+  {
+   "id": "B1",
+   "size": "wide",
+   "key": 34,
+   "len": 30,
+   "first": 1515,
+   "line": "On day one,",
+   "note": "alley at dawn, Pip arms wide, neighbours erupt"
+  },
+  {
+   "id": "B2",
+   "size": "medium",
+   "key": 20,
+   "len": 68,
+   "first": 1545,
+   "line": "you buy breakfast for the whole neighborhood.",
+   "note": "neighbours cheering at the table"
+  },
+  {
+   "id": "B3",
+   "size": "insert",
+   "key": 30,
+   "len": 30,
+   "first": 1613,
+   "line": "Sandwiches,",
+   "note": "banh mi + pho pop on"
+  },
+  {
+   "id": "B4",
+   "size": "insert",
+   "key": 36,
+   "len": 71,
+   "first": 1643,
+   "line": "noodle soup, sticky rice, coffee.",
+   "note": "xoi + ca phe pop on"
+  },
+  {
+   "id": "B5",
+   "size": "close",
+   "key": 22,
+   "len": 25,
+   "first": 1714,
+   "line": "Tap.",
+   "note": "card taps terminal, beep, tick"
+  },
+  {
+   "id": "B6",
+   "size": "insert",
+   "key": 48,
+   "len": 55,
+   "first": 1739,
+   "line": "You pay off your parents' mortgage.",
+   "note": "contract stamped DA TAT TOAN, whip to mum hugging Pip"
+  },
+  {
+   "id": "B7",
+   "size": "wide",
+   "key": 50,
+   "len": 92,
+   "first": 1794,
+   "line": "You buy your little sister an entire toy store.",
+   "note": "sis leaps in toy store, toys fly"
+  },
+  {
+   "id": "B8",
+   "size": "medium",
+   "key": 50,
+   "len": 86,
+   "first": 1886,
+   "line": "You give your best friend a brand new scooter.",
+   "note": "Mo + new scooter, red bow"
+  },
+  {
+   "id": "B9",
+   "size": "insert",
+   "key": 60,
+   "len": 60,
+   "first": 1972,
+   "line": "Tap, tap, tap.",
+   "note": "three fast swipes"
+  },
+  {
+   "id": "B10",
+   "size": "wide",
+   "key": 44,
+   "len": 65,
+   "first": 2032,
+   "line": "You rebuild your old school.",
+   "note": "school repainted new, Pip arms wide"
+  },
+  {
+   "id": "B11",
+   "size": "medium",
+   "key": 20,
+   "len": 39,
+   "first": 2097,
+   "line": "Cool classrooms,",
+   "note": "bright cool classroom"
+  },
+  {
+   "id": "B12",
+   "size": "insert",
+   "key": 26,
+   "len": 48,
+   "first": 2136,
+   "line": "a library full of books,",
+   "note": "books fill shelves"
+  },
+  {
+   "id": "B13",
+   "size": "wide",
+   "key": 24,
+   "len": 58,
+   "first": 2184,
+   "line": "a brand new football pitch.",
+   "note": "Pip kicks into goal, new pitch"
+  },
+  {
+   "id": "B14",
+   "size": "wide",
+   "key": 30,
+   "len": 43,
+   "first": 2242,
+   "line": "You open a movie theater and let",
+   "note": "cinema doors open, light floods"
+  },
+  {
+   "id": "B15",
+   "size": "medium",
+   "key": 46,
+   "len": 67,
+   "first": 2285,
+   "line": "the whole school in for free.",
+   "note": "hall of laughing classmates, MIEN PHI ticket"
+  },
+  {
+   "id": "B16",
+   "size": "low",
+   "key": 40,
+   "len": 65,
+   "first": 2352,
+   "line": "You buy the tallest building in the city,",
+   "note": "tallest tower, low angle"
+  },
+  {
+   "id": "B17",
+   "size": "medium",
+   "key": 36,
+   "len": 62,
+   "first": 2417,
+   "line": "and open the rooftop so anyone can watch",
+   "note": "roof door opens, crowd streams out"
+  },
+  {
+   "id": "B18",
+   "size": "wide",
+   "key": 34,
+   "len": 51,
+   "first": 2479,
+   "line": "the sunset for free.",
+   "note": "sunset rooftop full of people"
+  },
+  {
+   "id": "B19",
+   "size": "medium",
+   "key": 40,
+   "len": 58,
+   "first": 2530,
+   "line": "You buy a trip to space.",
+   "note": "rocket launch"
+  },
+  {
+   "id": "B20",
+   "size": "medium",
+   "key": 60,
+   "len": 103,
+   "first": 2588,
+   "line": "Tickets cost tens of millions of dollars. Tap.",
+   "note": "Pip floats in capsule, Earth behind, price, swipe"
+  },
+  {
+   "id": "B21",
+   "size": "medium",
+   "key": 30,
+   "len": 46,
+   "first": 2691,
+   "line": "Then you think bigger.",
+   "note": "Pip looks at a world map"
+  },
+  {
+   "id": "B22",
+   "size": "schematic",
+   "key": 50,
+   "len": 87,
+   "first": 2737,
+   "line": "According to a study called Ceres twenty thirty,",
+   "note": "CERES2030 report card"
+  },
+  {
+   "id": "B23",
+   "size": "schematic",
+   "key": 50,
+   "len": 55,
+   "first": 2824,
+   "line": "the world needs about thirty three",
+   "note": "rice bowl 33 TY USD / NAM"
+  },
+  {
+   "id": "B24",
+   "size": "schematic",
+   "key": 70,
+   "len": 112,
+   "first": 2879,
+   "line": "billion extra dollars a year to end hunger by twenty thirty.",
+   "note": "hunger to 2030 timeline"
+  },
+  {
+   "id": "B25",
+   "size": "medium",
+   "key": 30,
+   "len": 22,
+   "first": 2991,
+   "line": "For you,",
+   "note": "Pip with card: 33 ty vs infinity"
+  },
+  {
+   "id": "B26",
+   "size": "schematic",
+   "key": 24,
+   "len": 42,
+   "first": 3013,
+   "line": "that's one tap.",
+   "note": "swipe, map lights up with bowls"
+  },
+  {
+   "id": "B27",
+   "size": "medium",
+   "key": 40,
+   "len": 49,
+   "first": 3055,
+   "line": "Sounds like you just became the kindest",
+   "note": "Pip on roof golden hour, confetti halo"
+  },
+  {
+   "id": "B28",
+   "size": "close",
+   "key": 40,
+   "len": 65,
+   "first": 3104,
+   "line": "person on the planet, right?",
+   "note": "close, halo, question"
+  },
+  {
+   "id": "B29",
+   "size": "close",
+   "key": 40,
+   "len": 46,
+   "first": 3169,
+   "line": "But this card has a problem nobody",
+   "note": "card on table, crack/glitch"
+  },
+  {
+   "id": "B30",
+   "size": "close",
+   "key": 40,
+   "len": 61,
+   "first": 3215,
+   "line": "told you about.",
+   "note": "smile drops, drone"
+  },
+  {
+   "id": "C1",
+   "size": "macro",
+   "key": 30,
+   "len": 38,
+   "first": 3276,
+   "line": "Every time you tap,",
+   "note": "card taps the terminal, green tick"
+  },
+  {
+   "id": "C2",
+   "size": "schematic",
+   "key": 60,
+   "len": 71,
+   "first": 3314,
+   "line": "new money flows into the economy.",
+   "note": "notes pour through a pipe into the economy jar"
+  },
+  {
+   "id": "C3",
+   "size": "schematic",
+   "key": 80,
+   "len": 71,
+   "first": 3385,
+   "line": "But not a single new thing gets made.",
+   "note": "shelf same size, money piles, scale tips"
+  },
+  {
+   "id": "C4",
+   "size": "medium",
+   "key": 50,
+   "len": 72,
+   "first": 3456,
+   "line": "You buy every sandwich on the street.",
+   "note": "Pip arms full of banh mi bags, carts sold out"
+  },
+  {
+   "id": "C5",
+   "size": "wide",
+   "key": 70,
+   "len": 90,
+   "first": 3528,
+   "line": "The next morning, nobody else can buy one.",
+   "note": "empty cart, neighbours queue"
+  },
+  {
+   "id": "C6",
+   "size": "medium",
+   "key": 40,
+   "len": 63,
+   "first": 3618,
+   "line": "Sellers see that everyone wants to buy,",
+   "note": "seller sees crowd waving notes"
+  },
+  {
+   "id": "C7",
+   "size": "macro",
+   "key": 30,
+   "len": 46,
+   "first": 3681,
+   "line": "so they raise their prices.",
+   "note": "price board 25.000 -> 35.000"
+  },
+  {
+   "id": "C8",
+   "size": "wide",
+   "key": 50,
+   "len": 100,
+   "first": 3727,
+   "line": "You buy ten thousand bags of rice for flood victims.",
+   "note": "truck of rice sacks to the flood"
+  },
+  {
+   "id": "C9",
+   "size": "medium",
+   "key": 35,
+   "len": 36,
+   "first": 3827,
+   "line": "But farmers can't grow",
+   "note": "farmer plants slowly"
+  },
+  {
+   "id": "C10",
+   "size": "split",
+   "key": 35,
+   "len": 63,
+   "first": 3863,
+   "line": "rice as fast as you can tap.",
+   "note": "paddy slow vs card swipes fast"
+  },
+  {
+   "id": "C11",
+   "size": "medium",
+   "key": 90,
+   "len": 116,
+   "first": 3926,
+   "line": "Rice runs short. The price goes up, for everyone.",
+   "note": "rice stall empties, price climbs"
+  },
+  {
+   "id": "C12",
+   "size": "medium",
+   "key": 45,
+   "len": 72,
+   "first": 4042,
+   "line": "Shopkeepers start to recognize you.",
+   "note": "seller spots Pip"
+  },
+  {
+   "id": "C13",
+   "size": "wide",
+   "key": 30,
+   "len": 37,
+   "first": 4114,
+   "line": "When they see you coming,",
+   "note": "all sellers see Pip from afar"
+  },
+  {
+   "id": "C14",
+   "size": "medium",
+   "key": 50,
+   "len": 73,
+   "first": 4151,
+   "line": "they quietly change their price boards.",
+   "note": "seller swaps the price board"
+  },
+  {
+   "id": "C15",
+   "size": "wide",
+   "key": 30,
+   "len": 51,
+   "first": 4224,
+   "line": "This has really happened.",
+   "note": "sepia market"
+  },
+  {
+   "id": "C16",
+   "size": "schematic",
+   "key": 45,
+   "len": 66,
+   "first": 4275,
+   "line": "In nineteen eighty six, inflation in Vietnam",
+   "note": "1986 stamped on timeline"
+  },
+  {
+   "id": "C17",
+   "size": "schematic",
+   "key": 100,
+   "len": 132,
+   "first": 4341,
+   "line": "hit seven hundred seventy four point seven percent. Something that cost",
+   "note": "774,7% counts up"
+  },
+  {
+   "id": "C18",
+   "size": "schematic",
+   "key": 40,
+   "len": 60,
+   "first": 4473,
+   "line": "one dong in January cost almost",
+   "note": "item tag 1 d, January"
+  },
+  {
+   "id": "C19",
+   "size": "schematic",
+   "key": 50,
+   "len": 49,
+   "first": 4533,
+   "line": "nine by December.",
+   "note": "tag becomes ~9 d, December"
+  },
+  {
+   "id": "C20",
+   "size": "medium",
+   "key": 45,
+   "len": 80,
+   "first": 4582,
+   "line": "People carried bags of cash to the market.",
+   "note": "bag of banknotes for a few vegetables"
+  },
+  {
+   "id": "C21",
+   "size": "close-up",
+   "key": 20,
+   "len": 38,
+   "first": 4662,
+   "line": "That's real.",
+   "note": "Pip close-up"
+  },
+  {
+   "id": "C22",
+   "size": "schematic",
+   "key": 70,
+   "len": 69,
+   "first": 4700,
+   "line": "In Zimbabwe, at one point prices",
+   "note": "Zimbabwe, price doubling"
+  },
+  {
+   "id": "C23",
+   "size": "schematic",
+   "key": 35,
+   "len": 47,
+   "first": 4769,
+   "line": "were doubling about every day.",
+   "note": "clock ~24 GIO x2"
+  },
+  {
+   "id": "C24",
+   "size": "schematic",
+   "key": 45,
+   "len": 43,
+   "first": 4816,
+   "line": "In two thousand nine,",
+   "note": "2009 printing press"
+  },
+  {
+   "id": "C25",
+   "size": "schematic",
+   "key": 100,
+   "len": 94,
+   "first": 4859,
+   "line": "the country printed a one hundred trillion dollar note.",
+   "note": "the 100 trillion banknote"
+  },
+  {
+   "id": "D1",
+   "size": "wide",
+   "key": 40,
+   "len": 108,
+   "first": 4953,
+   "line": "And the people who lose the most are the ones who did nothing at all.",
+   "note": "people waiting at the bus stop"
+  },
+  {
+   "id": "D2",
+   "size": "medium",
+   "key": 50,
+   "len": 84,
+   "first": 5061,
+   "line": "Your grandma saved her whole life into one savings book.",
+   "note": "grandma with passbook under lamp"
+  },
+  {
+   "id": "D3",
+   "size": "insert",
+   "key": 38,
+   "len": 60,
+   "first": 5145,
+   "line": "Every time you tap,",
+   "note": "black card taps terminal"
+  },
+  {
+   "id": "D4",
+   "size": "split",
+   "key": 50,
+   "len": 61,
+   "first": 5205,
+   "line": "that book buys a little less.",
+   "note": "passbook vs shopping basket shrinking"
+  },
+  {
+   "id": "D5",
+   "size": "wide",
+   "key": 50,
+   "len": 98,
+   "first": 5266,
+   "line": "A week later, a man in a suit comes to see you.",
+   "note": "MỘT TUẦN SAU: suit walks into kitchen"
+  },
+  {
+   "id": "D6",
+   "size": "insert",
+   "key": 30,
+   "len": 55,
+   "first": 5364,
+   "line": "He works at the central bank.",
+   "note": "badge NGÂN HÀNG TRUNG ƯƠNG slid across table"
+  },
+  {
+   "id": "D7",
+   "size": "close-up",
+   "key": 30,
+   "len": 73,
+   "first": 5419,
+   "line": "He says just one thing: please,",
+   "note": "suit tired close-up"
+  },
+  {
+   "id": "D8",
+   "size": "insert",
+   "key": 30,
+   "len": 40,
+   "first": 5492,
+   "line": "stop tapping.",
+   "note": "Pip's hand frozen above terminal"
+  },
+  {
+   "id": "D9",
+   "size": "close-up",
+   "key": 30,
+   "len": 69,
+   "first": 5532,
+   "line": "That's when you finally understand.",
+   "note": "Pip understands"
+  },
+  {
+   "id": "D10",
+   "size": "macro",
+   "key": 45,
+   "len": 28,
+   "first": 5601,
+   "line": "Money has no value",
+   "note": "banknote fades to paper"
+  },
+  {
+   "id": "D11",
+   "size": "schematic",
+   "key": 90,
+   "len": 143,
+   "first": 5629,
+   "line": "by itself. Money is just a promise that someone will trade you their work.",
+   "note": "note <-> person, LỜI HỨA"
+  },
+  {
+   "id": "D12",
+   "size": "medium",
+   "key": 30,
+   "len": 52,
+   "first": 5772,
+   "line": "The rice a farmer grows.",
+   "note": "farmer plants rice at dawn"
+  },
+  {
+   "id": "D13",
+   "size": "medium",
+   "key": 30,
+   "len": 48,
+   "first": 5824,
+   "line": "A surgeon's operation.",
+   "note": "surgeon under lamp"
+  },
+  {
+   "id": "D14",
+   "size": "medium",
+   "key": 40,
+   "len": 93,
+   "first": 5872,
+   "line": "The bread a baker gets up at four in the morning to bake.",
+   "note": "baker at clay oven 04:00"
+  },
+  {
+   "id": "D15",
+   "size": "card",
+   "key": 50,
+   "len": 70,
+   "first": 5965,
+   "line": "Infinite money can't make more rice.",
+   "note": "rice bowl +0"
+  },
+  {
+   "id": "D16",
+   "size": "card",
+   "key": 40,
+   "len": 60,
+   "first": 6035,
+   "line": "It can't make more doctors.",
+   "note": "doctor +0"
+  },
+  {
+   "id": "D17",
+   "size": "card",
+   "key": 50,
+   "len": 93,
+   "first": 6095,
+   "line": "It can't add a single hour to the day.",
+   "note": "clock 24 GIỜ +0"
+  },
+  {
+   "id": "D18",
+   "size": "wide",
+   "key": 40,
+   "len": 98,
+   "first": 6188,
+   "line": "The next morning, your mom still gets up early and pushes her",
+   "note": "mum and xôi cart at alley mouth"
+  },
+  {
+   "id": "D19",
+   "size": "medium",
+   "key": 30,
+   "len": 110,
+   "first": 6286,
+   "line": "sticky rice cart to the end of the alley, like every day.",
+   "note": "mum pushes cart"
+  },
+  {
+   "id": "D20",
+   "size": "medium",
+   "key": 30,
+   "len": 114,
+   "first": 6396,
+   "line": "You ask: I have infinite money now, why are you still",
+   "note": "Pip asks mum"
+  },
+  {
+   "id": "D21",
+   "size": "close-up",
+   "key": 30,
+   "len": 56,
+   "first": 6510,
+   "line": "selling? She smiles:",
+   "note": "mum smiles"
+  },
+  {
+   "id": "D22",
+   "size": "insert",
+   "key": 36,
+   "len": 74,
+   "first": 6566,
+   "line": "because people still need breakfast, sweetheart.",
+   "note": "neighbour takes xôi packet"
+  },
+  {
+   "id": "E1",
+   "size": "wide",
+   "key": 30,
+   "len": 82,
+   "first": 6640,
+   "line": "That day, you help her sell for one morning.",
+   "note": "dawn alley wide: mum + Pip at the xoi cart, customers, steam"
+  },
+  {
+   "id": "E2",
+   "size": "medium",
+   "key": 24,
+   "len": 41,
+   "first": 6722,
+   "line": "For the first time in your life,",
+   "note": "Pip takes a 10.000 note, hands a packet"
+  },
+  {
+   "id": "E3",
+   "size": "insert",
+   "key": 34,
+   "len": 65,
+   "first": 6763,
+   "line": "you hold money you earned yourself.",
+   "note": "insert: notes land in Pip mitten"
+  },
+  {
+   "id": "E4",
+   "size": "insert",
+   "key": 24,
+   "len": 53,
+   "first": 6828,
+   "line": "Fifteen thousand dong.",
+   "note": "insert: 15.000 d tag"
+  },
+  {
+   "id": "E5",
+   "size": "medium",
+   "key": 46,
+   "len": 60,
+   "first": 6881,
+   "line": "It feels heavier than the black card.",
+   "note": "scale: notes outweigh the black card"
+  },
+  {
+   "id": "E6",
+   "size": "medium",
+   "key": 40,
+   "len": 128,
+   "first": 6941,
+   "line": "So if you had infinite money, what's the smartest way to spend it?",
+   "note": "Pip thinking at desk, ? bubble"
+  },
+  {
+   "id": "E7",
+   "size": "medium",
+   "key": 44,
+   "len": 50,
+   "first": 7069,
+   "line": "Not on more stuff.",
+   "note": "pile of stuff crossed out"
+  },
+  {
+   "id": "E8",
+   "size": "wide",
+   "key": 66,
+   "len": 76,
+   "first": 7119,
+   "line": "On helping the world make more things.",
+   "note": "schematic: money -> factory+school -> goods"
+  },
+  {
+   "id": "E9",
+   "size": "wide",
+   "key": 50,
+   "len": 47,
+   "first": 7195,
+   "line": "Build schools to train more doctors.",
+   "note": "medical school rising, crane"
+  },
+  {
+   "id": "E10",
+   "size": "medium",
+   "key": 50,
+   "len": 82,
+   "first": 7242,
+   "line": "Fund research on better rice.",
+   "note": "scientists, taller rice"
+  },
+  {
+   "id": "E11",
+   "size": "wide",
+   "key": 30,
+   "len": 60,
+   "first": 7324,
+   "line": "Send poor kids to school.",
+   "note": "kids with backpacks walk to school"
+  },
+  {
+   "id": "E12",
+   "size": "wide",
+   "key": 50,
+   "len": 111,
+   "first": 7384,
+   "line": "You pay teachers and doctors in remote villages really well.",
+   "note": "mountain teacher then village doctor, pan"
+  },
+  {
+   "id": "E13",
+   "size": "medium",
+   "key": 40,
+   "len": 39,
+   "first": 7495,
+   "line": "You fund scientists,",
+   "note": "scientist with glowing flask"
+  },
+  {
+   "id": "E14",
+   "size": "wide",
+   "key": 66,
+   "len": 87,
+   "first": 7534,
+   "line": "so they can find cheaper power and cleaner water.",
+   "note": "solar panel + water drop"
+  },
+  {
+   "id": "E15",
+   "size": "insert",
+   "key": 30,
+   "len": 48,
+   "first": 7621,
+   "line": "You tap slower.",
+   "note": "card taps terminal slowly, green tick"
+  },
+  {
+   "id": "E16",
+   "size": "medium",
+   "key": 40,
+   "len": 80,
+   "first": 7669,
+   "line": "Less often. But every time you tap,",
+   "note": "tap, a school pops up"
+  },
+  {
+   "id": "E17",
+   "size": "wide",
+   "key": 50,
+   "len": 89,
+   "first": 7749,
+   "line": "the world gets one more real thing.",
+   "note": "taps: well + clinic pop up"
+  },
+  {
+   "id": "E18",
+   "size": "insert",
+   "key": 50,
+   "len": 92,
+   "first": 7838,
+   "line": "A year later, the black card is still in your wallet.",
+   "note": "wallet with the card, MOT NAM SAU"
+  },
+  {
+   "id": "E19",
+   "size": "close",
+   "key": 40,
+   "len": 66,
+   "first": 7930,
+   "line": "You use it less than you ever imagined.",
+   "note": "Pip at desk, card unused, mug"
+  },
+  {
+   "id": "E20",
+   "size": "medium",
+   "key": 40,
+   "len": 100,
+   "first": 7996,
+   "line": "And your mom still sells sticky rice at the end of the alley.",
+   "note": "mum scooping xoi"
+  },
+  {
+   "id": "E21",
+   "size": "wide",
+   "key": 40,
+   "len": 87,
+   "first": 8096,
+   "line": "It's still the best in town.",
+   "note": "Pip eating xoi on a stool, mum at cart"
+  },
+  {
+   "id": "E22",
+   "size": "medium",
+   "key": 70,
+   "len": 147,
+   "first": 8183,
+   "line": "One day, your best friend asks: if you could choose again, would you still want that",
+   "note": "Mo asks, Pip holds card"
+  },
+  {
+   "id": "E23",
+   "size": "close",
+   "key": 40,
+   "len": 88,
+   "first": 8330,
+   "line": "card? You think for a long time. Then you say:",
+   "note": "Pip thinks, close-up"
+  },
+  {
+   "id": "E24",
+   "size": "medium",
+   "key": 60,
+   "len": 123,
+   "first": 8418,
+   "line": "yes. But now I know what to use it for.",
+   "note": "Pip smiles, card up to sunset"
+  },
+  {
+   "id": "E25",
+   "size": "wide",
+   "key": 60,
+   "len": 128,
+   "first": 8541,
+   "line": "So, if you had a card with no limit, what's the first thing you'd buy?",
+   "note": "end card line 1"
+  },
+  {
+   "id": "E26",
+   "size": "wide",
+   "key": 120,
+   "len": 202,
+   "first": 8669,
+   "line": "And would you dare to use it to change the world? Tell us in the comments.",
+   "note": "end card line 2, fade out"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#BFFFD6",
+   "o": 0.3,
+   "f": 177
+  },
+  {
+   "kind": "flash",
+   "color": "#BFFFD6",
+   "o": 0.3,
+   "f": 288
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.35,
+   "f": 319
+  },
+  {
+   "kind": "flash",
+   "color": "#BFFFD6",
+   "o": 0.3,
+   "f": 968
+  },
+  {
+   "kind": "shake",
+   "len": 5,
+   "amp": 5,
+   "f": 319
+  },
+  {
+   "kind": "flash",
+   "color": "#BFFFD6",
+   "o": 0.25,
+   "f": 1416
+  },
+  {
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.2,
+   "f": 1730
+  },
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 6,
+   "f": 1753
+  },
+  {
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.22,
+   "f": 1985
+  },
+  {
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.22,
+   "f": 2007
+  },
+  {
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.26,
+   "f": 2029
+  },
+  {
+   "kind": "shake",
+   "len": 40,
+   "amp": 4,
+   "f": 2540
+  },
+  {
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.2,
+   "f": 2656
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25,
+   "f": 3025
+  },
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 8,
+   "f": 3199
+  },
+  {
+   "kind": "flash",
+   "color": "#FF6A5A",
+   "o": 0.3,
+   "f": 3199
+  },
+  {
+   "kind": "shake",
+   "len": 4,
+   "amp": 5,
+   "f": 3703
+  },
+  {
+   "kind": "shake",
+   "len": 4,
+   "amp": 5,
+   "f": 4185
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25,
+   "f": 4939
+  },
+  {
+   "kind": "flash",
+   "color": "#BFFFD8",
+   "o": 0.2,
+   "f": 7643
+  },
+  {
+   "kind": "flash",
+   "color": "#FFE9A8",
+   "o": 0.14,
+   "f": 8448
+  }
+ ],
+ "audio": {
+  "voice": "infinite-money/voice.wav",
+  "sfx": "infinite-money/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.2839,
+  "music": "infinite-money/music.wav",
+  "musicVol": 0.201
+ }
+}

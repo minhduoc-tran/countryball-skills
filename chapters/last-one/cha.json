@@ -1,0 +1,864 @@
+{
+ "chapter": "a",
+ "shots": [
+  {
+   "id": "A1",
+   "file": "shots-cha-cold-open",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 14,
+   "note": "a whole pile of cookies, arms go up"
+  },
+  {
+   "id": "A2",
+   "file": "shots-cha-cold-open",
+   "size": "top-down",
+   "set": "kitchen",
+   "key": 14,
+   "note": "empty places, mitten drags the heaped plate away"
+  },
+  {
+   "id": "A3",
+   "file": "shots-cha-cold-open",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 16,
+   "note": "alone eating at the island"
+  },
+  {
+   "id": "A4",
+   "file": "shots-cha-cold-open",
+   "size": "wide",
+   "set": "classroom",
+   "key": 14,
+   "note": "empty classroom, arms out"
+  },
+  {
+   "id": "A5",
+   "file": "shots-cha-cold-open",
+   "size": "top-down",
+   "set": "classroom",
+   "key": 12,
+   "note": "test paper crumpled and flicked"
+  },
+  {
+   "id": "A6",
+   "file": "shots-cha-cold-open",
+   "size": "medium",
+   "set": "classroom",
+   "key": 12,
+   "note": "test crossed out, cheers"
+  },
+  {
+   "id": "A7",
+   "file": "shots-cha-cold-open",
+   "size": "top-down",
+   "set": "bedroom",
+   "key": 6,
+   "note": "phone calling BẠN THÂN"
+  },
+  {
+   "id": "A8",
+   "file": "shots-cha-cold-open",
+   "size": "close-up",
+   "set": "bedroom",
+   "key": 24,
+   "note": "phone to ear, smile drops"
+  },
+  {
+   "id": "A9",
+   "file": "shots-cha-cold-open",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 50,
+   "note": "title over the empty city"
+  },
+  {
+   "id": "A10",
+   "file": "shots-cha-morning-bedroom",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 20,
+   "note": "alarm clock macro 07:00 ringing"
+  },
+  {
+   "id": "A11",
+   "file": "shots-cha-morning-bedroom",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 22,
+   "note": "Pip propped in bed waiting, looks at the door"
+  },
+  {
+   "id": "A12",
+   "file": "shots-cha-morning-bedroom",
+   "size": "close-up",
+   "set": "bedroom",
+   "key": 30,
+   "note": "Pip frowning at the door"
+  },
+  {
+   "id": "A13",
+   "file": "shots-cha-morning-bedroom",
+   "size": "wide",
+   "set": "stairwell",
+   "key": 20,
+   "note": "empty stairwell"
+  },
+  {
+   "id": "A14",
+   "file": "shots-cha-silence-inserts",
+   "size": "insert",
+   "set": "street",
+   "key": 14,
+   "note": "street through the window, bikes still"
+  },
+  {
+   "id": "A15",
+   "file": "shots-cha-silence-inserts",
+   "size": "insert",
+   "set": "outdoors",
+   "key": 16,
+   "note": "horn loudspeakers on a pole, silent"
+  },
+  {
+   "id": "A16",
+   "file": "shots-cha-silence-inserts",
+   "size": "insert",
+   "set": "outdoors",
+   "key": 18,
+   "note": "empty dog bowl, slack leash at a gate"
+  },
+  {
+   "id": "A17",
+   "file": "shots-cha-kitchen-breakfast",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 40,
+   "note": "kitchen, push in to phở + bánh mì on the island"
+  },
+  {
+   "id": "A18",
+   "file": "shots-cha-kitchen-breakfast",
+   "size": "insert",
+   "set": "kitchen",
+   "key": 20,
+   "note": "kettle on the hob, thin steam curl"
+  },
+  {
+   "id": "A19",
+   "file": "shots-cha-kitchen-breakfast",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 30,
+   "note": "apron on a chair, Pip small looking"
+  },
+  {
+   "id": "A20",
+   "file": "shots-cha-calls-to-family",
+   "size": "insert",
+   "set": "kitchen",
+   "key": 14,
+   "note": "phone ringing MẸ, top-down on island"
+  },
+  {
+   "id": "A21",
+   "file": "shots-cha-calls-to-family",
+   "size": "insert",
+   "set": "kitchen",
+   "key": 12,
+   "note": "phone in hand BỐ"
+  },
+  {
+   "id": "A22",
+   "file": "shots-cha-calls-to-family",
+   "size": "insert",
+   "set": "hall",
+   "key": 14,
+   "note": "phone on floor EM GÁI, thumb"
+  },
+  {
+   "id": "A23",
+   "file": "shots-cha-calls-to-family",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 30,
+   "note": "Pip phone at ear, waits"
+  },
+  {
+   "id": "A24",
+   "file": "shots-cha-calls-to-family",
+   "size": "insert",
+   "set": "kitchen",
+   "key": 16,
+   "note": "screen goes black, hand drops"
+  },
+  {
+   "id": "A25",
+   "file": "shots-cha-feed-and-messages",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 20,
+   "note": "phone feed opens"
+  },
+  {
+   "id": "A26",
+   "file": "shots-cha-feed-and-messages",
+   "size": "insert",
+   "set": "phone",
+   "key": 30,
+   "note": "top post 03:00 ringed"
+  },
+  {
+   "id": "A27",
+   "file": "shots-cha-feed-and-messages",
+   "size": "insert",
+   "set": "phone",
+   "key": 20,
+   "note": "feed stops, spinner, no new posts"
+  },
+  {
+   "id": "A28",
+   "file": "shots-cha-feed-and-messages",
+   "size": "insert",
+   "set": "phone",
+   "key": 50,
+   "note": "0 bài mới, 0 bình luận"
+  },
+  {
+   "id": "A29",
+   "file": "shots-cha-feed-and-messages",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 24,
+   "note": "Pip lit blue, 0 tin nhắn"
+  },
+  {
+   "id": "A30",
+   "file": "shots-cha-street-run",
+   "size": "medium",
+   "set": "stairwell",
+   "key": 18,
+   "note": "runs down the stairs"
+  },
+  {
+   "id": "A31",
+   "file": "shots-cha-street-run",
+   "size": "medium",
+   "set": "street",
+   "key": 14,
+   "note": "bursts into the street, skids"
+  },
+  {
+   "id": "A32",
+   "file": "shots-cha-street-run",
+   "size": "wide",
+   "set": "street",
+   "key": 30,
+   "note": "empty street, low angle, Pip tiny"
+  },
+  {
+   "id": "A33",
+   "file": "shots-cha-street-run",
+   "size": "medium",
+   "set": "street",
+   "key": 28,
+   "note": "walks up to the scooter in the road"
+  },
+  {
+   "id": "A34",
+   "file": "shots-cha-street-run",
+   "size": "insert",
+   "set": "street",
+   "key": 16,
+   "note": "key in the ignition, tag swinging"
+  },
+  {
+   "id": "A35",
+   "file": "shots-cha-street-run",
+   "size": "low",
+   "set": "street",
+   "key": 24,
+   "note": "traffic light changing, countdown"
+  },
+  {
+   "id": "A36",
+   "file": "shots-cha-street-run",
+   "size": "top-down",
+   "set": "crossroads",
+   "key": 14,
+   "note": "empty crossing from above"
+  },
+  {
+   "id": "A37",
+   "file": "shots-cha-market-bus",
+   "size": "medium",
+   "set": "street",
+   "key": 20,
+   "note": "walks toward the market"
+  },
+  {
+   "id": "A38",
+   "file": "shots-cha-market-bus",
+   "size": "insert",
+   "set": "market",
+   "key": 24,
+   "note": "stall: greens then fish, pan"
+  },
+  {
+   "id": "A39",
+   "file": "shots-cha-market-bus",
+   "size": "medium",
+   "set": "street",
+   "key": 26,
+   "note": "bus at the stop, Pip small"
+  },
+  {
+   "id": "A40",
+   "file": "shots-cha-market-bus",
+   "size": "insert",
+   "set": "bus",
+   "key": 14,
+   "note": "bus door open, cold engine gauge"
+  },
+  {
+   "id": "A41",
+   "file": "shots-cha-market-bus",
+   "size": "close-up",
+   "set": "street",
+   "key": 30,
+   "note": "cups mouth shouting"
+  },
+  {
+   "id": "A42",
+   "file": "shots-cha-market-bus",
+   "size": "top-down",
+   "set": "crossroads",
+   "key": 20,
+   "note": "very high, tiny Pip, echo rings"
+  },
+  {
+   "id": "A43",
+   "file": "shots-cha-premise-and-alone",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 50,
+   "note": "8.200.000.000 people blink out to one"
+  },
+  {
+   "id": "A44",
+   "file": "shots-cha-premise-and-alone",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 14,
+   "note": "empty bed, duvet still shaped"
+  },
+  {
+   "id": "A45",
+   "file": "shots-cha-premise-and-alone",
+   "size": "insert",
+   "set": "hall",
+   "key": 16,
+   "note": "slippers by a door, light under it"
+  },
+  {
+   "id": "A46",
+   "file": "shots-cha-premise-and-alone",
+   "size": "wide",
+   "set": "street",
+   "key": 30,
+   "note": "Pip alone mid-street, camera rising"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "s:0.00"
+  },
+  {
+   "shot": "A2",
+   "at": "s:0.80"
+  },
+  {
+   "shot": "A3",
+   "at": "s:1.83",
+   "look": "alone"
+  },
+  {
+   "shot": "A4",
+   "at": "s:2.95"
+  },
+  {
+   "shot": "A5",
+   "at": "s:4.01"
+  },
+  {
+   "shot": "A6",
+   "at": "s:5.03",
+   "look": "alone"
+  },
+  {
+   "shot": "A7",
+   "at": "s:6.08"
+  },
+  {
+   "shot": "A8",
+   "at": "s:7.32"
+  },
+  {
+   "shot": "A9",
+   "at": "s:8.44"
+  },
+  {
+   "shot": "A10",
+   "at": "s:11.62"
+  },
+  {
+   "shot": "A11",
+   "at": "s:13.85"
+  },
+  {
+   "shot": "A12",
+   "at": "s:16.48"
+  },
+  {
+   "shot": "A13",
+   "at": "s:18.46"
+  },
+  {
+   "shot": "A14",
+   "at": "s:19.79"
+  },
+  {
+   "shot": "A15",
+   "at": "s:20.84"
+  },
+  {
+   "shot": "A16",
+   "at": "s:21.93"
+  },
+  {
+   "shot": "A17",
+   "at": "s:23.20"
+  },
+  {
+   "shot": "A18",
+   "at": "s:25.53"
+  },
+  {
+   "shot": "A19",
+   "at": "s:26.94"
+  },
+  {
+   "shot": "A20",
+   "at": "s:28.42"
+  },
+  {
+   "shot": "A21",
+   "at": "s:29.56"
+  },
+  {
+   "shot": "A22",
+   "at": "s:30.50"
+  },
+  {
+   "shot": "A23",
+   "at": "s:31.71"
+  },
+  {
+   "shot": "A24",
+   "at": "s:33.14"
+  },
+  {
+   "shot": "A25",
+   "at": "s:33.95"
+  },
+  {
+   "shot": "A26",
+   "at": "s:35.21"
+  },
+  {
+   "shot": "A27",
+   "at": "s:37.88"
+  },
+  {
+   "shot": "A28",
+   "at": "s:39.81"
+  },
+  {
+   "shot": "A29",
+   "at": "s:41.66"
+  },
+  {
+   "shot": "A30",
+   "at": "s:42.90"
+  },
+  {
+   "shot": "A31",
+   "at": "s:44.21"
+  },
+  {
+   "shot": "A32",
+   "at": "s:45.12"
+  },
+  {
+   "shot": "A33",
+   "at": "s:47.57"
+  },
+  {
+   "shot": "A34",
+   "at": "s:48.81"
+  },
+  {
+   "shot": "A35",
+   "at": "s:49.92"
+  },
+  {
+   "shot": "A36",
+   "at": "s:52.11"
+  },
+  {
+   "shot": "A37",
+   "at": "s:53.23"
+  },
+  {
+   "shot": "A38",
+   "at": "s:54.41"
+  },
+  {
+   "shot": "A39",
+   "at": "s:57.04"
+  },
+  {
+   "shot": "A40",
+   "at": "s:58.77"
+  },
+  {
+   "shot": "A41",
+   "at": "s:60.68"
+  },
+  {
+   "shot": "A42",
+   "at": "s:62.73"
+  },
+  {
+   "shot": "A43",
+   "at": "s:64.39"
+  },
+  {
+   "shot": "A44",
+   "at": "s:67.17"
+  },
+  {
+   "shot": "A45",
+   "at": "s:67.90"
+  },
+  {
+   "shot": "A46",
+   "at": "s:68.83",
+   "look": "alone"
+  }
+ ],
+ "fx": [
+  {
+   "at": "A9+2",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.3
+  },
+  {
+   "at": "A31+20",
+   "kind": "shake",
+   "len": 6,
+   "amp": 8
+  }
+ ],
+ "events": [
+  [
+   "A1",
+   "room_tone",
+   0.1,
+   "onset",
+   "A4"
+  ],
+  [
+   "A4",
+   "class_murmur",
+   0.1,
+   "onset",
+   "A7"
+  ],
+  [
+   "A7",
+   "room_tone",
+   0.08,
+   "onset",
+   "A9"
+  ],
+  [
+   "A9",
+   "roof_wind",
+   0.12,
+   "onset",
+   "A10"
+  ],
+  [
+   "A10",
+   "room_tone",
+   0.1,
+   "onset",
+   "A17"
+  ],
+  [
+   "A17",
+   "room_tone",
+   0.1,
+   "onset",
+   "A25"
+  ],
+  [
+   "A25",
+   "room_tone",
+   0.08,
+   "onset",
+   "A30"
+  ],
+  [
+   "A31",
+   "roof_wind",
+   0.12,
+   "onset",
+   "A36"
+  ],
+  [
+   "A36",
+   "roof_wind",
+   0.12,
+   "onset",
+   "A40"
+  ],
+  [
+   "A40",
+   "roof_wind",
+   0.12,
+   "onset",
+   "A44"
+  ],
+  [
+   "A44",
+   "room_tone",
+   0.1,
+   "onset",
+   "A46"
+  ],
+  [
+   "A46",
+   "roof_wind",
+   0.12
+  ],
+  [
+   "A3+12",
+   "cookie_crunch",
+   0.2
+  ],
+  [
+   "A5+19",
+   "paper_land",
+   0.16
+  ],
+  [
+   "A7+24",
+   "phone_ring",
+   0.08,
+   "onset",
+   "A8+8"
+  ],
+  [
+   "A8+14",
+   "phone_ring",
+   0.08,
+   "onset",
+   "A9"
+  ],
+  [
+   "A9+2",
+   "title_boom",
+   0.22,
+   "peak"
+  ],
+  [
+   "A20+26",
+   "phone_ring",
+   0.08,
+   "onset",
+   "A21"
+  ],
+  [
+   "A21+22",
+   "phone_ring",
+   0.08,
+   "onset",
+   "A22"
+  ],
+  [
+   "A22+27",
+   "phone_ring",
+   0.08,
+   "onset",
+   "A23"
+  ],
+  [
+   "A23+2",
+   "phone_ring",
+   0.09,
+   "onset",
+   "A24+6"
+  ],
+  [
+   "A24+10",
+   "switch_off",
+   0.12
+  ],
+  [
+   "A26+22",
+   "select_draw",
+   0.12
+  ],
+  [
+   "A28+10",
+   "pop",
+   0.1
+  ],
+  [
+   "A28+39",
+   "pop",
+   0.1
+  ],
+  [
+   "A29+13",
+   "pop",
+   0.1
+  ],
+  [
+   "A31+20",
+   "big_step",
+   0.18
+  ],
+  [
+   "A34+5",
+   "clink",
+   0.12
+  ],
+  [
+   "A34+14",
+   "clink",
+   0.1
+  ],
+  [
+   "A35+28",
+   "pop",
+   0.12
+  ],
+  [
+   "A35+52",
+   "pop",
+   0.12
+  ],
+  [
+   "A40+38",
+   "power_down",
+   0.05
+  ],
+  [
+   "A41+11",
+   "gasp",
+   0.16
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "A10+2",
+   "clip": "ding",
+   "n": 11,
+   "every": 6,
+   "gain": [
+    0.14,
+    0.15
+   ],
+   "pitch": [
+    0.98,
+    1.02
+   ]
+  },
+  {
+   "at": "A30+2",
+   "clip": "step",
+   "n": 9,
+   "every": 4,
+   "gain": [
+    0.14,
+    0.2
+   ],
+   "pitch": [
+    0.92,
+    1.08
+   ]
+  },
+  {
+   "at": "A31+1",
+   "clip": "step",
+   "n": 5,
+   "every": 4,
+   "gain": [
+    0.14,
+    0.2
+   ],
+   "pitch": [
+    0.92,
+    1.08
+   ]
+  },
+  {
+   "at": "A33+2",
+   "clip": "step",
+   "n": 5,
+   "every": 7,
+   "gain": [
+    0.1,
+    0.14
+   ],
+   "pitch": [
+    0.9,
+    1.05
+   ]
+  },
+  {
+   "at": "A37+2",
+   "clip": "step",
+   "n": 5,
+   "every": 8,
+   "gain": [
+    0.1,
+    0.14
+   ],
+   "pitch": [
+    0.9,
+    1.05
+   ]
+  },
+  {
+   "at": "A43+34",
+   "clip": "counter_tick",
+   "n": 15,
+   "every": 3,
+   "gain": [
+    0.06,
+    0.1
+   ],
+   "pitch": [
+    0.95,
+    1.05
+   ]
+  }
+ ]
+}

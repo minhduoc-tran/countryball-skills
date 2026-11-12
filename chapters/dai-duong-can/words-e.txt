@@ -1,0 +1,15 @@
+# chapter E: beats 16-18. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "7 mars"  241.00-257.54 s
+# Hãy nhìn sang hàng xóm của chúng ta. Hàng tỷ năm trước, sao Hỏa từng có sông, có hồ, có thể có cả biển. Rồi nó mất nước, mất lớp khí quyển dày, và trở thành một sa mạc đỏ, lạnh lẽo, chết chóc. Đó là thật. Một Trái Đất không có đại dương, về lâu dài, sẽ trông rất giống sao Hỏa.
+Hãy@240.93 nhìn@241.10 sang@241.30 hàng@241.51 xóm@241.71 của@241.88 chúng@242.05 ta.@242.29 Hàng@242.91 tỷ@243.12 năm@243.26 trước,@243.43 sao@243.98 Hỏa@244.18 từng@244.37 có@244.62 sông,@244.77 có@245.31 hồ,@245.51 có@246.02 thể@246.14 có@246.30 cả@246.43 biển.@246.55 Rồi@247.30 nó@247.46 mất@247.58 nước,@247.74 mất@248.23 lớp@248.39 khí@248.67 quyển@248.84 dày,@249.07 và@249.54 trở@249.71 thành@250.08 một@250.39 sa@250.61 mạc@250.77 đỏ,@250.99 lạnh@251.46 lẽo,@251.74 chết@252.19 chóc.@252.34 Đó@252.83 là@252.94 thật.@253.05 Một@253.74 Trái@253.89 Đất@254.07 không@254.37 có@254.58 đại@254.70 dương,@254.85 về@255.36 lâu@255.54 dài,@255.78 sẽ@256.32 trông@256.45 rất@256.70 giống@256.87 sao@257.12 Hỏa.@257.30
+
+## beat "8 ending"  258.74-270.96 s
+# Nhưng hôm nay, sóng vẫn vỗ. Mo đang vẫy tay gọi bạn xuống tắm. Nước mằn mặn trên môi. Bảy mươi mốt phần trăm hành tinh này là biển. Và mỗi giây, nó đang làm hàng nghìn việc cho bạn, mà bạn chưa từng để ý.
+Nhưng@258.67 hôm@258.91 nay,@259.07 sóng@259.54 vẫn@259.84 vỗ.@260.08 Mo@260.65 đang@260.81 vẫy@261.06 tay@261.26 gọi@261.75 bạn@261.95 xuống@262.16 tắm.@262.45 Nước@263.08 mằn@263.37 mặn@263.54 trên@263.71 môi.@263.93 Bảy@264.44 mươi@264.59 mốt@264.78 phần@265.02 trăm@265.21 hành@265.40 tinh@265.60 này@265.79 là@266.22 biển.@266.35 Và@267.05 mỗi@267.19 giây,@267.37 nó@267.89 đang@268.02 làm@268.22 hàng@268.39 nghìn@268.59 việc@268.83 cho@269.03 bạn,@269.20 mà@269.67 bạn@269.84 chưa@270.06 từng@270.33 để@270.60 ý.@270.77
+
+## beat "8 question"  271.27-279.99 s
+# Còn bạn, nếu được đi bộ một ngày dưới đáy biển khô, bạn muốn đến đâu đầu tiên? Rãnh Mariana, con tàu Titanic, hay Hoàng Sa? Viết ở phần bình luận nhé.
+Còn@271.21 bạn,@271.36 nếu@271.81 được@272.00 đi@272.22 bộ@272.37 một@272.51 ngày@272.70 dưới@272.93 đáy@273.16 biển@273.34 khô,@273.57 bạn@274.06 muốn@274.23 đến@274.44 đâu@274.61 đầu@274.78 tiên?@274.95 Rãnh@275.50 Mariana,@275.86 con@276.71 tàu@276.96 Titanic,@277.21 hay@277.98 Hoàng@278.18 Sa?@278.47 Viết@278.95 ở@279.13 phần@279.22 bình@279.40 luận@279.58 nhé.@279.77
+
+# chapter ends at s:282.99 (next chapter's first cut, or the episode end)

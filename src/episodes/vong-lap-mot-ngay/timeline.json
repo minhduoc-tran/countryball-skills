@@ -1,0 +1,2420 @@
+{
+ "slug": "vong-lap-mot-ngay",
+ "title": "SẼ RA SAO NẾU CHỈ MÌNH BẠN NHỚ NGÀY HÔM QUA?",
+ "fps": 30,
+ "total": 8939,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 66,
+   "t0": 0,
+   "t1": 66,
+   "line": "Sáu giờ sáng. Chuông báo thức reo."
+  },
+  {
+   "shot": "A2",
+   "a": 66,
+   "b": 131,
+   "t0": 0,
+   "t1": 65,
+   "line": "Bạn với tay tắt nó, như mọi ngày."
+  },
+  {
+   "shot": "A3",
+   "a": 131,
+   "b": 199,
+   "t0": 0,
+   "t1": 68,
+   "line": "Mẹ gọi xuống ăn sáng. Trên ti vi,"
+  },
+  {
+   "shot": "A4",
+   "a": 199,
+   "b": 266,
+   "t0": 0,
+   "t1": 67,
+   "line": "bản tin nói chiều nay sẽ có mưa lớn."
+  },
+  {
+   "shot": "A5",
+   "a": 266,
+   "b": 327,
+   "t0": 0,
+   "t1": 61,
+   "line": "Mọi thứ đều quen. Quá quen."
+  },
+  {
+   "shot": "A6",
+   "a": 327,
+   "b": 424,
+   "t0": 0,
+   "t1": 97,
+   "line": "Vì bạn đã sống đúng buổi sáng này, hôm qua rồi.",
+   "look": "memory"
+  },
+  {
+   "shot": "A7",
+   "a": 424,
+   "b": 502,
+   "t0": 0,
+   "t1": 78,
+   "line": "Sẽ ra sao nếu cứ mỗi nửa đêm, cả thế giới"
+  },
+  {
+   "shot": "A8",
+   "a": 502,
+   "b": 565,
+   "t0": 0,
+   "t1": 63,
+   "line": "quay về sáu giờ sáng thứ Tư?"
+  },
+  {
+   "shot": "A9",
+   "a": 565,
+   "b": 638,
+   "t0": 0,
+   "t1": 73,
+   "line": "Bạn sống lại đúng một ngày, mãi mãi."
+  },
+  {
+   "shot": "A10",
+   "a": 638,
+   "b": 704,
+   "t0": 0,
+   "t1": 66,
+   "line": "Và không ai nhớ gì, trừ bạn."
+  },
+  {
+   "shot": "A11",
+   "a": 704,
+   "b": 779,
+   "t0": 0,
+   "t1": 75,
+   "line": "Luật rất đơn giản. Đúng mười hai giờ đêm,"
+  },
+  {
+   "shot": "A12",
+   "a": 779,
+   "b": 847,
+   "t0": 0,
+   "t1": 68,
+   "line": "mọi thứ trở lại như cũ. Căn phòng,"
+  },
+  {
+   "shot": "A13",
+   "a": 847,
+   "b": 947,
+   "t0": 0,
+   "t1": 100,
+   "line": "ví tiền, cơ thể bạn, và trí nhớ của tám tỷ người."
+  },
+  {
+   "shot": "A14",
+   "a": 947,
+   "b": 1006,
+   "t0": 0,
+   "t1": 59,
+   "line": "Chỉ có ký ức của bạn là ở lại."
+  },
+  {
+   "shot": "A15",
+   "a": 1006,
+   "b": 1073,
+   "t0": 0,
+   "t1": 67,
+   "line": "Ngày thứ hai, bạn tưởng mình đang mơ.",
+   "look": "day2"
+  },
+  {
+   "shot": "A16",
+   "a": 1073,
+   "b": 1159,
+   "t0": 0,
+   "t1": 86,
+   "line": "Mo kể lại đúng câu chuyện cười hôm qua, từng chữ một.",
+   "look": "day2"
+  },
+  {
+   "shot": "A17",
+   "a": 1159,
+   "b": 1211,
+   "t0": 0,
+   "t1": 52,
+   "line": "Con mèo nhà bên lại làm rơi"
+  },
+  {
+   "shot": "A18",
+   "a": 1211,
+   "b": 1258,
+   "t0": 0,
+   "t1": 47,
+   "line": "đúng cái chậu hoa đó."
+  },
+  {
+   "shot": "A19",
+   "a": 1258,
+   "b": 1298,
+   "t0": 0,
+   "t1": 40,
+   "line": "Và đúng bốn giờ chiều,"
+  },
+  {
+   "shot": "A20",
+   "a": 1298,
+   "b": 1351,
+   "t0": 0,
+   "t1": 53,
+   "line": "trời lại đổ mưa."
+  },
+  {
+   "shot": "A21",
+   "a": 1351,
+   "b": 1420,
+   "t0": 0,
+   "t1": 69,
+   "line": "Rồi bạn nhận ra, chẳng có gì là hậu quả."
+  },
+  {
+   "shot": "A22",
+   "a": 1420,
+   "b": 1466,
+   "t0": 0,
+   "t1": 46,
+   "line": "Ăn mười cây kem một lúc?"
+  },
+  {
+   "shot": "A23",
+   "a": 1466,
+   "b": 1528,
+   "t0": 0,
+   "t1": 62,
+   "line": "Sáng mai, bụng lại phẳng lì."
+  },
+  {
+   "shot": "A24",
+   "a": 1528,
+   "b": 1584,
+   "t0": 0,
+   "t1": 56,
+   "line": "Nói thẳng với sếp mọi điều bạn nghĩ?"
+  },
+  {
+   "shot": "A25",
+   "a": 1584,
+   "b": 1637,
+   "t0": 0,
+   "t1": 53,
+   "line": "Sáng mai, sếp quên sạch."
+  },
+  {
+   "shot": "A26",
+   "a": 1637,
+   "b": 1720,
+   "t0": 0,
+   "t1": 83,
+   "line": "Nhuộm tóc xanh, nhảy xuống hồ bơi trong bộ vest,"
+  },
+  {
+   "shot": "A27",
+   "a": 1720,
+   "b": 1780,
+   "t0": 0,
+   "t1": 60,
+   "line": "ăn hết cả thực đơn của một nhà hàng."
+  },
+  {
+   "shot": "A28",
+   "a": 1780,
+   "b": 1830,
+   "t0": 0,
+   "t1": 50,
+   "line": "Ngày nào cũng là ngày lễ."
+  },
+  {
+   "shot": "B1",
+   "a": 1830,
+   "b": 1886,
+   "t0": 0,
+   "t1": 56,
+   "line": "Cơ thể bạn cũng được làm mới."
+  },
+  {
+   "shot": "B2",
+   "a": 1886,
+   "b": 1927,
+   "t0": 0,
+   "t1": 41,
+   "line": "Ngã xe trầy chân?"
+  },
+  {
+   "shot": "B3",
+   "a": 1927,
+   "b": 1960,
+   "t0": 0,
+   "t1": 33,
+   "line": "Sáng mai lành lặn."
+  },
+  {
+   "shot": "B4",
+   "a": 1960,
+   "b": 2058,
+   "t0": 0,
+   "t1": 98,
+   "line": "Tập tạ cả ngày? Sáng mai, cơ bắp lại về như cũ."
+  },
+  {
+   "shot": "B5",
+   "a": 2058,
+   "b": 2124,
+   "t0": 0,
+   "t1": 66,
+   "line": "Bạn không già đi, dù chỉ một ngày."
+  },
+  {
+   "shot": "B6",
+   "a": 2124,
+   "b": 2175,
+   "t0": 0,
+   "t1": 51,
+   "line": "Rồi bạn nghĩ đến xổ số."
+  },
+  {
+   "shot": "B7",
+   "a": 2175,
+   "b": 2246,
+   "t0": 0,
+   "t1": 71,
+   "line": "Tối thứ Tư có quay Mega sáu trên bốn lăm."
+  },
+  {
+   "shot": "B8",
+   "a": 2246,
+   "b": 2348,
+   "t0": 0,
+   "t1": 102,
+   "line": "Xác suất trúng giải độc đắc là một trên hơn tám triệu."
+  },
+  {
+   "shot": "B9",
+   "a": 2348,
+   "b": 2408,
+   "t0": 0,
+   "t1": 60,
+   "line": "Nhưng bạn đã xem kết quả tối qua."
+  },
+  {
+   "shot": "B10",
+   "a": 2408,
+   "b": 2457,
+   "t0": 0,
+   "t1": 49,
+   "line": "Bạn mua đúng sáu con số đó."
+  },
+  {
+   "shot": "B11",
+   "a": 2457,
+   "b": 2541,
+   "t0": 0,
+   "t1": 84,
+   "line": "Và bạn trúng. Ít nhất mười hai tỷ đồng."
+  },
+  {
+   "shot": "B12",
+   "a": 2541,
+   "b": 2581,
+   "t0": 0,
+   "t1": 40,
+   "line": "Bạn ăn mừng tới khuya.",
+   "look": "midnight"
+  },
+  {
+   "shot": "B13",
+   "a": 2581,
+   "b": 2635,
+   "t0": 0,
+   "t1": 54,
+   "line": "Rồi đồng hồ điểm mười hai giờ."
+  },
+  {
+   "shot": "B14",
+   "a": 2635,
+   "b": 2711,
+   "t0": 0,
+   "t1": 76,
+   "line": "Sáu giờ sáng. Tờ vé số biến mất."
+  },
+  {
+   "shot": "B15",
+   "a": 2711,
+   "b": 2800,
+   "t0": 0,
+   "t1": 89,
+   "line": "Trong ví, lại chỉ còn năm mươi nghìn."
+  },
+  {
+   "shot": "B16",
+   "a": 2800,
+   "b": 2866,
+   "t0": 0,
+   "t1": 66,
+   "line": "Vậy thứ duy nhất bạn giữ được là gì?"
+  },
+  {
+   "shot": "B17",
+   "a": 2866,
+   "b": 2913,
+   "t0": 0,
+   "t1": 47,
+   "line": "Là những gì nằm trong đầu bạn."
+  },
+  {
+   "shot": "B18",
+   "a": 2913,
+   "b": 2984,
+   "t0": 0,
+   "t1": 71,
+   "line": "Mỗi vòng lặp cho bạn khoảng mười tám tiếng thức."
+  },
+  {
+   "shot": "B19",
+   "a": 2984,
+   "b": 3040,
+   "t0": 0,
+   "t1": 56,
+   "line": "Viện Ngoại giao Hoa Kỳ ước tính,"
+  },
+  {
+   "shot": "B20",
+   "a": 3040,
+   "b": 3082,
+   "t0": 0,
+   "t1": 42,
+   "line": "một người nói tiếng Anh cần"
+  },
+  {
+   "shot": "B21",
+   "a": 3082,
+   "b": 3168,
+   "t0": 0,
+   "t1": 86,
+   "line": "khoảng hai nghìn hai trăm giờ học để thạo tiếng Nhật."
+  },
+  {
+   "shot": "B22",
+   "a": 3168,
+   "b": 3237,
+   "t0": 0,
+   "t1": 69,
+   "line": "Với bạn, đó chỉ là bốn tháng thứ Tư.",
+   "look": "day122"
+  },
+  {
+   "shot": "B23",
+   "a": 3237,
+   "b": 3322,
+   "t0": 0,
+   "t1": 85,
+   "line": "Một năm lặp lại là hơn sáu nghìn rưỡi giờ.",
+   "look": "year1"
+  },
+  {
+   "shot": "B24",
+   "a": 3322,
+   "b": 3374,
+   "t0": 0,
+   "t1": 52,
+   "line": "Đủ để học đàn, học vẽ,"
+  },
+  {
+   "shot": "B25",
+   "a": 3374,
+   "b": 3436,
+   "t0": 0,
+   "t1": 62,
+   "line": "học nấu ăn, học bất cứ thứ gì."
+  },
+  {
+   "shot": "B26",
+   "a": 3436,
+   "b": 3521,
+   "t0": 0,
+   "t1": 85,
+   "line": "Ngón tay bạn sáng nào cũng mềm như lần đầu chạm phím,"
+  },
+  {
+   "shot": "B27",
+   "a": 3521,
+   "b": 3593,
+   "t0": 0,
+   "t1": 72,
+   "line": "nhưng não bạn thì nhớ từng nốt nhạc."
+  },
+  {
+   "shot": "C1",
+   "a": 3593,
+   "b": 3637,
+   "t0": 0,
+   "t1": 44,
+   "line": "Nhưng có một vấn đề.",
+   "look": "midnight"
+  },
+  {
+   "shot": "C2",
+   "a": 3637,
+   "b": 3668,
+   "t0": 0,
+   "t1": 31,
+   "line": "Cuốn sổ bạn ghi chép"
+  },
+  {
+   "shot": "C3",
+   "a": 3668,
+   "b": 3712,
+   "t0": 0,
+   "t1": 44,
+   "line": "cũng biến mất mỗi sáng."
+  },
+  {
+   "shot": "C4",
+   "a": 3712,
+   "b": 3760,
+   "t0": 0,
+   "t1": 48,
+   "line": "Mọi thứ phải nằm trong đầu."
+  },
+  {
+   "shot": "C5",
+   "a": 3760,
+   "b": 3807,
+   "t0": 0,
+   "t1": 47,
+   "line": "Mà não người quên rất nhanh."
+  },
+  {
+   "shot": "C6",
+   "a": 3807,
+   "b": 3842,
+   "t0": 0,
+   "t1": 35,
+   "line": "Hơn một trăm năm trước,"
+  },
+  {
+   "shot": "C7",
+   "a": 3842,
+   "b": 3918,
+   "t0": 0,
+   "t1": 76,
+   "line": "một nhà tâm lý học người Đức đã đo được rằng,"
+  },
+  {
+   "shot": "C8",
+   "a": 3918,
+   "b": 4022,
+   "t0": 0,
+   "t1": 104,
+   "line": "chỉ sau một ngày, ta quên khoảng hai phần ba những gì vừa học."
+  },
+  {
+   "shot": "C9",
+   "a": 4022,
+   "b": 4124,
+   "t0": 0,
+   "t1": 102,
+   "line": "Muốn nhớ, bạn phải ôn đi ôn lại, cách nhau ngày càng xa."
+  },
+  {
+   "shot": "C10",
+   "a": 4124,
+   "b": 4166,
+   "t0": 0,
+   "t1": 42,
+   "line": "Đó là thật."
+  },
+  {
+   "shot": "C11",
+   "a": 4166,
+   "b": 4210,
+   "t0": 0,
+   "t1": 44,
+   "line": "Rồi đến sự mệt mỏi.",
+   "look": "tired"
+  },
+  {
+   "shot": "C12",
+   "a": 4210,
+   "b": 4302,
+   "t0": 0,
+   "t1": 92,
+   "line": "Ngày nào bạn cũng thức từ sáu giờ sáng tới nửa đêm."
+  },
+  {
+   "shot": "C13",
+   "a": 4302,
+   "b": 4343,
+   "t0": 0,
+   "t1": 41,
+   "line": "Các nhà khoa học đã đo được,"
+  },
+  {
+   "shot": "C14",
+   "a": 4343,
+   "b": 4407,
+   "t0": 0,
+   "t1": 64,
+   "line": "sau mười bảy đến mười chín tiếng không ngủ,"
+  },
+  {
+   "shot": "C15",
+   "a": 4407,
+   "b": 4458,
+   "t0": 0,
+   "t1": 51,
+   "line": "phản xạ của bạn kém ngang người"
+  },
+  {
+   "shot": "C16",
+   "a": 4458,
+   "b": 4565,
+   "t0": 0,
+   "t1": 107,
+   "line": "có nồng độ cồn không phẩy không năm phần trăm. Đó là thật."
+  },
+  {
+   "shot": "C17",
+   "a": 4565,
+   "b": 4622,
+   "t0": 0,
+   "t1": 57,
+   "line": "Cơ thể được làm mới mỗi sáng."
+  },
+  {
+   "shot": "C18",
+   "a": 4622,
+   "b": 4707,
+   "t0": 0,
+   "t1": 85,
+   "line": "Nhưng tâm trí bạn thì không bao giờ được nghỉ.",
+   "look": "tired"
+  },
+  {
+   "shot": "C19",
+   "a": 4707,
+   "b": 4764,
+   "t0": 0,
+   "t1": 57,
+   "line": "Bạn còn nhận ra một điều kỳ lạ."
+  },
+  {
+   "shot": "C20",
+   "a": 4764,
+   "b": 4850,
+   "t0": 0,
+   "t1": 86,
+   "line": "Nếu bạn không đổi gì, cả ngày lặp lại y hệt."
+  },
+  {
+   "shot": "C21",
+   "a": 4850,
+   "b": 4929,
+   "t0": 0,
+   "t1": 79,
+   "line": "Nhưng chỉ cần chào người hàng xóm sớm hơn một phút,"
+  },
+  {
+   "shot": "C22",
+   "a": 4929,
+   "b": 4978,
+   "t0": 0,
+   "t1": 49,
+   "line": "cả ngày đã rẽ sang hướng khác."
+  },
+  {
+   "shot": "C23",
+   "a": 4978,
+   "b": 5031,
+   "t0": 0,
+   "t1": 53,
+   "line": "Năm một nghìn chín trăm bảy mươi hai,"
+  },
+  {
+   "shot": "C24",
+   "a": 5031,
+   "b": 5134,
+   "t0": 0,
+   "t1": 103,
+   "line": "nhà khí tượng học Edward Lorenz có một bài nói mang tên:"
+  },
+  {
+   "shot": "C25",
+   "a": 5134,
+   "b": 5210,
+   "t0": 0,
+   "t1": 76,
+   "line": "Liệu một cái vỗ cánh của con bướm ở Brazil"
+  },
+  {
+   "shot": "C26",
+   "a": 5210,
+   "b": 5276,
+   "t0": 0,
+   "t1": 66,
+   "line": "có gây ra cơn lốc xoáy ở Texas?"
+  },
+  {
+   "shot": "C27",
+   "a": 5276,
+   "b": 5339,
+   "t0": 0,
+   "t1": 63,
+   "line": "Người ta gọi đó là hiệu ứng cánh bướm."
+  },
+  {
+   "shot": "C28",
+   "a": 5339,
+   "b": 5401,
+   "t0": 0,
+   "t1": 62,
+   "line": "Và bạn đang sống trong nó."
+  },
+  {
+   "shot": "D1",
+   "a": 5401,
+   "b": 5470,
+   "t0": 0,
+   "t1": 69,
+   "line": "Có những ngày, bạn chẳng làm gì cả.",
+   "look": "tired"
+  },
+  {
+   "shot": "D2",
+   "a": 5470,
+   "b": 5531,
+   "t0": 0,
+   "t1": 61,
+   "line": "Bạn nằm trên giường từ sáng tới đêm,",
+   "look": "tired"
+  },
+  {
+   "shot": "D3",
+   "a": 5531,
+   "b": 5627,
+   "t0": 0,
+   "t1": 96,
+   "line": "nghe chuông báo thức, nghe mẹ gọi, nghe Mo gõ cửa.",
+   "look": "tired"
+  },
+  {
+   "shot": "D4",
+   "a": 5627,
+   "b": 5705,
+   "t0": 0,
+   "t1": 78,
+   "line": "Bạn mong rằng sáng mai, mọi thứ sẽ khác.",
+   "look": "midnight"
+  },
+  {
+   "shot": "D5",
+   "a": 5705,
+   "b": 5747,
+   "t0": 0,
+   "t1": 42,
+   "line": "Nhưng sáng mai, vẫn là",
+   "look": "reset"
+  },
+  {
+   "shot": "D6",
+   "a": 5747,
+   "b": 5790,
+   "t0": 0,
+   "t1": 43,
+   "line": "thứ Tư."
+  },
+  {
+   "shot": "D7",
+   "a": 5790,
+   "b": 5834,
+   "t0": 0,
+   "t1": 44,
+   "line": "Thế là bạn bắt đầu thử."
+  },
+  {
+   "shot": "D8",
+   "a": 5834,
+   "b": 5892,
+   "t0": 0,
+   "t1": 58,
+   "line": "Bốn giờ chiều, khi trời đổ mưa,",
+   "look": "rain"
+  },
+  {
+   "shot": "D9",
+   "a": 5892,
+   "b": 5954,
+   "t0": 0,
+   "t1": 62,
+   "line": "có một bà cụ trượt chân ở ngã tư.",
+   "look": "rain"
+  },
+  {
+   "shot": "D10",
+   "a": 5954,
+   "b": 6015,
+   "t0": 0,
+   "t1": 61,
+   "line": "Ngày đầu, bạn chỉ đứng nhìn.",
+   "look": "rain"
+  },
+  {
+   "shot": "D11",
+   "a": 6015,
+   "b": 6072,
+   "t0": 0,
+   "t1": 57,
+   "line": "Ngày thứ năm, bạn đỡ được bà.",
+   "look": "day5"
+  },
+  {
+   "shot": "D12",
+   "a": 6072,
+   "b": 6153,
+   "t0": 0,
+   "t1": 81,
+   "line": "Ngày thứ mười, bạn còn kịp che ô cho bà.",
+   "look": "day10"
+  },
+  {
+   "shot": "D13",
+   "a": 6153,
+   "b": 6186,
+   "t0": 0,
+   "t1": 33,
+   "line": "Nhưng sáng hôm sau,"
+  },
+  {
+   "shot": "D14",
+   "a": 6186,
+   "b": 6262,
+   "t0": 0,
+   "t1": 76,
+   "line": "bà lại sắp ngã, và bạn lại phải chạy ra.",
+   "look": "rain"
+  },
+  {
+   "shot": "D15",
+   "a": 6262,
+   "b": 6363,
+   "t0": 0,
+   "t1": 101,
+   "line": "Mỗi việc tốt bạn làm, chỉ sống được đúng một ngày."
+  },
+  {
+   "shot": "D16",
+   "a": 6363,
+   "b": 6416,
+   "t0": 0,
+   "t1": 53,
+   "line": "Và rồi, đến điều khó nhất."
+  },
+  {
+   "shot": "D17",
+   "a": 6416,
+   "b": 6468,
+   "t0": 0,
+   "t1": 52,
+   "line": "Bạn kể cho Mo nghe về vòng lặp."
+  },
+  {
+   "shot": "D18",
+   "a": 6468,
+   "b": 6517,
+   "t0": 0,
+   "t1": 49,
+   "line": "Lần thứ nhất, Mo cười."
+  },
+  {
+   "shot": "D19",
+   "a": 6517,
+   "b": 6570,
+   "t0": 0,
+   "t1": 53,
+   "line": "Lần thứ mười, Mo tin."
+  },
+  {
+   "shot": "D20",
+   "a": 6570,
+   "b": 6674,
+   "t0": 0,
+   "t1": 104,
+   "line": "Lần thứ năm mươi, bạn biết trước Mo sẽ nói gì, từng chữ."
+  },
+  {
+   "shot": "D21",
+   "a": 6674,
+   "b": 6760,
+   "t0": 0,
+   "t1": 86,
+   "line": "Bạn có những kỷ niệm với Mo, mà Mo không hề có.",
+   "look": "memory"
+  },
+  {
+   "shot": "D22",
+   "a": 6760,
+   "b": 6840,
+   "t0": 0,
+   "t1": 80,
+   "line": "Một nghiên cứu tổng hợp một trăm bốn mươi tám công trình,"
+  },
+  {
+   "shot": "D23",
+   "a": 6840,
+   "b": 6960,
+   "t0": 0,
+   "t1": 120,
+   "line": "với hơn ba trăm nghìn người, cho thấy người có các mối quan hệ bền chặt có"
+  },
+  {
+   "shot": "D24",
+   "a": 6960,
+   "b": 7057,
+   "t0": 0,
+   "t1": 97,
+   "line": "khả năng sống sót cao hơn năm mươi phần trăm. Đó là thật."
+  },
+  {
+   "shot": "D25",
+   "a": 7057,
+   "b": 7126,
+   "t0": 0,
+   "t1": 69,
+   "line": "Con người cần được nhớ đến."
+  },
+  {
+   "shot": "E1",
+   "a": 7126,
+   "b": 7200,
+   "t0": 0,
+   "t1": 74,
+   "line": "Một năm trôi qua. Rồi mười năm.",
+   "look": "year1"
+  },
+  {
+   "shot": "E2",
+   "a": 7200,
+   "b": 7286,
+   "t0": 0,
+   "t1": 86,
+   "line": "Bạn đã sống ba nghìn sáu trăm năm mươi ngày thứ Tư.",
+   "look": "year10"
+  },
+  {
+   "shot": "E3",
+   "a": 7286,
+   "b": 7342,
+   "t0": 0,
+   "t1": 56,
+   "line": "Cơ thể bạn vẫn như sáng hôm đó,",
+   "look": "year10"
+  },
+  {
+   "shot": "E4",
+   "a": 7342,
+   "b": 7406,
+   "t0": 0,
+   "t1": 64,
+   "line": "nhưng đầu óc bạn đã già thêm mười tuổi."
+  },
+  {
+   "shot": "E5",
+   "a": 7406,
+   "b": 7448,
+   "t0": 0,
+   "t1": 42,
+   "line": "Bạn nói được năm thứ tiếng,"
+  },
+  {
+   "shot": "E6",
+   "a": 7448,
+   "b": 7490,
+   "t0": 0,
+   "t1": 42,
+   "line": "chơi đàn như nghệ sĩ,"
+  },
+  {
+   "shot": "E7",
+   "a": 7490,
+   "b": 7538,
+   "t0": 0,
+   "t1": 48,
+   "line": "biết tên từng người trong khu phố,"
+  },
+  {
+   "shot": "E8",
+   "a": 7538,
+   "b": 7601,
+   "t0": 0,
+   "t1": 63,
+   "line": "và biết họ sẽ làm gì vào từng phút."
+  },
+  {
+   "shot": "E9",
+   "a": 7601,
+   "b": 7660,
+   "t0": 0,
+   "t1": 59,
+   "line": "Bạn biết chính xác giây nào con mèo nhảy,"
+  },
+  {
+   "shot": "E10",
+   "a": 7660,
+   "b": 7700,
+   "t0": 0,
+   "t1": 40,
+   "line": "giây nào chậu hoa rơi,"
+  },
+  {
+   "shot": "E11",
+   "a": 7700,
+   "b": 7768,
+   "t0": 0,
+   "t1": 68,
+   "line": "và giây nào cơn mưa bắt đầu.",
+   "look": "rain"
+  },
+  {
+   "shot": "E12",
+   "a": 7768,
+   "b": 7836,
+   "t0": 0,
+   "t1": 68,
+   "line": "Rồi một ngày, bạn quyết định làm khác.",
+   "look": "dawn"
+  },
+  {
+   "shot": "E13",
+   "a": 7836,
+   "b": 7900,
+   "t0": 0,
+   "t1": 64,
+   "line": "Không xổ số, không thử thách."
+  },
+  {
+   "shot": "E14",
+   "a": 7900,
+   "b": 7949,
+   "t0": 0,
+   "t1": 49,
+   "line": "Bạn ăn sáng thật chậm cùng mẹ.",
+   "look": "perfect"
+  },
+  {
+   "shot": "E15",
+   "a": 7949,
+   "b": 8029,
+   "t0": 0,
+   "t1": 80,
+   "line": "Bạn nghe hết câu chuyện cười của Mo, và vẫn cười.",
+   "look": "perfect"
+  },
+  {
+   "shot": "E16",
+   "a": 8029,
+   "b": 8079,
+   "t0": 0,
+   "t1": 50,
+   "line": "Bạn che ô cho bà cụ.",
+   "look": "rain"
+  },
+  {
+   "shot": "E17",
+   "a": 8079,
+   "b": 8130,
+   "t0": 0,
+   "t1": 51,
+   "line": "Rồi bạn ngồi nhìn hoàng hôn.",
+   "look": "perfect"
+  },
+  {
+   "shot": "E18",
+   "a": 8130,
+   "b": 8228,
+   "t0": 0,
+   "t1": 98,
+   "line": "Một ngày bình thường, nhưng trọn vẹn.",
+   "look": "perfect"
+  },
+  {
+   "shot": "E19",
+   "a": 8228,
+   "b": 8287,
+   "t0": 0,
+   "t1": 59,
+   "line": "Nửa đêm. Sáu giờ sáng."
+  },
+  {
+   "shot": "E20",
+   "a": 8287,
+   "b": 8321,
+   "t0": 0,
+   "t1": 34,
+   "line": "Chuông báo thức reo."
+  },
+  {
+   "shot": "E21",
+   "a": 8321,
+   "b": 8411,
+   "t0": 0,
+   "t1": 90,
+   "line": "Trên màn hình điện thoại hiện lên hai chữ. Thứ Năm."
+  },
+  {
+   "shot": "E22",
+   "a": 8411,
+   "b": 8457,
+   "t0": 0,
+   "t1": 46,
+   "line": "Và lần đầu tiên sau mười năm,",
+   "look": "thursday"
+  },
+  {
+   "shot": "E23",
+   "a": 8457,
+   "b": 8557,
+   "t0": 0,
+   "t1": 100,
+   "line": "bạn không biết hôm nay sẽ xảy ra chuyện gì.",
+   "look": "thursday"
+  },
+  {
+   "shot": "E24",
+   "a": 8557,
+   "b": 8630,
+   "t0": 0,
+   "t1": 73,
+   "line": "Còn bạn, nếu phải sống lại một ngày mãi mãi,"
+  },
+  {
+   "shot": "E25",
+   "a": 8630,
+   "b": 8690,
+   "t0": 0,
+   "t1": 60,
+   "line": "bạn sẽ dùng nó để làm gì?"
+  },
+  {
+   "shot": "E26",
+   "a": 8690,
+   "b": 8821,
+   "t0": 0,
+   "t1": 131,
+   "line": "Học một thứ tiếng, trúng số cho vui, hay sống thật chậm bên người mình thương?"
+  },
+  {
+   "shot": "E27",
+   "a": 8821,
+   "b": 8939,
+   "t0": 0,
+   "t1": 118,
+   "line": "Viết ở phần bình luận nhé."
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "key": 30,
+   "len": 66,
+   "first": 0,
+   "line": "Sáu giờ sáng. Chuông báo thức reo.",
+   "note": "06:00 dawn, Pip asleep, the clock starts ringing (the loop alarm framing)"
+  },
+  {
+   "id": "A2",
+   "size": "insert",
+   "key": 26,
+   "len": 65,
+   "first": 66,
+   "line": "Bạn với tay tắt nó, như mọi ngày.",
+   "note": "alarm clock macro, Pip hand slaps the snooze bar, ring stops"
+  },
+  {
+   "id": "A3",
+   "size": "wide",
+   "key": 34,
+   "len": 68,
+   "first": 131,
+   "line": "Mẹ gọi xuống ăn sáng. Trên ti vi,",
+   "note": "kitchen: mum at the hob calls up the stairs, TV forecast on the wall"
+  },
+  {
+   "id": "A4",
+   "size": "insert",
+   "key": 58,
+   "len": 67,
+   "first": 199,
+   "line": "bản tin nói chiều nay sẽ có mưa lớn.",
+   "note": "TV forecast: rain cloud, 16:00, MƯA LỚN banner types on"
+  },
+  {
+   "id": "A5",
+   "size": "medium",
+   "key": 48,
+   "len": 61,
+   "first": 266,
+   "line": "Mọi thứ đều quen. Quá quen.",
+   "note": "Pip at breakfast, spoon stops halfway, freezes; snap-in on Quá quen"
+  },
+  {
+   "id": "A6",
+   "size": "medium",
+   "key": 30,
+   "len": 97,
+   "first": 327,
+   "line": "Vì bạn đã sống đúng buổi sáng này, hôm qua rồi.",
+   "note": "déjà vu: yesterday sepia ghost of the whole breakfast frame slides over and locks, memory glow"
+  },
+  {
+   "id": "A7",
+   "size": "wide",
+   "key": 44,
+   "len": 78,
+   "first": 424,
+   "line": "Sẽ ra sao nếu cứ mỗi nửa đêm, cả thế giới",
+   "note": "TitleCard over the dark room at 23:59, Pip asleep"
+  },
+  {
+   "id": "A8",
+   "size": "schematic",
+   "key": 40,
+   "len": 63,
+   "first": 502,
+   "line": "quay về sáu giờ sáng thứ Tư?",
+   "note": "ResetClock 23:59 -> 06:00 THỨ TƯ over the Earth, rim people rewind cyan"
+  },
+  {
+   "id": "A9",
+   "size": "insert",
+   "key": 36,
+   "len": 73,
+   "first": 565,
+   "line": "Bạn sống lại đúng một ngày, mãi mãi.",
+   "note": "tear-off calendar: pages fly off, every new page THỨ TƯ, NGÀY # ticks"
+  },
+  {
+   "id": "A10",
+   "size": "wide",
+   "key": 52,
+   "len": 66,
+   "first": 638,
+   "line": "Và không ai nhớ gì, trừ bạn.",
+   "note": "morning crowd walks past blank, Pip still in the middle with MemoryGlow"
+  },
+  {
+   "id": "A11",
+   "size": "insert",
+   "key": 70,
+   "len": 75,
+   "first": 704,
+   "line": "Luật rất đơn giản. Đúng mười hai giờ đêm,",
+   "note": "LUẬT: big flip clock over the dark room, 23:59 flips to 00:00"
+  },
+  {
+   "id": "A12",
+   "size": "wide",
+   "key": 30,
+   "len": 68,
+   "first": 779,
+   "line": "mọi thứ trở lại như cũ. Căn phòng,",
+   "note": "messy room at 00:00, reset wave, tidy 06:00 morning again"
+  },
+  {
+   "id": "A13",
+   "size": "schematic",
+   "key": 92,
+   "len": 100,
+   "first": 847,
+   "line": "ví tiền, cơ thể bạn, và trí nhớ của tám tỷ người.",
+   "note": "rules card: CĂN PHÒNG, VÍ TIỀN, CƠ THỂ, 8 TỶ NGƯỜI pop and rewind cyan"
+  },
+  {
+   "id": "A14",
+   "size": "close",
+   "key": 36,
+   "len": 59,
+   "first": 947,
+   "line": "Chỉ có ký ức của bạn là ở lại.",
+   "note": "06:00 reset wave over Pip in bed, only his head keeps the cyan glow"
+  },
+  {
+   "id": "A15",
+   "size": "wide",
+   "key": 44,
+   "len": 67,
+   "first": 1006,
+   "line": "Ngày thứ hai, bạn tưởng mình đang mơ.",
+   "note": "A1 framing again (day 2): ringing, Pip jolts upright, looks round, ?"
+  },
+  {
+   "id": "A16",
+   "size": "medium",
+   "key": 72,
+   "len": 86,
+   "first": 1073,
+   "line": "Mo kể lại đúng câu chuyện cười hôm qua, từng chữ một.",
+   "note": "sidewalk: Mo tells THE joke (doodle bubble), Pip mouths it in sync"
+  },
+  {
+   "id": "A17",
+   "size": "low",
+   "key": 46,
+   "len": 52,
+   "first": 1159,
+   "line": "Con mèo nhà bên lại làm rơi",
+   "note": "low angle: the neighbour cat butts the flower pot, it tips off the ledge"
+  },
+  {
+   "id": "A18",
+   "size": "medium",
+   "key": 36,
+   "len": 47,
+   "first": 1211,
+   "line": "đúng cái chậu hoa đó.",
+   "note": "sidewalk by Pip: the pot drops in and smashes, Pip already stepped back"
+  },
+  {
+   "id": "A19",
+   "size": "insert",
+   "key": 24,
+   "len": 40,
+   "first": 1258,
+   "line": "Và đúng bốn giờ chiều,",
+   "note": "flip clock 15:59 -> 16:00 against the darkening street"
+  },
+  {
+   "id": "A20",
+   "size": "wide",
+   "key": 40,
+   "len": 53,
+   "first": 1298,
+   "line": "trời lại đổ mưa.",
+   "note": "16:00 crossroads: rain comes down on the second, Pip umbrella opening"
+  },
+  {
+   "id": "A21",
+   "size": "medium",
+   "key": 62,
+   "len": 69,
+   "first": 1351,
+   "line": "Rồi bạn nhận ra, chẳng có gì là hậu quả.",
+   "note": "Pip by the window, grin spreads; HẬU QUẢ tag crossed out"
+  },
+  {
+   "id": "A22",
+   "size": "medium",
+   "key": 36,
+   "len": 46,
+   "first": 1420,
+   "line": "Ăn mười cây kem một lúc?",
+   "note": "supermarket: ten ice creams in one fist, belly ballooning"
+  },
+  {
+   "id": "A23",
+   "size": "medium",
+   "key": 32,
+   "len": 62,
+   "first": 1466,
+   "line": "Sáng mai, bụng lại phẳng lì.",
+   "note": "06:00 reset wave: Pip pats a flat belly, delighted"
+  },
+  {
+   "id": "A24",
+   "size": "wide",
+   "key": 30,
+   "len": 56,
+   "first": 1528,
+   "line": "Nói thẳng với sếp mọi điều bạn nghĩ?",
+   "note": "office: Pip yells everything at the boss (angry bubble), boss recoils"
+  },
+  {
+   "id": "A25",
+   "size": "close",
+   "key": 36,
+   "len": 53,
+   "first": 1584,
+   "line": "Sáng mai, sếp quên sạch.",
+   "note": "next morning (reset): the boss smiles blank with his coffee, OTS Pip"
+  },
+  {
+   "id": "A26",
+   "size": "wide",
+   "key": 46,
+   "len": 83,
+   "first": 1637,
+   "line": "Nhuộm tóc xanh, nhảy xuống hồ bơi trong bộ vest,",
+   "note": "poolside: hair pops blue, Pip in a suit runs and cannonballs in"
+  },
+  {
+   "id": "A27",
+   "size": "medium",
+   "key": 44,
+   "len": 60,
+   "first": 1720,
+   "line": "ăn hết cả thực đơn của một nhà hàng.",
+   "note": "restaurant long table of dishes, Pip eats down the menu, plates stack"
+  },
+  {
+   "id": "A28",
+   "size": "wide",
+   "key": 30,
+   "len": 50,
+   "first": 1780,
+   "line": "Ngày nào cũng là ngày lễ.",
+   "note": "rooftop party at dusk: party hats, confetti, fireworks"
+  },
+  {
+   "id": "B1",
+   "size": "medium",
+   "key": 30,
+   "len": 56,
+   "first": 1830,
+   "line": "Cơ thể bạn cũng được làm mới.",
+   "note": "06:00, Pip stretches by the window, a cyan scan refreshes him"
+  },
+  {
+   "id": "B2",
+   "size": "wide",
+   "key": 32,
+   "len": 41,
+   "first": 1886,
+   "line": "Ngã xe trầy chân?",
+   "note": "bike hits a stone, Pip tumbles, sits clutching a scraped knee"
+  },
+  {
+   "id": "B3",
+   "size": "insert",
+   "key": 14,
+   "len": 33,
+   "first": 1927,
+   "line": "Sáng mai lành lặn.",
+   "note": "reset: the same knee at 06:00 is clean, sparkle, mitten pats it"
+  },
+  {
+   "id": "B4",
+   "size": "medium",
+   "key": 22,
+   "len": 98,
+   "first": 1960,
+   "line": "Tập tạ cả ngày? Sáng mai, cơ bắp lại về như cũ.",
+   "note": "23:59 dumbbell presses, arms swell; reset 06:00, skinny arms"
+  },
+  {
+   "id": "B5",
+   "size": "close-up",
+   "key": 40,
+   "len": 66,
+   "first": 2058,
+   "line": "Bạn không già đi, dù chỉ một ngày.",
+   "note": "mirror: identical face, NGÀY # climbs, calendar stuck on THỨ TƯ"
+  },
+  {
+   "id": "B6",
+   "size": "close-up",
+   "key": 30,
+   "len": 51,
+   "first": 2124,
+   "line": "Rồi bạn nghĩ đến xổ số.",
+   "note": "an idea: smug Pip, thought bubble with the ticket and bouncing balls"
+  },
+  {
+   "id": "B7",
+   "size": "over-shoulder",
+   "key": 40,
+   "len": 71,
+   "first": 2175,
+   "line": "Tối thứ Tư có quay Mega sáu trên bốn lăm.",
+   "note": "18:00 THỨ TƯ: the Mega 6/45 draw on TV, drum spinning, Pip's hood blurred in front"
+  },
+  {
+   "id": "B8",
+   "size": "schematic",
+   "key": 70,
+   "len": 102,
+   "first": 2246,
+   "line": "Xác suất trúng giải độc đắc là một trên hơn tám triệu.",
+   "note": "odds card 1 / 8.145.060 counts up, '> 8 TRIỆU', a field of tickets with one gold"
+  },
+  {
+   "id": "B9",
+   "size": "close-up",
+   "key": 30,
+   "len": 60,
+   "first": 2348,
+   "line": "Nhưng bạn đã xem kết quả tối qua.",
+   "note": "MemoryGlow: last night's result in a sepia memory frame, TỐI QUA"
+  },
+  {
+   "id": "B10",
+   "size": "medium",
+   "key": 34,
+   "len": 49,
+   "first": 2408,
+   "line": "Bạn mua đúng sáu con số đó.",
+   "note": "lottery cart, seller in a nón lá hands Pip the ticket, he holds it up"
+  },
+  {
+   "id": "B11",
+   "size": "insert",
+   "key": 22,
+   "len": 84,
+   "first": 2457,
+   "line": "Và bạn trúng. Ít nhất mười hai tỷ đồng.",
+   "note": "balls tick off the ticket one by one, then JACKPOT ≥ 12 TỶ ĐỒNG"
+  },
+  {
+   "id": "B12",
+   "size": "wide",
+   "key": 20,
+   "len": 40,
+   "first": 2541,
+   "line": "Bạn ăn mừng tới khuya.",
+   "note": "late-night party: party hat, confetti, ticket held high"
+  },
+  {
+   "id": "B13",
+   "size": "card",
+   "key": 40,
+   "len": 54,
+   "first": 2581,
+   "line": "Rồi đồng hồ điểm mười hai giờ.",
+   "note": "ResetClock 23:59 -> 00:00 -> spins back -> 06:00 THỨ TƯ"
+  },
+  {
+   "id": "B14",
+   "size": "medium",
+   "key": 50,
+   "len": 76,
+   "first": 2635,
+   "line": "Sáu giờ sáng. Tờ vé số biến mất.",
+   "note": "06:00, sitting up in bed, the ticket dissolves into cyan flakes"
+  },
+  {
+   "id": "B15",
+   "size": "insert",
+   "key": 40,
+   "len": 89,
+   "first": 2711,
+   "line": "Trong ví, lại chỉ còn năm mươi nghìn.",
+   "note": "wallet opens on one 50.000 note, a moth flutters out"
+  },
+  {
+   "id": "B16",
+   "size": "wide",
+   "key": 24,
+   "len": 66,
+   "first": 2800,
+   "line": "Vậy thứ duy nhất bạn giữ được là gì?",
+   "note": "06:00: ticket, dumbbell, money float round Pip and dissolve cyan; a '?' over him"
+  },
+  {
+   "id": "B17",
+   "size": "extreme close-up",
+   "key": 24,
+   "len": 47,
+   "first": 2866,
+   "line": "Là những gì nằm trong đầu bạn.",
+   "note": "MemoryGlow on his head, the six numbers stream into it"
+  },
+  {
+   "id": "B18",
+   "size": "wide",
+   "key": 40,
+   "len": 71,
+   "first": 2913,
+   "line": "Mỗi vòng lặp cho bạn khoảng mười tám tiếng thức.",
+   "note": "time-lapse dawn to night, clock races, day bar 06:00-24:00, '18 GIỜ'"
+  },
+  {
+   "id": "B19",
+   "size": "schematic",
+   "key": 34,
+   "len": 56,
+   "first": 2984,
+   "line": "Viện Ngoại giao Hoa Kỳ ước tính,",
+   "note": "FSI card: building draws on, 'FSI', 'VIỆN NGOẠI GIAO HOA KỲ'"
+  },
+  {
+   "id": "B20",
+   "size": "medium",
+   "key": 30,
+   "len": 42,
+   "first": 3040,
+   "line": "một người nói tiếng Anh cần",
+   "note": "a wobbling tower of 日本語 textbooks on the desk, Pip looks up, worried"
+  },
+  {
+   "id": "B21",
+   "size": "schematic",
+   "key": 70,
+   "len": 86,
+   "first": 3082,
+   "line": "khoảng hai nghìn hai trăm giờ học để thạo tiếng Nhật.",
+   "note": "'2.200' counts up, GIỜ HỌC, textbook; あ い う pop on 'tiếng Nhật'"
+  },
+  {
+   "id": "B22",
+   "size": "insert",
+   "key": 40,
+   "len": 69,
+   "first": 3168,
+   "line": "Với bạn, đó chỉ là bốn tháng thứ Tư.",
+   "note": "tear-off calendar pages fly off, always THỨ TƯ; 2.200 ÷ 18 ≈ 122, '≈ 4 THÁNG'"
+  },
+  {
+   "id": "B23",
+   "size": "schematic",
+   "key": 56,
+   "len": 85,
+   "first": 3237,
+   "line": "Một năm lặp lại là hơn sáu nghìn rưỡi giờ.",
+   "note": "1 NĂM LẶP LẠI: 365 ticks fill, '> 6.500 GIỜ', 365 × 18 = 6.570"
+  },
+  {
+   "id": "B24",
+   "size": "panels",
+   "key": 44,
+   "len": 52,
+   "first": 3322,
+   "line": "Đủ để học đàn, học vẽ,",
+   "note": "two panels slide in: Pip at the piano, then painting a sunset at the easel"
+  },
+  {
+   "id": "B25",
+   "size": "medium",
+   "key": 40,
+   "len": 62,
+   "first": 3374,
+   "line": "học nấu ăn, học bất cứ thứ gì.",
+   "note": "kitchen: pancake flip, then skill badges pop round him"
+  },
+  {
+   "id": "B26",
+   "size": "insert",
+   "key": 44,
+   "len": 85,
+   "first": 3436,
+   "line": "Ngón tay bạn sáng nào cũng mềm như lần đầu chạm phím,",
+   "note": "06:00 at the keys: the mitten hovers soft, presses one key, fumbles two"
+  },
+  {
+   "id": "B27",
+   "size": "close-up",
+   "key": 40,
+   "len": 72,
+   "first": 3521,
+   "line": "nhưng não bạn thì nhớ từng nốt nhạc.",
+   "note": "notes stream into his glowing head; a staff of kept notes fills above"
+  },
+  {
+   "id": "C1",
+   "size": "wide",
+   "key": 30,
+   "len": 44,
+   "first": 3593,
+   "line": "Nhưng có một vấn đề.",
+   "note": "23:59, Pip sits up in bed under the desk lamp writing his loop notes on his knees"
+  },
+  {
+   "id": "C2",
+   "size": "insert",
+   "key": 22,
+   "len": 31,
+   "first": 3637,
+   "line": "Cuốn sổ bạn ghi chép",
+   "note": "top-down: the pencil writes the notebook's last line 'bà cụ, ngã tư'"
+  },
+  {
+   "id": "C3",
+   "size": "medium",
+   "key": 26,
+   "len": 44,
+   "first": 3668,
+   "line": "cũng biến mất mỗi sáng.",
+   "note": "06:00 reset flash, clock ringing: Pip holds the notebook up, its writing dissolves into cyan motes"
+  },
+  {
+   "id": "C4",
+   "size": "close-up",
+   "key": 26,
+   "len": 48,
+   "first": 3712,
+   "line": "Mọi thứ phải nằm trong đầu.",
+   "note": "the notes fly into Pip's head, MemoryGlow takes them in: everything must live in his head"
+  },
+  {
+   "id": "C5",
+   "size": "schematic",
+   "key": 16,
+   "len": 47,
+   "first": 3760,
+   "line": "Mà não người quên rất nhanh.",
+   "note": "a head in profile full of cyan memories leaking out of cracks at the back, bar draining"
+  },
+  {
+   "id": "C6",
+   "size": "insert",
+   "key": 32,
+   "len": 35,
+   "first": 3807,
+   "line": "Hơn một trăm năm trước,",
+   "note": "the year runs back on a calendar page 2026 -> 1885"
+  },
+  {
+   "id": "C7",
+   "size": "medium",
+   "key": 40,
+   "len": 76,
+   "first": 3842,
+   "line": "một nhà tâm lý học người Đức đã đo được rằng,",
+   "note": "sepia photograph: bearded German psychologist flipping nonsense syllable cards, pocket watch, tag ĐỨC · 1885"
+  },
+  {
+   "id": "C8",
+   "size": "schematic",
+   "key": 80,
+   "len": 104,
+   "first": 3918,
+   "line": "chỉ sau một ngày, ta quên khoảng hai phần ba những gì vừa học.",
+   "note": "forgetting curve 100% -> ~1/3 after 1 day, red bracket, 'SAU 1 NGÀY: QUÊN ~2/3', 1885"
+  },
+  {
+   "id": "C9",
+   "size": "close",
+   "key": 46,
+   "len": 102,
+   "first": 4022,
+   "line": "Muốn nhớ, bạn phải ôn đi ôn lại, cách nhau ngày càng xa.",
+   "note": "tracking along the spaced review curve: each ÔN back to 100%, gaps +1 +2 +4 NGÀY widen"
+  },
+  {
+   "id": "C10",
+   "size": "wide",
+   "key": 20,
+   "len": 42,
+   "first": 4124,
+   "line": "Đó là thật.",
+   "note": "the whole review chart wide, FactStamp ĐÓ LÀ THẬT"
+  },
+  {
+   "id": "C11",
+   "size": "close-up",
+   "key": 30,
+   "len": 44,
+   "first": 4166,
+   "line": "Rồi đến sự mệt mỏi.",
+   "note": "Pip in bed at night, heavy lids, head nodding, z's"
+  },
+  {
+   "id": "C12",
+   "size": "schematic",
+   "key": 80,
+   "len": 92,
+   "first": 4210,
+   "line": "Ngày nào bạn cũng thức từ sáu giờ sáng tới nửa đêm.",
+   "note": "day bar 06:00 -> 24:00 fills, sun to moon, an eye riding it, '18 GIỜ'"
+  },
+  {
+   "id": "C13",
+   "size": "medium",
+   "key": 28,
+   "len": 41,
+   "first": 4302,
+   "line": "Các nhà khoa học đã đo được,",
+   "note": "a lab-coat researcher with clipboard times tired Pip at the reaction tester"
+  },
+  {
+   "id": "C14",
+   "size": "card",
+   "key": 40,
+   "len": 64,
+   "first": 4343,
+   "line": "sau mười bảy đến mười chín tiếng không ngủ,",
+   "note": "bloodshot open eye, '17-19 GIỜ', 'KHÔNG NGỦ'"
+  },
+  {
+   "id": "C15",
+   "size": "insert",
+   "key": 30,
+   "len": 51,
+   "first": 4407,
+   "line": "phản xạ của bạn kém ngang người",
+   "note": "lamp goes green, cyan ghost hand slaps at once, Pip's hand arrives late; short cyan vs long red bar"
+  },
+  {
+   "id": "C16",
+   "size": "card",
+   "key": 90,
+   "len": 107,
+   "first": 4458,
+   "line": "có nồng độ cồn không phẩy không năm phần trăm. Đó là thật.",
+   "note": "eye '17-19 GIỜ' ≈ beer glass '0,05%' NỒNG ĐỘ CỒN, FactStamp on 'Đó là thật'"
+  },
+  {
+   "id": "C17",
+   "size": "wide",
+   "key": 30,
+   "len": 57,
+   "first": 4565,
+   "line": "Cơ thể được làm mới mỗi sáng.",
+   "note": "06:00 reset framing: flash, clock ringing, Pip stretches, sparkles: body renewed"
+  },
+  {
+   "id": "C18",
+   "size": "medium",
+   "key": 60,
+   "len": 85,
+   "first": 4622,
+   "line": "Nhưng tâm trí bạn thì không bao giờ được nghỉ.",
+   "note": "CƠ THỂ 100% vs TÂM TRÍ draining, grey cloud settles over Pip's head"
+  },
+  {
+   "id": "C19",
+   "size": "wide",
+   "key": 30,
+   "len": 57,
+   "first": 4707,
+   "line": "Bạn còn nhận ra một điều kỳ lạ.",
+   "note": "Pip walking his street stops mid-step, looks round, focus rings: something is strange"
+  },
+  {
+   "id": "C20",
+   "size": "split",
+   "key": 40,
+   "len": 86,
+   "first": 4764,
+   "line": "Nếu bạn không đổi gì, cả ngày lặp lại y hệt.",
+   "note": "split screen NGÀY #7 = NGÀY #8: the same morning at the neighbour's, frame for frame"
+  },
+  {
+   "id": "C21",
+   "size": "medium",
+   "key": 34,
+   "len": 79,
+   "first": 4850,
+   "line": "Nhưng chỉ cần chào người hàng xóm sớm hơn một phút,",
+   "note": "Pip waves to the neighbour one minute early, she startles then waves back; FlipClock 07:15 -> 07:14"
+  },
+  {
+   "id": "C22",
+   "size": "schematic",
+   "key": 36,
+   "len": 49,
+   "first": 4929,
+   "line": "cả ngày đã rẽ sang hướng khác.",
+   "note": "the day forks: 07:15 grey branch (cat, pot, rain) vs 07:14 new lit branch (star, bike, heart)"
+  },
+  {
+   "id": "C23",
+   "size": "insert",
+   "key": 34,
+   "len": 53,
+   "first": 4978,
+   "line": "Năm một nghìn chín trăm bảy mươi hai,",
+   "note": "the calendar page rolls back again (C6's motif) and lands on 1972, isobars drifting behind"
+  },
+  {
+   "id": "C24",
+   "size": "wide",
+   "key": 70,
+   "len": 103,
+   "first": 5031,
+   "line": "nhà khí tượng học Edward Lorenz có một bài nói mang tên:",
+   "note": "lecture: speaker points at the Lorenz attractor drawing on the board, tag EDWARD LORENZ 1972"
+  },
+  {
+   "id": "C25",
+   "size": "close",
+   "key": 40,
+   "len": 76,
+   "first": 5134,
+   "line": "Liệu một cái vỗ cánh của con bướm ở Brazil",
+   "note": "map close on Brazil: a butterfly flapping, air swirls, label BRAZIL"
+  },
+  {
+   "id": "C26",
+   "size": "wide",
+   "key": 50,
+   "len": 66,
+   "first": 5210,
+   "line": "có gây ra cơn lốc xoáy ở Texas?",
+   "note": "whole Americas: cyan arc Brazil -> Texas, tornado spins up, label TEXAS"
+  },
+  {
+   "id": "C27",
+   "size": "low",
+   "key": 44,
+   "len": 63,
+   "first": 5276,
+   "line": "Người ta gọi đó là hiệu ứng cánh bướm.",
+   "note": "low angle rooftop dusk, butterfly passes Pip, TitleCard HIỆU ỨNG / CÁNH BƯỚM"
+  },
+  {
+   "id": "C28",
+   "size": "wide",
+   "key": 50,
+   "len": 62,
+   "first": 5339,
+   "line": "Và bạn đang sống trong nó.",
+   "note": "pull back from Pip in the street to a giant butterfly's wings opening behind him"
+  },
+  {
+   "id": "D1",
+   "size": "wide",
+   "key": 40,
+   "len": 69,
+   "first": 5401,
+   "line": "Có những ngày, bạn chẳng làm gì cả.",
+   "note": "Pip on his back in bed, duvet to chin, late morning, push-in"
+  },
+  {
+   "id": "D2",
+   "size": "medium",
+   "key": 30,
+   "len": 61,
+   "first": 5470,
+   "line": "Bạn nằm trên giường từ sáng tới đêm,",
+   "note": "time-lapse: sun patch slides, clock races 06:30 to 23:40, night falls"
+  },
+  {
+   "id": "D3",
+   "size": "close",
+   "key": 50,
+   "len": 96,
+   "first": 5531,
+   "line": "nghe chuông báo thức, nghe mẹ gọi, nghe Mo gõ cửa.",
+   "note": "profile close-up on the pillow: alarm, mum, door-knock badges pass him by"
+  },
+  {
+   "id": "D4",
+   "size": "medium",
+   "key": 40,
+   "len": 78,
+   "first": 5627,
+   "line": "Bạn mong rằng sáng mai, mọi thứ sẽ khác.",
+   "note": "night: eyes closing, thought bubble wishes THỨ NĂM"
+  },
+  {
+   "id": "D5",
+   "size": "insert",
+   "key": 38,
+   "len": 42,
+   "first": 5705,
+   "line": "Nhưng sáng mai, vẫn là",
+   "note": "THE RESET: ResetClock 23:59 to 06:00 THỨ TƯ + RewindWave"
+  },
+  {
+   "id": "D6",
+   "size": "close",
+   "key": 20,
+   "len": 43,
+   "first": 5747,
+   "line": "thứ Tư.",
+   "note": "calendar still THỨ TƯ, clock rings 06:00"
+  },
+  {
+   "id": "D7",
+   "size": "medium",
+   "key": 30,
+   "len": 44,
+   "first": 5790,
+   "line": "Thế là bạn bắt đầu thử.",
+   "note": "Pip sits up, slumped then determined fist, glint"
+  },
+  {
+   "id": "D8",
+   "size": "wide",
+   "key": 30,
+   "len": 58,
+   "first": 5834,
+   "line": "Bốn giờ chiều, khi trời đổ mưa,",
+   "note": "crossroads wide: flip clock 15:59 to 16:00, rain comes down on the dot"
+  },
+  {
+   "id": "D9",
+   "size": "medium",
+   "key": 26,
+   "len": 62,
+   "first": 5892,
+   "line": "có một bà cụ trượt chân ở ngã tư.",
+   "note": "the granny shuffles onto the zebra, slips, falls on the wet road"
+  },
+  {
+   "id": "D10",
+   "size": "medium",
+   "key": 30,
+   "len": 61,
+   "first": 5954,
+   "line": "Ngày đầu, bạn chỉ đứng nhìn.",
+   "note": "NGÀY #1: Pip frozen on the sidewalk, wide-eyed, granny down behind"
+  },
+  {
+   "id": "D11",
+   "size": "medium",
+   "key": 34,
+   "len": 57,
+   "first": 6015,
+   "line": "Ngày thứ năm, bạn đỡ được bà.",
+   "note": "day 5: Pip lunges in and catches her as she tips back"
+  },
+  {
+   "id": "D12",
+   "size": "medium",
+   "key": 56,
+   "len": 81,
+   "first": 6072,
+   "line": "Ngày thứ mười, bạn còn kịp che ô cho bà.",
+   "note": "day 10: holding her arm, the umbrella pops open over them, she smiles"
+  },
+  {
+   "id": "D13",
+   "size": "insert",
+   "key": 16,
+   "len": 33,
+   "first": 6153,
+   "line": "Nhưng sáng hôm sau,",
+   "note": "THE RESET: 06:00 alarm insert again + RewindWave, the hand slams it"
+  },
+  {
+   "id": "D14",
+   "size": "wide",
+   "key": 48,
+   "len": 76,
+   "first": 6186,
+   "line": "bà lại sắp ngã, và bạn lại phải chạy ra.",
+   "note": "crossroads: she teeters on the zebra again, Pip sprints in from the sidewalk"
+  },
+  {
+   "id": "D15",
+   "size": "insert",
+   "key": 84,
+   "len": 101,
+   "first": 6262,
+   "line": "Mỗi việc tốt bạn làm, chỉ sống được đúng một ngày.",
+   "note": "the good deed as a heart; 23:59 flips to 00:00, it dissolves in cyan"
+  },
+  {
+   "id": "D16",
+   "size": "wide",
+   "key": 30,
+   "len": 53,
+   "first": 6363,
+   "line": "Và rồi, đến điều khó nhất.",
+   "note": "rooftop at dusk: Pip and Mo at the parapet, Pip looks down, working up to it"
+  },
+  {
+   "id": "D17",
+   "size": "medium",
+   "key": 30,
+   "len": 52,
+   "first": 6416,
+   "line": "Bạn kể cho Mo nghe về vòng lặp.",
+   "note": "two-shot: Pip tells Mo, his bubble shows the loop icon and 06:00"
+  },
+  {
+   "id": "D18",
+   "size": "close",
+   "key": 24,
+   "len": 49,
+   "first": 6468,
+   "line": "Lần thứ nhất, Mo cười.",
+   "note": "LẦN #1: close-up, Mo throws his head back laughing"
+  },
+  {
+   "id": "D19",
+   "size": "ots",
+   "key": 40,
+   "len": 53,
+   "first": 6517,
+   "line": "Lần thứ mười, Mo tin.",
+   "note": "LẦN #10: over Pip's shoulder, Mo stunned, then reaches out: he believes"
+  },
+  {
+   "id": "D20",
+   "size": "medium",
+   "key": 70,
+   "len": 104,
+   "first": 6570,
+   "line": "Lần thứ năm mươi, bạn biết trước Mo sẽ nói gì, từng chữ.",
+   "note": "LẦN #50: same two-shot, both bubbles fill with the same words in sync"
+  },
+  {
+   "id": "D21",
+   "size": "high",
+   "key": 62,
+   "len": 86,
+   "first": 6674,
+   "line": "Bạn có những kỷ niệm với Mo, mà Mo không hề có.",
+   "note": "top-down photo album: Mo fades out of every photo, Pip stays"
+  },
+  {
+   "id": "D22",
+   "size": "insert",
+   "key": 50,
+   "len": 80,
+   "first": 6760,
+   "line": "Một nghiên cứu tổng hợp một trăm bốn mươi tám công trình,",
+   "note": "papers pile up, 148 counts up: NGHIÊN CỨU"
+  },
+  {
+   "id": "D23",
+   "size": "insert",
+   "key": 95,
+   "len": 120,
+   "first": 6840,
+   "line": "với hơn ba trăm nghìn người, cho thấy người có các mối quan hệ bền chặt có",
+   "note": "> 300.000 NGƯỜI: crowd of icons, links join them into groups"
+  },
+  {
+   "id": "D24",
+   "size": "insert",
+   "key": 90,
+   "len": 97,
+   "first": 6960,
+   "line": "khả năng sống sót cao hơn năm mươi phần trăm. Đó là thật.",
+   "note": "+50% KHẢ NĂNG SỐNG SÓT, heartbeat line, FactStamp on Đó là thật"
+  },
+  {
+   "id": "D25",
+   "size": "wide",
+   "key": 40,
+   "len": 69,
+   "first": 7057,
+   "line": "Con người cần được nhớ đến.",
+   "note": "Pip stands still in the street, a crowd walks past, nobody turns"
+  },
+  {
+   "id": "E1",
+   "size": "wide",
+   "key": 20,
+   "len": 74,
+   "first": 7126,
+   "line": "Một năm trôi qua. Rồi mười năm.",
+   "note": "same 06:00 room time-lapse, Pip flickers through routine, DayCounter races"
+  },
+  {
+   "id": "E2",
+   "size": "insert",
+   "key": 40,
+   "len": 86,
+   "first": 7200,
+   "line": "Bạn đã sống ba nghìn sáu trăm năm mươi ngày thứ Tư.",
+   "note": "wall of THỨ TƯ pages, 3.650 lands, NGÀY THỨ TƯ"
+  },
+  {
+   "id": "E3",
+   "size": "medium",
+   "key": 24,
+   "len": 56,
+   "first": 7286,
+   "line": "Cơ thể bạn vẫn như sáng hôm đó,",
+   "note": "split screen NGÀY #1 = NGÀY #3.650, same body stretching"
+  },
+  {
+   "id": "E4",
+   "size": "close",
+   "key": 44,
+   "len": 64,
+   "first": 7342,
+   "line": "nhưng đầu óc bạn đã già thêm mười tuổi.",
+   "note": "over the shoulder into the mirror: older tired eyes, MemoryGlow, +10 TUỔI"
+  },
+  {
+   "id": "E5",
+   "size": "medium",
+   "key": 34,
+   "len": 42,
+   "first": 7406,
+   "line": "Bạn nói được năm thứ tiếng,",
+   "note": "five greetings in five scripts pop round Pip, 5 THỨ TIẾNG"
+  },
+  {
+   "id": "E6",
+   "size": "insert",
+   "key": 20,
+   "len": 42,
+   "first": 7448,
+   "line": "chơi đàn như nghệ sĩ,",
+   "note": "keyboard huge, both hands flying, notes rising"
+  },
+  {
+   "id": "E7",
+   "size": "wide",
+   "key": 40,
+   "len": 48,
+   "first": 7490,
+   "line": "biết tên từng người trong khu phố,",
+   "note": "the street, name tags pop over every neighbour"
+  },
+  {
+   "id": "E8",
+   "size": "medium",
+   "key": 44,
+   "len": 63,
+   "first": 7538,
+   "line": "và biết họ sẽ làm gì vào từng phút.",
+   "note": "cyan future ghosts ahead of each neighbour with minute stamps"
+  },
+  {
+   "id": "E9",
+   "size": "low",
+   "key": 30,
+   "len": 59,
+   "first": 7601,
+   "line": "Bạn biết chính xác giây nào con mèo nhảy,",
+   "note": "chapter A balcony framing: Pip counts 3-2-1 in the foreground, the cat leaps on his snap"
+  },
+  {
+   "id": "E10",
+   "size": "medium",
+   "key": 24,
+   "len": 40,
+   "first": 7660,
+   "line": "giây nào chậu hoa rơi,",
+   "note": "chapter A sidewalk framing: the pot smashes, Pip stepped back without looking, smug"
+  },
+  {
+   "id": "E11",
+   "size": "wide",
+   "key": 40,
+   "len": 68,
+   "first": 7700,
+   "line": "và giây nào cơn mưa bắt đầu.",
+   "note": "16:00 flip on his snap, rain starts, umbrella opens"
+  },
+  {
+   "id": "E12",
+   "size": "medium",
+   "key": 40,
+   "len": 68,
+   "first": 7768,
+   "line": "Rồi một ngày, bạn quyết định làm khác.",
+   "note": "06:00 alarm, Pip switches it off gently, smiles and stretches"
+  },
+  {
+   "id": "E13",
+   "size": "insert",
+   "key": 44,
+   "len": 64,
+   "first": 7836,
+   "line": "Không xổ số, không thử thách.",
+   "note": "top-down: lottery ticket and dumbbell crossed out"
+  },
+  {
+   "id": "E14",
+   "size": "medium",
+   "key": 30,
+   "len": 49,
+   "first": 7900,
+   "line": "Bạn ăn sáng thật chậm cùng mẹ.",
+   "note": "slow breakfast with mum, steam"
+  },
+  {
+   "id": "E15",
+   "size": "medium",
+   "key": 62,
+   "len": 80,
+   "first": 7949,
+   "line": "Bạn nghe hết câu chuyện cười của Mo, và vẫn cười.",
+   "note": "chapter A sidewalk two-shot, the same joke bubble; Pip still bursts out laughing"
+  },
+  {
+   "id": "E16",
+   "size": "close",
+   "key": 30,
+   "len": 50,
+   "first": 8029,
+   "line": "Bạn che ô cho bà cụ.",
+   "note": "chapter D zebra close: Pip walks the granny across under the gold umbrella"
+  },
+  {
+   "id": "E17",
+   "size": "wide",
+   "key": 30,
+   "len": 51,
+   "first": 8079,
+   "line": "Rồi bạn ngồi nhìn hoàng hôn.",
+   "note": "Pip sits on the rooftop parapet at sunset"
+  },
+  {
+   "id": "E18",
+   "size": "close",
+   "key": 60,
+   "len": 98,
+   "first": 8130,
+   "line": "Một ngày bình thường, nhưng trọn vẹn.",
+   "note": "low close: Pip content in the sunset, slow push-in"
+  },
+  {
+   "id": "E19",
+   "size": "insert",
+   "key": 23,
+   "len": 59,
+   "first": 8228,
+   "line": "Nửa đêm. Sáu giờ sáng.",
+   "note": "midnight clock 00:00, the reset wave fizzles, flips forward to 06:00"
+  },
+  {
+   "id": "E20",
+   "size": "insert",
+   "key": 20,
+   "len": 34,
+   "first": 8287,
+   "line": "Chuông báo thức reo.",
+   "note": "alarm insert ringing 06:00"
+  },
+  {
+   "id": "E21",
+   "size": "insert",
+   "key": 72,
+   "len": 90,
+   "first": 8321,
+   "line": "Trên màn hình điện thoại hiện lên hai chữ. Thứ Năm.",
+   "note": "phone lock screen 06:00, THỨ NĂM pops"
+  },
+  {
+   "id": "E22",
+   "size": "close",
+   "key": 32,
+   "len": 46,
+   "first": 8411,
+   "line": "Và lần đầu tiên sau mười năm,",
+   "note": "hand tears the THỨ TƯ page, THỨ NĂM underneath"
+  },
+  {
+   "id": "E23",
+   "size": "medium",
+   "key": 60,
+   "len": 100,
+   "first": 8457,
+   "line": "bạn không biết hôm nay sẽ xảy ra chuyện gì.",
+   "note": "window opens on a new sky, birds; Pip wide-eyed smile"
+  },
+  {
+   "id": "E24",
+   "size": "wide",
+   "key": 50,
+   "len": 73,
+   "first": 8557,
+   "line": "Còn bạn, nếu phải sống lại một ngày mãi mãi,",
+   "note": "Pip turns to us, thought bubble: loop around THỨ TƯ"
+  },
+  {
+   "id": "E25",
+   "size": "wide",
+   "key": 30,
+   "len": 60,
+   "first": 8630,
+   "line": "bạn sẽ dùng nó để làm gì?",
+   "note": "question title pops"
+  },
+  {
+   "id": "E26",
+   "size": "wide",
+   "key": 100,
+   "len": 131,
+   "first": 8690,
+   "line": "Học một thứ tiếng, trúng số cho vui, hay sống thật chậm bên người mình thương?",
+   "note": "three choices pop on their words"
+  },
+  {
+   "id": "E27",
+   "size": "wide",
+   "key": 60,
+   "len": 118,
+   "first": 8821,
+   "line": "Viết ở phần bình luận nhé.",
+   "note": "comment line + bubble, Pip waves, holds to the end"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "len": 5,
+   "amp": 6,
+   "f": 84
+  },
+  {
+   "kind": "shake",
+   "len": 6,
+   "amp": 8,
+   "f": 533
+  },
+  {
+   "kind": "shake",
+   "len": 5,
+   "amp": 6,
+   "f": 1241
+  },
+  {
+   "kind": "flash",
+   "color": "#DFF8FF",
+   "o": 0.35,
+   "f": 1709
+  },
+  {
+   "kind": "flash",
+   "color": "#FFE27A",
+   "o": 0.45,
+   "f": 2483
+  },
+  {
+   "kind": "shake",
+   "len": 6,
+   "amp": 6,
+   "f": 1906
+  },
+  {
+   "kind": "shake",
+   "len": 6,
+   "amp": 5,
+   "f": 2632
+  },
+  {
+   "kind": "shake",
+   "len": 6,
+   "amp": 6,
+   "f": 4127
+  },
+  {
+   "kind": "shake",
+   "len": 6,
+   "amp": 6,
+   "f": 4537
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25,
+   "f": 5280
+  },
+  {
+   "kind": "flash",
+   "color": "#FFE9C8",
+   "o": 0.35,
+   "f": 8255
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.3,
+   "f": 8441
+  }
+ ],
+ "audio": {
+  "voice": "vong-lap-mot-ngay/voice.wav",
+  "sfx": "vong-lap-mot-ngay/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3918,
+  "music": "vong-lap-mot-ngay/music.wav",
+  "musicVol": 0.3918
+ }
+}

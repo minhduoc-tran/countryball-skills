@@ -1,0 +1,9 @@
+node_modules/
+out/
+.env
+.env.*
+.DS_Store
+__pycache__/
+*.pyc
+# generated audio stems (voice/sfx/music), 2 GB: rebuilt by tools/voice-lucylab.py, sfx.py, synth-score.py
+public/**/*.wav

@@ -1,0 +1,3697 @@
+{
+ "id": "ThousandPerSecond",
+ "slug": "nghin-dong-moi-giay",
+ "topic": "Sẽ ra sao nếu bạn kiếm được một nghìn đồng mỗi giây?",
+ "title": [
+  "SẼ RA SAO NẾU BẠN KIẾM ĐƯỢC",
+  "1.000 ĐỒNG MỖI GIÂY?"
+ ],
+ "accent": "1.000",
+ "power": {
+  "word": "ting: +1.000 đ",
+  "rule": "every second, 1.000 đồng lands in your bank account, forever, even asleep; legal and real",
+  "look": "a balance chip that counts up 1.000 đ every second, a ting on the first pings"
+ },
+ "script": [
+  {
+   "beat": "0 cold open, demo 1",
+   "text": "Hai mươi lăm giây. Một ổ bánh mì."
+  },
+  {
+   "beat": "0 cold open, demo 2",
+   "text": "Một giấc ngủ tám tiếng. Một chiếc xe máy mới."
+  },
+  {
+   "beat": "0 cold open, demo 3",
+   "text": "Một tháng. Một căn hộ nhỏ giữa thành phố."
+  },
+  {
+   "beat": "0 title",
+   "text": "Sẽ ra sao nếu bạn kiếm được một nghìn đồng mỗi giây?"
+  },
+  {
+   "beat": "1 morning: first ping",
+   "text": "Sáng nay, điện thoại bạn rung. Tin nhắn từ ngân hàng: cộng một nghìn đồng. Một giây sau, lại rung. Cộng một nghìn đồng nữa."
+  },
+  {
+   "beat": "1 rule",
+   "text": "Cứ mỗi giây, một nghìn đồng. Không bao giờ dừng. Kể cả khi bạn ăn, bạn tắm, hay bạn ngủ. Không ai biết tiền từ đâu ra, nhưng ngân hàng kiểm tra rồi: tất cả đều hợp lệ."
+  },
+  {
+   "beat": "1 rule: test",
+   "text": "Bạn thử rút tiền ở cây ATM: được. Bạn thử chuyển cho bạn thân năm trăm nghìn: vẫn được. Tiền thật. Và nó không ngừng chảy vào."
+  },
+  {
+   "beat": "1 phone explodes",
+   "text": "Đến trưa, điện thoại bạn đã rung hơn hai mươi nghìn lần. Bạn phải tắt thông báo, để còn ngủ được."
+  },
+  {
+   "beat": "2 math: scale",
+   "text": "Thử làm một phép tính nhé. Một phút: sáu mươi nghìn đồng. Một giờ: ba triệu sáu trăm nghìn. Một ngày: tám mươi sáu triệu bốn trăm nghìn đồng. Một năm: hơn ba mươi mốt tỷ."
+  },
+  {
+   "beat": "2 math: salary",
+   "text": "Năm hai nghìn không trăm hai mươi lăm, thu nhập bình quân của người lao động Việt Nam là tám triệu bốn trăm nghìn đồng một tháng. Còn bạn? Bạn kiếm số đó chỉ trong hơn hai tiếng. Đó là sự thật."
+  },
+  {
+   "beat": "2 math: trillion",
+   "text": "Muốn có một nghìn tỷ đồng? Bạn chỉ cần đợi. Ba mươi mốt năm, tám tháng, không nghỉ giây nào."
+  },
+  {
+   "beat": "3 fun: breakfast",
+   "text": "Ngày đầu tiên, bạn đi ăn sáng. Ổ bánh mì hai mươi lăm nghìn: hai mươi lăm giây. Bạn ăn chưa xong, tiền đã quay về."
+  },
+  {
+   "beat": "3 fun: class treat",
+   "text": "Bạn bao cả lớp đi ăn. Ba mươi người, mỗi người năm mươi nghìn: hai mươi lăm phút. Cả lớp gọi bạn là đại gia."
+  },
+  {
+   "beat": "3 fun: supermarket",
+   "text": "Bạn vào siêu thị, đẩy hai chiếc xe cùng lúc, và không cần nhìn giá."
+  },
+  {
+   "beat": "3 fun: travel",
+   "text": "Cuối tuần, bạn bay ra Đà Nẵng ngắm biển. Vé máy bay hai triệu: ba mươi ba phút. Khách sạn nhìn ra biển: ngủ một đêm là đủ trả."
+  },
+  {
+   "beat": "3 fun: family",
+   "text": "Bạn mua cho mẹ một chiếc máy giặt mới: chưa đầy ba tiếng. Tiền điện, tiền nhà, học phí của em gái: trả hết trong một buổi chiều."
+  },
+  {
+   "beat": "3 fun: donate",
+   "text": "Bạn ủng hộ một trăm triệu cho học sinh vùng cao, để các em có áo ấm mùa đông. Bạn chỉ mất hơn một ngày để kiếm lại."
+  },
+  {
+   "beat": "3 fun: sleep and car",
+   "text": "Mỗi tối đi ngủ, bạn biết sáng mai thức dậy sẽ giàu thêm hai mươi tám triệu. Một chiếc ô tô nhỏ, khoảng bốn trăm triệu? Chưa đến năm ngày."
+  },
+  {
+   "beat": "3 fun: dream",
+   "text": "Không phải đi làm. Không phải lo cuối tháng. Nghe như một giấc mơ, đúng không? Nhưng tiền nhiều quá, cũng có cái giá của nó."
+  },
+  {
+   "beat": "4 cost: tax",
+   "text": "Thứ nhất: thuế. Từ tháng bảy năm hai nghìn không trăm hai mươi sáu, phần thu nhập tính thuế trên một trăm triệu một tháng chịu mức thuế cao nhất: ba mươi lăm phần trăm. Bạn chạm mức đó chỉ sau hơn một ngày. Cứ mỗi nghìn đồng, ba trăm năm mươi đồng là tiền thuế."
+  },
+  {
+   "beat": "4 cost: attention",
+   "text": "Thứ hai: người ta bắt đầu để ý. Ngân hàng gọi. Rồi cơ quan thuế gọi. Rồi một người đàn ông mặc vest đến tận nhà, hỏi tiền của bạn từ đâu ra. Bạn không trả lời được."
+  },
+  {
+   "beat": "4 cost: friends",
+   "text": "Thứ ba: những người bạn mới. Tự nhiên ai cũng là bạn của bạn. Họ hàng xa bạn chưa từng gặp gọi điện hỏi thăm. Tin nhắn hỏi vay tiền nhiều hơn tin nhắn hỏi bạn có khỏe không."
+  },
+  {
+   "beat": "4 cost: friend Mo",
+   "text": "Cậu bạn thân rủ bạn đi đá bóng như mọi chiều. Nhưng giờ, cậu ấy không cho bạn trả tiền nước nữa. Cậu ấy ngại."
+  },
+  {
+   "beat": "4 cost: safety",
+   "text": "Thứ tư: an toàn. Bạn bắt đầu sợ ra đường một mình. Bạn lắp camera, thuê bảo vệ, đổi số điện thoại ba lần trong một tháng."
+  },
+  {
+   "beat": "4 science: lottery",
+   "text": "Năm một nghìn chín trăm bảy mươi tám, các nhà tâm lý học khảo sát những người vừa trúng xổ số. Kết quả: họ không hạnh phúc hơn người bình thường là bao. Và họ thấy những niềm vui nhỏ, như một bữa sáng ngon hay một câu chuyện với bạn bè, kém thú vị hơn trước."
+  },
+  {
+   "beat": "4 science: inflation",
+   "text": "Và có một điều may mắn: chỉ mình bạn có sức mạnh này. Vì nếu ai cũng kiếm được một nghìn đồng mỗi giây, thì một nghìn đồng sẽ chẳng còn giá trị. Giá ổ bánh mì sẽ tăng vọt, có khi lên đến hàng triệu. Các nhà kinh tế gọi đó là lạm phát: khi tiền tăng nhanh hơn hàng hóa, mỗi đồng tiền mua được ít đi."
+  },
+  {
+   "beat": "4 science: adaptation",
+   "text": "Các nhà khoa học gọi đó là sự thích nghi: thứ gì có mãi, rồi cũng thành bình thường. Ổ bánh mì không còn ngon như trước. Món quà không còn bất ngờ. Khi mọi thứ đều mua được, không còn gì đặc biệt."
+  },
+  {
+   "beat": "5 mom",
+   "text": "Rồi một tối, mẹ gọi điện. Mẹ không hỏi về tiền. Mẹ chỉ hỏi: dạo này con bận gì, mà không về ăn cơm với nhà?"
+  },
+  {
+   "beat": "5 time: seconds",
+   "text": "Lúc đó bạn mới nhận ra: tiền vào mỗi giây, nhưng một ngày của bạn vẫn chỉ có tám mươi sáu nghìn bốn trăm giây. Như tất cả mọi người."
+  },
+  {
+   "beat": "5 time: life",
+   "text": "Tuổi thọ trung bình của người Việt Nam là gần bảy mươi lăm năm. Tức là khoảng hai tỷ ba trăm triệu giây. Và mỗi giây trôi qua, dù bạn kiếm được bao nhiêu tiền, cũng không bao giờ quay lại."
+  },
+  {
+   "beat": "5 time: no one can",
+   "text": "Bạn có thể trả tiền để người khác xếp hàng, nấu ăn, lái xe cho bạn. Nhưng không ai ngủ thay bạn được. Không ai ốm thay bạn được. Và không ai lớn lên thay em gái bạn được."
+  },
+  {
+   "beat": "5 time: cannot buy",
+   "text": "Bạn có thể mua mọi thứ. Trừ một thứ: thời gian."
+  },
+  {
+   "beat": "6 choice",
+   "text": "Giờ hãy tưởng tượng: bạn được chọn. Một nghìn đồng mỗi giây, mãi mãi. Hoặc thêm một giờ mỗi ngày, với những người bạn thương. Bạn chọn gì?"
+  },
+  {
+   "beat": "7 ending: dinner",
+   "text": "Tối hôm đó, bạn về nhà. Bạn úp điện thoại xuống bàn. Tiền vẫn chạy, từng giây, từng giây. Nhưng lần đầu tiên sau nhiều tuần, bạn ngồi ăn cơm với mẹ và em gái, và không đếm thời gian. Em gái kể chuyện ở trường. Mẹ gắp cho bạn miếng cá. Bữa cơm đó không tốn một đồng nào, nhưng là bữa ngon nhất trong tháng."
+  },
+  {
+   "beat": "7 ending: meta",
+   "text": "À, còn một điều. Nếu bạn có sức mạnh này, thì chỉ riêng thời gian xem video này thôi, bạn đã kiếm được khoảng ba trăm nghìn đồng."
+  },
+  {
+   "beat": "7 call to comments",
+   "text": "Còn bạn, nếu kiếm được một nghìn đồng mỗi giây, việc đầu tiên bạn sẽ làm là gì? Và nếu phải chọn, bạn chọn tiền, hay chọn thời gian? Bình luận cho mình biết nhé."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Một phút 60.000 đ; một giờ 3.600.000 đ; một ngày 86.400.000 đ; một năm hơn 31 tỷ.",
+   "working": "1.000 đ x 60 = 60.000; x 3.600 = 3.600.000; x 86.400 = 86.400.000; x 31.536.000 s (365 ngày) = 31.536.000.000.",
+   "source": "arithmetic"
+  },
+  {
+   "claim": "Thu nhập bình quân của người lao động Việt Nam năm 2025 là 8,4 triệu đồng/tháng; bạn kiếm trong hơn 2 tiếng.",
+   "working": "8.400.000 / 1.000 = 8.400 s = 2 giờ 20 phút.",
+   "source": "Cục Thống kê (NSO), Thông cáo báo chí tình hình dân số, lao động, việc làm quý IV và năm 2025 (1/2026)"
+  },
+  {
+   "claim": "Một nghìn tỷ đồng cần 31 năm 8 tháng.",
+   "working": "1e12 / 1.000 = 1e9 s; 1e9 / 31.557.600 s/năm = 31,69 năm = 31 năm 8,3 tháng.",
+   "source": "arithmetic"
+  },
+  {
+   "claim": "Bánh mì 25.000 đ = 25 s; bao 30 người x 50.000 đ = 25 phút; vé máy bay 2 triệu = 33 phút; máy giặt ~10 triệu < 3 tiếng; ngủ 8 tiếng = 28,8 triệu; ô tô nhỏ ~400 triệu < 5 ngày; căn hộ nhỏ ~2,5 tỷ ~ 1 tháng (2,592 tỷ/30 ngày); ủng hộ 100 triệu = hơn 1 ngày.",
+   "working": "price / 1.000 đ/s: 25 s; 1.500 s; 2.000 s = 33,3 phút; 10.000 s = 2,78 h; 28.800 s x 1.000 = 28,8 triệu; 400.000 s = 4,63 ngày; 2.592.000 s = 30 ngày; 100.000 s = 27,8 h. Prices are illustrative typical prices, stated as 'khoảng' where approximate.",
+   "source": "arithmetic; typical Vietnamese retail prices (illustrative)"
+  },
+  {
+   "claim": "Từ 1/7/2026, phần thu nhập tính thuế trên 100 triệu/tháng chịu thuế suất cao nhất 35%; bạn chạm mức đó sau hơn 1 ngày.",
+   "working": "Luật Thuế TNCN 2025 (Quốc hội thông qua 10/12/2025, hiệu lực 1/7/2026): biểu lũy tiến 5 bậc, bậc 5 > 100 triệu/tháng: 35%. 100.000.000 / 1.000 = 100.000 s = 27,8 h. 35% of each 1.000 đ at the top bracket = 350 đ.",
+   "source": "Luật Thuế thu nhập cá nhân 2025; Thư Viện Pháp Luật, 'Biểu thuế TNCN lũy tiến 2026 (5 bậc)'"
+  },
+  {
+   "claim": "Năm 1978, người trúng xổ số không hạnh phúc hơn người bình thường là bao, và thấy niềm vui nhỏ (bữa sáng, trò chuyện với bạn bè) kém thú vị hơn.",
+   "working": "Brickman, Coates & Janoff-Bulman (1978) surveyed 22 major lottery winners vs controls: winners were not significantly happier and rated mundane pleasures (talking with a friend, eating breakfast, a compliment...) as less pleasurable.",
+   "source": "Brickman P., Coates D., Janoff-Bulman R., 'Lottery winners and accident victims: Is happiness relative?', J. Personality and Social Psychology 36(8), 1978"
+  },
+  {
+   "claim": "Lạm phát: khi tiền tăng nhanh hơn hàng hóa, mỗi đồng tiền mua được ít đi.",
+   "working": "Quantity theory of money (MV = PY): if money supply grows faster than output, the price level rises. 'Có khi lên đến hàng triệu' is a hypothetical illustration, framed with 'có khi'.",
+   "source": "standard macroeconomics (quantity theory of money)"
+  },
+  {
+   "claim": "Một ngày có 86.400 giây; tuổi thọ trung bình người Việt Nam gần 75 năm, khoảng 2,3 tỷ giây.",
+   "working": "24 x 3.600 = 86.400. NSO 2025: tuổi thọ trung bình 74,7 năm; 74,7 x 31.557.600 = 2.357.000.000 s.",
+   "source": "Cục Thống kê, Thông cáo báo chí quý IV và năm 2025"
+  },
+  {
+   "claim": "Chỉ riêng thời gian xem video, bạn đã kiếm khoảng 300.000 đ.",
+   "working": "The line plays at about 290-300 s into the video: 290-300 s x 1.000 đ. Re-check after the voice (lead checks the timestamp).",
+   "source": "arithmetic"
+  }
+ ],
+ "cast": [
+  "pipHood",
+  "mo",
+  "sis",
+  "mom",
+  "suit"
+ ],
+ "voice": {
+  "provider": "lucylab",
+  "userVoiceId": "u4ZCcxDX4FJScdJ97iN8pr",
+  "speed": 0.9
+ },
+ "gaps": {
+  "word": 0.12,
+  "comma": 0.3,
+  "sentence": 0.55,
+  "question": 0.75
+ },
+ "holds": {
+  "giây|Sáng": 1.0,
+  "được|Thử": 0.9,
+  "nó|Thứ": 1.0,
+  "biệt|Rồi": 1.0,
+  "gian|Giờ": 1.0,
+  "gì|Tối": 1.0,
+  "tháng|À": 0.9,
+  "đồng|Còn": 0.9,
+  "nào|Ngày": 0.9
+ },
+ "tail": 3.0,
+ "sound": {
+  "clips": {
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+    0.7
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "shatter": [
+    "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
+    1.3
+   ],
+   "rewind": [
+    "a VHS tape rewinding fast, high whirring tape squeal with mechanical hum",
+    1.6
+   ],
+   "catch": [
+    "a hand catching a ceramic mug mid-air, soft slap and thud",
+    0.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "cat_yowl": [
+    "an angry cat yowl and hiss, short and startled",
+    0.9
+   ],
+   "tumble": [
+    "a cartoon character tumbling down wooden stairs, a quick series of bumps and thuds",
+    1.3
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "dizzy": [
+    "cartoon dizzy birds tweeting in a circle after a bonk",
+    1.4
+   ],
+   "big_step": [
+    "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+    0.7
+   ],
+   "cat_chirp": [
+    "a cat making a short curious chirp meow",
+    0.6
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "shades": [
+    "cool sunglasses sliding on with a swoosh and a bright metallic glint",
+    0.9
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "clock_back": [
+    "a clock ticking very fast then spinning backwards, mechanical ratchet whirr",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "crack": [
+    "glass cracking sharply, the crack spreading across a pane",
+    1.1
+   ],
+   "bulb_pop": [
+    "a small light bulb popping out, a tiny glass tink and fizz",
+    0.5
+   ],
+   "rewind_start": [
+    "a quick reverse swoosh, like a sound being sucked backwards",
+    0.7
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "class_murmur": [
+    "a quiet classroom murmur, kids whispering, chairs shuffling",
+    2.0
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "copy_click": [
+    "a crisp satisfying computer copy click with a tiny soft digital chime, short",
+    0.5
+   ],
+   "paste_pop": [
+    "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+    0.7
+   ],
+   "paper_land": [
+    "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+    0.7
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "cookie_crunch": [
+    "one crunchy bite into a chocolate chip cookie, close up",
+    0.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "power_hum": [
+    "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+    3.0
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "phone_ring": [
+    "synth: a modern phone ringback tone, two soft electronic burrs (generated locally with numpy)",
+    1.2
+   ],
+   "ting": [
+    "synth: bank app notification chime, two bright bell notes (generated locally with numpy)",
+    0.5
+   ],
+   "score": [
+    "synth: nghin-dong-moi-giay score, tools/synth-score.py",
+    304.77
+   ]
+  },
+  "events": [
+   [
+    "A1",
+    "roof_wind",
+    0.1,
+    "onset",
+    "A3"
+   ],
+   [
+    "A3",
+    "room_tone",
+    0.1,
+    "onset",
+    "A4"
+   ],
+   [
+    "A4",
+    "roof_wind",
+    0.1,
+    "onset",
+    "A5"
+   ],
+   [
+    "A5",
+    "room_tone",
+    0.08,
+    "onset",
+    "A6"
+   ],
+   [
+    "A6",
+    "roof_wind",
+    0.1,
+    "onset",
+    "A8"
+   ],
+   [
+    "A8",
+    "room_tone",
+    0.1,
+    "onset",
+    "A20"
+   ],
+   [
+    "A20",
+    "roof_wind",
+    0.1,
+    "onset",
+    "A22"
+   ],
+   [
+    "A22",
+    "room_tone",
+    0.08,
+    "onset",
+    "A23"
+   ],
+   [
+    "A23",
+    "roof_wind",
+    0.1,
+    "onset",
+    "A24"
+   ],
+   [
+    "A24",
+    "room_tone",
+    0.1,
+    "onset",
+    "A26"
+   ],
+   [
+    "A26",
+    "room_tone",
+    0.08
+   ],
+   [
+    "A2+22",
+    "cookie_crunch",
+    0.2
+   ],
+   [
+    "A3+44",
+    "paste_pop",
+    0.2
+   ],
+   [
+    "A4+8",
+    "sparkle",
+    0.12
+   ],
+   [
+    "A5+8",
+    "clink",
+    0.14
+   ],
+   [
+    "A7+12",
+    "title_boom",
+    0.14
+   ],
+   [
+    "A9+34",
+    "ting",
+    0.2
+   ],
+   [
+    "A11+50",
+    "ting",
+    0.2
+   ],
+   [
+    "A19+31",
+    "ding",
+    0.14
+   ],
+   [
+    "A21+22",
+    "gasp",
+    0.14
+   ],
+   [
+    "A23+8",
+    "pop",
+    0.12
+   ],
+   [
+    "A27+17",
+    "switch_off",
+    0.16
+   ],
+   [
+    "A28+14",
+    "land",
+    0.12
+   ],
+   [
+    "B2+18",
+    "counter_tick",
+    0.1,
+    "onset",
+    "B3"
+   ],
+   [
+    "B2+41",
+    "ding",
+    0.16
+   ],
+   [
+    "B3+26",
+    "counter_tick",
+    0.1,
+    "onset",
+    "B4"
+   ],
+   [
+    "B3+57",
+    "ding",
+    0.16
+   ],
+   [
+    "B4+16",
+    "counter_tick",
+    0.1,
+    "onset",
+    "B5"
+   ],
+   [
+    "B5+2",
+    "ding",
+    0.18
+   ],
+   [
+    "B5+4",
+    "paste_pop",
+    0.08
+   ],
+   [
+    "B6+22",
+    "counter_tick",
+    0.1,
+    "onset",
+    "B7"
+   ],
+   [
+    "B6+50",
+    "ding",
+    0.22
+   ],
+   [
+    "B6+52",
+    "sparkle",
+    0.12
+   ],
+   [
+    "B8+4",
+    "select_draw",
+    0.08
+   ],
+   [
+    "B9+8",
+    "counter_tick",
+    0.1,
+    "onset",
+    "B10"
+   ],
+   [
+    "B9+50",
+    "ding",
+    0.16
+   ],
+   [
+    "B10+8",
+    "pop",
+    0.14
+   ],
+   [
+    "B11+6",
+    "counter_tick",
+    0.1,
+    "onset",
+    "B12"
+   ],
+   [
+    "B11+56",
+    "ding",
+    0.18
+   ],
+   [
+    "B12+2",
+    "gasp",
+    0.16
+   ],
+   [
+    "B13+12",
+    "ding",
+    0.2
+   ],
+   [
+    "B13+14",
+    "sparkle",
+    0.12
+   ],
+   [
+    "B14",
+    "counter_tick",
+    0.08,
+    "onset",
+    "B15"
+   ],
+   [
+    "B15",
+    "counter_tick",
+    0.08,
+    "onset",
+    "B16"
+   ],
+   [
+    "B15+2",
+    "roof_wind",
+    0.06,
+    "onset",
+    "B16"
+   ],
+   [
+    "B16",
+    "room_tone",
+    0.1,
+    "onset",
+    "B17"
+   ],
+   [
+    "B17+4",
+    "paste_pop",
+    0.12
+   ],
+   [
+    "B17+12",
+    "paste_pop",
+    0.12
+   ],
+   [
+    "B17+20",
+    "paste_pop",
+    0.12
+   ],
+   [
+    "B17+28",
+    "paste_pop",
+    0.12
+   ],
+   [
+    "B18+18",
+    "ting",
+    0.2
+   ],
+   [
+    "B18+19",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B19+4",
+    "cookie_crunch",
+    0.22
+   ],
+   [
+    "B19+16",
+    "cookie_crunch",
+    0.22
+   ],
+   [
+    "B20",
+    "counter_tick",
+    0.1,
+    "onset",
+    "B21"
+   ],
+   [
+    "B20+6",
+    "ting",
+    0.1
+   ],
+   [
+    "B21",
+    "class_murmur",
+    0.1,
+    "onset",
+    "B25"
+   ],
+   [
+    "B21+8",
+    "laugh",
+    0.08
+   ],
+   [
+    "B22+10",
+    "clink",
+    0.12
+   ],
+   [
+    "B22+16",
+    "laugh",
+    0.07
+   ],
+   [
+    "B23+2",
+    "paper_land",
+    0.14
+   ],
+   [
+    "B23+14",
+    "land",
+    0.2
+   ],
+   [
+    "B23+19",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B24+6",
+    "laugh",
+    0.12
+   ],
+   [
+    "B24+22",
+    "shades",
+    0.2
+   ],
+   [
+    "B24+14",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B25",
+    "room_tone",
+    0.1,
+    "onset",
+    "B27"
+   ],
+   [
+    "B27",
+    "power_hum",
+    0.07,
+    "onset",
+    "B28"
+   ],
+   [
+    "B27+14",
+    "pop",
+    0.08
+   ],
+   [
+    "B28",
+    "roof_wind",
+    0.14,
+    "onset",
+    "B29"
+   ],
+   [
+    "B28+14",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B29+8",
+    "paper_land",
+    0.12
+   ],
+   [
+    "B29+40",
+    "ting",
+    0.18
+   ],
+   [
+    "B29+41",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B30",
+    "room_tone",
+    0.08,
+    "onset",
+    "B31"
+   ],
+   [
+    "B30+10",
+    "roof_wind",
+    0.06,
+    "onset",
+    "B31"
+   ],
+   [
+    "B31",
+    "room_tone",
+    0.08
+   ],
+   [
+    "B31+10",
+    "ting",
+    0.07
+   ],
+   [
+    "B31+40",
+    "ting",
+    0.07
+   ],
+   [
+    "C1",
+    "room_tone",
+    0.08,
+    "onset",
+    "C5"
+   ],
+   [
+    "C6",
+    "roof_wind",
+    0.08,
+    "onset",
+    "C9"
+   ],
+   [
+    "C9",
+    "room_tone",
+    0.08,
+    "onset",
+    "C11"
+   ],
+   [
+    "C11",
+    "room_tone",
+    0.06,
+    "onset",
+    "C13"
+   ],
+   [
+    "C14",
+    "roof_wind",
+    0.1,
+    "onset",
+    "C18"
+   ],
+   [
+    "C18",
+    "power_hum",
+    0.06,
+    "onset",
+    "C24"
+   ],
+   [
+    "C27",
+    "room_tone",
+    0.08,
+    "onset",
+    "C30"
+   ],
+   [
+    "C31",
+    "room_tone",
+    0.06,
+    "onset",
+    "C33"
+   ],
+   [
+    "C1+8",
+    "paste_pop",
+    0.2
+   ],
+   [
+    "C1+14",
+    "sparkle",
+    0.15
+   ],
+   [
+    "C2+4",
+    "pop",
+    0.14
+   ],
+   [
+    "C3+6",
+    "ding",
+    0.16
+   ],
+   [
+    "C3+19",
+    "ding",
+    0.16
+   ],
+   [
+    "C3+43",
+    "ding",
+    0.18
+   ],
+   [
+    "C4+4",
+    "sparkle",
+    0.14
+   ],
+   [
+    "C4+6",
+    "laugh",
+    0.08
+   ],
+   [
+    "C5+13",
+    "ding",
+    0.2
+   ],
+   [
+    "C5+16",
+    "ting",
+    0.12
+   ],
+   [
+    "C7+5",
+    "paste_pop",
+    0.16
+   ],
+   [
+    "C7+8",
+    "sparkle",
+    0.14
+   ],
+   [
+    "C7+22",
+    "laugh",
+    0.1
+   ],
+   [
+    "C8+58",
+    "ding",
+    0.14
+   ],
+   [
+    "C9+40",
+    "ting",
+    0.1
+   ],
+   [
+    "C10+10",
+    "ding",
+    0.16
+   ],
+   [
+    "C10+12",
+    "ting",
+    0.14
+   ],
+   [
+    "C10+14",
+    "sparkle",
+    0.12
+   ],
+   [
+    "C11+4",
+    "paste_pop",
+    0.16
+   ],
+   [
+    "C11+18",
+    "sparkle",
+    0.14
+   ],
+   [
+    "C13+8",
+    "select_draw",
+    0.15
+   ],
+   [
+    "C13+13",
+    "copy_click",
+    0.2
+   ],
+   [
+    "C15+10",
+    "sparkle",
+    0.08
+   ],
+   [
+    "C17+1",
+    "glitch",
+    0.1
+   ],
+   [
+    "C17+22",
+    "drone_hit",
+    0.2
+   ],
+   [
+    "C17+22",
+    "glitch",
+    0.14
+   ],
+   [
+    "C18+0",
+    "paste_pop",
+    0.1
+   ],
+   [
+    "C24+0",
+    "paste_pop",
+    0.1
+   ],
+   [
+    "C30+0",
+    "paste_pop",
+    0.1
+   ],
+   [
+    "C20+10",
+    "ding",
+    0.12
+   ],
+   [
+    "C20+14",
+    "sparkle",
+    0.14
+   ],
+   [
+    "C21+1",
+    "drone_hit",
+    0.14
+   ],
+   [
+    "C22+58",
+    "ding",
+    0.14
+   ],
+   [
+    "C23+30",
+    "crack",
+    0.14
+   ],
+   [
+    "C23+32",
+    "pop",
+    0.12
+   ],
+   [
+    "C28+8",
+    "paper_land",
+    0.12
+   ],
+   [
+    "C29+30",
+    "gulp",
+    0.2
+   ],
+   [
+    "C31+10",
+    "ting",
+    0.1
+   ],
+   [
+    "C33+36",
+    "pop",
+    0.1
+   ],
+   [
+    "D1",
+    "roof_wind",
+    0.06,
+    "onset",
+    "D4"
+   ],
+   [
+    "D1+12",
+    "land",
+    0.1
+   ],
+   [
+    "D1+36",
+    "step",
+    0.1
+   ],
+   [
+    "D1+54",
+    "land",
+    0.1
+   ],
+   [
+    "D2+32",
+    "clink",
+    0.12
+   ],
+   [
+    "D4+2",
+    "ding",
+    0.1
+   ],
+   [
+    "D5",
+    "room_tone",
+    0.08,
+    "onset",
+    "D6"
+   ],
+   [
+    "D6+3",
+    "select_draw",
+    0.1
+   ],
+   [
+    "D6+10",
+    "select_draw",
+    0.1
+   ],
+   [
+    "D6+17",
+    "select_draw",
+    0.1
+   ],
+   [
+    "D6+24",
+    "select_draw",
+    0.1
+   ],
+   [
+    "D6+46",
+    "big_step",
+    0.12
+   ],
+   [
+    "D7+8",
+    "copy_click",
+    0.1
+   ],
+   [
+    "D7+25",
+    "copy_click",
+    0.1
+   ],
+   [
+    "D7+42",
+    "copy_click",
+    0.1
+   ],
+   [
+    "D8+8",
+    "sparkle",
+    0.08
+   ],
+   [
+    "D10+46",
+    "ding",
+    0.08
+   ],
+   [
+    "D13+49",
+    "pop",
+    0.08
+   ],
+   [
+    "D17+2",
+    "drone_hit",
+    0.07
+   ],
+   [
+    "D19",
+    "power_hum",
+    0.07,
+    "onset",
+    "D24"
+   ],
+   [
+    "D22+16",
+    "paper_land",
+    0.08
+   ],
+   [
+    "D24+2",
+    "phone_ring",
+    0.07,
+    "onset",
+    "D25"
+   ],
+   [
+    "D25",
+    "room_tone",
+    0.08
+   ],
+   [
+    "E1+8",
+    "gasp",
+    0.1
+   ],
+   [
+    "E2",
+    "room_tone",
+    0.06,
+    "onset",
+    "E7"
+   ],
+   [
+    "E7+14",
+    "paper_land",
+    0.1
+   ],
+   [
+    "E10",
+    "room_tone",
+    0.08,
+    "onset",
+    "E12"
+   ],
+   [
+    "E12+34",
+    "select_draw",
+    0.1
+   ],
+   [
+    "E13+46",
+    "paper_land",
+    0.1
+   ],
+   [
+    "E18+16",
+    "step",
+    0.12
+   ],
+   [
+    "E19+30",
+    "ding",
+    0.1
+   ],
+   [
+    "E21",
+    "room_tone",
+    0.12,
+    "onset",
+    "E26"
+   ],
+   [
+    "E21+36",
+    "clink",
+    0.1
+   ],
+   [
+    "E21+90",
+    "clink",
+    0.08
+   ],
+   [
+    "E23+32",
+    "clink",
+    0.12
+   ],
+   [
+    "E24+30",
+    "clink",
+    0.08
+   ],
+   [
+    "E25+14",
+    "ting",
+    0.1
+   ],
+   [
+    "E26+120",
+    "sparkle",
+    0.1
+   ]
+  ],
+  "repeats": [
+   {
+    "at": "A26+2",
+    "clip": "ting",
+    "n": 16,
+    "every": 3,
+    "gain": [
+     0.05,
+     0.09
+    ],
+    "pitch": [
+     1.1,
+     1.7
+    ]
+   },
+   {
+    "at": "B16+4",
+    "clip": "step",
+    "n": 6,
+    "every": 9,
+    "gain": [
+     0.05,
+     0.07
+    ],
+    "pitch": [
+     0.95,
+     1.1
+    ]
+   },
+   {
+    "at": "B25+4",
+    "clip": "paste_pop",
+    "n": 14,
+    "every": 4,
+    "gain": [
+     0.05,
+     0.09
+    ],
+    "pitch": [
+     0.9,
+     1.3
+    ]
+   },
+   {
+    "at": "B25+2",
+    "clip": "step",
+    "n": 6,
+    "every": 12,
+    "gain": [
+     0.05,
+     0.07
+    ],
+    "pitch": [
+     0.9,
+     1.0
+    ]
+   },
+   {
+    "at": "B26+2",
+    "clip": "step",
+    "n": 4,
+    "every": 9,
+    "gain": [
+     0.05,
+     0.07
+    ],
+    "pitch": [
+     0.95,
+     1.05
+    ]
+   },
+   {
+    "at": "B30+2",
+    "clip": "step",
+    "n": 3,
+    "every": 12,
+    "gain": [
+     0.05,
+     0.06
+    ],
+    "pitch": [
+     0.9,
+     1.0
+    ]
+   },
+   {
+    "at": "C8+2",
+    "clip": "counter_tick",
+    "n": 10,
+    "every": 5,
+    "gain": [
+     0.06,
+     0.1
+    ],
+    "pitch": [
+     0.95,
+     1.05
+    ]
+   },
+   {
+    "at": "C9+4",
+    "clip": "counter_tick",
+    "n": 12,
+    "every": 5,
+    "gain": [
+     0.05,
+     0.08
+    ],
+    "pitch": [
+     0.95,
+     1.05
+    ]
+   },
+   {
+    "at": "C12+8",
+    "clip": "ding",
+    "n": 4,
+    "every": 5,
+    "gain": [
+     0.1,
+     0.14
+    ],
+    "pitch": [
+     0.95,
+     1.15
+    ]
+   },
+   {
+    "at": "C19+4",
+    "clip": "counter_tick",
+    "n": 5,
+    "every": 6,
+    "gain": [
+     0.06,
+     0.09
+    ],
+    "pitch": [
+     0.95,
+     1.05
+    ]
+   },
+   {
+    "at": "C22+2",
+    "clip": "counter_tick",
+    "n": 14,
+    "every": 3,
+    "gain": [
+     0.05,
+     0.08
+    ],
+    "pitch": [
+     0.95,
+     1.05
+    ]
+   },
+   {
+    "at": "C25",
+    "clip": "phone_ring",
+    "n": 2,
+    "every": 14,
+    "gain": [
+     0.07,
+     0.08
+    ],
+    "pitch": [
+     1,
+     1
+    ]
+   },
+   {
+    "at": "C26",
+    "clip": "phone_ring",
+    "n": 2,
+    "every": 14,
+    "gain": [
+     0.07,
+     0.08
+    ],
+    "pitch": [
+     1,
+     1
+    ]
+   },
+   {
+    "at": "C27+2",
+    "clip": "step",
+    "n": 14,
+    "every": 6,
+    "gain": [
+     0.06,
+     0.1
+    ],
+    "pitch": [
+     0.9,
+     1.1
+    ]
+   },
+   {
+    "at": "C31+6",
+    "clip": "pop",
+    "n": 9,
+    "every": 5,
+    "gain": [
+     0.05,
+     0.08
+    ],
+    "pitch": [
+     0.9,
+     1.3
+    ]
+   },
+   {
+    "at": "C32+4",
+    "clip": "phone_ring",
+    "n": 6,
+    "every": 11,
+    "gain": [
+     0.05,
+     0.08
+    ],
+    "pitch": [
+     0.95,
+     1.1
+    ]
+   },
+   {
+    "at": "C33+8",
+    "clip": "counter_tick",
+    "n": 8,
+    "every": 3,
+    "gain": [
+     0.06,
+     0.09
+    ],
+    "pitch": [
+     0.95,
+     1.05
+    ]
+   },
+   {
+    "at": "D14+4",
+    "clip": "pop",
+    "n": 8,
+    "every": 4,
+    "gain": [
+     0.03,
+     0.05
+    ],
+    "pitch": [
+     0.9,
+     1.3
+    ]
+   },
+   {
+    "at": "D16+14",
+    "clip": "counter_tick",
+    "n": 20,
+    "every": 3,
+    "gain": [
+     0.03,
+     0.05
+    ]
+   },
+   {
+    "at": "D18+2",
+    "clip": "counter_tick",
+    "n": 12,
+    "every": 6,
+    "gain": [
+     0.03,
+     0.05
+    ]
+   },
+   {
+    "at": "E26+20",
+    "clip": "counter_tick",
+    "n": 18,
+    "every": 6,
+    "gain": [
+     0.04,
+     0.07
+    ],
+    "pitch": [
+     0.95,
+     1.05
+    ]
+   }
+  ],
+  "music": {
+   "clip": "score"
+  },
+  "levels": {
+   "sfx_lu": -9.5,
+   "music_lu": -14
+  },
+  "score": [
+   {
+    "kind": "loop",
+    "from": "0 cold open, demo 1",
+    "to": "1 morning: first ping",
+    "to_off": -0.3,
+    "gain": 0.55
+   },
+   {
+    "kind": "pluck",
+    "from": "1 morning: first ping",
+    "to": "2 math: scale",
+    "chords": [
+     "C",
+     "Am",
+     "F",
+     "G"
+    ],
+    "bpm": 104,
+    "gain": 0.286
+   },
+   {
+    "kind": "pad",
+    "from": "2 math: scale",
+    "to": "3 fun: breakfast",
+    "chords": [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    "every": 4,
+    "gain": 0.1
+   },
+   {
+    "kind": "pluck",
+    "from": "2 math: scale",
+    "to": "3 fun: breakfast",
+    "to_off": -0.4,
+    "chords": [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    "bpm": 112,
+    "gain": 0.26
+   },
+   {
+    "kind": "loop",
+    "from": "3 fun: breakfast",
+    "to": "4 cost: tax",
+    "to_off": -0.5,
+    "gain": 0.58
+   },
+   {
+    "kind": "drone",
+    "from": "4 cost: tax",
+    "from_off": -0.4,
+    "to": "4 cost: safety",
+    "gain": 0.1
+   },
+   {
+    "kind": "pluck",
+    "from": "4 cost: tax",
+    "to": "4 cost: safety",
+    "chords": [
+     "Am",
+     "Dm",
+     "E",
+     "Am"
+    ],
+    "bpm": 92,
+    "gain": 0.208
+   },
+   {
+    "kind": "heartbeat",
+    "from": "4 cost: safety",
+    "to": "4 science: lottery",
+    "gain": 0.2
+   },
+   {
+    "kind": "pad",
+    "from": "4 cost: safety",
+    "to": "5 mom",
+    "chords": [
+     "Am",
+     "F",
+     "Dm",
+     "E"
+    ],
+    "every": 5,
+    "gain": 0.12
+   },
+   {
+    "kind": "bells",
+    "from": "4 science: adaptation",
+    "to": "5 mom",
+    "notes": [
+     76,
+     null,
+     null,
+     74,
+     null,
+     null,
+     72,
+     null,
+     null,
+     null
+    ],
+    "step": 0.8,
+    "gain": 0.04
+   },
+   {
+    "kind": "pad",
+    "from": "5 mom",
+    "to": "END",
+    "chords": [
+     "F",
+     "C",
+     "G",
+     "Am",
+     "F",
+     "C",
+     "Dm",
+     "G"
+    ],
+    "every": 5,
+    "gain": 0.14
+   },
+   {
+    "kind": "bells",
+    "from": "5 mom",
+    "from_off": 3,
+    "to": "7 ending: dinner",
+    "notes": [
+     72,
+     76,
+     79,
+     77,
+     76,
+     74,
+     72,
+     null,
+     67,
+     69,
+     72,
+     74,
+     76,
+     null,
+     74,
+     72
+    ],
+    "step": 0.62,
+    "gain": 0.06,
+    "decay": 1.4
+   },
+   {
+    "kind": "bells",
+    "from": "7 ending: dinner",
+    "to": "END",
+    "to_off": -4,
+    "notes": [
+     72,
+     76,
+     79,
+     84,
+     79,
+     76,
+     72,
+     null,
+     74,
+     77,
+     81,
+     null,
+     79,
+     76,
+     72,
+     null
+    ],
+    "step": 0.5,
+    "gain": 0.06,
+    "decay": 1.6
+   }
+  ]
+ },
+ "shots": [
+  {
+   "id": "A1",
+   "file": "shots-cha-cold-open-and-title",
+   "size": "wide",
+   "set": "street",
+   "key": 20,
+   "note": "banh mi cart, Pip takes a loaf, tag 25 giay"
+  },
+  {
+   "id": "A2",
+   "file": "shots-cha-cold-open-and-title",
+   "size": "insert",
+   "set": "street",
+   "key": 28,
+   "note": "loaf bitten, crumbs"
+  },
+  {
+   "id": "A3",
+   "file": "shots-cha-cold-open-and-title",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "asleep, tag 8 tieng = 28,8 trieu"
+  },
+  {
+   "id": "A4",
+   "file": "shots-cha-cold-open-and-title",
+   "size": "medium",
+   "set": "street",
+   "key": 14,
+   "note": "new motorbike red bow"
+  },
+  {
+   "id": "A5",
+   "file": "shots-cha-cold-open-and-title",
+   "size": "insert",
+   "set": "door",
+   "key": 22,
+   "note": "key in door, flat opens"
+  },
+  {
+   "id": "A6",
+   "file": "shots-cha-cold-open-and-title",
+   "size": "wide",
+   "set": "flat window",
+   "key": 30,
+   "note": "empty flat over dusk city"
+  },
+  {
+   "id": "A7",
+   "file": "shots-cha-cold-open-and-title",
+   "size": "wide",
+   "set": "street",
+   "key": 60,
+   "note": "TITLE over street, phone glow"
+  },
+  {
+   "id": "A8",
+   "file": "shots-cha-first-ping",
+   "size": "macro",
+   "set": "bedroom",
+   "key": 14,
+   "note": "alarm 06:00"
+  },
+  {
+   "id": "A9",
+   "file": "shots-cha-first-ping",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 20,
+   "note": "phone buzzing nightstand"
+  },
+  {
+   "id": "A10",
+   "file": "shots-cha-first-ping",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 50,
+   "note": "notification NGAN HANG +1.000"
+  },
+  {
+   "id": "A11",
+   "file": "shots-cha-first-ping",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 54,
+   "note": "second notification stacks"
+  },
+  {
+   "id": "A12",
+   "file": "shots-cha-first-ping",
+   "size": "close-up",
+   "set": "bedroom",
+   "key": 30,
+   "note": "Pip squints at screen light"
+  },
+  {
+   "id": "A13",
+   "file": "shots-cha-first-ping",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 70,
+   "note": "balance counts up, 1 second dial"
+  },
+  {
+   "id": "A14",
+   "file": "shots-cha-rule-everyday",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 24,
+   "note": "eating"
+  },
+  {
+   "id": "A15",
+   "file": "shots-cha-rule-everyday",
+   "size": "close-up",
+   "set": "bathroom",
+   "key": 14,
+   "note": "shower steam"
+  },
+  {
+   "id": "A16",
+   "file": "shots-cha-rule-everyday",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 16,
+   "note": "asleep, phone lit"
+  },
+  {
+   "id": "A17",
+   "file": "shots-cha-rule-everyday",
+   "size": "medium",
+   "set": "study",
+   "key": 34,
+   "note": "shrug question marks"
+  },
+  {
+   "id": "A18",
+   "file": "shots-cha-rule-everyday",
+   "size": "medium",
+   "set": "study",
+   "key": 30,
+   "note": "suit officer"
+  },
+  {
+   "id": "A19",
+   "file": "shots-cha-rule-everyday",
+   "size": "insert",
+   "set": "phone",
+   "key": 36,
+   "note": "check HOP LE stamp"
+  },
+  {
+   "id": "A20",
+   "file": "shots-cha-test-and-explosion",
+   "size": "wide",
+   "set": "street",
+   "key": 20,
+   "note": "ATM"
+  },
+  {
+   "id": "A21",
+   "file": "shots-cha-test-and-explosion",
+   "size": "close-up",
+   "set": "street",
+   "key": 34,
+   "note": "cash slides, Pip amazed"
+  },
+  {
+   "id": "A22",
+   "file": "shots-cha-test-and-explosion",
+   "size": "insert",
+   "set": "phone",
+   "key": 40,
+   "note": "transfer 500.000 to Mo"
+  },
+  {
+   "id": "A23",
+   "file": "shots-cha-test-and-explosion",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 22,
+   "note": "Mo shocked +500.000"
+  },
+  {
+   "id": "A24",
+   "file": "shots-cha-test-and-explosion",
+   "size": "insert",
+   "set": "phone",
+   "key": 50,
+   "note": "balance climbing, notes"
+  },
+  {
+   "id": "A25",
+   "file": "shots-cha-test-and-explosion",
+   "size": "macro",
+   "set": "kitchen",
+   "key": 20,
+   "note": "wall clock 12:00"
+  },
+  {
+   "id": "A26",
+   "file": "shots-cha-test-and-explosion",
+   "size": "top-down",
+   "set": "table",
+   "key": 40,
+   "note": "phone 21.600 vibrates"
+  },
+  {
+   "id": "A27",
+   "file": "shots-cha-test-and-explosion",
+   "size": "insert",
+   "set": "phone",
+   "key": 30,
+   "note": "toggle OFF"
+  },
+  {
+   "id": "A28",
+   "file": "shots-cha-test-and-explosion",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 34,
+   "note": "flop on bed, peace"
+  },
+  {
+   "id": "B1",
+   "file": "shots-chb-math-scale-cards",
+   "size": "medium",
+   "set": "schematic",
+   "key": 40,
+   "note": "calculator, 1.000 x 60"
+  },
+  {
+   "id": "B2",
+   "file": "shots-chb-math-scale-cards",
+   "size": "medium",
+   "set": "schematic",
+   "key": 50,
+   "note": "1 phút card: clock, 60.000 đ, 1 coin column"
+  },
+  {
+   "id": "B3",
+   "file": "shots-chb-math-scale-cards",
+   "size": "medium",
+   "set": "schematic",
+   "key": 62,
+   "note": "1 giờ card: 3.600.000 đ"
+  },
+  {
+   "id": "B4",
+   "file": "shots-chb-math-scale-cards",
+   "size": "medium",
+   "set": "schematic",
+   "key": 40,
+   "note": "1 ngày card: 86.400.000 đ"
+  },
+  {
+   "id": "B5",
+   "file": "shots-chb-math-scale-cards",
+   "size": "wide",
+   "set": "schematic",
+   "key": 36,
+   "note": "wall of banknote bricks"
+  },
+  {
+   "id": "B6",
+   "file": "shots-chb-math-scale-cards",
+   "size": "wide",
+   "set": "schematic",
+   "key": 62,
+   "note": "1 năm: 31 TỶ huge, tower of money"
+  },
+  {
+   "id": "B7",
+   "file": "shots-chb-math-salary-trillion",
+   "size": "medium",
+   "set": "schematic",
+   "key": 40,
+   "note": "NĂM 2025 calendar"
+  },
+  {
+   "id": "B8",
+   "file": "shots-chb-math-salary-trillion",
+   "size": "wide",
+   "set": "schematic",
+   "key": 60,
+   "note": "crowd of workers lighting up"
+  },
+  {
+   "id": "B9",
+   "file": "shots-chb-math-salary-trillion",
+   "size": "medium",
+   "set": "schematic",
+   "key": 60,
+   "note": "8,4 TRIỆU / THÁNG worker"
+  },
+  {
+   "id": "B10",
+   "file": "shots-chb-math-salary-trillion",
+   "size": "close",
+   "set": "backdrop",
+   "key": 18,
+   "note": "Còn bạn? open hand"
+  },
+  {
+   "id": "B11",
+   "file": "shots-chb-math-salary-trillion",
+   "size": "medium",
+   "set": "schematic",
+   "key": 66,
+   "note": "clock to 2 GIỜ 20 PHÚT"
+  },
+  {
+   "id": "B12",
+   "file": "shots-chb-math-salary-trillion",
+   "size": "close",
+   "set": "backdrop",
+   "key": 24,
+   "note": "stunned close-up"
+  },
+  {
+   "id": "B13",
+   "file": "shots-chb-math-salary-trillion",
+   "size": "wide",
+   "set": "schematic",
+   "key": 34,
+   "note": "1.000 TỶ between walls of notes"
+  },
+  {
+   "id": "B14",
+   "file": "shots-chb-math-salary-trillion",
+   "size": "wide",
+   "set": "park",
+   "key": 58,
+   "note": "bench wait, calendar flips, beard starts"
+  },
+  {
+   "id": "B15",
+   "file": "shots-chb-math-salary-trillion",
+   "size": "medium",
+   "set": "park",
+   "key": 66,
+   "note": "long beard, 31 NĂM 8 THÁNG"
+  },
+  {
+   "id": "B16",
+   "file": "shots-chb-fun-breakfast-class",
+   "size": "wide",
+   "set": "street",
+   "key": 40,
+   "note": "morning street, walks to banh mi cart"
+  },
+  {
+   "id": "B17",
+   "file": "shots-chb-fun-breakfast-class",
+   "size": "close",
+   "set": "insert",
+   "key": 34,
+   "note": "banh mi macro, 25.000 đ sign"
+  },
+  {
+   "id": "B18",
+   "file": "shots-chb-fun-breakfast-class",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "scan QR, 25.000 đ = 25 GIÂY"
+  },
+  {
+   "id": "B19",
+   "file": "shots-chb-fun-breakfast-class",
+   "size": "medium",
+   "set": "street",
+   "key": 24,
+   "note": "chewing the banh mi"
+  },
+  {
+   "id": "B20",
+   "file": "shots-chb-fun-breakfast-class",
+   "size": "close",
+   "set": "insert",
+   "key": 24,
+   "note": "phone balance refilling"
+  },
+  {
+   "id": "B21",
+   "file": "shots-chb-fun-breakfast-class",
+   "size": "wide",
+   "set": "street",
+   "key": 40,
+   "note": "quán on the pavement, kids cheer"
+  },
+  {
+   "id": "B22",
+   "file": "shots-chb-fun-breakfast-class",
+   "size": "medium",
+   "set": "street",
+   "key": 36,
+   "note": "table of bowls, 30 x 50.000 đ"
+  },
+  {
+   "id": "B23",
+   "file": "shots-chb-fun-breakfast-class",
+   "size": "close",
+   "set": "insert",
+   "key": 30,
+   "note": "receipt, = 25 PHÚT"
+  },
+  {
+   "id": "B24",
+   "file": "shots-chb-fun-breakfast-class",
+   "size": "medium",
+   "set": "street",
+   "key": 40,
+   "note": "kids chant, paper crown + shades"
+  },
+  {
+   "id": "B25",
+   "file": "shots-chb-fun-market-travel",
+   "size": "wide",
+   "set": "supermarket",
+   "key": 50,
+   "note": "two carts overflowing"
+  },
+  {
+   "id": "B26",
+   "file": "shots-chb-fun-market-travel",
+   "size": "medium",
+   "set": "supermarket",
+   "key": 30,
+   "note": "walks past price tags, eyes closed"
+  },
+  {
+   "id": "B27",
+   "file": "shots-chb-fun-market-travel",
+   "size": "medium",
+   "set": "plane",
+   "key": 30,
+   "note": "plane window clouds"
+  },
+  {
+   "id": "B28",
+   "file": "shots-chb-fun-market-travel",
+   "size": "wide",
+   "set": "beach",
+   "key": 40,
+   "note": "beach at dusk arms wide"
+  },
+  {
+   "id": "B29",
+   "file": "shots-chb-fun-market-travel",
+   "size": "close",
+   "set": "insert",
+   "key": 50,
+   "note": "ticket 2.000.000 đ = 33 PHÚT"
+  },
+  {
+   "id": "B30",
+   "file": "shots-chb-fun-market-travel",
+   "size": "wide",
+   "set": "hotel",
+   "key": 24,
+   "note": "hotel room with sea window"
+  },
+  {
+   "id": "B31",
+   "file": "shots-chb-fun-market-travel",
+   "size": "medium",
+   "set": "hotel",
+   "key": 34,
+   "note": "asleep in the big bed"
+  },
+  {
+   "id": "C1",
+   "file": "shots-chc-family-and-donate",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 40,
+   "note": "Mum claps beside the new washing machine, bow pops"
+  },
+  {
+   "id": "C2",
+   "file": "shots-chc-family-and-donate",
+   "size": "close",
+   "set": "kitchen",
+   "key": 26,
+   "note": "machine huge, < 3 TIẾNG tag, Mum clapping"
+  },
+  {
+   "id": "C3",
+   "file": "shots-chc-family-and-donate",
+   "size": "insert",
+   "set": "table",
+   "key": 60,
+   "note": "phone: TIỀN ĐIỆN / NHÀ / HỌC PHÍ tick on"
+  },
+  {
+   "id": "C4",
+   "file": "shots-chc-family-and-donate",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 40,
+   "note": "little sister jumps, confetti"
+  },
+  {
+   "id": "C5",
+   "file": "shots-chc-family-and-donate",
+   "size": "insert",
+   "set": "table",
+   "key": 34,
+   "note": "transfer 100.000.000 đ, thumb taps, tick"
+  },
+  {
+   "id": "C6",
+   "file": "shots-chc-family-and-donate",
+   "size": "wide",
+   "set": "village",
+   "key": 30,
+   "note": "misty village school, kids shiver in grey"
+  },
+  {
+   "id": "C7",
+   "file": "shots-chc-family-and-donate",
+   "size": "close",
+   "set": "village",
+   "key": 34,
+   "note": "coats turn red, kids cheer, 100.000.000 đ tag"
+  },
+  {
+   "id": "C8",
+   "file": "shots-chc-family-and-donate",
+   "size": "medium",
+   "set": "village",
+   "key": 50,
+   "note": "clock sweeps once, bar refills: hơn 1 ngày"
+  },
+  {
+   "id": "C9",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 60,
+   "note": "Pip asleep, moon to sun in the window"
+  },
+  {
+   "id": "C10",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 40,
+   "note": "phone on pillow, +28.800.000 đ counting"
+  },
+  {
+   "id": "C11",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "wide",
+   "set": "street",
+   "key": 50,
+   "note": "small car with bow on the street, ~400 TRIỆU"
+  },
+  {
+   "id": "C12",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "close",
+   "set": "street",
+   "key": 24,
+   "note": "calendar fills 5 days, < 5 NGÀY"
+  },
+  {
+   "id": "C13",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "insert",
+   "set": "schematic",
+   "key": 22,
+   "note": "briefcase crossed out: không đi làm"
+  },
+  {
+   "id": "C14",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 40,
+   "note": "Pip in hammock at sunset"
+  },
+  {
+   "id": "C15",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 60,
+   "note": "slow push-in, dreamy"
+  },
+  {
+   "id": "C16",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 40,
+   "note": "push-in, smile still on"
+  },
+  {
+   "id": "C17",
+   "file": "shots-chc-sleep-car-dream",
+   "size": "close",
+   "set": "rooftop",
+   "key": 46,
+   "note": "chip glitches red, smile drops"
+  },
+  {
+   "id": "C18",
+   "file": "shots-chc-tax",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 24,
+   "note": "card 1 · THUẾ"
+  },
+  {
+   "id": "C19",
+   "file": "shots-chc-tax",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 60,
+   "note": "five bars of the tax ladder rise, TỪ 7/2026"
+  },
+  {
+   "id": "C20",
+   "file": "shots-chc-tax",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 60,
+   "note": "top bar lights, > 100 TRIỆU/THÁNG"
+  },
+  {
+   "id": "C21",
+   "file": "shots-chc-tax",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 24,
+   "note": "35% slams on"
+  },
+  {
+   "id": "C22",
+   "file": "shots-chc-tax",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 50,
+   "note": "clock 27 GIỜ 47 PHÚT"
+  },
+  {
+   "id": "C23",
+   "file": "shots-chc-tax",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 60,
+   "note": "1.000 đ coin splits 650 | 350 THUẾ"
+  },
+  {
+   "id": "C24",
+   "file": "shots-chc-attention",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 40,
+   "note": "card 2 · BỊ ĐỂ Ý"
+  },
+  {
+   "id": "C25",
+   "file": "shots-chc-attention",
+   "size": "insert",
+   "set": "table",
+   "key": 20,
+   "note": "phone rings NGÂN HÀNG"
+  },
+  {
+   "id": "C26",
+   "file": "shots-chc-attention",
+   "size": "insert",
+   "set": "table",
+   "key": 24,
+   "note": "phone rings CƠ QUAN THUẾ"
+  },
+  {
+   "id": "C27",
+   "file": "shots-chc-attention",
+   "size": "wide",
+   "set": "stairwell",
+   "key": 44,
+   "note": "suit man climbs to the landing with a folder"
+  },
+  {
+   "id": "C28",
+   "file": "shots-chc-attention",
+   "size": "medium",
+   "set": "stairwell",
+   "key": 40,
+   "note": "suit man at the door, stern, taps folder"
+  },
+  {
+   "id": "C29",
+   "file": "shots-chc-attention",
+   "size": "close",
+   "set": "stairwell",
+   "key": 30,
+   "note": "Pip shrugs, oops, gulp"
+  },
+  {
+   "id": "C30",
+   "file": "shots-chc-friends-and-mo",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 40,
+   "note": "card 3 · BẠN MỚI"
+  },
+  {
+   "id": "C31",
+   "file": "shots-chc-friends-and-mo",
+   "size": "insert",
+   "set": "study",
+   "key": 30,
+   "note": "phone flooded with friend requests"
+  },
+  {
+   "id": "C32",
+   "file": "shots-chc-friends-and-mo",
+   "size": "medium",
+   "set": "study",
+   "key": 60,
+   "note": "Pip surrounded by call bubbles"
+  },
+  {
+   "id": "C33",
+   "file": "shots-chc-friends-and-mo",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 80,
+   "note": "bars HỎI VAY TIỀN tall vs HỎI THĂM tiny"
+  },
+  {
+   "id": "D1",
+   "file": "shots-chd-mo-and-safety",
+   "size": "wide",
+   "set": "pitch",
+   "key": 50,
+   "note": "dusty pitch at dusk, Pip and Mo pass the ball"
+  },
+  {
+   "id": "D2",
+   "file": "shots-chd-mo-and-safety",
+   "size": "medium",
+   "set": "stall",
+   "key": 58,
+   "note": "drinks stall: Pip holds phone, Mo pushes his hand back"
+  },
+  {
+   "id": "D3",
+   "file": "shots-chd-mo-and-safety",
+   "size": "medium",
+   "set": "pitch",
+   "key": 24,
+   "note": "Mo looks away, gap, ball between them"
+  },
+  {
+   "id": "D4",
+   "file": "shots-chd-mo-and-safety",
+   "size": "card",
+   "set": "schematic",
+   "key": 30,
+   "note": "card 4 · AN TOÀN"
+  },
+  {
+   "id": "D5",
+   "file": "shots-chd-mo-and-safety",
+   "size": "medium",
+   "set": "window",
+   "key": 34,
+   "note": "Pip peeks through curtain at night street"
+  },
+  {
+   "id": "D6",
+   "file": "shots-chd-mo-and-safety",
+   "size": "wide",
+   "set": "house",
+   "key": 60,
+   "note": "cameras pop on the walls, guard steps in"
+  },
+  {
+   "id": "D7",
+   "file": "shots-chd-mo-and-safety",
+   "size": "insert",
+   "set": "desk",
+   "key": 54,
+   "note": "three SIM cards slide out of a phone"
+  },
+  {
+   "id": "D8",
+   "file": "shots-chd-lottery-and-inflation",
+   "size": "medium",
+   "set": "schematic",
+   "key": 50,
+   "note": "lottery ticket + 1978"
+  },
+  {
+   "id": "D9",
+   "file": "shots-chd-lottery-and-inflation",
+   "size": "medium",
+   "set": "schematic",
+   "key": 60,
+   "note": "survey: winners ticked on a clipboard"
+  },
+  {
+   "id": "D10",
+   "file": "shots-chd-lottery-and-inflation",
+   "size": "medium",
+   "set": "schematic",
+   "key": 80,
+   "note": "two happiness bars nearly equal"
+  },
+  {
+   "id": "D11",
+   "file": "shots-chd-lottery-and-inflation",
+   "size": "medium",
+   "set": "schematic",
+   "key": 110,
+   "note": "banh mi and chat bubble, bright"
+  },
+  {
+   "id": "D12",
+   "file": "shots-chd-lottery-and-inflation",
+   "size": "medium",
+   "set": "schematic",
+   "key": 50,
+   "note": "icons drain grey + source BRICKMAN 1978"
+  },
+  {
+   "id": "D13",
+   "file": "shots-chd-lottery-and-inflation",
+   "size": "wide",
+   "set": "schematic",
+   "key": 90,
+   "note": "one lit person among grey, +1.000"
+  },
+  {
+   "id": "D14",
+   "file": "shots-chd-lottery-and-inflation",
+   "size": "wide",
+   "set": "schematic",
+   "key": 60,
+   "note": "everyone lights up with +1.000"
+  },
+  {
+   "id": "D15",
+   "file": "shots-chd-lottery-and-inflation",
+   "size": "insert",
+   "set": "schematic",
+   "key": 55,
+   "note": "1.000 d note shrinks and greys"
+  },
+  {
+   "id": "D16",
+   "file": "shots-chd-lottery-and-inflation",
+   "size": "medium",
+   "set": "schematic",
+   "key": 88,
+   "note": "banh mi price tag 25.000 -> 2.500.000"
+  },
+  {
+   "id": "D17",
+   "file": "shots-chd-lottery-and-inflation",
+   "size": "card",
+   "set": "schematic",
+   "key": 60,
+   "note": "LAM PHAT label + price curve"
+  },
+  {
+   "id": "D18",
+   "file": "shots-chd-lottery-and-inflation",
+   "size": "medium",
+   "set": "schematic",
+   "key": 90,
+   "note": "money pile vs goods pile, note shrinks"
+  },
+  {
+   "id": "D19",
+   "file": "shots-chd-adaptation-and-mum",
+   "size": "wide",
+   "set": "study",
+   "key": 40,
+   "note": "big room of stuff, Pip small flat face"
+  },
+  {
+   "id": "D20",
+   "file": "shots-chd-adaptation-and-mum",
+   "size": "medium",
+   "set": "study",
+   "key": 40,
+   "note": "Pip flat among piles"
+  },
+  {
+   "id": "D21",
+   "file": "shots-chd-adaptation-and-mum",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 30,
+   "note": "Pip chews banh mi, bored"
+  },
+  {
+   "id": "D22",
+   "file": "shots-chd-adaptation-and-mum",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "opened gift, shrug"
+  },
+  {
+   "id": "D23",
+   "file": "shots-chd-adaptation-and-mum",
+   "size": "wide",
+   "set": "supermarket",
+   "key": 60,
+   "note": "supermarket, Pip tiny and grey"
+  },
+  {
+   "id": "D24",
+   "file": "shots-chd-adaptation-and-mum",
+   "size": "medium",
+   "set": "study-night",
+   "key": 30,
+   "note": "phone MẸ ringing on the desk at night"
+  },
+  {
+   "id": "D25",
+   "file": "shots-chd-adaptation-and-mum",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 34,
+   "note": "mum on the phone, table set, empty place"
+  },
+  {
+   "id": "D26",
+   "file": "shots-chd-adaptation-and-mum",
+   "size": "close-up",
+   "set": "study-night",
+   "key": 60,
+   "note": "Pip listens, eyes soft, hold"
+  },
+  {
+   "id": "E1",
+   "file": "shots-che-seconds-and-life",
+   "size": "close-up",
+   "set": "study night blur",
+   "key": 30,
+   "note": "Pip realises, focus rings"
+  },
+  {
+   "id": "E2",
+   "file": "shots-che-seconds-and-life",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 125,
+   "note": "24h dial sweeps, 86.400 GIÂY"
+  },
+  {
+   "id": "E3",
+   "file": "shots-che-seconds-and-life",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 30,
+   "note": "row of people each with same dial"
+  },
+  {
+   "id": "E4",
+   "file": "shots-che-seconds-and-life",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 60,
+   "note": "74,7 NĂM life line, source"
+  },
+  {
+   "id": "E5",
+   "file": "shots-che-seconds-and-life",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 60,
+   "note": "hourglass, ≈ 2,3 TỶ GIÂY"
+  },
+  {
+   "id": "E6",
+   "file": "shots-che-seconds-and-life",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 110,
+   "note": "sand falls, money piles, no way back"
+  },
+  {
+   "id": "E7",
+   "file": "shots-che-no-one-can",
+   "size": "wide",
+   "set": "waiting hall",
+   "key": 30,
+   "note": "hired stand-in in the queue takes the note"
+  },
+  {
+   "id": "E8",
+   "file": "shots-che-no-one-can",
+   "size": "insert",
+   "set": "kitchen blur",
+   "key": 12,
+   "note": "hired cook tosses the pan"
+  },
+  {
+   "id": "E9",
+   "file": "shots-che-no-one-can",
+   "size": "insert",
+   "set": "car",
+   "key": 20,
+   "note": "driver from behind, road streaming"
+  },
+  {
+   "id": "E10",
+   "file": "shots-che-no-one-can",
+   "size": "close-up",
+   "set": "bedroom blur",
+   "key": 30,
+   "note": "Pip yawns behind mitten, zzz"
+  },
+  {
+   "id": "E11",
+   "file": "shots-che-no-one-can",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "Pip in bed with a cold, tissue, sneeze"
+  },
+  {
+   "id": "E12",
+   "file": "shots-che-no-one-can",
+   "size": "medium",
+   "set": "hall door frame",
+   "key": 50,
+   "note": "sister vs height marks and dates"
+  },
+  {
+   "id": "E13",
+   "file": "shots-che-no-one-can",
+   "size": "wide",
+   "set": "shop window",
+   "key": 70,
+   "note": "everything with price tags, clock KHÔNG BÁN"
+  },
+  {
+   "id": "E14",
+   "file": "shots-che-choice",
+   "size": "wide",
+   "set": "night fork",
+   "key": 40,
+   "note": "Pip at a fork, money left, window right"
+  },
+  {
+   "id": "E15",
+   "file": "shots-che-choice",
+   "size": "medium",
+   "set": "night",
+   "key": 40,
+   "note": "money river 1.000 đ / GIÂY"
+  },
+  {
+   "id": "E16",
+   "file": "shots-che-choice",
+   "size": "medium",
+   "set": "night house",
+   "key": 40,
+   "note": "warm window, mum sister Mo, +1 GIỜ / NGÀY"
+  },
+  {
+   "id": "E17",
+   "file": "shots-che-choice",
+   "size": "close-up",
+   "set": "night",
+   "key": 30,
+   "note": "Pip between the two lights"
+  },
+  {
+   "id": "E18",
+   "file": "shots-che-dinner",
+   "size": "wide",
+   "set": "front door",
+   "key": 30,
+   "note": "Pip at the family door, warm light"
+  },
+  {
+   "id": "E19",
+   "file": "shots-che-dinner",
+   "size": "insert",
+   "set": "tabletop",
+   "key": 30,
+   "note": "phone laid face down, glow gone"
+  },
+  {
+   "id": "E20",
+   "file": "shots-che-dinner",
+   "size": "insert",
+   "set": "tabletop",
+   "key": 40,
+   "note": "phone face down, faint pulse, ignored"
+  },
+  {
+   "id": "E21",
+   "file": "shots-che-dinner",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 60,
+   "note": "family dinner wide, slow push-in"
+  },
+  {
+   "id": "E22",
+   "file": "shots-che-dinner",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 40,
+   "note": "sister waves arms telling her day"
+  },
+  {
+   "id": "E23",
+   "file": "shots-che-dinner",
+   "size": "insert",
+   "set": "tabletop",
+   "key": 30,
+   "note": "mum's chopsticks place fish in his bowl"
+  },
+  {
+   "id": "E24",
+   "file": "shots-che-dinner",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 80,
+   "note": "everyone laughing, long push-in"
+  },
+  {
+   "id": "E25",
+   "file": "shots-che-dinner",
+   "size": "medium",
+   "set": "kitchen blur",
+   "key": 40,
+   "note": "Pip points at lens, smug, ping wink"
+  },
+  {
+   "id": "E26",
+   "file": "shots-che-meta-and-end-card",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 130,
+   "note": "play button, 05:00, 300.000 đ"
+  },
+  {
+   "id": "E27",
+   "file": "shots-che-meta-and-end-card",
+   "size": "wide",
+   "set": "house at night",
+   "key": 60,
+   "note": "end card line 1, family window"
+  },
+  {
+   "id": "E28",
+   "file": "shots-che-meta-and-end-card",
+   "size": "wide",
+   "set": "house at night",
+   "key": 150,
+   "note": "end card line 2, fade to black"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "s:0.00"
+  },
+  {
+   "shot": "A2",
+   "at": "s:1.05"
+  },
+  {
+   "shot": "A3",
+   "at": "s:2.23"
+  },
+  {
+   "shot": "A4",
+   "at": "s:3.76"
+  },
+  {
+   "shot": "A5",
+   "at": "s:4.97"
+  },
+  {
+   "shot": "A6",
+   "at": "s:5.89"
+  },
+  {
+   "shot": "A7",
+   "at": "s:7.65"
+  },
+  {
+   "shot": "A8",
+   "at": "s:11.18"
+  },
+  {
+   "shot": "A9",
+   "at": "s:12.01",
+   "look": "ping"
+  },
+  {
+   "shot": "A10",
+   "at": "s:13.23",
+   "look": "ping"
+  },
+  {
+   "shot": "A11",
+   "at": "s:15.96",
+   "look": "ping"
+  },
+  {
+   "shot": "A12",
+   "at": "s:17.80",
+   "look": "ping"
+  },
+  {
+   "shot": "A13",
+   "at": "s:19.11",
+   "look": "ping"
+  },
+  {
+   "shot": "A14",
+   "at": "s:22.25",
+   "look": "ping"
+  },
+  {
+   "shot": "A15",
+   "at": "s:23.40",
+   "look": "ping"
+  },
+  {
+   "shot": "A16",
+   "at": "s:24.16",
+   "look": "ping"
+  },
+  {
+   "shot": "A17",
+   "at": "s:25.15",
+   "look": "ping"
+  },
+  {
+   "shot": "A18",
+   "at": "s:26.64",
+   "look": "ping"
+  },
+  {
+   "shot": "A19",
+   "at": "s:28.22",
+   "look": "ping"
+  },
+  {
+   "shot": "A20",
+   "at": "s:29.45",
+   "look": "ping"
+  },
+  {
+   "shot": "A21",
+   "at": "s:30.88",
+   "look": "ping"
+  },
+  {
+   "shot": "A22",
+   "at": "s:32.16",
+   "look": "ping"
+  },
+  {
+   "shot": "A23",
+   "at": "s:34.19",
+   "look": "ping"
+  },
+  {
+   "shot": "A24",
+   "at": "s:34.95",
+   "look": "ping"
+  },
+  {
+   "shot": "A25",
+   "at": "s:37.53",
+   "look": "ping"
+  },
+  {
+   "shot": "A26",
+   "at": "s:38.27",
+   "look": "ping"
+  },
+  {
+   "shot": "A27",
+   "at": "s:40.61",
+   "look": "ping"
+  },
+  {
+   "shot": "A28",
+   "at": "s:41.82",
+   "look": "ping"
+  },
+  {
+   "shot": "B1",
+   "at": "s:43.38"
+  },
+  {
+   "shot": "B2",
+   "at": "s:44.79"
+  },
+  {
+   "shot": "B3",
+   "at": "s:46.79"
+  },
+  {
+   "shot": "B4",
+   "at": "s:49.24"
+  },
+  {
+   "shot": "B5",
+   "at": "s:50.68"
+  },
+  {
+   "shot": "B6",
+   "at": "s:52.04"
+  },
+  {
+   "shot": "B7",
+   "at": "s:54.21"
+  },
+  {
+   "shot": "B8",
+   "at": "s:56.04"
+  },
+  {
+   "shot": "B9",
+   "at": "s:58.47"
+  },
+  {
+   "shot": "B10",
+   "at": "s:60.68"
+  },
+  {
+   "shot": "B11",
+   "at": "s:61.46"
+  },
+  {
+   "shot": "B12",
+   "at": "s:63.86"
+  },
+  {
+   "shot": "B13",
+   "at": "s:64.99"
+  },
+  {
+   "shot": "B14",
+   "at": "s:66.43"
+  },
+  {
+   "shot": "B15",
+   "at": "s:68.62"
+  },
+  {
+   "shot": "B16",
+   "at": "s:71.06",
+   "look": "ping"
+  },
+  {
+   "shot": "B17",
+   "at": "s:72.99",
+   "look": "ping"
+  },
+  {
+   "shot": "B18",
+   "at": "s:74.73",
+   "look": "ping"
+  },
+  {
+   "shot": "B19",
+   "at": "s:75.90",
+   "look": "ping"
+  },
+  {
+   "shot": "B20",
+   "at": "s:76.94",
+   "look": "ping"
+  },
+  {
+   "shot": "B21",
+   "at": "s:78.04",
+   "look": "ping"
+  },
+  {
+   "shot": "B22",
+   "at": "s:79.43",
+   "look": "ping"
+  },
+  {
+   "shot": "B23",
+   "at": "s:81.84",
+   "look": "ping"
+  },
+  {
+   "shot": "B24",
+   "at": "s:82.98",
+   "look": "ping"
+  },
+  {
+   "shot": "B25",
+   "at": "s:84.86",
+   "look": "ping"
+  },
+  {
+   "shot": "B26",
+   "at": "s:87.24",
+   "look": "ping"
+  },
+  {
+   "shot": "B27",
+   "at": "s:88.77",
+   "look": "ping"
+  },
+  {
+   "shot": "B28",
+   "at": "s:90.06",
+   "look": "ping"
+  },
+  {
+   "shot": "B29",
+   "at": "s:91.30",
+   "look": "ping"
+  },
+  {
+   "shot": "B30",
+   "at": "s:93.86",
+   "look": "ping"
+  },
+  {
+   "shot": "B31",
+   "at": "s:95.27",
+   "look": "ping"
+  },
+  {
+   "shot": "C1",
+   "at": "s:96.98",
+   "look": "ping"
+  },
+  {
+   "shot": "C2",
+   "at": "s:98.94",
+   "look": "ping"
+  },
+  {
+   "shot": "C3",
+   "at": "s:100.31",
+   "look": "ping"
+  },
+  {
+   "shot": "C4",
+   "at": "s:102.54",
+   "look": "ping"
+  },
+  {
+   "shot": "C5",
+   "at": "s:104.86",
+   "look": "ping"
+  },
+  {
+   "shot": "C6",
+   "at": "s:106.22",
+   "look": "ping"
+  },
+  {
+   "shot": "C7",
+   "at": "s:107.88",
+   "look": "ping"
+  },
+  {
+   "shot": "C8",
+   "at": "s:109.24",
+   "look": "ping"
+  },
+  {
+   "shot": "C9",
+   "at": "s:111.54",
+   "look": "ping"
+  },
+  {
+   "shot": "C10",
+   "at": "s:114.29",
+   "look": "ping"
+  },
+  {
+   "shot": "C11",
+   "at": "s:116.08",
+   "look": "ping"
+  },
+  {
+   "shot": "C12",
+   "at": "s:118.47",
+   "look": "ping"
+  },
+  {
+   "shot": "C13",
+   "at": "s:119.65",
+   "look": "ping"
+  },
+  {
+   "shot": "C14",
+   "at": "s:120.79",
+   "look": "ping"
+  },
+  {
+   "shot": "C15",
+   "at": "s:122.19",
+   "look": "ping"
+  },
+  {
+   "shot": "C16",
+   "at": "s:124.44",
+   "look": "ping"
+  },
+  {
+   "shot": "C17",
+   "at": "s:126.00"
+  },
+  {
+   "shot": "C18",
+   "at": "s:127.65"
+  },
+  {
+   "shot": "C19",
+   "at": "s:128.95"
+  },
+  {
+   "shot": "C20",
+   "at": "s:132.10"
+  },
+  {
+   "shot": "C21",
+   "at": "s:134.88"
+  },
+  {
+   "shot": "C22",
+   "at": "s:136.03"
+  },
+  {
+   "shot": "C23",
+   "at": "s:138.09"
+  },
+  {
+   "shot": "C24",
+   "at": "s:141.21"
+  },
+  {
+   "shot": "C25",
+   "at": "s:143.46",
+   "look": "ping"
+  },
+  {
+   "shot": "C26",
+   "at": "s:144.45",
+   "look": "ping"
+  },
+  {
+   "shot": "C27",
+   "at": "s:145.84",
+   "look": "ping"
+  },
+  {
+   "shot": "C28",
+   "at": "s:147.65",
+   "look": "ping"
+  },
+  {
+   "shot": "C29",
+   "at": "s:150.11",
+   "look": "ping"
+  },
+  {
+   "shot": "C30",
+   "at": "s:151.49"
+  },
+  {
+   "shot": "C31",
+   "at": "s:153.73",
+   "look": "ping"
+  },
+  {
+   "shot": "C32",
+   "at": "s:155.56",
+   "look": "ping"
+  },
+  {
+   "shot": "C33",
+   "at": "s:158.32"
+  },
+  {
+   "shot": "D1",
+   "at": "s:161.90",
+   "look": "ping"
+  },
+  {
+   "shot": "D2",
+   "at": "s:164.53",
+   "look": "ping"
+  },
+  {
+   "shot": "D3",
+   "at": "s:167.41",
+   "look": "ping"
+  },
+  {
+   "shot": "D4",
+   "at": "s:168.48"
+  },
+  {
+   "shot": "D5",
+   "at": "s:170.13",
+   "look": "ping"
+  },
+  {
+   "shot": "D6",
+   "at": "s:171.90",
+   "look": "ping"
+  },
+  {
+   "shot": "D7",
+   "at": "s:173.93",
+   "look": "ping"
+  },
+  {
+   "shot": "D8",
+   "at": "s:176.13"
+  },
+  {
+   "shot": "D9",
+   "at": "s:178.99"
+  },
+  {
+   "shot": "D10",
+   "at": "s:181.32"
+  },
+  {
+   "shot": "D11",
+   "at": "s:184.73"
+  },
+  {
+   "shot": "D12",
+   "at": "s:188.73"
+  },
+  {
+   "shot": "D13",
+   "at": "s:190.62"
+  },
+  {
+   "shot": "D14",
+   "at": "s:193.98"
+  },
+  {
+   "shot": "D15",
+   "at": "s:196.37"
+  },
+  {
+   "shot": "D16",
+   "at": "s:198.48"
+  },
+  {
+   "shot": "D17",
+   "at": "s:201.62"
+  },
+  {
+   "shot": "D18",
+   "at": "s:204.02"
+  },
+  {
+   "shot": "D19",
+   "at": "s:207.40",
+   "look": "cold"
+  },
+  {
+   "shot": "D20",
+   "at": "s:209.75",
+   "look": "cold"
+  },
+  {
+   "shot": "D21",
+   "at": "s:212.08",
+   "look": "cold"
+  },
+  {
+   "shot": "D22",
+   "at": "s:214.00",
+   "look": "cold"
+  },
+  {
+   "shot": "D23",
+   "at": "s:215.83",
+   "look": "cold"
+  },
+  {
+   "shot": "D24",
+   "at": "s:218.93"
+  },
+  {
+   "shot": "D25",
+   "at": "s:220.83"
+  },
+  {
+   "shot": "D26",
+   "at": "s:223.11"
+  },
+  {
+   "shot": "E1",
+   "at": "s:225.99"
+  },
+  {
+   "shot": "E2",
+   "at": "s:227.91"
+  },
+  {
+   "shot": "E3",
+   "at": "s:232.49"
+  },
+  {
+   "shot": "E4",
+   "at": "s:233.79"
+  },
+  {
+   "shot": "E5",
+   "at": "s:237.35"
+  },
+  {
+   "shot": "E6",
+   "at": "s:240.03"
+  },
+  {
+   "shot": "E7",
+   "at": "s:244.49"
+  },
+  {
+   "shot": "E8",
+   "at": "s:246.62"
+  },
+  {
+   "shot": "E9",
+   "at": "s:247.34"
+  },
+  {
+   "shot": "E10",
+   "at": "s:248.64"
+  },
+  {
+   "shot": "E11",
+   "at": "s:250.33"
+  },
+  {
+   "shot": "E12",
+   "at": "s:251.76"
+  },
+  {
+   "shot": "E13",
+   "at": "s:254.07"
+  },
+  {
+   "shot": "E14",
+   "at": "s:257.95"
+  },
+  {
+   "shot": "E15",
+   "at": "s:260.29"
+  },
+  {
+   "shot": "E16",
+   "at": "s:262.72"
+  },
+  {
+   "shot": "E17",
+   "at": "s:265.48"
+  },
+  {
+   "shot": "E18",
+   "at": "s:267.11"
+  },
+  {
+   "shot": "E19",
+   "at": "s:268.86"
+  },
+  {
+   "shot": "E20",
+   "at": "s:270.43"
+  },
+  {
+   "shot": "E21",
+   "at": "s:273.03"
+  },
+  {
+   "shot": "E22",
+   "at": "s:278.19"
+  },
+  {
+   "shot": "E23",
+   "at": "s:279.70"
+  },
+  {
+   "shot": "E24",
+   "at": "s:281.22"
+  },
+  {
+   "shot": "E25",
+   "at": "s:285.12",
+   "look": "ping"
+  },
+  {
+   "shot": "E26",
+   "at": "s:287.54"
+  },
+  {
+   "shot": "E27",
+   "at": "s:292.67"
+  },
+  {
+   "shot": "E28",
+   "at": "s:297.40"
+  }
+ ],
+ "fx": [
+  {
+   "at": "A7+12",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.35
+  },
+  {
+   "at": "A7+12",
+   "kind": "shake",
+   "len": 8,
+   "amp": 9
+  },
+  {
+   "at": "A19+30",
+   "kind": "flash",
+   "color": "#7CF0A8",
+   "o": 0.2
+  },
+  {
+   "at": "B13+10",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.3
+  },
+  {
+   "at": "B24+22",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.2
+  },
+  {
+   "at": "B23+14",
+   "kind": "shake",
+   "len": 8,
+   "amp": 5
+  },
+  {
+   "at": "B13+10",
+   "kind": "shake",
+   "len": 8,
+   "amp": 5
+  },
+  {
+   "at": "C1+8",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25
+  },
+  {
+   "at": "C17+22",
+   "kind": "shake",
+   "len": 6,
+   "amp": 6
+  },
+  {
+   "at": "C17+22",
+   "kind": "flash",
+   "color": "#FF4A3A",
+   "o": 0.22
+  },
+  {
+   "at": "C21+0",
+   "kind": "flash",
+   "color": "#FFE3C0",
+   "o": 0.3
+  },
+  {
+   "at": "C23+30",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.2
+  }
+ ]
+}

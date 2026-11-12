@@ -1,0 +1,19 @@
+# chapter A: beats 0-3. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "0 cold open"  0.00-10.37 s
+# Mười một giờ năm mươi chín phút đêm. Hạn nộp bài là đúng nửa đêm. Bạn mới viết được một dòng. Một tuần trước, bạn đã tự hứa. Mai làm. Cái ngày mai đó, chưa bao giờ đến.
+Mười@0.00 một@0.12 giờ@0.28 năm@0.72 mươi@0.87 chín@1.06 phút@1.25 đêm.@1.44 Hạn@1.90 nộp@2.10 bài@2.30 là@2.49 đúng@2.90 nửa@3.14 đêm.@3.34 Bạn@4.08 mới@4.25 viết@4.41 được@4.62 một@4.82 dòng.@4.98 Một@5.55 tuần@5.75 trước,@5.89 bạn@6.36 đã@6.57 tự@6.79 hứa.@6.95 Mai@7.68 làm.@7.91 Cái@8.59 ngày@8.77 mai@8.99 đó,@9.17 chưa@9.61 bao@9.81 giờ@9.98 đến.@10.14
+
+## beat "1 premise"  11.37-15.46 s
+# Sẽ ra sao nếu bạn trì hoãn mọi thứ? Không chỉ bài tập. Mà cả cuộc đời.
+Sẽ@11.30 ra@11.46 sao@11.62 nếu@11.82 bạn@12.02 trì@12.22 hoãn@12.42 mọi@12.66 thứ?@12.86 Không@13.51 chỉ@13.71 bài@13.84 tập.@13.97 Mà@14.65 cả@14.81 cuộc@14.96 đời.@15.20
+
+## beat "2 seven days"  16.46-31.01 s
+# Còn bảy ngày. Cô giáo giao bài thuyết trình về hệ mặt trời. Bảy ngày, dư sức. Bạn mở máy, định làm, rồi xem một video. Rồi thêm một video nữa. Hai tiếng sau, bạn đang xem người ta làm xà phòng bằng tay. Bạn tự nhủ. Mai làm.
+Còn@16.39 bảy@16.58 ngày.@16.77 Cô@17.45 giáo@17.58 giao@17.78 bài@17.99 thuyết@18.15 trình@18.43 về@18.67 hệ@18.80 mặt@18.93 trời.@19.16 Bảy@19.91 ngày,@20.13 dư@20.66 sức.@20.82 Bạn@21.56 mở@21.83 máy,@22.04 định@22.55 làm,@22.80 rồi@23.30 xem@23.55 một@23.80 video.@24.05 Rồi@24.76 thêm@24.97 một@25.22 video@25.43 nữa.@25.73 Hai@26.48 tiếng@26.66 sau,@26.93 bạn@27.41 đang@27.57 xem@27.77 người@27.93 ta@28.16 làm@28.29 xà@28.45 phòng@28.65 bằng@28.88 tay.@29.08 Bạn@29.66 tự@29.86 nhủ.@30.02 Mai@30.44 làm.@30.69
+
+## beat "2 five days"  31.39-43.72 s
+# Còn năm ngày. Lần này bạn quyết tâm ngồi vào bàn. Nhưng bàn bừa quá. Bạn dọn bàn. Dọn luôn tủ quần áo. Rửa luôn chồng bát cho mẹ. Mẹ cảm động suýt khóc. Còn bài thuyết trình thì vẫn trắng tinh.
+Còn@31.32 năm@31.52 ngày.@31.71 Lần@32.49 này@32.66 bạn@32.84 quyết@33.20 tâm@33.53 ngồi@33.70 vào@33.91 bàn.@34.09 Nhưng@34.79 bàn@35.11 bừa@35.33 quá.@35.56 Bạn@36.27 dọn@36.48 bàn.@36.70 Dọn@37.24 luôn@37.44 tủ@37.68 quần@37.84 áo.@38.08 Rửa@38.56 luôn@38.75 chồng@38.98 bát@39.25 cho@39.44 mẹ.@39.63 Mẹ@40.20 cảm@40.32 động@40.54 suýt@40.72 khóc.@40.91 Còn@41.69 bài@41.84 thuyết@42.00 trình@42.32 thì@42.55 vẫn@43.09 trắng@43.25 tinh.@43.47
+
+# chapter ends at s:44.66 (next chapter's first cut, or the episode end)

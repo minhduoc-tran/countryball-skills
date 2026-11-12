@@ -1,0 +1,431 @@
+{
+ "chapter": "d",
+ "shots": [
+  {
+   "id": "D1",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "school",
+   "key": 17,
+   "note": "Trường Bồ Đề trước chiến sự"
+  },
+  {
+   "id": "D2",
+   "file": "shots-chd",
+   "size": "medium",
+   "set": "school",
+   "key": 17,
+   "note": "Trường Bồ Đề trước chiến sự"
+  },
+  {
+   "id": "D3",
+   "file": "shots-chd",
+   "size": "close",
+   "set": "school",
+   "key": 17,
+   "note": "Trường Bồ Đề trước chiến sự"
+  },
+  {
+   "id": "D4",
+   "file": "shots-chd",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Trường Bồ Đề trước chiến sự"
+  },
+  {
+   "id": "D5",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "school",
+   "key": 17,
+   "note": "Trung đoàn Tám Tám giữ chốt"
+  },
+  {
+   "id": "D6",
+   "file": "shots-chd",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Trung đoàn Tám Tám giữ chốt"
+  },
+  {
+   "id": "D7",
+   "file": "shots-chd",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Trung đoàn Tám Tám giữ chốt"
+  },
+  {
+   "id": "D8",
+   "file": "shots-chd",
+   "size": "close",
+   "set": "school",
+   "key": 17,
+   "note": "Trung đoàn Tám Tám giữ chốt"
+  },
+  {
+   "id": "D9",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "school",
+   "key": 17,
+   "note": "Trung đoàn Tám Tám giữ chốt"
+  },
+  {
+   "id": "D10",
+   "file": "shots-chd",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Một tòa thành, nhiều hướng đánh"
+  },
+  {
+   "id": "D11",
+   "file": "shots-chd",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Một tòa thành, nhiều hướng đánh"
+  },
+  {
+   "id": "D12",
+   "file": "shots-chd",
+   "size": "medium",
+   "set": "breach",
+   "key": 17,
+   "note": "Một tòa thành, nhiều hướng đánh"
+  },
+  {
+   "id": "D13",
+   "file": "shots-chd",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Một tòa thành, nhiều hướng đánh"
+  },
+  {
+   "id": "D14",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "breach",
+   "key": 17,
+   "note": "Một tòa thành, nhiều hướng đánh"
+  },
+  {
+   "id": "D15",
+   "file": "shots-chd",
+   "size": "archive",
+   "set": "photo",
+   "key": 17,
+   "note": "Gạch đổ vẫn là công sự"
+  },
+  {
+   "id": "D16",
+   "file": "shots-chd",
+   "size": "archive",
+   "set": "photo",
+   "key": 17,
+   "note": "Gạch đổ vẫn là công sự"
+  },
+  {
+   "id": "D17",
+   "file": "shots-chd",
+   "size": "close",
+   "set": "breach",
+   "key": 17,
+   "note": "Gạch đổ vẫn là công sự"
+  },
+  {
+   "id": "D18",
+   "file": "shots-chd",
+   "size": "archive",
+   "set": "photo",
+   "key": 17,
+   "note": "Gạch đổ vẫn là công sự"
+  },
+  {
+   "id": "D19",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ hầm sang hố đạn"
+  },
+  {
+   "id": "D20",
+   "file": "shots-chd",
+   "size": "medium",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ hầm sang hố đạn"
+  },
+  {
+   "id": "D21",
+   "file": "shots-chd",
+   "size": "medium",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ hầm sang hố đạn"
+  },
+  {
+   "id": "D22",
+   "file": "shots-chd",
+   "size": "close",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ hầm sang hố đạn"
+  },
+  {
+   "id": "D23",
+   "file": "shots-chd",
+   "size": "close",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ hầm sang hố đạn"
+  },
+  {
+   "id": "D24",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "gate",
+   "key": 17,
+   "note": "Trở lại cổng Tây"
+  },
+  {
+   "id": "D25",
+   "file": "shots-chd",
+   "size": "medium",
+   "set": "gate",
+   "key": 17,
+   "note": "Trở lại cổng Tây"
+  },
+  {
+   "id": "D26",
+   "file": "shots-chd",
+   "size": "close",
+   "set": "gate",
+   "key": 17,
+   "note": "Trở lại cổng Tây"
+  },
+  {
+   "id": "D27",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "gate",
+   "key": 17,
+   "note": "Trở lại cổng Tây"
+  },
+  {
+   "id": "D28",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "gate",
+   "key": 17,
+   "note": "Trở lại cổng Tây"
+  },
+  {
+   "id": "D29",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "portrait",
+   "key": 17,
+   "note": "Hai người lính bị thương"
+  },
+  {
+   "id": "D30",
+   "file": "shots-chd",
+   "size": "medium",
+   "set": "portrait",
+   "key": 17,
+   "note": "Hai người lính bị thương"
+  },
+  {
+   "id": "D31",
+   "file": "shots-chd",
+   "size": "medium",
+   "set": "portrait",
+   "key": 17,
+   "note": "Hai người lính bị thương"
+  },
+  {
+   "id": "D32",
+   "file": "shots-chd",
+   "size": "close",
+   "set": "cross",
+   "key": 17,
+   "note": "Hai người lính bị thương"
+  },
+  {
+   "id": "D33",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "portrait",
+   "key": 17,
+   "note": "Hai người lính bị thương"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "D1",
+   "at": "s:338.0667"
+  },
+  {
+   "shot": "D2",
+   "at": "s:340.3667"
+  },
+  {
+   "shot": "D3",
+   "at": "s:342.4000"
+  },
+  {
+   "shot": "D4",
+   "at": "s:345.4333"
+  },
+  {
+   "shot": "D5",
+   "at": "s:349.5333"
+  },
+  {
+   "shot": "D6",
+   "at": "s:352.1667"
+  },
+  {
+   "shot": "D7",
+   "at": "s:354.2000"
+  },
+  {
+   "shot": "D8",
+   "at": "s:356.5667"
+  },
+  {
+   "shot": "D9",
+   "at": "s:358.9000"
+  },
+  {
+   "shot": "D10",
+   "at": "s:361.0667"
+  },
+  {
+   "shot": "D11",
+   "at": "s:362.7333"
+  },
+  {
+   "shot": "D12",
+   "at": "s:365.4667"
+  },
+  {
+   "shot": "D13",
+   "at": "s:368.9333"
+  },
+  {
+   "shot": "D14",
+   "at": "s:372.4667"
+  },
+  {
+   "shot": "D15",
+   "at": "s:374.9333"
+  },
+  {
+   "shot": "D16",
+   "at": "s:378.0667"
+  },
+  {
+   "shot": "D17",
+   "at": "s:381.6667"
+  },
+  {
+   "shot": "D18",
+   "at": "s:383.8333"
+  },
+  {
+   "shot": "D19",
+   "at": "s:387.6667"
+  },
+  {
+   "shot": "D20",
+   "at": "s:389.6000"
+  },
+  {
+   "shot": "D21",
+   "at": "s:392.7333"
+  },
+  {
+   "shot": "D22",
+   "at": "s:393.7667"
+  },
+  {
+   "shot": "D23",
+   "at": "s:397.6667"
+  },
+  {
+   "shot": "D24",
+   "at": "s:401.1667"
+  },
+  {
+   "shot": "D25",
+   "at": "s:403.0000"
+  },
+  {
+   "shot": "D26",
+   "at": "s:404.9667"
+  },
+  {
+   "shot": "D27",
+   "at": "s:407.2000"
+  },
+  {
+   "shot": "D28",
+   "at": "s:411.1667"
+  },
+  {
+   "shot": "D29",
+   "at": "s:413.4667"
+  },
+  {
+   "shot": "D30",
+   "at": "s:415.5667"
+  },
+  {
+   "shot": "D31",
+   "at": "s:417.9667"
+  },
+  {
+   "shot": "D32",
+   "at": "s:420.7667"
+  },
+  {
+   "shot": "D33",
+   "at": "s:424.2667"
+  }
+ ],
+ "events": [
+  [
+   "D5+8",
+   "bomb_far",
+   0.15,
+   "onset"
+  ],
+  [
+   "D21+8",
+   "bomb_far",
+   0.19,
+   "onset"
+  ],
+  [
+   "D24+8",
+   "rubble",
+   0.17,
+   "onset"
+  ]
+ ],
+ "fx": [
+  {
+   "at": "D24+11",
+   "kind": "shake",
+   "amp": 9,
+   "len": 9
+  }
+ ]
+}

@@ -1,0 +1,2645 @@
+{
+ "slug": "nghin-dong-moi-giay",
+ "title": "SẼ RA SAO NẾU BẠN KIẾM ĐƯỢC 1.000 ĐỒNG MỖI GIÂY?",
+ "fps": 30,
+ "total": 9143,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 32,
+   "t0": 0,
+   "t1": 32,
+   "line": "Hai mươi lăm giây."
+  },
+  {
+   "shot": "A2",
+   "a": 32,
+   "b": 67,
+   "t0": 0,
+   "t1": 35,
+   "line": "Một ổ bánh mì."
+  },
+  {
+   "shot": "A3",
+   "a": 67,
+   "b": 113,
+   "t0": 0,
+   "t1": 46,
+   "line": "Một giấc ngủ tám tiếng."
+  },
+  {
+   "shot": "A4",
+   "a": 113,
+   "b": 149,
+   "t0": 0,
+   "t1": 36,
+   "line": "Một chiếc xe máy mới."
+  },
+  {
+   "shot": "A5",
+   "a": 149,
+   "b": 177,
+   "t0": 0,
+   "t1": 28,
+   "line": "Một tháng."
+  },
+  {
+   "shot": "A6",
+   "a": 177,
+   "b": 230,
+   "t0": 0,
+   "t1": 53,
+   "line": "Một căn hộ nhỏ giữa thành phố."
+  },
+  {
+   "shot": "A7",
+   "a": 230,
+   "b": 335,
+   "t0": 0,
+   "t1": 105,
+   "line": "Sẽ ra sao nếu bạn kiếm được một nghìn đồng mỗi giây?"
+  },
+  {
+   "shot": "A8",
+   "a": 335,
+   "b": 360,
+   "t0": 0,
+   "t1": 25,
+   "line": "Sáng nay,"
+  },
+  {
+   "shot": "A9",
+   "a": 360,
+   "b": 397,
+   "t0": 0,
+   "t1": 37,
+   "line": "điện thoại bạn rung.",
+   "look": "ping"
+  },
+  {
+   "shot": "A10",
+   "a": 397,
+   "b": 479,
+   "t0": 0,
+   "t1": 82,
+   "line": "Tin nhắn từ ngân hàng: cộng một nghìn đồng.",
+   "look": "ping"
+  },
+  {
+   "shot": "A11",
+   "a": 479,
+   "b": 534,
+   "t0": 0,
+   "t1": 55,
+   "line": "Một giây sau, lại rung.",
+   "look": "ping"
+  },
+  {
+   "shot": "A12",
+   "a": 534,
+   "b": 573,
+   "t0": 0,
+   "t1": 39,
+   "line": "Cộng một nghìn đồng nữa.",
+   "look": "ping"
+  },
+  {
+   "shot": "A13",
+   "a": 573,
+   "b": 668,
+   "t0": 0,
+   "t1": 95,
+   "line": "Cứ mỗi giây, một nghìn đồng. Không bao giờ dừng.",
+   "look": "ping"
+  },
+  {
+   "shot": "A14",
+   "a": 668,
+   "b": 702,
+   "t0": 0,
+   "t1": 34,
+   "line": "Kể cả khi bạn ăn,",
+   "look": "ping"
+  },
+  {
+   "shot": "A15",
+   "a": 702,
+   "b": 725,
+   "t0": 0,
+   "t1": 23,
+   "line": "bạn tắm,",
+   "look": "ping"
+  },
+  {
+   "shot": "A16",
+   "a": 725,
+   "b": 754,
+   "t0": 0,
+   "t1": 29,
+   "line": "hay bạn ngủ.",
+   "look": "ping"
+  },
+  {
+   "shot": "A17",
+   "a": 754,
+   "b": 799,
+   "t0": 0,
+   "t1": 45,
+   "line": "Không ai biết tiền từ đâu ra,",
+   "look": "ping"
+  },
+  {
+   "shot": "A18",
+   "a": 799,
+   "b": 847,
+   "t0": 0,
+   "t1": 48,
+   "line": "nhưng ngân hàng kiểm tra rồi:",
+   "look": "ping"
+  },
+  {
+   "shot": "A19",
+   "a": 847,
+   "b": 884,
+   "t0": 0,
+   "t1": 37,
+   "line": "tất cả đều hợp lệ.",
+   "look": "ping"
+  },
+  {
+   "shot": "A20",
+   "a": 884,
+   "b": 926,
+   "t0": 0,
+   "t1": 42,
+   "line": "Bạn thử rút tiền ở cây",
+   "look": "ping"
+  },
+  {
+   "shot": "A21",
+   "a": 926,
+   "b": 965,
+   "t0": 0,
+   "t1": 39,
+   "line": "ATM: được.",
+   "look": "ping"
+  },
+  {
+   "shot": "A22",
+   "a": 965,
+   "b": 1026,
+   "t0": 0,
+   "t1": 61,
+   "line": "Bạn thử chuyển cho bạn thân năm trăm nghìn:",
+   "look": "ping"
+  },
+  {
+   "shot": "A23",
+   "a": 1026,
+   "b": 1048,
+   "t0": 0,
+   "t1": 22,
+   "line": "vẫn được.",
+   "look": "ping"
+  },
+  {
+   "shot": "A24",
+   "a": 1048,
+   "b": 1126,
+   "t0": 0,
+   "t1": 78,
+   "line": "Tiền thật. Và nó không ngừng chảy vào.",
+   "look": "ping"
+  },
+  {
+   "shot": "A25",
+   "a": 1126,
+   "b": 1148,
+   "t0": 0,
+   "t1": 22,
+   "line": "Đến trưa,",
+   "look": "ping"
+  },
+  {
+   "shot": "A26",
+   "a": 1148,
+   "b": 1218,
+   "t0": 0,
+   "t1": 70,
+   "line": "điện thoại bạn đã rung hơn hai mươi nghìn lần.",
+   "look": "ping"
+  },
+  {
+   "shot": "A27",
+   "a": 1218,
+   "b": 1255,
+   "t0": 0,
+   "t1": 37,
+   "line": "Bạn phải tắt thông báo,",
+   "look": "ping"
+  },
+  {
+   "shot": "A28",
+   "a": 1255,
+   "b": 1301,
+   "t0": 0,
+   "t1": 46,
+   "line": "để còn ngủ được.",
+   "look": "ping"
+  },
+  {
+   "shot": "B1",
+   "a": 1301,
+   "b": 1344,
+   "t0": 0,
+   "t1": 43,
+   "line": "Thử làm một phép tính nhé."
+  },
+  {
+   "shot": "B2",
+   "a": 1344,
+   "b": 1404,
+   "t0": 0,
+   "t1": 60,
+   "line": "Một phút: sáu mươi nghìn đồng."
+  },
+  {
+   "shot": "B3",
+   "a": 1404,
+   "b": 1477,
+   "t0": 0,
+   "t1": 73,
+   "line": "Một giờ: ba triệu sáu trăm nghìn."
+  },
+  {
+   "shot": "B4",
+   "a": 1477,
+   "b": 1520,
+   "t0": 0,
+   "t1": 43,
+   "line": "Một ngày: tám mươi"
+  },
+  {
+   "shot": "B5",
+   "a": 1520,
+   "b": 1561,
+   "t0": 0,
+   "t1": 41,
+   "line": "sáu triệu bốn trăm nghìn đồng."
+  },
+  {
+   "shot": "B6",
+   "a": 1561,
+   "b": 1626,
+   "t0": 0,
+   "t1": 65,
+   "line": "Một năm: hơn ba mươi mốt tỷ."
+  },
+  {
+   "shot": "B7",
+   "a": 1626,
+   "b": 1681,
+   "t0": 0,
+   "t1": 55,
+   "line": "Năm hai nghìn không trăm hai mươi lăm,"
+  },
+  {
+   "shot": "B8",
+   "a": 1681,
+   "b": 1754,
+   "t0": 0,
+   "t1": 73,
+   "line": "thu nhập bình quân của người lao động Việt Nam"
+  },
+  {
+   "shot": "B9",
+   "a": 1754,
+   "b": 1820,
+   "t0": 0,
+   "t1": 66,
+   "line": "là tám triệu bốn trăm nghìn đồng một tháng."
+  },
+  {
+   "shot": "B10",
+   "a": 1820,
+   "b": 1844,
+   "t0": 0,
+   "t1": 24,
+   "line": "Còn bạn?"
+  },
+  {
+   "shot": "B11",
+   "a": 1844,
+   "b": 1916,
+   "t0": 0,
+   "t1": 72,
+   "line": "Bạn kiếm số đó chỉ trong hơn hai tiếng."
+  },
+  {
+   "shot": "B12",
+   "a": 1916,
+   "b": 1950,
+   "t0": 0,
+   "t1": 34,
+   "line": "Đó là sự thật."
+  },
+  {
+   "shot": "B13",
+   "a": 1950,
+   "b": 1993,
+   "t0": 0,
+   "t1": 43,
+   "line": "Muốn có một nghìn tỷ đồng?"
+  },
+  {
+   "shot": "B14",
+   "a": 1993,
+   "b": 2059,
+   "t0": 0,
+   "t1": 66,
+   "line": "Bạn chỉ cần đợi. Ba mươi mốt năm,"
+  },
+  {
+   "shot": "B15",
+   "a": 2059,
+   "b": 2132,
+   "t0": 0,
+   "t1": 73,
+   "line": "tám tháng, không nghỉ giây nào."
+  },
+  {
+   "shot": "B16",
+   "a": 2132,
+   "b": 2190,
+   "t0": 0,
+   "t1": 58,
+   "line": "Ngày đầu tiên, bạn đi ăn sáng.",
+   "look": "ping"
+  },
+  {
+   "shot": "B17",
+   "a": 2190,
+   "b": 2242,
+   "t0": 0,
+   "t1": 52,
+   "line": "Ổ bánh mì hai mươi lăm nghìn:",
+   "look": "ping"
+  },
+  {
+   "shot": "B18",
+   "a": 2242,
+   "b": 2277,
+   "t0": 0,
+   "t1": 35,
+   "line": "hai mươi lăm giây.",
+   "look": "ping"
+  },
+  {
+   "shot": "B19",
+   "a": 2277,
+   "b": 2308,
+   "t0": 0,
+   "t1": 31,
+   "line": "Bạn ăn chưa xong,",
+   "look": "ping"
+  },
+  {
+   "shot": "B20",
+   "a": 2308,
+   "b": 2341,
+   "t0": 0,
+   "t1": 33,
+   "line": "tiền đã quay về.",
+   "look": "ping"
+  },
+  {
+   "shot": "B21",
+   "a": 2341,
+   "b": 2383,
+   "t0": 0,
+   "t1": 42,
+   "line": "Bạn bao cả lớp đi ăn.",
+   "look": "ping"
+  },
+  {
+   "shot": "B22",
+   "a": 2383,
+   "b": 2455,
+   "t0": 0,
+   "t1": 72,
+   "line": "Ba mươi người, mỗi người năm mươi nghìn:",
+   "look": "ping"
+  },
+  {
+   "shot": "B23",
+   "a": 2455,
+   "b": 2489,
+   "t0": 0,
+   "t1": 34,
+   "line": "hai mươi lăm phút.",
+   "look": "ping"
+  },
+  {
+   "shot": "B24",
+   "a": 2489,
+   "b": 2546,
+   "t0": 0,
+   "t1": 57,
+   "line": "Cả lớp gọi bạn là đại gia.",
+   "look": "ping"
+  },
+  {
+   "shot": "B25",
+   "a": 2546,
+   "b": 2617,
+   "t0": 0,
+   "t1": 71,
+   "line": "Bạn vào siêu thị, đẩy hai chiếc xe cùng lúc,",
+   "look": "ping"
+  },
+  {
+   "shot": "B26",
+   "a": 2617,
+   "b": 2663,
+   "t0": 0,
+   "t1": 46,
+   "line": "và không cần nhìn giá.",
+   "look": "ping"
+  },
+  {
+   "shot": "B27",
+   "a": 2663,
+   "b": 2702,
+   "t0": 0,
+   "t1": 39,
+   "line": "Cuối tuần, bạn bay",
+   "look": "ping"
+  },
+  {
+   "shot": "B28",
+   "a": 2702,
+   "b": 2739,
+   "t0": 0,
+   "t1": 37,
+   "line": "ra Đà Nẵng ngắm biển.",
+   "look": "ping"
+  },
+  {
+   "shot": "B29",
+   "a": 2739,
+   "b": 2816,
+   "t0": 0,
+   "t1": 77,
+   "line": "Vé máy bay hai triệu: ba mươi ba phút.",
+   "look": "ping"
+  },
+  {
+   "shot": "B30",
+   "a": 2816,
+   "b": 2858,
+   "t0": 0,
+   "t1": 42,
+   "line": "Khách sạn nhìn ra biển:",
+   "look": "ping"
+  },
+  {
+   "shot": "B31",
+   "a": 2858,
+   "b": 2909,
+   "t0": 0,
+   "t1": 51,
+   "line": "ngủ một đêm là đủ trả.",
+   "look": "ping"
+  },
+  {
+   "shot": "C1",
+   "a": 2909,
+   "b": 2968,
+   "t0": 0,
+   "t1": 59,
+   "line": "Bạn mua cho mẹ một chiếc máy giặt mới:",
+   "look": "ping"
+  },
+  {
+   "shot": "C2",
+   "a": 2968,
+   "b": 3009,
+   "t0": 0,
+   "t1": 41,
+   "line": "chưa đầy ba tiếng.",
+   "look": "ping"
+  },
+  {
+   "shot": "C3",
+   "a": 3009,
+   "b": 3076,
+   "t0": 0,
+   "t1": 67,
+   "line": "Tiền điện, tiền nhà, học phí của",
+   "look": "ping"
+  },
+  {
+   "shot": "C4",
+   "a": 3076,
+   "b": 3146,
+   "t0": 0,
+   "t1": 70,
+   "line": "em gái: trả hết trong một buổi chiều.",
+   "look": "ping"
+  },
+  {
+   "shot": "C5",
+   "a": 3146,
+   "b": 3187,
+   "t0": 0,
+   "t1": 41,
+   "line": "Bạn ủng hộ một trăm triệu cho",
+   "look": "ping"
+  },
+  {
+   "shot": "C6",
+   "a": 3187,
+   "b": 3236,
+   "t0": 0,
+   "t1": 49,
+   "line": "học sinh vùng cao, để các em",
+   "look": "ping"
+  },
+  {
+   "shot": "C7",
+   "a": 3236,
+   "b": 3277,
+   "t0": 0,
+   "t1": 41,
+   "line": "có áo ấm mùa đông.",
+   "look": "ping"
+  },
+  {
+   "shot": "C8",
+   "a": 3277,
+   "b": 3346,
+   "t0": 0,
+   "t1": 69,
+   "line": "Bạn chỉ mất hơn một ngày để kiếm lại.",
+   "look": "ping"
+  },
+  {
+   "shot": "C9",
+   "a": 3346,
+   "b": 3429,
+   "t0": 0,
+   "t1": 83,
+   "line": "Mỗi tối đi ngủ, bạn biết sáng mai thức dậy",
+   "look": "ping"
+  },
+  {
+   "shot": "C10",
+   "a": 3429,
+   "b": 3482,
+   "t0": 0,
+   "t1": 53,
+   "line": "sẽ giàu thêm hai mươi tám triệu.",
+   "look": "ping"
+  },
+  {
+   "shot": "C11",
+   "a": 3482,
+   "b": 3554,
+   "t0": 0,
+   "t1": 72,
+   "line": "Một chiếc ô tô nhỏ, khoảng bốn trăm triệu?",
+   "look": "ping"
+  },
+  {
+   "shot": "C12",
+   "a": 3554,
+   "b": 3590,
+   "t0": 0,
+   "t1": 36,
+   "line": "Chưa đến năm ngày.",
+   "look": "ping"
+  },
+  {
+   "shot": "C13",
+   "a": 3590,
+   "b": 3624,
+   "t0": 0,
+   "t1": 34,
+   "line": "Không phải đi làm.",
+   "look": "ping"
+  },
+  {
+   "shot": "C14",
+   "a": 3624,
+   "b": 3666,
+   "t0": 0,
+   "t1": 42,
+   "line": "Không phải lo cuối tháng.",
+   "look": "ping"
+  },
+  {
+   "shot": "C15",
+   "a": 3666,
+   "b": 3733,
+   "t0": 0,
+   "t1": 67,
+   "line": "Nghe như một giấc mơ, đúng không?",
+   "look": "ping"
+  },
+  {
+   "shot": "C16",
+   "a": 3733,
+   "b": 3780,
+   "t0": 0,
+   "t1": 47,
+   "line": "Nhưng tiền nhiều quá, cũng",
+   "look": "ping"
+  },
+  {
+   "shot": "C17",
+   "a": 3780,
+   "b": 3830,
+   "t0": 0,
+   "t1": 50,
+   "line": "có cái giá của nó."
+  },
+  {
+   "shot": "C18",
+   "a": 3830,
+   "b": 3868,
+   "t0": 0,
+   "t1": 38,
+   "line": "Thứ nhất: thuế."
+  },
+  {
+   "shot": "C19",
+   "a": 3868,
+   "b": 3963,
+   "t0": 0,
+   "t1": 95,
+   "line": "Từ tháng bảy năm hai nghìn không trăm hai mươi sáu, phần thu nhập tính"
+  },
+  {
+   "shot": "C20",
+   "a": 3963,
+   "b": 4046,
+   "t0": 0,
+   "t1": 83,
+   "line": "thuế trên một trăm triệu một tháng chịu mức thuế cao nhất:"
+  },
+  {
+   "shot": "C21",
+   "a": 4046,
+   "b": 4081,
+   "t0": 0,
+   "t1": 35,
+   "line": "ba mươi lăm phần trăm."
+  },
+  {
+   "shot": "C22",
+   "a": 4081,
+   "b": 4143,
+   "t0": 0,
+   "t1": 62,
+   "line": "Bạn chạm mức đó chỉ sau hơn một ngày."
+  },
+  {
+   "shot": "C23",
+   "a": 4143,
+   "b": 4236,
+   "t0": 0,
+   "t1": 93,
+   "line": "Cứ mỗi nghìn đồng, ba trăm năm mươi đồng là tiền thuế."
+  },
+  {
+   "shot": "C24",
+   "a": 4236,
+   "b": 4304,
+   "t0": 0,
+   "t1": 68,
+   "line": "Thứ hai: người ta bắt đầu để ý."
+  },
+  {
+   "shot": "C25",
+   "a": 4304,
+   "b": 4334,
+   "t0": 0,
+   "t1": 30,
+   "line": "Ngân hàng gọi.",
+   "look": "ping"
+  },
+  {
+   "shot": "C26",
+   "a": 4334,
+   "b": 4375,
+   "t0": 0,
+   "t1": 41,
+   "line": "Rồi cơ quan thuế gọi.",
+   "look": "ping"
+  },
+  {
+   "shot": "C27",
+   "a": 4375,
+   "b": 4430,
+   "t0": 0,
+   "t1": 55,
+   "line": "Rồi một người đàn ông mặc vest",
+   "look": "ping"
+  },
+  {
+   "shot": "C28",
+   "a": 4430,
+   "b": 4503,
+   "t0": 0,
+   "t1": 73,
+   "line": "đến tận nhà, hỏi tiền của bạn từ đâu ra.",
+   "look": "ping"
+  },
+  {
+   "shot": "C29",
+   "a": 4503,
+   "b": 4545,
+   "t0": 0,
+   "t1": 42,
+   "line": "Bạn không trả lời được.",
+   "look": "ping"
+  },
+  {
+   "shot": "C30",
+   "a": 4545,
+   "b": 4612,
+   "t0": 0,
+   "t1": 67,
+   "line": "Thứ ba: những người bạn mới."
+  },
+  {
+   "shot": "C31",
+   "a": 4612,
+   "b": 4667,
+   "t0": 0,
+   "t1": 55,
+   "line": "Tự nhiên ai cũng là bạn của bạn.",
+   "look": "ping"
+  },
+  {
+   "shot": "C32",
+   "a": 4667,
+   "b": 4750,
+   "t0": 0,
+   "t1": 83,
+   "line": "Họ hàng xa bạn chưa từng gặp gọi điện hỏi thăm.",
+   "look": "ping"
+  },
+  {
+   "shot": "C33",
+   "a": 4750,
+   "b": 4857,
+   "t0": 0,
+   "t1": 107,
+   "line": "Tin nhắn hỏi vay tiền nhiều hơn tin nhắn hỏi bạn có khỏe không."
+  },
+  {
+   "shot": "D1",
+   "a": 4857,
+   "b": 4936,
+   "t0": 0,
+   "t1": 79,
+   "line": "Cậu bạn thân rủ bạn đi đá bóng như mọi chiều.",
+   "look": "ping"
+  },
+  {
+   "shot": "D2",
+   "a": 4936,
+   "b": 5022,
+   "t0": 0,
+   "t1": 86,
+   "line": "Nhưng giờ, cậu ấy không cho bạn trả tiền nước nữa.",
+   "look": "ping"
+  },
+  {
+   "shot": "D3",
+   "a": 5022,
+   "b": 5054,
+   "t0": 0,
+   "t1": 32,
+   "line": "Cậu ấy ngại.",
+   "look": "ping"
+  },
+  {
+   "shot": "D4",
+   "a": 5054,
+   "b": 5104,
+   "t0": 0,
+   "t1": 50,
+   "line": "Thứ tư: an toàn."
+  },
+  {
+   "shot": "D5",
+   "a": 5104,
+   "b": 5157,
+   "t0": 0,
+   "t1": 53,
+   "line": "Bạn bắt đầu sợ ra đường một mình.",
+   "look": "ping"
+  },
+  {
+   "shot": "D6",
+   "a": 5157,
+   "b": 5218,
+   "t0": 0,
+   "t1": 61,
+   "line": "Bạn lắp camera, thuê bảo vệ,",
+   "look": "ping"
+  },
+  {
+   "shot": "D7",
+   "a": 5218,
+   "b": 5284,
+   "t0": 0,
+   "t1": 66,
+   "line": "đổi số điện thoại ba lần trong một tháng.",
+   "look": "ping"
+  },
+  {
+   "shot": "D8",
+   "a": 5284,
+   "b": 5370,
+   "t0": 0,
+   "t1": 86,
+   "line": "Năm một nghìn chín trăm bảy mươi tám, các nhà tâm lý học"
+  },
+  {
+   "shot": "D9",
+   "a": 5370,
+   "b": 5440,
+   "t0": 0,
+   "t1": 70,
+   "line": "khảo sát những người vừa trúng xổ số."
+  },
+  {
+   "shot": "D10",
+   "a": 5440,
+   "b": 5542,
+   "t0": 0,
+   "t1": 102,
+   "line": "Kết quả: họ không hạnh phúc hơn người bình thường là bao."
+  },
+  {
+   "shot": "D11",
+   "a": 5542,
+   "b": 5662,
+   "t0": 0,
+   "t1": 120,
+   "line": "Và họ thấy những niềm vui nhỏ, như một bữa sáng ngon hay một câu chuyện với bạn"
+  },
+  {
+   "shot": "D12",
+   "a": 5662,
+   "b": 5719,
+   "t0": 0,
+   "t1": 57,
+   "line": "bè, kém thú vị hơn trước."
+  },
+  {
+   "shot": "D13",
+   "a": 5719,
+   "b": 5819,
+   "t0": 0,
+   "t1": 100,
+   "line": "Và có một điều may mắn: chỉ mình bạn có sức mạnh này."
+  },
+  {
+   "shot": "D14",
+   "a": 5819,
+   "b": 5891,
+   "t0": 0,
+   "t1": 72,
+   "line": "Vì nếu ai cũng kiếm được một nghìn đồng mỗi giây,"
+  },
+  {
+   "shot": "D15",
+   "a": 5891,
+   "b": 5954,
+   "t0": 0,
+   "t1": 63,
+   "line": "thì một nghìn đồng sẽ chẳng còn giá trị."
+  },
+  {
+   "shot": "D16",
+   "a": 5954,
+   "b": 6049,
+   "t0": 0,
+   "t1": 95,
+   "line": "Giá ổ bánh mì sẽ tăng vọt, có khi lên đến hàng triệu."
+  },
+  {
+   "shot": "D17",
+   "a": 6049,
+   "b": 6121,
+   "t0": 0,
+   "t1": 72,
+   "line": "Các nhà kinh tế gọi đó là lạm phát:"
+  },
+  {
+   "shot": "D18",
+   "a": 6121,
+   "b": 6222,
+   "t0": 0,
+   "t1": 101,
+   "line": "khi tiền tăng nhanh hơn hàng hóa, mỗi đồng tiền mua được ít đi."
+  },
+  {
+   "shot": "D19",
+   "a": 6222,
+   "b": 6292,
+   "t0": 0,
+   "t1": 70,
+   "line": "Các nhà khoa học gọi đó là sự thích nghi:",
+   "look": "cold"
+  },
+  {
+   "shot": "D20",
+   "a": 6292,
+   "b": 6362,
+   "t0": 0,
+   "t1": 70,
+   "line": "thứ gì có mãi, rồi cũng thành bình thường.",
+   "look": "cold"
+  },
+  {
+   "shot": "D21",
+   "a": 6362,
+   "b": 6420,
+   "t0": 0,
+   "t1": 58,
+   "line": "Ổ bánh mì không còn ngon như trước.",
+   "look": "cold"
+  },
+  {
+   "shot": "D22",
+   "a": 6420,
+   "b": 6475,
+   "t0": 0,
+   "t1": 55,
+   "line": "Món quà không còn bất ngờ.",
+   "look": "cold"
+  },
+  {
+   "shot": "D23",
+   "a": 6475,
+   "b": 6568,
+   "t0": 0,
+   "t1": 93,
+   "line": "Khi mọi thứ đều mua được, không còn gì đặc biệt.",
+   "look": "cold"
+  },
+  {
+   "shot": "D24",
+   "a": 6568,
+   "b": 6625,
+   "t0": 0,
+   "t1": 57,
+   "line": "Rồi một tối, mẹ gọi điện."
+  },
+  {
+   "shot": "D25",
+   "a": 6625,
+   "b": 6693,
+   "t0": 0,
+   "t1": 68,
+   "line": "Mẹ không hỏi về tiền. Mẹ chỉ hỏi:"
+  },
+  {
+   "shot": "D26",
+   "a": 6693,
+   "b": 6780,
+   "t0": 0,
+   "t1": 87,
+   "line": "dạo này con bận gì, mà không về ăn cơm với nhà?"
+  },
+  {
+   "shot": "E1",
+   "a": 6780,
+   "b": 6837,
+   "t0": 0,
+   "t1": 57,
+   "line": "Lúc đó bạn mới nhận ra:"
+  },
+  {
+   "shot": "E2",
+   "a": 6837,
+   "b": 6975,
+   "t0": 0,
+   "t1": 138,
+   "line": "tiền vào mỗi giây, nhưng một ngày của bạn vẫn chỉ có tám mươi sáu nghìn bốn trăm giây."
+  },
+  {
+   "shot": "E3",
+   "a": 6975,
+   "b": 7014,
+   "t0": 0,
+   "t1": 39,
+   "line": "Như tất cả mọi người."
+  },
+  {
+   "shot": "E4",
+   "a": 7014,
+   "b": 7120,
+   "t0": 0,
+   "t1": 106,
+   "line": "Tuổi thọ trung bình của người Việt Nam là gần bảy mươi lăm năm."
+  },
+  {
+   "shot": "E5",
+   "a": 7120,
+   "b": 7201,
+   "t0": 0,
+   "t1": 81,
+   "line": "Tức là khoảng hai tỷ ba trăm triệu giây."
+  },
+  {
+   "shot": "E6",
+   "a": 7201,
+   "b": 7335,
+   "t0": 0,
+   "t1": 134,
+   "line": "Và mỗi giây trôi qua, dù bạn kiếm được bao nhiêu tiền, cũng không bao giờ quay lại."
+  },
+  {
+   "shot": "E7",
+   "a": 7335,
+   "b": 7399,
+   "t0": 0,
+   "t1": 64,
+   "line": "Bạn có thể trả tiền để người khác xếp hàng,"
+  },
+  {
+   "shot": "E8",
+   "a": 7399,
+   "b": 7420,
+   "t0": 0,
+   "t1": 21,
+   "line": "nấu ăn,"
+  },
+  {
+   "shot": "E9",
+   "a": 7420,
+   "b": 7459,
+   "t0": 0,
+   "t1": 39,
+   "line": "lái xe cho bạn."
+  },
+  {
+   "shot": "E10",
+   "a": 7459,
+   "b": 7510,
+   "t0": 0,
+   "t1": 51,
+   "line": "Nhưng không ai ngủ thay bạn được."
+  },
+  {
+   "shot": "E11",
+   "a": 7510,
+   "b": 7553,
+   "t0": 0,
+   "t1": 43,
+   "line": "Không ai ốm thay bạn được."
+  },
+  {
+   "shot": "E12",
+   "a": 7553,
+   "b": 7622,
+   "t0": 0,
+   "t1": 69,
+   "line": "Và không ai lớn lên thay em gái bạn được."
+  },
+  {
+   "shot": "E13",
+   "a": 7622,
+   "b": 7738,
+   "t0": 0,
+   "t1": 116,
+   "line": "Bạn có thể mua mọi thứ. Trừ một thứ: thời gian."
+  },
+  {
+   "shot": "E14",
+   "a": 7738,
+   "b": 7809,
+   "t0": 0,
+   "t1": 71,
+   "line": "Giờ hãy tưởng tượng: bạn được chọn."
+  },
+  {
+   "shot": "E15",
+   "a": 7809,
+   "b": 7882,
+   "t0": 0,
+   "t1": 73,
+   "line": "Một nghìn đồng mỗi giây, mãi mãi."
+  },
+  {
+   "shot": "E16",
+   "a": 7882,
+   "b": 7964,
+   "t0": 0,
+   "t1": 82,
+   "line": "Hoặc thêm một giờ mỗi ngày, với những người bạn thương."
+  },
+  {
+   "shot": "E17",
+   "a": 7964,
+   "b": 8013,
+   "t0": 0,
+   "t1": 49,
+   "line": "Bạn chọn gì?"
+  },
+  {
+   "shot": "E18",
+   "a": 8013,
+   "b": 8066,
+   "t0": 0,
+   "t1": 53,
+   "line": "Tối hôm đó, bạn về nhà."
+  },
+  {
+   "shot": "E19",
+   "a": 8066,
+   "b": 8113,
+   "t0": 0,
+   "t1": 47,
+   "line": "Bạn úp điện thoại xuống bàn."
+  },
+  {
+   "shot": "E20",
+   "a": 8113,
+   "b": 8191,
+   "t0": 0,
+   "t1": 78,
+   "line": "Tiền vẫn chạy, từng giây, từng giây."
+  },
+  {
+   "shot": "E21",
+   "a": 8191,
+   "b": 8346,
+   "t0": 0,
+   "t1": 155,
+   "line": "Nhưng lần đầu tiên sau nhiều tuần, bạn ngồi ăn cơm với mẹ và em gái, và không đếm thời gian."
+  },
+  {
+   "shot": "E22",
+   "a": 8346,
+   "b": 8391,
+   "t0": 0,
+   "t1": 45,
+   "line": "Em gái kể chuyện ở trường."
+  },
+  {
+   "shot": "E23",
+   "a": 8391,
+   "b": 8437,
+   "t0": 0,
+   "t1": 46,
+   "line": "Mẹ gắp cho bạn miếng cá."
+  },
+  {
+   "shot": "E24",
+   "a": 8437,
+   "b": 8554,
+   "t0": 0,
+   "t1": 117,
+   "line": "Bữa cơm đó không tốn một đồng nào, nhưng là bữa ngon nhất trong tháng."
+  },
+  {
+   "shot": "E25",
+   "a": 8554,
+   "b": 8626,
+   "t0": 0,
+   "t1": 72,
+   "line": "À, còn một điều. Nếu bạn có sức mạnh này,",
+   "look": "ping"
+  },
+  {
+   "shot": "E26",
+   "a": 8626,
+   "b": 8780,
+   "t0": 0,
+   "t1": 154,
+   "line": "thì chỉ riêng thời gian xem video này thôi, bạn đã kiếm được khoảng ba trăm nghìn đồng."
+  },
+  {
+   "shot": "E27",
+   "a": 8780,
+   "b": 8922,
+   "t0": 0,
+   "t1": 142,
+   "line": "Còn bạn, nếu kiếm được một nghìn đồng mỗi giây, việc đầu tiên bạn sẽ làm là gì?"
+  },
+  {
+   "shot": "E28",
+   "a": 8922,
+   "b": 9143,
+   "t0": 0,
+   "t1": 221,
+   "line": "Và nếu phải chọn, bạn chọn tiền, hay chọn thời gian? Bình luận cho mình biết nhé."
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "key": 20,
+   "len": 32,
+   "first": 0,
+   "line": "Hai mươi lăm giây.",
+   "note": "banh mi cart, Pip takes a loaf, tag 25 giay"
+  },
+  {
+   "id": "A2",
+   "size": "insert",
+   "key": 28,
+   "len": 35,
+   "first": 32,
+   "line": "Một ổ bánh mì.",
+   "note": "loaf bitten, crumbs"
+  },
+  {
+   "id": "A3",
+   "size": "medium",
+   "key": 30,
+   "len": 46,
+   "first": 67,
+   "line": "Một giấc ngủ tám tiếng.",
+   "note": "asleep, tag 8 tieng = 28,8 trieu"
+  },
+  {
+   "id": "A4",
+   "size": "medium",
+   "key": 14,
+   "len": 36,
+   "first": 113,
+   "line": "Một chiếc xe máy mới.",
+   "note": "new motorbike red bow"
+  },
+  {
+   "id": "A5",
+   "size": "insert",
+   "key": 22,
+   "len": 28,
+   "first": 149,
+   "line": "Một tháng.",
+   "note": "key in door, flat opens"
+  },
+  {
+   "id": "A6",
+   "size": "wide",
+   "key": 30,
+   "len": 53,
+   "first": 177,
+   "line": "Một căn hộ nhỏ giữa thành phố.",
+   "note": "empty flat over dusk city"
+  },
+  {
+   "id": "A7",
+   "size": "wide",
+   "key": 60,
+   "len": 105,
+   "first": 230,
+   "line": "Sẽ ra sao nếu bạn kiếm được một nghìn đồng mỗi giây?",
+   "note": "TITLE over street, phone glow"
+  },
+  {
+   "id": "A8",
+   "size": "macro",
+   "key": 14,
+   "len": 25,
+   "first": 335,
+   "line": "Sáng nay,",
+   "note": "alarm 06:00"
+  },
+  {
+   "id": "A9",
+   "size": "insert",
+   "key": 20,
+   "len": 37,
+   "first": 360,
+   "line": "điện thoại bạn rung.",
+   "note": "phone buzzing nightstand"
+  },
+  {
+   "id": "A10",
+   "size": "insert",
+   "key": 50,
+   "len": 82,
+   "first": 397,
+   "line": "Tin nhắn từ ngân hàng: cộng một nghìn đồng.",
+   "note": "notification NGAN HANG +1.000"
+  },
+  {
+   "id": "A11",
+   "size": "insert",
+   "key": 54,
+   "len": 55,
+   "first": 479,
+   "line": "Một giây sau, lại rung.",
+   "note": "second notification stacks"
+  },
+  {
+   "id": "A12",
+   "size": "close-up",
+   "key": 30,
+   "len": 39,
+   "first": 534,
+   "line": "Cộng một nghìn đồng nữa.",
+   "note": "Pip squints at screen light"
+  },
+  {
+   "id": "A13",
+   "size": "insert",
+   "key": 70,
+   "len": 95,
+   "first": 573,
+   "line": "Cứ mỗi giây, một nghìn đồng. Không bao giờ dừng.",
+   "note": "balance counts up, 1 second dial"
+  },
+  {
+   "id": "A14",
+   "size": "wide",
+   "key": 24,
+   "len": 34,
+   "first": 668,
+   "line": "Kể cả khi bạn ăn,",
+   "note": "eating"
+  },
+  {
+   "id": "A15",
+   "size": "close-up",
+   "key": 14,
+   "len": 23,
+   "first": 702,
+   "line": "bạn tắm,",
+   "note": "shower steam"
+  },
+  {
+   "id": "A16",
+   "size": "wide",
+   "key": 16,
+   "len": 29,
+   "first": 725,
+   "line": "hay bạn ngủ.",
+   "note": "asleep, phone lit"
+  },
+  {
+   "id": "A17",
+   "size": "medium",
+   "key": 34,
+   "len": 45,
+   "first": 754,
+   "line": "Không ai biết tiền từ đâu ra,",
+   "note": "shrug question marks"
+  },
+  {
+   "id": "A18",
+   "size": "medium",
+   "key": 30,
+   "len": 48,
+   "first": 799,
+   "line": "nhưng ngân hàng kiểm tra rồi:",
+   "note": "suit officer"
+  },
+  {
+   "id": "A19",
+   "size": "insert",
+   "key": 36,
+   "len": 37,
+   "first": 847,
+   "line": "tất cả đều hợp lệ.",
+   "note": "check HOP LE stamp"
+  },
+  {
+   "id": "A20",
+   "size": "wide",
+   "key": 20,
+   "len": 42,
+   "first": 884,
+   "line": "Bạn thử rút tiền ở cây",
+   "note": "ATM"
+  },
+  {
+   "id": "A21",
+   "size": "close-up",
+   "key": 34,
+   "len": 39,
+   "first": 926,
+   "line": "ATM: được.",
+   "note": "cash slides, Pip amazed"
+  },
+  {
+   "id": "A22",
+   "size": "insert",
+   "key": 40,
+   "len": 61,
+   "first": 965,
+   "line": "Bạn thử chuyển cho bạn thân năm trăm nghìn:",
+   "note": "transfer 500.000 to Mo"
+  },
+  {
+   "id": "A23",
+   "size": "medium",
+   "key": 22,
+   "len": 22,
+   "first": 1026,
+   "line": "vẫn được.",
+   "note": "Mo shocked +500.000"
+  },
+  {
+   "id": "A24",
+   "size": "insert",
+   "key": 50,
+   "len": 78,
+   "first": 1048,
+   "line": "Tiền thật. Và nó không ngừng chảy vào.",
+   "note": "balance climbing, notes"
+  },
+  {
+   "id": "A25",
+   "size": "macro",
+   "key": 20,
+   "len": 22,
+   "first": 1126,
+   "line": "Đến trưa,",
+   "note": "wall clock 12:00"
+  },
+  {
+   "id": "A26",
+   "size": "top-down",
+   "key": 40,
+   "len": 70,
+   "first": 1148,
+   "line": "điện thoại bạn đã rung hơn hai mươi nghìn lần.",
+   "note": "phone 21.600 vibrates"
+  },
+  {
+   "id": "A27",
+   "size": "insert",
+   "key": 30,
+   "len": 37,
+   "first": 1218,
+   "line": "Bạn phải tắt thông báo,",
+   "note": "toggle OFF"
+  },
+  {
+   "id": "A28",
+   "size": "medium",
+   "key": 34,
+   "len": 46,
+   "first": 1255,
+   "line": "để còn ngủ được.",
+   "note": "flop on bed, peace"
+  },
+  {
+   "id": "B1",
+   "size": "medium",
+   "key": 40,
+   "len": 43,
+   "first": 1301,
+   "line": "Thử làm một phép tính nhé.",
+   "note": "calculator, 1.000 x 60"
+  },
+  {
+   "id": "B2",
+   "size": "medium",
+   "key": 50,
+   "len": 60,
+   "first": 1344,
+   "line": "Một phút: sáu mươi nghìn đồng.",
+   "note": "1 phút card: clock, 60.000 đ, 1 coin column"
+  },
+  {
+   "id": "B3",
+   "size": "medium",
+   "key": 62,
+   "len": 73,
+   "first": 1404,
+   "line": "Một giờ: ba triệu sáu trăm nghìn.",
+   "note": "1 giờ card: 3.600.000 đ"
+  },
+  {
+   "id": "B4",
+   "size": "medium",
+   "key": 40,
+   "len": 43,
+   "first": 1477,
+   "line": "Một ngày: tám mươi",
+   "note": "1 ngày card: 86.400.000 đ"
+  },
+  {
+   "id": "B5",
+   "size": "wide",
+   "key": 36,
+   "len": 41,
+   "first": 1520,
+   "line": "sáu triệu bốn trăm nghìn đồng.",
+   "note": "wall of banknote bricks"
+  },
+  {
+   "id": "B6",
+   "size": "wide",
+   "key": 62,
+   "len": 65,
+   "first": 1561,
+   "line": "Một năm: hơn ba mươi mốt tỷ.",
+   "note": "1 năm: 31 TỶ huge, tower of money"
+  },
+  {
+   "id": "B7",
+   "size": "medium",
+   "key": 40,
+   "len": 55,
+   "first": 1626,
+   "line": "Năm hai nghìn không trăm hai mươi lăm,",
+   "note": "NĂM 2025 calendar"
+  },
+  {
+   "id": "B8",
+   "size": "wide",
+   "key": 60,
+   "len": 73,
+   "first": 1681,
+   "line": "thu nhập bình quân của người lao động Việt Nam",
+   "note": "crowd of workers lighting up"
+  },
+  {
+   "id": "B9",
+   "size": "medium",
+   "key": 60,
+   "len": 66,
+   "first": 1754,
+   "line": "là tám triệu bốn trăm nghìn đồng một tháng.",
+   "note": "8,4 TRIỆU / THÁNG worker"
+  },
+  {
+   "id": "B10",
+   "size": "close",
+   "key": 18,
+   "len": 24,
+   "first": 1820,
+   "line": "Còn bạn?",
+   "note": "Còn bạn? open hand"
+  },
+  {
+   "id": "B11",
+   "size": "medium",
+   "key": 66,
+   "len": 72,
+   "first": 1844,
+   "line": "Bạn kiếm số đó chỉ trong hơn hai tiếng.",
+   "note": "clock to 2 GIỜ 20 PHÚT"
+  },
+  {
+   "id": "B12",
+   "size": "close",
+   "key": 24,
+   "len": 34,
+   "first": 1916,
+   "line": "Đó là sự thật.",
+   "note": "stunned close-up"
+  },
+  {
+   "id": "B13",
+   "size": "wide",
+   "key": 34,
+   "len": 43,
+   "first": 1950,
+   "line": "Muốn có một nghìn tỷ đồng?",
+   "note": "1.000 TỶ between walls of notes"
+  },
+  {
+   "id": "B14",
+   "size": "wide",
+   "key": 58,
+   "len": 66,
+   "first": 1993,
+   "line": "Bạn chỉ cần đợi. Ba mươi mốt năm,",
+   "note": "bench wait, calendar flips, beard starts"
+  },
+  {
+   "id": "B15",
+   "size": "medium",
+   "key": 66,
+   "len": 73,
+   "first": 2059,
+   "line": "tám tháng, không nghỉ giây nào.",
+   "note": "long beard, 31 NĂM 8 THÁNG"
+  },
+  {
+   "id": "B16",
+   "size": "wide",
+   "key": 40,
+   "len": 58,
+   "first": 2132,
+   "line": "Ngày đầu tiên, bạn đi ăn sáng.",
+   "note": "morning street, walks to banh mi cart"
+  },
+  {
+   "id": "B17",
+   "size": "close",
+   "key": 34,
+   "len": 52,
+   "first": 2190,
+   "line": "Ổ bánh mì hai mươi lăm nghìn:",
+   "note": "banh mi macro, 25.000 đ sign"
+  },
+  {
+   "id": "B18",
+   "size": "medium",
+   "key": 30,
+   "len": 35,
+   "first": 2242,
+   "line": "hai mươi lăm giây.",
+   "note": "scan QR, 25.000 đ = 25 GIÂY"
+  },
+  {
+   "id": "B19",
+   "size": "medium",
+   "key": 24,
+   "len": 31,
+   "first": 2277,
+   "line": "Bạn ăn chưa xong,",
+   "note": "chewing the banh mi"
+  },
+  {
+   "id": "B20",
+   "size": "close",
+   "key": 24,
+   "len": 33,
+   "first": 2308,
+   "line": "tiền đã quay về.",
+   "note": "phone balance refilling"
+  },
+  {
+   "id": "B21",
+   "size": "wide",
+   "key": 40,
+   "len": 42,
+   "first": 2341,
+   "line": "Bạn bao cả lớp đi ăn.",
+   "note": "quán on the pavement, kids cheer"
+  },
+  {
+   "id": "B22",
+   "size": "medium",
+   "key": 36,
+   "len": 72,
+   "first": 2383,
+   "line": "Ba mươi người, mỗi người năm mươi nghìn:",
+   "note": "table of bowls, 30 x 50.000 đ"
+  },
+  {
+   "id": "B23",
+   "size": "close",
+   "key": 30,
+   "len": 34,
+   "first": 2455,
+   "line": "hai mươi lăm phút.",
+   "note": "receipt, = 25 PHÚT"
+  },
+  {
+   "id": "B24",
+   "size": "medium",
+   "key": 40,
+   "len": 57,
+   "first": 2489,
+   "line": "Cả lớp gọi bạn là đại gia.",
+   "note": "kids chant, paper crown + shades"
+  },
+  {
+   "id": "B25",
+   "size": "wide",
+   "key": 50,
+   "len": 71,
+   "first": 2546,
+   "line": "Bạn vào siêu thị, đẩy hai chiếc xe cùng lúc,",
+   "note": "two carts overflowing"
+  },
+  {
+   "id": "B26",
+   "size": "medium",
+   "key": 30,
+   "len": 46,
+   "first": 2617,
+   "line": "và không cần nhìn giá.",
+   "note": "walks past price tags, eyes closed"
+  },
+  {
+   "id": "B27",
+   "size": "medium",
+   "key": 30,
+   "len": 39,
+   "first": 2663,
+   "line": "Cuối tuần, bạn bay",
+   "note": "plane window clouds"
+  },
+  {
+   "id": "B28",
+   "size": "wide",
+   "key": 40,
+   "len": 37,
+   "first": 2702,
+   "line": "ra Đà Nẵng ngắm biển.",
+   "note": "beach at dusk arms wide"
+  },
+  {
+   "id": "B29",
+   "size": "close",
+   "key": 50,
+   "len": 77,
+   "first": 2739,
+   "line": "Vé máy bay hai triệu: ba mươi ba phút.",
+   "note": "ticket 2.000.000 đ = 33 PHÚT"
+  },
+  {
+   "id": "B30",
+   "size": "wide",
+   "key": 24,
+   "len": 42,
+   "first": 2816,
+   "line": "Khách sạn nhìn ra biển:",
+   "note": "hotel room with sea window"
+  },
+  {
+   "id": "B31",
+   "size": "medium",
+   "key": 34,
+   "len": 51,
+   "first": 2858,
+   "line": "ngủ một đêm là đủ trả.",
+   "note": "asleep in the big bed"
+  },
+  {
+   "id": "C1",
+   "size": "wide",
+   "key": 40,
+   "len": 59,
+   "first": 2909,
+   "line": "Bạn mua cho mẹ một chiếc máy giặt mới:",
+   "note": "Mum claps beside the new washing machine, bow pops"
+  },
+  {
+   "id": "C2",
+   "size": "close",
+   "key": 26,
+   "len": 41,
+   "first": 2968,
+   "line": "chưa đầy ba tiếng.",
+   "note": "machine huge, < 3 TIẾNG tag, Mum clapping"
+  },
+  {
+   "id": "C3",
+   "size": "insert",
+   "key": 60,
+   "len": 67,
+   "first": 3009,
+   "line": "Tiền điện, tiền nhà, học phí của",
+   "note": "phone: TIỀN ĐIỆN / NHÀ / HỌC PHÍ tick on"
+  },
+  {
+   "id": "C4",
+   "size": "medium",
+   "key": 40,
+   "len": 70,
+   "first": 3076,
+   "line": "em gái: trả hết trong một buổi chiều.",
+   "note": "little sister jumps, confetti"
+  },
+  {
+   "id": "C5",
+   "size": "insert",
+   "key": 34,
+   "len": 41,
+   "first": 3146,
+   "line": "Bạn ủng hộ một trăm triệu cho",
+   "note": "transfer 100.000.000 đ, thumb taps, tick"
+  },
+  {
+   "id": "C6",
+   "size": "wide",
+   "key": 30,
+   "len": 49,
+   "first": 3187,
+   "line": "học sinh vùng cao, để các em",
+   "note": "misty village school, kids shiver in grey"
+  },
+  {
+   "id": "C7",
+   "size": "close",
+   "key": 34,
+   "len": 41,
+   "first": 3236,
+   "line": "có áo ấm mùa đông.",
+   "note": "coats turn red, kids cheer, 100.000.000 đ tag"
+  },
+  {
+   "id": "C8",
+   "size": "medium",
+   "key": 50,
+   "len": 69,
+   "first": 3277,
+   "line": "Bạn chỉ mất hơn một ngày để kiếm lại.",
+   "note": "clock sweeps once, bar refills: hơn 1 ngày"
+  },
+  {
+   "id": "C9",
+   "size": "wide",
+   "key": 60,
+   "len": 83,
+   "first": 3346,
+   "line": "Mỗi tối đi ngủ, bạn biết sáng mai thức dậy",
+   "note": "Pip asleep, moon to sun in the window"
+  },
+  {
+   "id": "C10",
+   "size": "insert",
+   "key": 40,
+   "len": 53,
+   "first": 3429,
+   "line": "sẽ giàu thêm hai mươi tám triệu.",
+   "note": "phone on pillow, +28.800.000 đ counting"
+  },
+  {
+   "id": "C11",
+   "size": "wide",
+   "key": 50,
+   "len": 72,
+   "first": 3482,
+   "line": "Một chiếc ô tô nhỏ, khoảng bốn trăm triệu?",
+   "note": "small car with bow on the street, ~400 TRIỆU"
+  },
+  {
+   "id": "C12",
+   "size": "close",
+   "key": 24,
+   "len": 36,
+   "first": 3554,
+   "line": "Chưa đến năm ngày.",
+   "note": "calendar fills 5 days, < 5 NGÀY"
+  },
+  {
+   "id": "C13",
+   "size": "insert",
+   "key": 22,
+   "len": 34,
+   "first": 3590,
+   "line": "Không phải đi làm.",
+   "note": "briefcase crossed out: không đi làm"
+  },
+  {
+   "id": "C14",
+   "size": "wide",
+   "key": 40,
+   "len": 42,
+   "first": 3624,
+   "line": "Không phải lo cuối tháng.",
+   "note": "Pip in hammock at sunset"
+  },
+  {
+   "id": "C15",
+   "size": "medium",
+   "key": 60,
+   "len": 67,
+   "first": 3666,
+   "line": "Nghe như một giấc mơ, đúng không?",
+   "note": "slow push-in, dreamy"
+  },
+  {
+   "id": "C16",
+   "size": "medium",
+   "key": 40,
+   "len": 47,
+   "first": 3733,
+   "line": "Nhưng tiền nhiều quá, cũng",
+   "note": "push-in, smile still on"
+  },
+  {
+   "id": "C17",
+   "size": "close",
+   "key": 46,
+   "len": 50,
+   "first": 3780,
+   "line": "có cái giá của nó.",
+   "note": "chip glitches red, smile drops"
+  },
+  {
+   "id": "C18",
+   "size": "schematic",
+   "key": 24,
+   "len": 38,
+   "first": 3830,
+   "line": "Thứ nhất: thuế.",
+   "note": "card 1 · THUẾ"
+  },
+  {
+   "id": "C19",
+   "size": "schematic",
+   "key": 60,
+   "len": 95,
+   "first": 3868,
+   "line": "Từ tháng bảy năm hai nghìn không trăm hai mươi sáu, phần thu nhập tính",
+   "note": "five bars of the tax ladder rise, TỪ 7/2026"
+  },
+  {
+   "id": "C20",
+   "size": "schematic",
+   "key": 60,
+   "len": 83,
+   "first": 3963,
+   "line": "thuế trên một trăm triệu một tháng chịu mức thuế cao nhất:",
+   "note": "top bar lights, > 100 TRIỆU/THÁNG"
+  },
+  {
+   "id": "C21",
+   "size": "schematic",
+   "key": 24,
+   "len": 35,
+   "first": 4046,
+   "line": "ba mươi lăm phần trăm.",
+   "note": "35% slams on"
+  },
+  {
+   "id": "C22",
+   "size": "schematic",
+   "key": 50,
+   "len": 62,
+   "first": 4081,
+   "line": "Bạn chạm mức đó chỉ sau hơn một ngày.",
+   "note": "clock 27 GIỜ 47 PHÚT"
+  },
+  {
+   "id": "C23",
+   "size": "schematic",
+   "key": 60,
+   "len": 93,
+   "first": 4143,
+   "line": "Cứ mỗi nghìn đồng, ba trăm năm mươi đồng là tiền thuế.",
+   "note": "1.000 đ coin splits 650 | 350 THUẾ"
+  },
+  {
+   "id": "C24",
+   "size": "schematic",
+   "key": 40,
+   "len": 68,
+   "first": 4236,
+   "line": "Thứ hai: người ta bắt đầu để ý.",
+   "note": "card 2 · BỊ ĐỂ Ý"
+  },
+  {
+   "id": "C25",
+   "size": "insert",
+   "key": 20,
+   "len": 30,
+   "first": 4304,
+   "line": "Ngân hàng gọi.",
+   "note": "phone rings NGÂN HÀNG"
+  },
+  {
+   "id": "C26",
+   "size": "insert",
+   "key": 24,
+   "len": 41,
+   "first": 4334,
+   "line": "Rồi cơ quan thuế gọi.",
+   "note": "phone rings CƠ QUAN THUẾ"
+  },
+  {
+   "id": "C27",
+   "size": "wide",
+   "key": 44,
+   "len": 55,
+   "first": 4375,
+   "line": "Rồi một người đàn ông mặc vest",
+   "note": "suit man climbs to the landing with a folder"
+  },
+  {
+   "id": "C28",
+   "size": "medium",
+   "key": 40,
+   "len": 73,
+   "first": 4430,
+   "line": "đến tận nhà, hỏi tiền của bạn từ đâu ra.",
+   "note": "suit man at the door, stern, taps folder"
+  },
+  {
+   "id": "C29",
+   "size": "close",
+   "key": 30,
+   "len": 42,
+   "first": 4503,
+   "line": "Bạn không trả lời được.",
+   "note": "Pip shrugs, oops, gulp"
+  },
+  {
+   "id": "C30",
+   "size": "schematic",
+   "key": 40,
+   "len": 67,
+   "first": 4545,
+   "line": "Thứ ba: những người bạn mới.",
+   "note": "card 3 · BẠN MỚI"
+  },
+  {
+   "id": "C31",
+   "size": "insert",
+   "key": 30,
+   "len": 55,
+   "first": 4612,
+   "line": "Tự nhiên ai cũng là bạn của bạn.",
+   "note": "phone flooded with friend requests"
+  },
+  {
+   "id": "C32",
+   "size": "medium",
+   "key": 60,
+   "len": 83,
+   "first": 4667,
+   "line": "Họ hàng xa bạn chưa từng gặp gọi điện hỏi thăm.",
+   "note": "Pip surrounded by call bubbles"
+  },
+  {
+   "id": "C33",
+   "size": "schematic",
+   "key": 80,
+   "len": 107,
+   "first": 4750,
+   "line": "Tin nhắn hỏi vay tiền nhiều hơn tin nhắn hỏi bạn có khỏe không.",
+   "note": "bars HỎI VAY TIỀN tall vs HỎI THĂM tiny"
+  },
+  {
+   "id": "D1",
+   "size": "wide",
+   "key": 50,
+   "len": 79,
+   "first": 4857,
+   "line": "Cậu bạn thân rủ bạn đi đá bóng như mọi chiều.",
+   "note": "dusty pitch at dusk, Pip and Mo pass the ball"
+  },
+  {
+   "id": "D2",
+   "size": "medium",
+   "key": 58,
+   "len": 86,
+   "first": 4936,
+   "line": "Nhưng giờ, cậu ấy không cho bạn trả tiền nước nữa.",
+   "note": "drinks stall: Pip holds phone, Mo pushes his hand back"
+  },
+  {
+   "id": "D3",
+   "size": "medium",
+   "key": 24,
+   "len": 32,
+   "first": 5022,
+   "line": "Cậu ấy ngại.",
+   "note": "Mo looks away, gap, ball between them"
+  },
+  {
+   "id": "D4",
+   "size": "card",
+   "key": 30,
+   "len": 50,
+   "first": 5054,
+   "line": "Thứ tư: an toàn.",
+   "note": "card 4 · AN TOÀN"
+  },
+  {
+   "id": "D5",
+   "size": "medium",
+   "key": 34,
+   "len": 53,
+   "first": 5104,
+   "line": "Bạn bắt đầu sợ ra đường một mình.",
+   "note": "Pip peeks through curtain at night street"
+  },
+  {
+   "id": "D6",
+   "size": "wide",
+   "key": 60,
+   "len": 61,
+   "first": 5157,
+   "line": "Bạn lắp camera, thuê bảo vệ,",
+   "note": "cameras pop on the walls, guard steps in"
+  },
+  {
+   "id": "D7",
+   "size": "insert",
+   "key": 54,
+   "len": 66,
+   "first": 5218,
+   "line": "đổi số điện thoại ba lần trong một tháng.",
+   "note": "three SIM cards slide out of a phone"
+  },
+  {
+   "id": "D8",
+   "size": "medium",
+   "key": 50,
+   "len": 86,
+   "first": 5284,
+   "line": "Năm một nghìn chín trăm bảy mươi tám, các nhà tâm lý học",
+   "note": "lottery ticket + 1978"
+  },
+  {
+   "id": "D9",
+   "size": "medium",
+   "key": 60,
+   "len": 70,
+   "first": 5370,
+   "line": "khảo sát những người vừa trúng xổ số.",
+   "note": "survey: winners ticked on a clipboard"
+  },
+  {
+   "id": "D10",
+   "size": "medium",
+   "key": 80,
+   "len": 102,
+   "first": 5440,
+   "line": "Kết quả: họ không hạnh phúc hơn người bình thường là bao.",
+   "note": "two happiness bars nearly equal"
+  },
+  {
+   "id": "D11",
+   "size": "medium",
+   "key": 110,
+   "len": 120,
+   "first": 5542,
+   "line": "Và họ thấy những niềm vui nhỏ, như một bữa sáng ngon hay một câu chuyện với bạn",
+   "note": "banh mi and chat bubble, bright"
+  },
+  {
+   "id": "D12",
+   "size": "medium",
+   "key": 50,
+   "len": 57,
+   "first": 5662,
+   "line": "bè, kém thú vị hơn trước.",
+   "note": "icons drain grey + source BRICKMAN 1978"
+  },
+  {
+   "id": "D13",
+   "size": "wide",
+   "key": 90,
+   "len": 100,
+   "first": 5719,
+   "line": "Và có một điều may mắn: chỉ mình bạn có sức mạnh này.",
+   "note": "one lit person among grey, +1.000"
+  },
+  {
+   "id": "D14",
+   "size": "wide",
+   "key": 60,
+   "len": 72,
+   "first": 5819,
+   "line": "Vì nếu ai cũng kiếm được một nghìn đồng mỗi giây,",
+   "note": "everyone lights up with +1.000"
+  },
+  {
+   "id": "D15",
+   "size": "insert",
+   "key": 55,
+   "len": 63,
+   "first": 5891,
+   "line": "thì một nghìn đồng sẽ chẳng còn giá trị.",
+   "note": "1.000 d note shrinks and greys"
+  },
+  {
+   "id": "D16",
+   "size": "medium",
+   "key": 88,
+   "len": 95,
+   "first": 5954,
+   "line": "Giá ổ bánh mì sẽ tăng vọt, có khi lên đến hàng triệu.",
+   "note": "banh mi price tag 25.000 -> 2.500.000"
+  },
+  {
+   "id": "D17",
+   "size": "card",
+   "key": 60,
+   "len": 72,
+   "first": 6049,
+   "line": "Các nhà kinh tế gọi đó là lạm phát:",
+   "note": "LAM PHAT label + price curve"
+  },
+  {
+   "id": "D18",
+   "size": "medium",
+   "key": 90,
+   "len": 101,
+   "first": 6121,
+   "line": "khi tiền tăng nhanh hơn hàng hóa, mỗi đồng tiền mua được ít đi.",
+   "note": "money pile vs goods pile, note shrinks"
+  },
+  {
+   "id": "D19",
+   "size": "wide",
+   "key": 40,
+   "len": 70,
+   "first": 6222,
+   "line": "Các nhà khoa học gọi đó là sự thích nghi:",
+   "note": "big room of stuff, Pip small flat face"
+  },
+  {
+   "id": "D20",
+   "size": "medium",
+   "key": 40,
+   "len": 70,
+   "first": 6292,
+   "line": "thứ gì có mãi, rồi cũng thành bình thường.",
+   "note": "Pip flat among piles"
+  },
+  {
+   "id": "D21",
+   "size": "close-up",
+   "key": 30,
+   "len": 58,
+   "first": 6362,
+   "line": "Ổ bánh mì không còn ngon như trước.",
+   "note": "Pip chews banh mi, bored"
+  },
+  {
+   "id": "D22",
+   "size": "medium",
+   "key": 30,
+   "len": 55,
+   "first": 6420,
+   "line": "Món quà không còn bất ngờ.",
+   "note": "opened gift, shrug"
+  },
+  {
+   "id": "D23",
+   "size": "wide",
+   "key": 60,
+   "len": 93,
+   "first": 6475,
+   "line": "Khi mọi thứ đều mua được, không còn gì đặc biệt.",
+   "note": "supermarket, Pip tiny and grey"
+  },
+  {
+   "id": "D24",
+   "size": "medium",
+   "key": 30,
+   "len": 57,
+   "first": 6568,
+   "line": "Rồi một tối, mẹ gọi điện.",
+   "note": "phone MẸ ringing on the desk at night"
+  },
+  {
+   "id": "D25",
+   "size": "medium",
+   "key": 34,
+   "len": 68,
+   "first": 6625,
+   "line": "Mẹ không hỏi về tiền. Mẹ chỉ hỏi:",
+   "note": "mum on the phone, table set, empty place"
+  },
+  {
+   "id": "D26",
+   "size": "close-up",
+   "key": 60,
+   "len": 87,
+   "first": 6693,
+   "line": "dạo này con bận gì, mà không về ăn cơm với nhà?",
+   "note": "Pip listens, eyes soft, hold"
+  },
+  {
+   "id": "E1",
+   "size": "close-up",
+   "key": 30,
+   "len": 57,
+   "first": 6780,
+   "line": "Lúc đó bạn mới nhận ra:",
+   "note": "Pip realises, focus rings"
+  },
+  {
+   "id": "E2",
+   "size": "schematic",
+   "key": 125,
+   "len": 138,
+   "first": 6837,
+   "line": "tiền vào mỗi giây, nhưng một ngày của bạn vẫn chỉ có tám mươi sáu nghìn bốn trăm giây.",
+   "note": "24h dial sweeps, 86.400 GIÂY"
+  },
+  {
+   "id": "E3",
+   "size": "schematic",
+   "key": 30,
+   "len": 39,
+   "first": 6975,
+   "line": "Như tất cả mọi người.",
+   "note": "row of people each with same dial"
+  },
+  {
+   "id": "E4",
+   "size": "schematic",
+   "key": 60,
+   "len": 106,
+   "first": 7014,
+   "line": "Tuổi thọ trung bình của người Việt Nam là gần bảy mươi lăm năm.",
+   "note": "74,7 NĂM life line, source"
+  },
+  {
+   "id": "E5",
+   "size": "schematic",
+   "key": 60,
+   "len": 81,
+   "first": 7120,
+   "line": "Tức là khoảng hai tỷ ba trăm triệu giây.",
+   "note": "hourglass, ≈ 2,3 TỶ GIÂY"
+  },
+  {
+   "id": "E6",
+   "size": "schematic",
+   "key": 110,
+   "len": 134,
+   "first": 7201,
+   "line": "Và mỗi giây trôi qua, dù bạn kiếm được bao nhiêu tiền, cũng không bao giờ quay lại.",
+   "note": "sand falls, money piles, no way back"
+  },
+  {
+   "id": "E7",
+   "size": "wide",
+   "key": 30,
+   "len": 64,
+   "first": 7335,
+   "line": "Bạn có thể trả tiền để người khác xếp hàng,",
+   "note": "hired stand-in in the queue takes the note"
+  },
+  {
+   "id": "E8",
+   "size": "insert",
+   "key": 12,
+   "len": 21,
+   "first": 7399,
+   "line": "nấu ăn,",
+   "note": "hired cook tosses the pan"
+  },
+  {
+   "id": "E9",
+   "size": "insert",
+   "key": 20,
+   "len": 39,
+   "first": 7420,
+   "line": "lái xe cho bạn.",
+   "note": "driver from behind, road streaming"
+  },
+  {
+   "id": "E10",
+   "size": "close-up",
+   "key": 30,
+   "len": 51,
+   "first": 7459,
+   "line": "Nhưng không ai ngủ thay bạn được.",
+   "note": "Pip yawns behind mitten, zzz"
+  },
+  {
+   "id": "E11",
+   "size": "medium",
+   "key": 30,
+   "len": 43,
+   "first": 7510,
+   "line": "Không ai ốm thay bạn được.",
+   "note": "Pip in bed with a cold, tissue, sneeze"
+  },
+  {
+   "id": "E12",
+   "size": "medium",
+   "key": 50,
+   "len": 69,
+   "first": 7553,
+   "line": "Và không ai lớn lên thay em gái bạn được.",
+   "note": "sister vs height marks and dates"
+  },
+  {
+   "id": "E13",
+   "size": "wide",
+   "key": 70,
+   "len": 116,
+   "first": 7622,
+   "line": "Bạn có thể mua mọi thứ. Trừ một thứ: thời gian.",
+   "note": "everything with price tags, clock KHÔNG BÁN"
+  },
+  {
+   "id": "E14",
+   "size": "wide",
+   "key": 40,
+   "len": 71,
+   "first": 7738,
+   "line": "Giờ hãy tưởng tượng: bạn được chọn.",
+   "note": "Pip at a fork, money left, window right"
+  },
+  {
+   "id": "E15",
+   "size": "medium",
+   "key": 40,
+   "len": 73,
+   "first": 7809,
+   "line": "Một nghìn đồng mỗi giây, mãi mãi.",
+   "note": "money river 1.000 đ / GIÂY"
+  },
+  {
+   "id": "E16",
+   "size": "medium",
+   "key": 40,
+   "len": 82,
+   "first": 7882,
+   "line": "Hoặc thêm một giờ mỗi ngày, với những người bạn thương.",
+   "note": "warm window, mum sister Mo, +1 GIỜ / NGÀY"
+  },
+  {
+   "id": "E17",
+   "size": "close-up",
+   "key": 30,
+   "len": 49,
+   "first": 7964,
+   "line": "Bạn chọn gì?",
+   "note": "Pip between the two lights"
+  },
+  {
+   "id": "E18",
+   "size": "wide",
+   "key": 30,
+   "len": 53,
+   "first": 8013,
+   "line": "Tối hôm đó, bạn về nhà.",
+   "note": "Pip at the family door, warm light"
+  },
+  {
+   "id": "E19",
+   "size": "insert",
+   "key": 30,
+   "len": 47,
+   "first": 8066,
+   "line": "Bạn úp điện thoại xuống bàn.",
+   "note": "phone laid face down, glow gone"
+  },
+  {
+   "id": "E20",
+   "size": "insert",
+   "key": 40,
+   "len": 78,
+   "first": 8113,
+   "line": "Tiền vẫn chạy, từng giây, từng giây.",
+   "note": "phone face down, faint pulse, ignored"
+  },
+  {
+   "id": "E21",
+   "size": "wide",
+   "key": 60,
+   "len": 155,
+   "first": 8191,
+   "line": "Nhưng lần đầu tiên sau nhiều tuần, bạn ngồi ăn cơm với mẹ và em gái, và không đếm thời gian.",
+   "note": "family dinner wide, slow push-in"
+  },
+  {
+   "id": "E22",
+   "size": "medium",
+   "key": 40,
+   "len": 45,
+   "first": 8346,
+   "line": "Em gái kể chuyện ở trường.",
+   "note": "sister waves arms telling her day"
+  },
+  {
+   "id": "E23",
+   "size": "insert",
+   "key": 30,
+   "len": 46,
+   "first": 8391,
+   "line": "Mẹ gắp cho bạn miếng cá.",
+   "note": "mum's chopsticks place fish in his bowl"
+  },
+  {
+   "id": "E24",
+   "size": "wide",
+   "key": 80,
+   "len": 117,
+   "first": 8437,
+   "line": "Bữa cơm đó không tốn một đồng nào, nhưng là bữa ngon nhất trong tháng.",
+   "note": "everyone laughing, long push-in"
+  },
+  {
+   "id": "E25",
+   "size": "medium",
+   "key": 40,
+   "len": 72,
+   "first": 8554,
+   "line": "À, còn một điều. Nếu bạn có sức mạnh này,",
+   "note": "Pip points at lens, smug, ping wink"
+  },
+  {
+   "id": "E26",
+   "size": "schematic",
+   "key": 130,
+   "len": 154,
+   "first": 8626,
+   "line": "thì chỉ riêng thời gian xem video này thôi, bạn đã kiếm được khoảng ba trăm nghìn đồng.",
+   "note": "play button, 05:00, 300.000 đ"
+  },
+  {
+   "id": "E27",
+   "size": "wide",
+   "key": 60,
+   "len": 142,
+   "first": 8780,
+   "line": "Còn bạn, nếu kiếm được một nghìn đồng mỗi giây, việc đầu tiên bạn sẽ làm là gì?",
+   "note": "end card line 1, family window"
+  },
+  {
+   "id": "E28",
+   "size": "wide",
+   "key": 150,
+   "len": 221,
+   "first": 8922,
+   "line": "Và nếu phải chọn, bạn chọn tiền, hay chọn thời gian? Bình luận cho mình biết nhé.",
+   "note": "end card line 2, fade to black"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.35,
+   "f": 242
+  },
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 9,
+   "f": 242
+  },
+  {
+   "kind": "flash",
+   "color": "#7CF0A8",
+   "o": 0.2,
+   "f": 877
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.3,
+   "f": 1960
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.2,
+   "f": 2511
+  },
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 5,
+   "f": 2469
+  },
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 5,
+   "f": 1960
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25,
+   "f": 2917
+  },
+  {
+   "kind": "shake",
+   "len": 6,
+   "amp": 6,
+   "f": 3802
+  },
+  {
+   "kind": "flash",
+   "color": "#FF4A3A",
+   "o": 0.22,
+   "f": 3802
+  },
+  {
+   "kind": "flash",
+   "color": "#FFE3C0",
+   "o": 0.3,
+   "f": 4046
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.2,
+   "f": 4173
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.6503,
+  "musicVol": 0.3829,
+  "voice": "nghin-dong-moi-giay/voice.wav",
+  "sfx": "nghin-dong-moi-giay/sfx.wav",
+  "music": "nghin-dong-moi-giay/music.wav"
+ }
+}

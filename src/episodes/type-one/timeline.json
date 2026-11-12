@@ -1,0 +1,2292 @@
+{
+  "slug": "type-one",
+  "title": "Nếu ngày mai nhân loại trở thành nền văn minh cấp I?",
+  "fps": 30,
+  "total": 9000,
+  "shots": [
+    {
+      "id": "A1",
+      "file": "shots-cha",
+      "size": "wide",
+      "set": "city",
+      "key": 30,
+      "note": "Bạn thức dậy. Cả thành phố sáng rực.",
+      "len": 75,
+      "first": 0,
+      "line": "Bạn thức dậy. Cả thành phố sáng rực."
+    },
+    {
+      "id": "A2",
+      "file": "shots-cha",
+      "size": "insert / close",
+      "set": "city",
+      "key": 30,
+      "note": "Bạn thức dậy. Cả thành phố sáng rực.",
+      "len": 75,
+      "first": 75,
+      "line": "Bạn thức dậy. Cả thành phố sáng rực."
+    },
+    {
+      "id": "A3",
+      "file": "shots-cha",
+      "size": "wide",
+      "set": "home",
+      "key": 30,
+      "note": "Máy lạnh chạy. Xe sạc. Điện vẫn dư.",
+      "len": 75,
+      "first": 150,
+      "line": "Máy lạnh chạy. Xe sạc. Điện vẫn dư."
+    },
+    {
+      "id": "A4",
+      "file": "shots-cha",
+      "size": "insert / close",
+      "set": "home",
+      "key": 30,
+      "note": "Máy lạnh chạy. Xe sạc. Điện vẫn dư.",
+      "len": 75,
+      "first": 225,
+      "line": "Máy lạnh chạy. Xe sạc. Điện vẫn dư."
+    },
+    {
+      "id": "A5",
+      "file": "shots-cha",
+      "size": "wide",
+      "set": "earth",
+      "key": 30,
+      "note": "Một mạng năng lượng nối cả hành tinh.",
+      "len": 75,
+      "first": 300,
+      "line": "Một mạng năng lượng nối cả hành tinh."
+    },
+    {
+      "id": "A6",
+      "file": "shots-cha",
+      "size": "insert / close",
+      "set": "earth",
+      "key": 30,
+      "note": "Một mạng năng lượng nối cả hành tinh.",
+      "len": 75,
+      "first": 375,
+      "line": "Một mạng năng lượng nối cả hành tinh."
+    },
+    {
+      "id": "A7",
+      "file": "shots-cha",
+      "size": "wide",
+      "set": "control",
+      "key": 30,
+      "note": "Nhưng ai đang giữ công tắc?",
+      "len": 75,
+      "first": 450,
+      "line": "Nhưng ai đang giữ công tắc?"
+    },
+    {
+      "id": "A8",
+      "file": "shots-cha",
+      "size": "insert / close",
+      "set": "control",
+      "key": 30,
+      "note": "Nhưng ai đang giữ công tắc?",
+      "len": 75,
+      "first": 525,
+      "line": "Nhưng ai đang giữ công tắc?"
+    },
+    {
+      "id": "A9",
+      "file": "shots-cha",
+      "size": "wide",
+      "set": "earth",
+      "key": 30,
+      "note": "Nếu ngày mai, nhân loại đạt cấp I?",
+      "len": 75,
+      "first": 600,
+      "line": "Nếu ngày mai, nhân loại đạt cấp I?"
+    },
+    {
+      "id": "A10",
+      "file": "shots-cha",
+      "size": "insert / close",
+      "set": "earth",
+      "key": 30,
+      "note": "Nếu ngày mai, nhân loại đạt cấp I?",
+      "len": 75,
+      "first": 675,
+      "line": "Nếu ngày mai, nhân loại đạt cấp I?"
+    },
+    {
+      "id": "A11",
+      "file": "shots-cha",
+      "size": "wide",
+      "set": "scale",
+      "key": 30,
+      "note": "Đây là thang đo khả năng dùng năng lượng.",
+      "len": 75,
+      "first": 750,
+      "line": "Đây là thang đo khả năng dùng năng lượng."
+    },
+    {
+      "id": "A12",
+      "file": "shots-cha",
+      "size": "insert / close",
+      "set": "scale",
+      "key": 30,
+      "note": "Đây là thang đo khả năng dùng năng lượng.",
+      "len": 75,
+      "first": 825,
+      "line": "Đây là thang đo khả năng dùng năng lượng."
+    },
+    {
+      "id": "A13",
+      "file": "shots-cha",
+      "size": "wide",
+      "set": "scale",
+      "key": 30,
+      "note": "Ta chọn mốc cấp I: mười triệu tỷ watt.",
+      "len": 75,
+      "first": 900,
+      "line": "Ta chọn mốc cấp I: mười triệu tỷ watt."
+    },
+    {
+      "id": "A14",
+      "file": "shots-cha",
+      "size": "insert / close",
+      "set": "scale",
+      "key": 30,
+      "note": "Ta chọn mốc cấp I: mười triệu tỷ watt.",
+      "len": 75,
+      "first": 975,
+      "line": "Ta chọn mốc cấp I: mười triệu tỷ watt."
+    },
+    {
+      "id": "A15",
+      "file": "shots-cha",
+      "size": "wide",
+      "set": "solar",
+      "key": 30,
+      "note": "Đó là công suất, không phải kho điện vô hạn.",
+      "len": 75,
+      "first": 1050,
+      "line": "Đó là công suất, không phải kho điện vô hạn."
+    },
+    {
+      "id": "A16",
+      "file": "shots-cha",
+      "size": "insert / close",
+      "set": "solar",
+      "key": 30,
+      "note": "Đó là công suất, không phải kho điện vô hạn.",
+      "len": 75,
+      "first": 1125,
+      "line": "Đó là công suất, không phải kho điện vô hạn."
+    },
+    {
+      "id": "A17",
+      "file": "shots-cha",
+      "size": "wide",
+      "set": "earth",
+      "key": 30,
+      "note": "Cấp I gắn với quy mô hành tinh.",
+      "len": 75,
+      "first": 1200,
+      "line": "Cấp I gắn với quy mô hành tinh."
+    },
+    {
+      "id": "A18",
+      "file": "shots-cha",
+      "size": "insert / close",
+      "set": "earth",
+      "key": 30,
+      "note": "Cấp I gắn với quy mô hành tinh.",
+      "len": 75,
+      "first": 1275,
+      "line": "Cấp I gắn với quy mô hành tinh."
+    },
+    {
+      "id": "A19",
+      "file": "shots-cha",
+      "size": "wide",
+      "set": "scale",
+      "key": 30,
+      "note": "Cấp II và III lớn hơn rất nhiều.",
+      "len": 75,
+      "first": 1350,
+      "line": "Cấp II và III lớn hơn rất nhiều."
+    },
+    {
+      "id": "A20",
+      "file": "shots-cha",
+      "size": "insert / close",
+      "set": "scale",
+      "key": 30,
+      "note": "Cấp II và III lớn hơn rất nhiều.",
+      "len": 75,
+      "first": 1425,
+      "line": "Cấp II và III lớn hơn rất nhiều."
+    },
+    {
+      "id": "A21",
+      "file": "shots-cha",
+      "size": "wide",
+      "set": "home",
+      "key": 30,
+      "note": "Giả sử cả hạ tầng cũng xuất hiện qua đêm.",
+      "len": 75,
+      "first": 1500,
+      "line": "Giả sử cả hạ tầng cũng xuất hiện qua đêm."
+    },
+    {
+      "id": "A22",
+      "file": "shots-cha",
+      "size": "insert / close",
+      "set": "home",
+      "key": 30,
+      "note": "Giả sử cả hạ tầng cũng xuất hiện qua đêm.",
+      "len": 75,
+      "first": 1575,
+      "line": "Giả sử cả hạ tầng cũng xuất hiện qua đêm."
+    },
+    {
+      "id": "A23",
+      "file": "shots-cha",
+      "size": "wide",
+      "set": "solar",
+      "key": 30,
+      "note": "Nguồn điện sạch hoạt động khắp nơi.",
+      "len": 75,
+      "first": 1650,
+      "line": "Nguồn điện sạch hoạt động khắp nơi."
+    },
+    {
+      "id": "A24",
+      "file": "shots-cha",
+      "size": "insert / close",
+      "set": "solar",
+      "key": 30,
+      "note": "Nguồn điện sạch hoạt động khắp nơi.",
+      "len": 75,
+      "first": 1725,
+      "line": "Nguồn điện sạch hoạt động khắp nơi."
+    },
+    {
+      "id": "B1",
+      "file": "shots-chb",
+      "size": "wide",
+      "set": "grid",
+      "key": 30,
+      "note": "Đường dây, lưu trữ và điều phối đều sẵn sàng.",
+      "len": 75,
+      "first": 1800,
+      "line": "Đường dây, lưu trữ và điều phối đều sẵn sàng."
+    },
+    {
+      "id": "B2",
+      "file": "shots-chb",
+      "size": "insert / close",
+      "set": "grid",
+      "key": 30,
+      "note": "Đường dây, lưu trữ và điều phối đều sẵn sàng.",
+      "len": 75,
+      "first": 1875,
+      "line": "Đường dây, lưu trữ và điều phối đều sẵn sàng."
+    },
+    {
+      "id": "B3",
+      "file": "shots-chb",
+      "size": "wide",
+      "set": "city",
+      "key": 30,
+      "note": "Bạn bước vào một ngày chưa từng có.",
+      "len": 75,
+      "first": 1950,
+      "line": "Bạn bước vào một ngày chưa từng có."
+    },
+    {
+      "id": "B4",
+      "file": "shots-chb",
+      "size": "insert / close",
+      "set": "city",
+      "key": 30,
+      "note": "Bạn bước vào một ngày chưa từng có.",
+      "len": 75,
+      "first": 2025,
+      "line": "Bạn bước vào một ngày chưa từng có."
+    },
+    {
+      "id": "B5",
+      "file": "shots-chb",
+      "size": "wide",
+      "set": "water",
+      "key": 30,
+      "note": "Biển có thể trở thành nguồn nước ngọt.",
+      "len": 75,
+      "first": 2100,
+      "line": "Biển có thể trở thành nguồn nước ngọt."
+    },
+    {
+      "id": "B6",
+      "file": "shots-chb",
+      "size": "insert / close",
+      "set": "water",
+      "key": 30,
+      "note": "Biển có thể trở thành nguồn nước ngọt.",
+      "len": 75,
+      "first": 2175,
+      "line": "Biển có thể trở thành nguồn nước ngọt."
+    },
+    {
+      "id": "B7",
+      "file": "shots-chb",
+      "size": "wide",
+      "set": "water",
+      "key": 30,
+      "note": "Bơm ép nước qua màng, giữ muối lại.",
+      "len": 75,
+      "first": 2250,
+      "line": "Bơm ép nước qua màng, giữ muối lại."
+    },
+    {
+      "id": "B8",
+      "file": "shots-chb",
+      "size": "insert / close",
+      "set": "water",
+      "key": 30,
+      "note": "Bơm ép nước qua màng, giữ muối lại.",
+      "len": 75,
+      "first": 2325,
+      "line": "Bơm ép nước qua màng, giữ muối lại."
+    },
+    {
+      "id": "B9",
+      "file": "shots-chb",
+      "size": "wide",
+      "set": "farm",
+      "key": 30,
+      "note": "Nhà kính có thêm điện cho đèn và bơm.",
+      "len": 75,
+      "first": 2400,
+      "line": "Nhà kính có thêm điện cho đèn và bơm."
+    },
+    {
+      "id": "B10",
+      "file": "shots-chb",
+      "size": "insert / close",
+      "set": "farm",
+      "key": 30,
+      "note": "Nhà kính có thêm điện cho đèn và bơm.",
+      "len": 75,
+      "first": 2475,
+      "line": "Nhà kính có thêm điện cho đèn và bơm."
+    },
+    {
+      "id": "B11",
+      "file": "shots-chb",
+      "size": "wide",
+      "set": "farm",
+      "key": 30,
+      "note": "Nhưng cây vẫn cần đất, chất dinh dưỡng, thời gian.",
+      "len": 75,
+      "first": 2550,
+      "line": "Nhưng cây vẫn cần đất, chất dinh dưỡng, thời gian."
+    },
+    {
+      "id": "B12",
+      "file": "shots-chb",
+      "size": "insert / close",
+      "set": "farm",
+      "key": 30,
+      "note": "Nhưng cây vẫn cần đất, chất dinh dưỡng, thời gian.",
+      "len": 75,
+      "first": 2625,
+      "line": "Nhưng cây vẫn cần đất, chất dinh dưỡng, thời gian."
+    },
+    {
+      "id": "B13",
+      "file": "shots-chb",
+      "size": "wide",
+      "set": "hospital",
+      "key": 30,
+      "note": "Bệnh viện bớt lo thiếu điện vận hành.",
+      "len": 75,
+      "first": 2700,
+      "line": "Bệnh viện bớt lo thiếu điện vận hành."
+    },
+    {
+      "id": "B14",
+      "file": "shots-chb",
+      "size": "insert / close",
+      "set": "hospital",
+      "key": 30,
+      "note": "Bệnh viện bớt lo thiếu điện vận hành.",
+      "len": 75,
+      "first": 2775,
+      "line": "Bệnh viện bớt lo thiếu điện vận hành."
+    },
+    {
+      "id": "B15",
+      "file": "shots-chb",
+      "size": "wide",
+      "set": "family",
+      "key": 30,
+      "note": "Em gái bạn không còn học dưới đèn yếu.",
+      "len": 75,
+      "first": 2850,
+      "line": "Em gái bạn không còn học dưới đèn yếu."
+    },
+    {
+      "id": "B16",
+      "file": "shots-chb",
+      "size": "insert / close",
+      "set": "family",
+      "key": 30,
+      "note": "Em gái bạn không còn học dưới đèn yếu.",
+      "len": 75,
+      "first": 2925,
+      "line": "Em gái bạn không còn học dưới đèn yếu."
+    },
+    {
+      "id": "B17",
+      "file": "shots-chb",
+      "size": "wide",
+      "set": "city",
+      "key": 30,
+      "note": "Xe điện và tàu điện có thêm nguồn cấp.",
+      "len": 75,
+      "first": 3000,
+      "line": "Xe điện và tàu điện có thêm nguồn cấp."
+    },
+    {
+      "id": "B18",
+      "file": "shots-chb",
+      "size": "insert / close",
+      "set": "city",
+      "key": 30,
+      "note": "Xe điện và tàu điện có thêm nguồn cấp.",
+      "len": 75,
+      "first": 3075,
+      "line": "Xe điện và tàu điện có thêm nguồn cấp."
+    },
+    {
+      "id": "B19",
+      "file": "shots-chb",
+      "size": "wide",
+      "set": "factory",
+      "key": 30,
+      "note": "Nhà máy có thể điện hóa nhiều công đoạn.",
+      "len": 75,
+      "first": 3150,
+      "line": "Nhà máy có thể điện hóa nhiều công đoạn."
+    },
+    {
+      "id": "B20",
+      "file": "shots-chb",
+      "size": "insert / close",
+      "set": "factory",
+      "key": 30,
+      "note": "Nhà máy có thể điện hóa nhiều công đoạn.",
+      "len": 75,
+      "first": 3225,
+      "line": "Nhà máy có thể điện hóa nhiều công đoạn."
+    },
+    {
+      "id": "B21",
+      "file": "shots-chb",
+      "size": "wide",
+      "set": "factory",
+      "key": 30,
+      "note": "Robot làm việc. Con người đổi nghề.",
+      "len": 75,
+      "first": 3300,
+      "line": "Robot làm việc. Con người đổi nghề."
+    },
+    {
+      "id": "B22",
+      "file": "shots-chb",
+      "size": "insert / close",
+      "set": "factory",
+      "key": 30,
+      "note": "Robot làm việc. Con người đổi nghề.",
+      "len": 75,
+      "first": 3375,
+      "line": "Robot làm việc. Con người đổi nghề."
+    },
+    {
+      "id": "B23",
+      "file": "shots-chb",
+      "size": "wide",
+      "set": "home",
+      "key": 30,
+      "note": "Hóa đơn điện có thể giảm.",
+      "len": 75,
+      "first": 3450,
+      "line": "Hóa đơn điện có thể giảm."
+    },
+    {
+      "id": "B24",
+      "file": "shots-chb",
+      "size": "insert / close",
+      "set": "home",
+      "key": 30,
+      "note": "Hóa đơn điện có thể giảm.",
+      "len": 75,
+      "first": 3525,
+      "line": "Hóa đơn điện có thể giảm."
+    },
+    {
+      "id": "C1",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "control",
+      "key": 30,
+      "note": "Nhưng giá điện còn do luật và thị trường.",
+      "len": 75,
+      "first": 3600,
+      "line": "Nhưng giá điện còn do luật và thị trường."
+    },
+    {
+      "id": "C2",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "control",
+      "key": 30,
+      "note": "Nhưng giá điện còn do luật và thị trường.",
+      "len": 75,
+      "first": 3675,
+      "line": "Nhưng giá điện còn do luật và thị trường."
+    },
+    {
+      "id": "C3",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "water",
+      "key": 30,
+      "note": "Nước sạch vẫn cần đường ống và bảo trì.",
+      "len": 75,
+      "first": 3750,
+      "line": "Nước sạch vẫn cần đường ống và bảo trì."
+    },
+    {
+      "id": "C4",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "water",
+      "key": 30,
+      "note": "Nước sạch vẫn cần đường ống và bảo trì.",
+      "len": 75,
+      "first": 3825,
+      "line": "Nước sạch vẫn cần đường ống và bảo trì."
+    },
+    {
+      "id": "C5",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "farm",
+      "key": 30,
+      "note": "Thực phẩm vẫn cần được vận chuyển.",
+      "len": 75,
+      "first": 3900,
+      "line": "Thực phẩm vẫn cần được vận chuyển."
+    },
+    {
+      "id": "C6",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "farm",
+      "key": 30,
+      "note": "Thực phẩm vẫn cần được vận chuyển.",
+      "len": 75,
+      "first": 3975,
+      "line": "Thực phẩm vẫn cần được vận chuyển."
+    },
+    {
+      "id": "C7",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "family",
+      "key": 30,
+      "note": "Có đủ điện chưa chắc ai cũng được dùng.",
+      "len": 75,
+      "first": 4050,
+      "line": "Có đủ điện chưa chắc ai cũng được dùng."
+    },
+    {
+      "id": "C8",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "family",
+      "key": 30,
+      "note": "Có đủ điện chưa chắc ai cũng được dùng.",
+      "len": 75,
+      "first": 4125,
+      "line": "Có đủ điện chưa chắc ai cũng được dùng."
+    },
+    {
+      "id": "C9",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "grid",
+      "key": 30,
+      "note": "Một nơi dư điện, nơi khác thiếu kết nối.",
+      "len": 75,
+      "first": 4200,
+      "line": "Một nơi dư điện, nơi khác thiếu kết nối."
+    },
+    {
+      "id": "C10",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "grid",
+      "key": 30,
+      "note": "Một nơi dư điện, nơi khác thiếu kết nối.",
+      "len": 75,
+      "first": 4275,
+      "line": "Một nơi dư điện, nơi khác thiếu kết nối."
+    },
+    {
+      "id": "C11",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "earth",
+      "key": 30,
+      "note": "Cấp I là năng lượng, không phải công bằng.",
+      "len": 75,
+      "first": 4350,
+      "line": "Cấp I là năng lượng, không phải công bằng."
+    },
+    {
+      "id": "C12",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "earth",
+      "key": 30,
+      "note": "Cấp I là năng lượng, không phải công bằng.",
+      "len": 75,
+      "first": 4425,
+      "line": "Cấp I là năng lượng, không phải công bằng."
+    },
+    {
+      "id": "C13",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "heat",
+      "key": 30,
+      "note": "Rồi bạn nhận ra: năng lượng đi về đâu?",
+      "len": 75,
+      "first": 4500,
+      "line": "Rồi bạn nhận ra: năng lượng đi về đâu?"
+    },
+    {
+      "id": "C14",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "heat",
+      "key": 30,
+      "note": "Rồi bạn nhận ra: năng lượng đi về đâu?",
+      "len": 75,
+      "first": 4575,
+      "line": "Rồi bạn nhận ra: năng lượng đi về đâu?"
+    },
+    {
+      "id": "C15",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "heat",
+      "key": 30,
+      "note": "Khi sử dụng, phần lớn cuối cùng thành nhiệt.",
+      "len": 75,
+      "first": 4650,
+      "line": "Khi sử dụng, phần lớn cuối cùng thành nhiệt."
+    },
+    {
+      "id": "C16",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "heat",
+      "key": 30,
+      "note": "Khi sử dụng, phần lớn cuối cùng thành nhiệt.",
+      "len": 75,
+      "first": 4725,
+      "line": "Khi sử dụng, phần lớn cuối cùng thành nhiệt."
+    },
+    {
+      "id": "C17",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "earth",
+      "key": 30,
+      "note": "Trái Đất nhận nắng và tỏa nhiệt ra ngoài.",
+      "len": 75,
+      "first": 4800,
+      "line": "Trái Đất nhận nắng và tỏa nhiệt ra ngoài."
+    },
+    {
+      "id": "C18",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "earth",
+      "key": 30,
+      "note": "Trái Đất nhận nắng và tỏa nhiệt ra ngoài.",
+      "len": 75,
+      "first": 4875,
+      "line": "Trái Đất nhận nắng và tỏa nhiệt ra ngoài."
+    },
+    {
+      "id": "C19",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "heat",
+      "key": 30,
+      "note": "Thêm nguồn nhiệt ròng sẽ đổi cân bằng ấy.",
+      "len": 75,
+      "first": 4950,
+      "line": "Thêm nguồn nhiệt ròng sẽ đổi cân bằng ấy."
+    },
+    {
+      "id": "C20",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "heat",
+      "key": 30,
+      "note": "Thêm nguồn nhiệt ròng sẽ đổi cân bằng ấy.",
+      "len": 75,
+      "first": 5025,
+      "line": "Thêm nguồn nhiệt ròng sẽ đổi cân bằng ấy."
+    },
+    {
+      "id": "C21",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "heat",
+      "key": 30,
+      "note": "Mười triệu tỷ watt chia đều bề mặt...",
+      "len": 75,
+      "first": 5100,
+      "line": "Mười triệu tỷ watt chia đều bề mặt..."
+    },
+    {
+      "id": "C22",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "heat",
+      "key": 30,
+      "note": "Mười triệu tỷ watt chia đều bề mặt...",
+      "len": 75,
+      "first": 5175,
+      "line": "Mười triệu tỷ watt chia đều bề mặt..."
+    },
+    {
+      "id": "C23",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "heat",
+      "key": 30,
+      "note": "...xấp xỉ hai mươi watt mỗi mét vuông.",
+      "len": 75,
+      "first": 5250,
+      "line": "...xấp xỉ hai mươi watt mỗi mét vuông."
+    },
+    {
+      "id": "C24",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "heat",
+      "key": 30,
+      "note": "...xấp xỉ hai mươi watt mỗi mét vuông.",
+      "len": 75,
+      "first": 5325,
+      "line": "...xấp xỉ hai mươi watt mỗi mét vuông."
+    },
+    {
+      "id": "D1",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "solar",
+      "key": 30,
+      "note": "Đó là phép tính minh họa, không phải dự báo.",
+      "len": 75,
+      "first": 5400,
+      "line": "Đó là phép tính minh họa, không phải dự báo."
+    },
+    {
+      "id": "D2",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "solar",
+      "key": 30,
+      "note": "Đó là phép tính minh họa, không phải dự báo.",
+      "len": 75,
+      "first": 5475,
+      "line": "Đó là phép tính minh họa, không phải dự báo."
+    },
+    {
+      "id": "D3",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "solar",
+      "key": 30,
+      "note": "Thu ánh nắng vốn tới Trái Đất khác nguồn mới.",
+      "len": 75,
+      "first": 5550,
+      "line": "Thu ánh nắng vốn tới Trái Đất khác nguồn mới."
+    },
+    {
+      "id": "D4",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "solar",
+      "key": 30,
+      "note": "Thu ánh nắng vốn tới Trái Đất khác nguồn mới.",
+      "len": 75,
+      "first": 5625,
+      "line": "Thu ánh nắng vốn tới Trái Đất khác nguồn mới."
+    },
+    {
+      "id": "D5",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "water",
+      "key": 30,
+      "note": "Khử mặn cũng để lại nước muối đậm đặc.",
+      "len": 75,
+      "first": 5700,
+      "line": "Khử mặn cũng để lại nước muối đậm đặc."
+    },
+    {
+      "id": "D6",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "water",
+      "key": 30,
+      "note": "Khử mặn cũng để lại nước muối đậm đặc.",
+      "len": 75,
+      "first": 5775,
+      "line": "Khử mặn cũng để lại nước muối đậm đặc."
+    },
+    {
+      "id": "D7",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "earth",
+      "key": 30,
+      "note": "Công suất lớn cần giới hạn sinh thái lớn tương ứng.",
+      "len": 75,
+      "first": 5850,
+      "line": "Công suất lớn cần giới hạn sinh thái lớn tương ứng."
+    },
+    {
+      "id": "D8",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "earth",
+      "key": 30,
+      "note": "Công suất lớn cần giới hạn sinh thái lớn tương ứng.",
+      "len": 75,
+      "first": 5925,
+      "line": "Công suất lớn cần giới hạn sinh thái lớn tương ứng."
+    },
+    {
+      "id": "D9",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "storm",
+      "key": 30,
+      "note": "Bạn không thể bấm nút xóa mọi cơn bão.",
+      "len": 75,
+      "first": 6000,
+      "line": "Bạn không thể bấm nút xóa mọi cơn bão."
+    },
+    {
+      "id": "D10",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "storm",
+      "key": 30,
+      "note": "Bạn không thể bấm nút xóa mọi cơn bão.",
+      "len": 75,
+      "first": 6075,
+      "line": "Bạn không thể bấm nút xóa mọi cơn bão."
+    },
+    {
+      "id": "D11",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "storm",
+      "key": 30,
+      "note": "Cấp I không chứng minh khả năng điều khiển thời tiết.",
+      "len": 75,
+      "first": 6150,
+      "line": "Cấp I không chứng minh khả năng điều khiển thời tiết."
+    },
+    {
+      "id": "D12",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "storm",
+      "key": 30,
+      "note": "Cấp I không chứng minh khả năng điều khiển thời tiết.",
+      "len": 75,
+      "first": 6225,
+      "line": "Cấp I không chứng minh khả năng điều khiển thời tiết."
+    },
+    {
+      "id": "D13",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "control",
+      "key": 30,
+      "note": "Một trung tâm muốn nối mọi thứ vào nó.",
+      "len": 75,
+      "first": 6300,
+      "line": "Một trung tâm muốn nối mọi thứ vào nó."
+    },
+    {
+      "id": "D14",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "control",
+      "key": 30,
+      "note": "Một trung tâm muốn nối mọi thứ vào nó.",
+      "len": 75,
+      "first": 6375,
+      "line": "Một trung tâm muốn nối mọi thứ vào nó."
+    },
+    {
+      "id": "D15",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "grid",
+      "key": 30,
+      "note": "Càng liên kết, lỗi càng cần được cô lập.",
+      "len": 75,
+      "first": 6450,
+      "line": "Càng liên kết, lỗi càng cần được cô lập."
+    },
+    {
+      "id": "D16",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "grid",
+      "key": 30,
+      "note": "Càng liên kết, lỗi càng cần được cô lập.",
+      "len": 75,
+      "first": 6525,
+      "line": "Càng liên kết, lỗi càng cần được cô lập."
+    },
+    {
+      "id": "D17",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "city",
+      "key": 30,
+      "note": "Trong kịch bản này, một vùng bất ngờ tắt điện.",
+      "len": 75,
+      "first": 6600,
+      "line": "Trong kịch bản này, một vùng bất ngờ tắt điện."
+    },
+    {
+      "id": "D18",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "city",
+      "key": 30,
+      "note": "Trong kịch bản này, một vùng bất ngờ tắt điện.",
+      "len": 75,
+      "first": 6675,
+      "line": "Trong kịch bản này, một vùng bất ngờ tắt điện."
+    },
+    {
+      "id": "D19",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "hospital",
+      "key": 30,
+      "note": "Bệnh viện chuyển sang nguồn dự phòng.",
+      "len": 75,
+      "first": 6750,
+      "line": "Bệnh viện chuyển sang nguồn dự phòng."
+    },
+    {
+      "id": "D20",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "hospital",
+      "key": 30,
+      "note": "Bệnh viện chuyển sang nguồn dự phòng.",
+      "len": 75,
+      "first": 6825,
+      "line": "Bệnh viện chuyển sang nguồn dự phòng."
+    },
+    {
+      "id": "D21",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "family",
+      "key": 30,
+      "note": "Nhà em gái bạn cũng chìm vào tối.",
+      "len": 75,
+      "first": 6900,
+      "line": "Nhà em gái bạn cũng chìm vào tối."
+    },
+    {
+      "id": "D22",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "family",
+      "key": 30,
+      "note": "Nhà em gái bạn cũng chìm vào tối.",
+      "len": 75,
+      "first": 6975,
+      "line": "Nhà em gái bạn cũng chìm vào tối."
+    },
+    {
+      "id": "D23",
+      "file": "shots-chd",
+      "size": "wide",
+      "set": "control",
+      "key": 30,
+      "note": "Bạn có quyền chọn cách chia phần điện còn lại.",
+      "len": 75,
+      "first": 7050,
+      "line": "Bạn có quyền chọn cách chia phần điện còn lại."
+    },
+    {
+      "id": "D24",
+      "file": "shots-chd",
+      "size": "insert / close",
+      "set": "control",
+      "key": 30,
+      "note": "Bạn có quyền chọn cách chia phần điện còn lại.",
+      "len": 75,
+      "first": 7125,
+      "line": "Bạn có quyền chọn cách chia phần điện còn lại."
+    },
+    {
+      "id": "E1",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "control",
+      "key": 30,
+      "note": "Giữ đặc quyền, hay ưu tiên nhu cầu thiết yếu?",
+      "len": 75,
+      "first": 7200,
+      "line": "Giữ đặc quyền, hay ưu tiên nhu cầu thiết yếu?"
+    },
+    {
+      "id": "E2",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "control",
+      "key": 30,
+      "note": "Giữ đặc quyền, hay ưu tiên nhu cầu thiết yếu?",
+      "len": 75,
+      "first": 7275,
+      "line": "Giữ đặc quyền, hay ưu tiên nhu cầu thiết yếu?"
+    },
+    {
+      "id": "E3",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "grid",
+      "key": 30,
+      "note": "Bạn chọn mạng dự phòng và quyền tiếp cận.",
+      "len": 75,
+      "first": 7350,
+      "line": "Bạn chọn mạng dự phòng và quyền tiếp cận."
+    },
+    {
+      "id": "E4",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "grid",
+      "key": 30,
+      "note": "Bạn chọn mạng dự phòng và quyền tiếp cận.",
+      "len": 75,
+      "first": 7425,
+      "line": "Bạn chọn mạng dự phòng và quyền tiếp cận."
+    },
+    {
+      "id": "E5",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "city",
+      "key": 30,
+      "note": "Ánh sáng trở lại, từng khu phố một.",
+      "len": 75,
+      "first": 7500,
+      "line": "Ánh sáng trở lại, từng khu phố một."
+    },
+    {
+      "id": "E6",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "city",
+      "key": 30,
+      "note": "Ánh sáng trở lại, từng khu phố một.",
+      "len": 75,
+      "first": 7575,
+      "line": "Ánh sáng trở lại, từng khu phố một."
+    },
+    {
+      "id": "E7",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "family",
+      "key": 30,
+      "note": "Em gái bạn mở lại cuốn sách.",
+      "len": 75,
+      "first": 7650,
+      "line": "Em gái bạn mở lại cuốn sách."
+    },
+    {
+      "id": "E8",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "family",
+      "key": 30,
+      "note": "Em gái bạn mở lại cuốn sách.",
+      "len": 75,
+      "first": 7725,
+      "line": "Em gái bạn mở lại cuốn sách."
+    },
+    {
+      "id": "E9",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "earth",
+      "key": 30,
+      "note": "Nhiều năng lượng mở ra nhiều khả năng.",
+      "len": 75,
+      "first": 7800,
+      "line": "Nhiều năng lượng mở ra nhiều khả năng."
+    },
+    {
+      "id": "E10",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "earth",
+      "key": 30,
+      "note": "Nhiều năng lượng mở ra nhiều khả năng.",
+      "len": 75,
+      "first": 7875,
+      "line": "Nhiều năng lượng mở ra nhiều khả năng."
+    },
+    {
+      "id": "E11",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "factory",
+      "key": 30,
+      "note": "Nó không tự xóa chiến tranh hay bất bình đẳng.",
+      "len": 75,
+      "first": 7950,
+      "line": "Nó không tự xóa chiến tranh hay bất bình đẳng."
+    },
+    {
+      "id": "E12",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "factory",
+      "key": 30,
+      "note": "Nó không tự xóa chiến tranh hay bất bình đẳng.",
+      "len": 75,
+      "first": 8025,
+      "line": "Nó không tự xóa chiến tranh hay bất bình đẳng."
+    },
+    {
+      "id": "E13",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "storm",
+      "key": 30,
+      "note": "Và không biến nhân loại thành bất tử.",
+      "len": 75,
+      "first": 8100,
+      "line": "Và không biến nhân loại thành bất tử."
+    },
+    {
+      "id": "E14",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "storm",
+      "key": 30,
+      "note": "Và không biến nhân loại thành bất tử.",
+      "len": 75,
+      "first": 8175,
+      "line": "Và không biến nhân loại thành bất tử."
+    },
+    {
+      "id": "E15",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "solar",
+      "key": 30,
+      "note": "Ta còn phải giữ hành tinh có thể sống được.",
+      "len": 75,
+      "first": 8250,
+      "line": "Ta còn phải giữ hành tinh có thể sống được."
+    },
+    {
+      "id": "E16",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "solar",
+      "key": 30,
+      "note": "Ta còn phải giữ hành tinh có thể sống được.",
+      "len": 75,
+      "first": 8325,
+      "line": "Ta còn phải giữ hành tinh có thể sống được."
+    },
+    {
+      "id": "E17",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "earth",
+      "key": 30,
+      "note": "Một nền văn minh lớn biết kiểm soát chính mình.",
+      "len": 75,
+      "first": 8400,
+      "line": "Một nền văn minh lớn biết kiểm soát chính mình."
+    },
+    {
+      "id": "E18",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "earth",
+      "key": 30,
+      "note": "Một nền văn minh lớn biết kiểm soát chính mình.",
+      "len": 75,
+      "first": 8475,
+      "line": "Một nền văn minh lớn biết kiểm soát chính mình."
+    },
+    {
+      "id": "E19",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "scale",
+      "key": 30,
+      "note": "Đạt cấp I chỉ là vượt một mốc năng lượng.",
+      "len": 75,
+      "first": 8550,
+      "line": "Đạt cấp I chỉ là vượt một mốc năng lượng."
+    },
+    {
+      "id": "E20",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "scale",
+      "key": 30,
+      "note": "Đạt cấp I chỉ là vượt một mốc năng lượng.",
+      "len": 75,
+      "first": 8625,
+      "line": "Đạt cấp I chỉ là vượt một mốc năng lượng."
+    },
+    {
+      "id": "E21",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "family",
+      "key": 30,
+      "note": "Điều quan trọng: cuộc sống của ai tốt hơn?",
+      "len": 75,
+      "first": 8700,
+      "line": "Điều quan trọng: cuộc sống của ai tốt hơn?"
+    },
+    {
+      "id": "E22",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "family",
+      "key": 30,
+      "note": "Điều quan trọng: cuộc sống của ai tốt hơn?",
+      "len": 75,
+      "first": 8775,
+      "line": "Điều quan trọng: cuộc sống của ai tốt hơn?"
+    },
+    {
+      "id": "E23",
+      "file": "shots-che",
+      "size": "wide",
+      "set": "earth",
+      "key": 30,
+      "note": "Ngày mai có đủ điện. Ta đã đủ trưởng thành chưa?",
+      "len": 75,
+      "first": 8850,
+      "line": "Ngày mai có đủ điện. Ta đã đủ trưởng thành chưa?"
+    },
+    {
+      "id": "E24",
+      "file": "shots-che",
+      "size": "insert / close",
+      "set": "earth",
+      "key": 30,
+      "note": "Ngày mai có đủ điện. Ta đã đủ trưởng thành chưa?",
+      "len": 75,
+      "first": 8925,
+      "line": "Ngày mai có đủ điện. Ta đã đủ trưởng thành chưa?"
+    }
+  ],
+  "segments": [
+    {
+      "shot": "A1",
+      "a": 0,
+      "b": 75,
+      "t0": 0,
+      "t1": 75,
+      "line": "Bạn thức dậy. Cả thành phố sáng rực."
+    },
+    {
+      "shot": "A2",
+      "a": 75,
+      "b": 150,
+      "t0": 0,
+      "t1": 75,
+      "line": "Bạn thức dậy. Cả thành phố sáng rực."
+    },
+    {
+      "shot": "A3",
+      "a": 150,
+      "b": 225,
+      "t0": 0,
+      "t1": 75,
+      "line": "Máy lạnh chạy. Xe sạc. Điện vẫn dư."
+    },
+    {
+      "shot": "A4",
+      "a": 225,
+      "b": 300,
+      "t0": 0,
+      "t1": 75,
+      "line": "Máy lạnh chạy. Xe sạc. Điện vẫn dư."
+    },
+    {
+      "shot": "A5",
+      "a": 300,
+      "b": 375,
+      "t0": 0,
+      "t1": 75,
+      "line": "Một mạng năng lượng nối cả hành tinh."
+    },
+    {
+      "shot": "A6",
+      "a": 375,
+      "b": 450,
+      "t0": 0,
+      "t1": 75,
+      "line": "Một mạng năng lượng nối cả hành tinh."
+    },
+    {
+      "shot": "A7",
+      "a": 450,
+      "b": 525,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nhưng ai đang giữ công tắc?"
+    },
+    {
+      "shot": "A8",
+      "a": 525,
+      "b": 600,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nhưng ai đang giữ công tắc?"
+    },
+    {
+      "shot": "A9",
+      "a": 600,
+      "b": 675,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nếu ngày mai, nhân loại đạt cấp I?"
+    },
+    {
+      "shot": "A10",
+      "a": 675,
+      "b": 750,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nếu ngày mai, nhân loại đạt cấp I?"
+    },
+    {
+      "shot": "A11",
+      "a": 750,
+      "b": 825,
+      "t0": 0,
+      "t1": 75,
+      "line": "Đây là thang đo khả năng dùng năng lượng."
+    },
+    {
+      "shot": "A12",
+      "a": 825,
+      "b": 900,
+      "t0": 0,
+      "t1": 75,
+      "line": "Đây là thang đo khả năng dùng năng lượng."
+    },
+    {
+      "shot": "A13",
+      "a": 900,
+      "b": 975,
+      "t0": 0,
+      "t1": 75,
+      "line": "Ta chọn mốc cấp I: mười triệu tỷ watt."
+    },
+    {
+      "shot": "A14",
+      "a": 975,
+      "b": 1050,
+      "t0": 0,
+      "t1": 75,
+      "line": "Ta chọn mốc cấp I: mười triệu tỷ watt."
+    },
+    {
+      "shot": "A15",
+      "a": 1050,
+      "b": 1125,
+      "t0": 0,
+      "t1": 75,
+      "line": "Đó là công suất, không phải kho điện vô hạn."
+    },
+    {
+      "shot": "A16",
+      "a": 1125,
+      "b": 1200,
+      "t0": 0,
+      "t1": 75,
+      "line": "Đó là công suất, không phải kho điện vô hạn."
+    },
+    {
+      "shot": "A17",
+      "a": 1200,
+      "b": 1275,
+      "t0": 0,
+      "t1": 75,
+      "line": "Cấp I gắn với quy mô hành tinh."
+    },
+    {
+      "shot": "A18",
+      "a": 1275,
+      "b": 1350,
+      "t0": 0,
+      "t1": 75,
+      "line": "Cấp I gắn với quy mô hành tinh."
+    },
+    {
+      "shot": "A19",
+      "a": 1350,
+      "b": 1425,
+      "t0": 0,
+      "t1": 75,
+      "line": "Cấp II và III lớn hơn rất nhiều."
+    },
+    {
+      "shot": "A20",
+      "a": 1425,
+      "b": 1500,
+      "t0": 0,
+      "t1": 75,
+      "line": "Cấp II và III lớn hơn rất nhiều."
+    },
+    {
+      "shot": "A21",
+      "a": 1500,
+      "b": 1575,
+      "t0": 0,
+      "t1": 75,
+      "line": "Giả sử cả hạ tầng cũng xuất hiện qua đêm."
+    },
+    {
+      "shot": "A22",
+      "a": 1575,
+      "b": 1650,
+      "t0": 0,
+      "t1": 75,
+      "line": "Giả sử cả hạ tầng cũng xuất hiện qua đêm."
+    },
+    {
+      "shot": "A23",
+      "a": 1650,
+      "b": 1725,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nguồn điện sạch hoạt động khắp nơi."
+    },
+    {
+      "shot": "A24",
+      "a": 1725,
+      "b": 1800,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nguồn điện sạch hoạt động khắp nơi."
+    },
+    {
+      "shot": "B1",
+      "a": 1800,
+      "b": 1875,
+      "t0": 0,
+      "t1": 75,
+      "line": "Đường dây, lưu trữ và điều phối đều sẵn sàng."
+    },
+    {
+      "shot": "B2",
+      "a": 1875,
+      "b": 1950,
+      "t0": 0,
+      "t1": 75,
+      "line": "Đường dây, lưu trữ và điều phối đều sẵn sàng."
+    },
+    {
+      "shot": "B3",
+      "a": 1950,
+      "b": 2025,
+      "t0": 0,
+      "t1": 75,
+      "line": "Bạn bước vào một ngày chưa từng có."
+    },
+    {
+      "shot": "B4",
+      "a": 2025,
+      "b": 2100,
+      "t0": 0,
+      "t1": 75,
+      "line": "Bạn bước vào một ngày chưa từng có."
+    },
+    {
+      "shot": "B5",
+      "a": 2100,
+      "b": 2175,
+      "t0": 0,
+      "t1": 75,
+      "line": "Biển có thể trở thành nguồn nước ngọt."
+    },
+    {
+      "shot": "B6",
+      "a": 2175,
+      "b": 2250,
+      "t0": 0,
+      "t1": 75,
+      "line": "Biển có thể trở thành nguồn nước ngọt."
+    },
+    {
+      "shot": "B7",
+      "a": 2250,
+      "b": 2325,
+      "t0": 0,
+      "t1": 75,
+      "line": "Bơm ép nước qua màng, giữ muối lại."
+    },
+    {
+      "shot": "B8",
+      "a": 2325,
+      "b": 2400,
+      "t0": 0,
+      "t1": 75,
+      "line": "Bơm ép nước qua màng, giữ muối lại."
+    },
+    {
+      "shot": "B9",
+      "a": 2400,
+      "b": 2475,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nhà kính có thêm điện cho đèn và bơm."
+    },
+    {
+      "shot": "B10",
+      "a": 2475,
+      "b": 2550,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nhà kính có thêm điện cho đèn và bơm."
+    },
+    {
+      "shot": "B11",
+      "a": 2550,
+      "b": 2625,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nhưng cây vẫn cần đất, chất dinh dưỡng, thời gian."
+    },
+    {
+      "shot": "B12",
+      "a": 2625,
+      "b": 2700,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nhưng cây vẫn cần đất, chất dinh dưỡng, thời gian."
+    },
+    {
+      "shot": "B13",
+      "a": 2700,
+      "b": 2775,
+      "t0": 0,
+      "t1": 75,
+      "line": "Bệnh viện bớt lo thiếu điện vận hành."
+    },
+    {
+      "shot": "B14",
+      "a": 2775,
+      "b": 2850,
+      "t0": 0,
+      "t1": 75,
+      "line": "Bệnh viện bớt lo thiếu điện vận hành."
+    },
+    {
+      "shot": "B15",
+      "a": 2850,
+      "b": 2925,
+      "t0": 0,
+      "t1": 75,
+      "line": "Em gái bạn không còn học dưới đèn yếu."
+    },
+    {
+      "shot": "B16",
+      "a": 2925,
+      "b": 3000,
+      "t0": 0,
+      "t1": 75,
+      "line": "Em gái bạn không còn học dưới đèn yếu."
+    },
+    {
+      "shot": "B17",
+      "a": 3000,
+      "b": 3075,
+      "t0": 0,
+      "t1": 75,
+      "line": "Xe điện và tàu điện có thêm nguồn cấp."
+    },
+    {
+      "shot": "B18",
+      "a": 3075,
+      "b": 3150,
+      "t0": 0,
+      "t1": 75,
+      "line": "Xe điện và tàu điện có thêm nguồn cấp."
+    },
+    {
+      "shot": "B19",
+      "a": 3150,
+      "b": 3225,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nhà máy có thể điện hóa nhiều công đoạn."
+    },
+    {
+      "shot": "B20",
+      "a": 3225,
+      "b": 3300,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nhà máy có thể điện hóa nhiều công đoạn."
+    },
+    {
+      "shot": "B21",
+      "a": 3300,
+      "b": 3375,
+      "t0": 0,
+      "t1": 75,
+      "line": "Robot làm việc. Con người đổi nghề."
+    },
+    {
+      "shot": "B22",
+      "a": 3375,
+      "b": 3450,
+      "t0": 0,
+      "t1": 75,
+      "line": "Robot làm việc. Con người đổi nghề."
+    },
+    {
+      "shot": "B23",
+      "a": 3450,
+      "b": 3525,
+      "t0": 0,
+      "t1": 75,
+      "line": "Hóa đơn điện có thể giảm."
+    },
+    {
+      "shot": "B24",
+      "a": 3525,
+      "b": 3600,
+      "t0": 0,
+      "t1": 75,
+      "line": "Hóa đơn điện có thể giảm."
+    },
+    {
+      "shot": "C1",
+      "a": 3600,
+      "b": 3675,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nhưng giá điện còn do luật và thị trường."
+    },
+    {
+      "shot": "C2",
+      "a": 3675,
+      "b": 3750,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nhưng giá điện còn do luật và thị trường."
+    },
+    {
+      "shot": "C3",
+      "a": 3750,
+      "b": 3825,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nước sạch vẫn cần đường ống và bảo trì."
+    },
+    {
+      "shot": "C4",
+      "a": 3825,
+      "b": 3900,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nước sạch vẫn cần đường ống và bảo trì."
+    },
+    {
+      "shot": "C5",
+      "a": 3900,
+      "b": 3975,
+      "t0": 0,
+      "t1": 75,
+      "line": "Thực phẩm vẫn cần được vận chuyển."
+    },
+    {
+      "shot": "C6",
+      "a": 3975,
+      "b": 4050,
+      "t0": 0,
+      "t1": 75,
+      "line": "Thực phẩm vẫn cần được vận chuyển."
+    },
+    {
+      "shot": "C7",
+      "a": 4050,
+      "b": 4125,
+      "t0": 0,
+      "t1": 75,
+      "line": "Có đủ điện chưa chắc ai cũng được dùng."
+    },
+    {
+      "shot": "C8",
+      "a": 4125,
+      "b": 4200,
+      "t0": 0,
+      "t1": 75,
+      "line": "Có đủ điện chưa chắc ai cũng được dùng."
+    },
+    {
+      "shot": "C9",
+      "a": 4200,
+      "b": 4275,
+      "t0": 0,
+      "t1": 75,
+      "line": "Một nơi dư điện, nơi khác thiếu kết nối."
+    },
+    {
+      "shot": "C10",
+      "a": 4275,
+      "b": 4350,
+      "t0": 0,
+      "t1": 75,
+      "line": "Một nơi dư điện, nơi khác thiếu kết nối."
+    },
+    {
+      "shot": "C11",
+      "a": 4350,
+      "b": 4425,
+      "t0": 0,
+      "t1": 75,
+      "line": "Cấp I là năng lượng, không phải công bằng."
+    },
+    {
+      "shot": "C12",
+      "a": 4425,
+      "b": 4500,
+      "t0": 0,
+      "t1": 75,
+      "line": "Cấp I là năng lượng, không phải công bằng."
+    },
+    {
+      "shot": "C13",
+      "a": 4500,
+      "b": 4575,
+      "t0": 0,
+      "t1": 75,
+      "line": "Rồi bạn nhận ra: năng lượng đi về đâu?"
+    },
+    {
+      "shot": "C14",
+      "a": 4575,
+      "b": 4650,
+      "t0": 0,
+      "t1": 75,
+      "line": "Rồi bạn nhận ra: năng lượng đi về đâu?"
+    },
+    {
+      "shot": "C15",
+      "a": 4650,
+      "b": 4725,
+      "t0": 0,
+      "t1": 75,
+      "line": "Khi sử dụng, phần lớn cuối cùng thành nhiệt."
+    },
+    {
+      "shot": "C16",
+      "a": 4725,
+      "b": 4800,
+      "t0": 0,
+      "t1": 75,
+      "line": "Khi sử dụng, phần lớn cuối cùng thành nhiệt."
+    },
+    {
+      "shot": "C17",
+      "a": 4800,
+      "b": 4875,
+      "t0": 0,
+      "t1": 75,
+      "line": "Trái Đất nhận nắng và tỏa nhiệt ra ngoài."
+    },
+    {
+      "shot": "C18",
+      "a": 4875,
+      "b": 4950,
+      "t0": 0,
+      "t1": 75,
+      "line": "Trái Đất nhận nắng và tỏa nhiệt ra ngoài."
+    },
+    {
+      "shot": "C19",
+      "a": 4950,
+      "b": 5025,
+      "t0": 0,
+      "t1": 75,
+      "line": "Thêm nguồn nhiệt ròng sẽ đổi cân bằng ấy."
+    },
+    {
+      "shot": "C20",
+      "a": 5025,
+      "b": 5100,
+      "t0": 0,
+      "t1": 75,
+      "line": "Thêm nguồn nhiệt ròng sẽ đổi cân bằng ấy."
+    },
+    {
+      "shot": "C21",
+      "a": 5100,
+      "b": 5175,
+      "t0": 0,
+      "t1": 75,
+      "line": "Mười triệu tỷ watt chia đều bề mặt..."
+    },
+    {
+      "shot": "C22",
+      "a": 5175,
+      "b": 5250,
+      "t0": 0,
+      "t1": 75,
+      "line": "Mười triệu tỷ watt chia đều bề mặt..."
+    },
+    {
+      "shot": "C23",
+      "a": 5250,
+      "b": 5325,
+      "t0": 0,
+      "t1": 75,
+      "line": "...xấp xỉ hai mươi watt mỗi mét vuông."
+    },
+    {
+      "shot": "C24",
+      "a": 5325,
+      "b": 5400,
+      "t0": 0,
+      "t1": 75,
+      "line": "...xấp xỉ hai mươi watt mỗi mét vuông."
+    },
+    {
+      "shot": "D1",
+      "a": 5400,
+      "b": 5475,
+      "t0": 0,
+      "t1": 75,
+      "line": "Đó là phép tính minh họa, không phải dự báo."
+    },
+    {
+      "shot": "D2",
+      "a": 5475,
+      "b": 5550,
+      "t0": 0,
+      "t1": 75,
+      "line": "Đó là phép tính minh họa, không phải dự báo."
+    },
+    {
+      "shot": "D3",
+      "a": 5550,
+      "b": 5625,
+      "t0": 0,
+      "t1": 75,
+      "line": "Thu ánh nắng vốn tới Trái Đất khác nguồn mới."
+    },
+    {
+      "shot": "D4",
+      "a": 5625,
+      "b": 5700,
+      "t0": 0,
+      "t1": 75,
+      "line": "Thu ánh nắng vốn tới Trái Đất khác nguồn mới."
+    },
+    {
+      "shot": "D5",
+      "a": 5700,
+      "b": 5775,
+      "t0": 0,
+      "t1": 75,
+      "line": "Khử mặn cũng để lại nước muối đậm đặc."
+    },
+    {
+      "shot": "D6",
+      "a": 5775,
+      "b": 5850,
+      "t0": 0,
+      "t1": 75,
+      "line": "Khử mặn cũng để lại nước muối đậm đặc."
+    },
+    {
+      "shot": "D7",
+      "a": 5850,
+      "b": 5925,
+      "t0": 0,
+      "t1": 75,
+      "line": "Công suất lớn cần giới hạn sinh thái lớn tương ứng."
+    },
+    {
+      "shot": "D8",
+      "a": 5925,
+      "b": 6000,
+      "t0": 0,
+      "t1": 75,
+      "line": "Công suất lớn cần giới hạn sinh thái lớn tương ứng."
+    },
+    {
+      "shot": "D9",
+      "a": 6000,
+      "b": 6075,
+      "t0": 0,
+      "t1": 75,
+      "line": "Bạn không thể bấm nút xóa mọi cơn bão."
+    },
+    {
+      "shot": "D10",
+      "a": 6075,
+      "b": 6150,
+      "t0": 0,
+      "t1": 75,
+      "line": "Bạn không thể bấm nút xóa mọi cơn bão."
+    },
+    {
+      "shot": "D11",
+      "a": 6150,
+      "b": 6225,
+      "t0": 0,
+      "t1": 75,
+      "line": "Cấp I không chứng minh khả năng điều khiển thời tiết."
+    },
+    {
+      "shot": "D12",
+      "a": 6225,
+      "b": 6300,
+      "t0": 0,
+      "t1": 75,
+      "line": "Cấp I không chứng minh khả năng điều khiển thời tiết."
+    },
+    {
+      "shot": "D13",
+      "a": 6300,
+      "b": 6375,
+      "t0": 0,
+      "t1": 75,
+      "line": "Một trung tâm muốn nối mọi thứ vào nó."
+    },
+    {
+      "shot": "D14",
+      "a": 6375,
+      "b": 6450,
+      "t0": 0,
+      "t1": 75,
+      "line": "Một trung tâm muốn nối mọi thứ vào nó."
+    },
+    {
+      "shot": "D15",
+      "a": 6450,
+      "b": 6525,
+      "t0": 0,
+      "t1": 75,
+      "line": "Càng liên kết, lỗi càng cần được cô lập."
+    },
+    {
+      "shot": "D16",
+      "a": 6525,
+      "b": 6600,
+      "t0": 0,
+      "t1": 75,
+      "line": "Càng liên kết, lỗi càng cần được cô lập."
+    },
+    {
+      "shot": "D17",
+      "a": 6600,
+      "b": 6675,
+      "t0": 0,
+      "t1": 75,
+      "line": "Trong kịch bản này, một vùng bất ngờ tắt điện."
+    },
+    {
+      "shot": "D18",
+      "a": 6675,
+      "b": 6750,
+      "t0": 0,
+      "t1": 75,
+      "line": "Trong kịch bản này, một vùng bất ngờ tắt điện."
+    },
+    {
+      "shot": "D19",
+      "a": 6750,
+      "b": 6825,
+      "t0": 0,
+      "t1": 75,
+      "line": "Bệnh viện chuyển sang nguồn dự phòng."
+    },
+    {
+      "shot": "D20",
+      "a": 6825,
+      "b": 6900,
+      "t0": 0,
+      "t1": 75,
+      "line": "Bệnh viện chuyển sang nguồn dự phòng."
+    },
+    {
+      "shot": "D21",
+      "a": 6900,
+      "b": 6975,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nhà em gái bạn cũng chìm vào tối."
+    },
+    {
+      "shot": "D22",
+      "a": 6975,
+      "b": 7050,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nhà em gái bạn cũng chìm vào tối."
+    },
+    {
+      "shot": "D23",
+      "a": 7050,
+      "b": 7125,
+      "t0": 0,
+      "t1": 75,
+      "line": "Bạn có quyền chọn cách chia phần điện còn lại."
+    },
+    {
+      "shot": "D24",
+      "a": 7125,
+      "b": 7200,
+      "t0": 0,
+      "t1": 75,
+      "line": "Bạn có quyền chọn cách chia phần điện còn lại."
+    },
+    {
+      "shot": "E1",
+      "a": 7200,
+      "b": 7275,
+      "t0": 0,
+      "t1": 75,
+      "line": "Giữ đặc quyền, hay ưu tiên nhu cầu thiết yếu?"
+    },
+    {
+      "shot": "E2",
+      "a": 7275,
+      "b": 7350,
+      "t0": 0,
+      "t1": 75,
+      "line": "Giữ đặc quyền, hay ưu tiên nhu cầu thiết yếu?"
+    },
+    {
+      "shot": "E3",
+      "a": 7350,
+      "b": 7425,
+      "t0": 0,
+      "t1": 75,
+      "line": "Bạn chọn mạng dự phòng và quyền tiếp cận."
+    },
+    {
+      "shot": "E4",
+      "a": 7425,
+      "b": 7500,
+      "t0": 0,
+      "t1": 75,
+      "line": "Bạn chọn mạng dự phòng và quyền tiếp cận."
+    },
+    {
+      "shot": "E5",
+      "a": 7500,
+      "b": 7575,
+      "t0": 0,
+      "t1": 75,
+      "line": "Ánh sáng trở lại, từng khu phố một."
+    },
+    {
+      "shot": "E6",
+      "a": 7575,
+      "b": 7650,
+      "t0": 0,
+      "t1": 75,
+      "line": "Ánh sáng trở lại, từng khu phố một."
+    },
+    {
+      "shot": "E7",
+      "a": 7650,
+      "b": 7725,
+      "t0": 0,
+      "t1": 75,
+      "line": "Em gái bạn mở lại cuốn sách."
+    },
+    {
+      "shot": "E8",
+      "a": 7725,
+      "b": 7800,
+      "t0": 0,
+      "t1": 75,
+      "line": "Em gái bạn mở lại cuốn sách."
+    },
+    {
+      "shot": "E9",
+      "a": 7800,
+      "b": 7875,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nhiều năng lượng mở ra nhiều khả năng."
+    },
+    {
+      "shot": "E10",
+      "a": 7875,
+      "b": 7950,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nhiều năng lượng mở ra nhiều khả năng."
+    },
+    {
+      "shot": "E11",
+      "a": 7950,
+      "b": 8025,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nó không tự xóa chiến tranh hay bất bình đẳng."
+    },
+    {
+      "shot": "E12",
+      "a": 8025,
+      "b": 8100,
+      "t0": 0,
+      "t1": 75,
+      "line": "Nó không tự xóa chiến tranh hay bất bình đẳng."
+    },
+    {
+      "shot": "E13",
+      "a": 8100,
+      "b": 8175,
+      "t0": 0,
+      "t1": 75,
+      "line": "Và không biến nhân loại thành bất tử."
+    },
+    {
+      "shot": "E14",
+      "a": 8175,
+      "b": 8250,
+      "t0": 0,
+      "t1": 75,
+      "line": "Và không biến nhân loại thành bất tử."
+    },
+    {
+      "shot": "E15",
+      "a": 8250,
+      "b": 8325,
+      "t0": 0,
+      "t1": 75,
+      "line": "Ta còn phải giữ hành tinh có thể sống được."
+    },
+    {
+      "shot": "E16",
+      "a": 8325,
+      "b": 8400,
+      "t0": 0,
+      "t1": 75,
+      "line": "Ta còn phải giữ hành tinh có thể sống được."
+    },
+    {
+      "shot": "E17",
+      "a": 8400,
+      "b": 8475,
+      "t0": 0,
+      "t1": 75,
+      "line": "Một nền văn minh lớn biết kiểm soát chính mình."
+    },
+    {
+      "shot": "E18",
+      "a": 8475,
+      "b": 8550,
+      "t0": 0,
+      "t1": 75,
+      "line": "Một nền văn minh lớn biết kiểm soát chính mình."
+    },
+    {
+      "shot": "E19",
+      "a": 8550,
+      "b": 8625,
+      "t0": 0,
+      "t1": 75,
+      "line": "Đạt cấp I chỉ là vượt một mốc năng lượng."
+    },
+    {
+      "shot": "E20",
+      "a": 8625,
+      "b": 8700,
+      "t0": 0,
+      "t1": 75,
+      "line": "Đạt cấp I chỉ là vượt một mốc năng lượng."
+    },
+    {
+      "shot": "E21",
+      "a": 8700,
+      "b": 8775,
+      "t0": 0,
+      "t1": 75,
+      "line": "Điều quan trọng: cuộc sống của ai tốt hơn?"
+    },
+    {
+      "shot": "E22",
+      "a": 8775,
+      "b": 8850,
+      "t0": 0,
+      "t1": 75,
+      "line": "Điều quan trọng: cuộc sống của ai tốt hơn?"
+    },
+    {
+      "shot": "E23",
+      "a": 8850,
+      "b": 8925,
+      "t0": 0,
+      "t1": 75,
+      "line": "Ngày mai có đủ điện. Ta đã đủ trưởng thành chưa?"
+    },
+    {
+      "shot": "E24",
+      "a": 8925,
+      "b": 9000,
+      "t0": 0,
+      "t1": 75,
+      "line": "Ngày mai có đủ điện. Ta đã đủ trưởng thành chưa?"
+    }
+  ],
+  "fx": [],
+  "audio": {}
+}

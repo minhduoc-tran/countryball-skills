@@ -1,0 +1,19 @@
+# chapter C: beats 9-12. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "4 week one: jungle"  119.29-135.41 s
+# Tuần đầu tiên. Những người to khỏe nhất bắt đầu lấy thứ họ muốn. Một nhóm thanh niên dựng chốt ở đầu ngõ, ai đi qua phải nộp tiền. Bà cụ bán vé số bị giật mất xấp vé, mà không biết kêu ai. Nhà nhà khóa cửa, dựng rào, thay phiên nhau thức canh. Em gái bạn không dám ra đường khi trời tối.
+Tuần@119.22 đầu@119.43 tiên.@119.59 Những@120.23 người@120.49 to@120.74 khỏe@120.87 nhất@121.08 bắt@121.64 đầu@121.82 lấy@121.99 thứ@122.16 họ@122.34 muốn.@122.47 Một@123.02 nhóm@123.18 thanh@123.38 niên@123.61 dựng@123.81 chốt@124.01 ở@124.36 đầu@124.45 ngõ,@124.61 ai@125.07 đi@125.20 qua@125.32 phải@125.49 nộp@125.69 tiền.@125.95 Bà@126.70 cụ@126.87 bán@127.04 vé@127.26 số@127.44 bị@127.61 giật@127.78 mất@128.05 xấp@128.27 vé,@128.49 mà@128.96 không@129.09 biết@129.32 kêu@129.64 ai.@129.80 Nhà@130.31 nhà@130.47 khóa@130.63 cửa,@130.91 dựng@131.37 rào,@131.64 thay@132.16 phiên@132.31 nhau@132.49 thức@132.64 canh.@132.88 Em@133.36 gái@133.50 bạn@133.68 không@133.86 dám@134.18 ra@134.36 đường@134.50 khi@134.76 trời@134.94 tối.@135.16
+
+## beat "4 week one: family"  135.75-145.15 s
+# Tối đó, cả nhà ngồi quanh một ngọn nến. Mẹ nói khẽ. Hồi trước mẹ cứ nghĩ luật lệ chỉ để phạt người ta. Giờ mẹ mới hiểu, nó còn để bảo vệ những người yếu nhất.
+Tối@135.69 đó,@135.91 cả@136.38 nhà@136.52 ngồi@136.71 quanh@137.17 một@137.44 ngọn@137.63 nến.@137.85 Mẹ@138.43 nói@138.60 khẽ.@138.82 Hồi@139.41 trước@139.57 mẹ@139.82 cứ@140.35 nghĩ@140.48 luật@140.69 lệ@140.89 chỉ@141.20 để@141.37 phạt@141.50 người@141.70 ta.@141.94 Giờ@142.40 mẹ@142.60 mới@142.75 hiểu,@142.95 nó@143.48 còn@143.62 để@143.79 bảo@143.92 vệ@144.09 những@144.22 người@144.46 yếu@144.71 nhất.@144.88
+
+## beat "4 week one: hobbes"  145.49-154.62 s
+# Gần bốn trăm năm trước, nhà triết học người Anh Thomas Hobbes đã viết rằng, nếu không có luật lệ, cuộc sống con người sẽ cô độc, nghèo khổ, tồi tệ, tàn bạo và ngắn ngủi.
+Gần@145.42 bốn@145.58 trăm@145.74 năm@145.94 trước,@146.10 nhà@146.63 triết@146.79 học@147.01 người@147.16 Anh@147.38 Thomas@147.61 Hobbes@147.86 đã@148.12 viết@148.38 rằng,@148.56 nếu@149.05 không@149.20 có@149.40 luật@149.51 lệ,@149.69 cuộc@150.10 sống@150.31 con@150.52 người@150.68 sẽ@151.11 cô@151.24 độc,@151.44 nghèo@151.91 khổ,@152.20 tồi@152.69 tệ,@152.91 tàn@153.37 bạo@153.54 và@153.71 ngắn@154.14 ngủi.@154.35
+
+## beat "4 week one: history"  154.95-165.12 s
+# Lịch sử cho thấy ông không nói quá. Ở châu Âu thời Trung Cổ, khi luật pháp còn yếu, tỷ lệ giết người cao gấp hàng chục lần ngày nay. Đó là thật. Không có luật, kẻ mạnh nhất chính là luật.
+Lịch@154.88 sử@155.11 cho@155.25 thấy@155.44 ông@155.66 không@155.85 nói@156.11 quá.@156.30 Ở@156.91 châu@157.01 Âu@157.22 thời@157.35 Trung@157.56 Cổ,@157.80 khi@158.23 luật@158.37 pháp@158.65 còn@158.90 yếu,@159.04 tỷ@159.48 lệ@159.62 giết@159.75 người@159.96 cao@160.21 gấp@160.38 hàng@160.56 chục@160.77 lần@161.05 ngày@161.22 nay.@161.43 Đó@162.15 là@162.27 thật.@162.39 Không@163.04 có@163.22 luật,@163.31 kẻ@163.75 mạnh@163.86 nhất@164.02 chính@164.18 là@164.79 luật.@164.89
+
+# chapter ends at s:166.25 (next chapter's first cut, or the episode end)

@@ -1,0 +1,698 @@
+{
+ "chapter": "a",
+ "shots": [
+  {
+   "id": "A1",
+   "file": "shots-cha-cold-open",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 30,
+   "note": "06:00 dawn, Pip asleep, the clock starts ringing (the loop alarm framing)"
+  },
+  {
+   "id": "A2",
+   "file": "shots-cha-cold-open",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 26,
+   "note": "alarm clock macro, Pip hand slaps the snooze bar, ring stops"
+  },
+  {
+   "id": "A3",
+   "file": "shots-cha-cold-open",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 34,
+   "note": "kitchen: mum at the hob calls up the stairs, TV forecast on the wall"
+  },
+  {
+   "id": "A4",
+   "file": "shots-cha-cold-open",
+   "size": "insert",
+   "set": "kitchen",
+   "key": 58,
+   "note": "TV forecast: rain cloud, 16:00, MƯA LỚN banner types on"
+  },
+  {
+   "id": "A5",
+   "file": "shots-cha-cold-open",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 48,
+   "note": "Pip at breakfast, spoon stops halfway, freezes; snap-in on Quá quen"
+  },
+  {
+   "id": "A6",
+   "file": "shots-cha-cold-open",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 30,
+   "note": "déjà vu: yesterday sepia ghost of the whole breakfast frame slides over and locks, memory glow"
+  },
+  {
+   "id": "A7",
+   "file": "shots-cha-premise",
+   "size": "wide",
+   "set": "bedroom-night",
+   "key": 44,
+   "note": "TitleCard over the dark room at 23:59, Pip asleep"
+  },
+  {
+   "id": "A8",
+   "file": "shots-cha-premise",
+   "size": "schematic",
+   "set": "globe",
+   "key": 40,
+   "note": "ResetClock 23:59 -> 06:00 THỨ TƯ over the Earth, rim people rewind cyan"
+  },
+  {
+   "id": "A9",
+   "file": "shots-cha-premise",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 36,
+   "note": "tear-off calendar: pages fly off, every new page THỨ TƯ, NGÀY # ticks"
+  },
+  {
+   "id": "A10",
+   "file": "shots-cha-premise",
+   "size": "wide",
+   "set": "street",
+   "key": 52,
+   "note": "morning crowd walks past blank, Pip still in the middle with MemoryGlow"
+  },
+  {
+   "id": "A11",
+   "file": "shots-cha-rules",
+   "size": "insert",
+   "set": "bedroom-night",
+   "key": 70,
+   "note": "LUẬT: big flip clock over the dark room, 23:59 flips to 00:00"
+  },
+  {
+   "id": "A12",
+   "file": "shots-cha-rules",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 30,
+   "note": "messy room at 00:00, reset wave, tidy 06:00 morning again"
+  },
+  {
+   "id": "A13",
+   "file": "shots-cha-rules",
+   "size": "schematic",
+   "set": "card",
+   "key": 92,
+   "note": "rules card: CĂN PHÒNG, VÍ TIỀN, CƠ THỂ, 8 TỶ NGƯỜI pop and rewind cyan"
+  },
+  {
+   "id": "A14",
+   "file": "shots-cha-rules",
+   "size": "close",
+   "set": "bedroom",
+   "key": 36,
+   "note": "06:00 reset wave over Pip in bed, only his head keeps the cyan glow"
+  },
+  {
+   "id": "A15",
+   "file": "shots-cha-day-two",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 44,
+   "note": "A1 framing again (day 2): ringing, Pip jolts upright, looks round, ?"
+  },
+  {
+   "id": "A16",
+   "file": "shots-cha-day-two",
+   "size": "medium",
+   "set": "street",
+   "key": 72,
+   "note": "sidewalk: Mo tells THE joke (doodle bubble), Pip mouths it in sync"
+  },
+  {
+   "id": "A17",
+   "file": "shots-cha-day-two",
+   "size": "low",
+   "set": "balcony",
+   "key": 46,
+   "note": "low angle: the neighbour cat butts the flower pot, it tips off the ledge"
+  },
+  {
+   "id": "A18",
+   "file": "shots-cha-day-two",
+   "size": "medium",
+   "set": "street",
+   "key": 36,
+   "note": "sidewalk by Pip: the pot drops in and smashes, Pip already stepped back"
+  },
+  {
+   "id": "A19",
+   "file": "shots-cha-day-two",
+   "size": "insert",
+   "set": "street",
+   "key": 24,
+   "note": "flip clock 15:59 -> 16:00 against the darkening street"
+  },
+  {
+   "id": "A20",
+   "file": "shots-cha-day-two",
+   "size": "wide",
+   "set": "crossroads",
+   "key": 40,
+   "note": "16:00 crossroads: rain comes down on the second, Pip umbrella opening"
+  },
+  {
+   "id": "A21",
+   "file": "shots-cha-no-consequences",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 62,
+   "note": "Pip by the window, grin spreads; HẬU QUẢ tag crossed out"
+  },
+  {
+   "id": "A22",
+   "file": "shots-cha-no-consequences",
+   "size": "medium",
+   "set": "supermarket",
+   "key": 36,
+   "note": "supermarket: ten ice creams in one fist, belly ballooning"
+  },
+  {
+   "id": "A23",
+   "file": "shots-cha-no-consequences",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 32,
+   "note": "06:00 reset wave: Pip pats a flat belly, delighted"
+  },
+  {
+   "id": "A24",
+   "file": "shots-cha-no-consequences",
+   "size": "wide",
+   "set": "office",
+   "key": 30,
+   "note": "office: Pip yells everything at the boss (angry bubble), boss recoils"
+  },
+  {
+   "id": "A25",
+   "file": "shots-cha-no-consequences",
+   "size": "close",
+   "set": "office",
+   "key": 36,
+   "note": "next morning (reset): the boss smiles blank with his coffee, OTS Pip"
+  },
+  {
+   "id": "A26",
+   "file": "shots-cha-holiday",
+   "size": "wide",
+   "set": "pool",
+   "key": 46,
+   "note": "poolside: hair pops blue, Pip in a suit runs and cannonballs in"
+  },
+  {
+   "id": "A27",
+   "file": "shots-cha-holiday",
+   "size": "medium",
+   "set": "restaurant",
+   "key": 44,
+   "note": "restaurant long table of dishes, Pip eats down the menu, plates stack"
+  },
+  {
+   "id": "A28",
+   "file": "shots-cha-holiday",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "rooftop party at dusk: party hats, confetti, fireworks"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "s:0.00"
+  },
+  {
+   "shot": "A2",
+   "at": "s:2.21"
+  },
+  {
+   "shot": "A3",
+   "at": "s:4.37"
+  },
+  {
+   "shot": "A4",
+   "at": "s:6.64"
+  },
+  {
+   "shot": "A5",
+   "at": "s:8.87"
+  },
+  {
+   "shot": "A6",
+   "at": "s:10.91",
+   "look": "memory"
+  },
+  {
+   "shot": "A7",
+   "at": "s:14.13"
+  },
+  {
+   "shot": "A8",
+   "at": "s:16.72"
+  },
+  {
+   "shot": "A9",
+   "at": "s:18.84"
+  },
+  {
+   "shot": "A10",
+   "at": "s:21.25"
+  },
+  {
+   "shot": "A11",
+   "at": "s:23.47"
+  },
+  {
+   "shot": "A12",
+   "at": "s:25.96"
+  },
+  {
+   "shot": "A13",
+   "at": "s:28.23"
+  },
+  {
+   "shot": "A14",
+   "at": "s:31.58"
+  },
+  {
+   "shot": "A15",
+   "at": "s:33.52",
+   "look": "day2"
+  },
+  {
+   "shot": "A16",
+   "at": "s:35.76",
+   "look": "day2"
+  },
+  {
+   "shot": "A17",
+   "at": "s:38.64"
+  },
+  {
+   "shot": "A18",
+   "at": "s:40.37"
+  },
+  {
+   "shot": "A19",
+   "at": "s:41.92"
+  },
+  {
+   "shot": "A20",
+   "at": "s:43.28"
+  },
+  {
+   "shot": "A21",
+   "at": "s:45.02"
+  },
+  {
+   "shot": "A22",
+   "at": "s:47.33"
+  },
+  {
+   "shot": "A23",
+   "at": "s:48.86"
+  },
+  {
+   "shot": "A24",
+   "at": "s:50.95"
+  },
+  {
+   "shot": "A25",
+   "at": "s:52.81"
+  },
+  {
+   "shot": "A26",
+   "at": "s:54.56"
+  },
+  {
+   "shot": "A27",
+   "at": "s:57.32"
+  },
+  {
+   "shot": "A28",
+   "at": "s:59.35"
+  }
+ ],
+ "fx": [
+  {
+   "at": "A2+18",
+   "kind": "shake",
+   "len": 5,
+   "amp": 6
+  },
+  {
+   "at": "A8+31",
+   "kind": "shake",
+   "len": 6,
+   "amp": 8
+  },
+  {
+   "at": "A18+30",
+   "kind": "shake",
+   "len": 5,
+   "amp": 6
+  },
+  {
+   "at": "A26+72",
+   "kind": "flash",
+   "color": "#DFF8FF",
+   "o": 0.35
+  }
+ ],
+ "events": [
+  [
+   "A1+22",
+   "phone_ring",
+   0.1,
+   "onset",
+   "A2+18"
+  ],
+  [
+   "A2+18",
+   "land",
+   0.1
+  ],
+  [
+   "A3",
+   "room_tone",
+   0.08,
+   "onset",
+   "A7"
+  ],
+  [
+   "A4+56",
+   "ting",
+   0.08
+  ],
+  [
+   "A5+33",
+   "swoosh",
+   0.07
+  ],
+  [
+   "A6",
+   "glitch",
+   0.05
+  ],
+  [
+   "A6+46",
+   "sparkle",
+   0.08
+  ],
+  [
+   "A7+2",
+   "title_boom",
+   0.14
+  ],
+  [
+   "A8+8",
+   "rewind_start",
+   0.12
+  ],
+  [
+   "A8+10",
+   "rewind",
+   0.12
+  ],
+  [
+   "A8+30",
+   "glitch",
+   0.12
+  ],
+  [
+   "A9+6",
+   "paper_land",
+   0.08
+  ],
+  [
+   "A9+20",
+   "paper_land",
+   0.08
+  ],
+  [
+   "A9+30",
+   "paper_land",
+   0.07
+  ],
+  [
+   "A10+38",
+   "sparkle",
+   0.07
+  ],
+  [
+   "A11+64",
+   "copy_click",
+   0.12
+  ],
+  [
+   "A12+26",
+   "rewind_start",
+   0.09
+  ],
+  [
+   "A12+36",
+   "rewind",
+   0.09
+  ],
+  [
+   "A12+38",
+   "glitch",
+   0.1
+  ],
+  [
+   "A12+40",
+   "phone_ring",
+   0.06,
+   "onset",
+   "A13"
+  ],
+  [
+   "A13+2",
+   "pop",
+   0.07
+  ],
+  [
+   "A13+12",
+   "glitch",
+   0.05
+  ],
+  [
+   "A13+26",
+   "pop",
+   0.07
+  ],
+  [
+   "A13+36",
+   "glitch",
+   0.05
+  ],
+  [
+   "A13+72",
+   "pop",
+   0.07
+  ],
+  [
+   "A13+82",
+   "glitch",
+   0.05
+  ],
+  [
+   "A14+1",
+   "glitch",
+   0.1
+  ],
+  [
+   "A14+8",
+   "sparkle",
+   0.08
+  ],
+  [
+   "A15",
+   "phone_ring",
+   0.08,
+   "onset",
+   "A16"
+  ],
+  [
+   "A16+78",
+   "laugh",
+   0.09
+  ],
+  [
+   "A17+30",
+   "cat_chirp",
+   0.12
+  ],
+  [
+   "A18+2",
+   "fall_whoosh",
+   0.08
+  ],
+  [
+   "A18+30",
+   "shatter",
+   0.16
+  ],
+  [
+   "A19+11",
+   "copy_click",
+   0.09
+  ],
+  [
+   "A20+14",
+   "rain",
+   0.12,
+   "onset",
+   "A21"
+  ],
+  [
+   "A20+26",
+   "thunder",
+   0.14
+  ],
+  [
+   "A21+58",
+   "buzzer",
+   0.08
+  ],
+  [
+   "A22+36",
+   "gulp",
+   0.1
+  ],
+  [
+   "A22+40",
+   "rewind_start",
+   0.08
+  ],
+  [
+   "A23+1",
+   "glitch",
+   0.1
+  ],
+  [
+   "A23+2",
+   "phone_ring",
+   0.06,
+   "onset",
+   "A23+30"
+  ],
+  [
+   "A23+50",
+   "pop",
+   0.08
+  ],
+  [
+   "A24+47",
+   "gasp",
+   0.1
+  ],
+  [
+   "A25+1",
+   "glitch",
+   0.1
+  ],
+  [
+   "A25+40",
+   "ting",
+   0.06
+  ],
+  [
+   "A26+9",
+   "sparkle",
+   0.07
+  ],
+  [
+   "A26+72",
+   "splash",
+   0.18
+  ],
+  [
+   "A28+30",
+   "laugh",
+   0.08
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "A9+37",
+   "clip": "paper_land",
+   "n": 10,
+   "every": 3,
+   "gain": [
+    0.04,
+    0.06
+   ],
+   "pitch": [
+    1.0,
+    1.4
+   ]
+  },
+  {
+   "at": "A11",
+   "clip": "counter_tick",
+   "n": 4,
+   "every": 15,
+   "gain": [
+    0.05,
+    0.06
+   ],
+   "pitch": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "at": "A27+4",
+   "clip": "cookie_crunch",
+   "n": 6,
+   "every": 9,
+   "gain": [
+    0.04,
+    0.06
+   ],
+   "pitch": [
+    0.9,
+    1.2
+   ]
+  },
+  {
+   "at": "A27+10",
+   "clip": "clink",
+   "n": 5,
+   "every": 10,
+   "gain": [
+    0.04,
+    0.06
+   ],
+   "pitch": [
+    0.9,
+    1.3
+   ]
+  },
+  {
+   "at": "A28+2",
+   "clip": "pop",
+   "n": 4,
+   "every": 7,
+   "gain": [
+    0.06,
+    0.1
+   ],
+   "pitch": [
+    0.9,
+    1.3
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+# chapter E: beats 16-18. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "6 month one: ostrom"  220.51-234.70 s
+# Nhà kinh tế Elinor Ostrom đã nhận giải Nobel năm hai nghìn không trăm lẻ chín vì chứng minh điều này. Những cộng đồng bình thường, như làng chài hay những người cùng chung một con mương tưới ruộng, có thể tự đặt ra luật để chia nhau tài nguyên, và giữ được hàng trăm năm. Đó là thật.
+Nhà@220.45 kinh@220.63 tế@220.85 Elinor@220.99 Ostrom@221.29 đã@221.59 nhận@221.73 giải@222.09 Nobel@222.31 năm@222.57 hai@222.75 nghìn@222.93 không@223.19 trăm@223.45 lẻ@223.67 chín@223.81 vì@224.03 chứng@224.17 minh@224.74 điều@224.96 này.@225.18 Những@225.69 cộng@225.89 đồng@226.06 bình@226.23 thường,@226.40 như@226.93 làng@227.08 chài@227.27 hay@227.45 những@227.61 người@228.14 cùng@228.36 chung@228.63 một@228.85 con@229.07 mương@229.22 tưới@229.44 ruộng,@229.62 có@230.14 thể@230.27 tự@230.52 đặt@230.64 ra@230.89 luật@231.01 để@231.53 chia@231.65 nhau@231.84 tài@232.04 nguyên,@232.20 và@232.76 giữ@232.90 được@233.07 hàng@233.28 trăm@233.50 năm.@233.71 Đó@234.25 là@234.36 thật.@234.47
+
+## beat "7 insight"  235.90-258.20 s
+# Hóa ra, luật pháp không phải thứ từ trên trời rơi xuống. Luật không hoàn hảo. Có luật hay, có luật dở, và con người luôn phải sửa nó. Nó là một lời hứa mà hàng triệu người cùng giữ. Đèn đỏ thì dừng. Mượn thì trả. Không ai được làm hại ai. Khi ai cũng giữ lời hứa đó, ta mới tự do thật sự. Tự do đi đường mà không sợ. Tự do mở cửa hàng. Tự do ngủ một giấc thật ngon.
+Hóa@235.83 ra,@236.06 luật@236.54 pháp@236.83 không@237.14 phải@237.35 thứ@237.54 từ@237.69 trên@237.80 trời@237.98 rơi@238.17 xuống.@238.32 Luật@238.94 không@239.14 hoàn@239.37 hảo.@239.56 Có@240.25 luật@240.39 hay,@240.61 có@241.09 luật@241.24 dở,@241.48 và@241.93 con@242.08 người@242.27 luôn@242.55 phải@242.79 sửa@243.02 nó.@243.21 Nó@243.78 là@243.93 một@244.08 lời@244.28 hứa@244.47 mà@244.66 hàng@245.09 triệu@245.33 người@245.61 cùng@245.95 giữ.@246.19 Đèn@246.78 đỏ@246.96 thì@247.10 dừng.@247.41 Mượn@247.97 thì@248.21 trả.@248.41 Không@248.99 ai@249.23 được@249.35 làm@249.55 hại@249.72 ai.@249.88 Khi@250.46 ai@250.65 cũng@250.86 giữ@251.08 lời@251.27 hứa@251.45 đó,@251.63 ta@252.07 mới@252.21 tự@252.39 do@252.52 thật@252.66 sự.@252.88 Tự@253.50 do@253.64 đi@253.77 đường@253.91 mà@254.16 không@254.30 sợ.@254.55 Tự@255.13 do@255.30 mở@255.46 cửa@255.63 hàng.@255.84 Tự@256.62 do@256.76 ngủ@256.89 một@257.06 giấc@257.23 thật@257.44 ngon.@257.92
+
+## beat "7 question"  258.53-263.58 s
+# Nếu được viết điều luật đầu tiên cho một xã hội mới, bạn sẽ viết gì? Viết ở phần bình luận nhé.
+Nếu@258.46 được@258.63 viết@258.84 điều@259.20 luật@259.41 đầu@259.70 tiên@259.86 cho@260.23 một@260.40 xã@260.57 hội@260.70 mới,@260.87 bạn@261.34 sẽ@261.51 viết@261.65 gì?@261.86 Viết@262.64 ở@262.80 phần@262.88 bình@263.04 luận@263.21 nhé.@263.37
+
+# chapter ends at s:266.58 (next chapter's first cut, or the episode end)

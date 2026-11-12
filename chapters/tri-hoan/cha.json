@@ -1,0 +1,583 @@
+{
+ "chapter": "a",
+ "shots": [
+  {
+   "id": "A1",
+   "file": "shots-cha-cold-open",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 24,
+   "note": "macro digital clock 23:59 pulsing red"
+  },
+  {
+   "id": "A2",
+   "file": "shots-cha-cold-open",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 30,
+   "note": "Pip hunched at desk 23:59, laptop light"
+  },
+  {
+   "id": "A3",
+   "file": "shots-cha-cold-open",
+   "size": "insert",
+   "set": "screen",
+   "key": 30,
+   "note": "slide: one line typed Hệ mặt trời là..."
+  },
+  {
+   "id": "A4",
+   "file": "shots-cha-cold-open",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 24,
+   "note": "flashback 1 TUẦN TRƯỚC: Pip leans back smug"
+  },
+  {
+   "id": "A5",
+   "file": "shots-cha-cold-open",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "arm slaps first MAI LÀM note on the laptop lid"
+  },
+  {
+   "id": "A6",
+   "file": "shots-cha-cold-open",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 40,
+   "note": "calendar pages flip, the note curls and stays"
+  },
+  {
+   "id": "A7",
+   "file": "shots-cha-premise",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 90,
+   "note": "TitleCard over the bedroom papered in MAI LÀM notes"
+  },
+  {
+   "id": "A8",
+   "file": "shots-cha-premise",
+   "size": "insert",
+   "set": "desk",
+   "key": 16,
+   "note": "school bag with notes"
+  },
+  {
+   "id": "A9",
+   "file": "shots-cha-premise",
+   "size": "wide",
+   "set": "road",
+   "key": 30,
+   "note": "life road covered in notes, Pip walks"
+  },
+  {
+   "id": "A10",
+   "file": "shots-cha-seven-days",
+   "size": "wide",
+   "set": "classroom",
+   "key": 30,
+   "note": "teacher at the board, Pip at his desk"
+  },
+  {
+   "id": "A11",
+   "file": "shots-cha-seven-days",
+   "size": "insert",
+   "set": "classroom",
+   "key": 30,
+   "note": "slide HỆ MẶT TRỜI with planets"
+  },
+  {
+   "id": "A12",
+   "file": "shots-cha-seven-days",
+   "size": "close-up",
+   "set": "classroom",
+   "key": 30,
+   "note": "Pip leans back: 7 ngày, dư sức"
+  },
+  {
+   "id": "A13",
+   "file": "shots-cha-seven-days",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "Pip opens the laptop, ready"
+  },
+  {
+   "id": "A14",
+   "file": "shots-cha-seven-days",
+   "size": "insert",
+   "set": "screen",
+   "key": 30,
+   "note": "first video opens over the slide"
+  },
+  {
+   "id": "A15",
+   "file": "shots-cha-seven-days",
+   "size": "insert",
+   "set": "screen",
+   "key": 30,
+   "note": "video rabbit hole zoom tunnel"
+  },
+  {
+   "id": "A16",
+   "file": "shots-cha-seven-days",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "2 GIỜ SAU: clock jumps, Pip glued"
+  },
+  {
+   "id": "A17",
+   "file": "shots-cha-seven-days",
+   "size": "insert",
+   "set": "screen",
+   "key": 20,
+   "note": "handmade soap video"
+  },
+  {
+   "id": "A18",
+   "file": "shots-cha-seven-days",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "Pip sighs and sticks the second note"
+  },
+  {
+   "id": "A19",
+   "file": "shots-cha-five-days",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 36,
+   "note": "Pip strides to the messy desk, determined"
+  },
+  {
+   "id": "A20",
+   "file": "shots-cha-five-days",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 24,
+   "note": "sits, cracks knuckles"
+  },
+  {
+   "id": "A21",
+   "file": "shots-cha-five-days",
+   "size": "top-down",
+   "set": "desk",
+   "key": 22,
+   "note": "top-down: the desk is a mess"
+  },
+  {
+   "id": "A22",
+   "file": "shots-cha-five-days",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 40,
+   "note": "tidies desk then wardrobe"
+  },
+  {
+   "id": "A23",
+   "file": "shots-cha-five-days",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 30,
+   "note": "dish tower, Pip washing"
+  },
+  {
+   "id": "A24",
+   "file": "shots-cha-five-days",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 18,
+   "note": "mum nearly crying"
+  },
+  {
+   "id": "A25",
+   "file": "shots-cha-five-days",
+   "size": "insert",
+   "set": "screen",
+   "key": 50,
+   "note": "blank white slide, blinking cursor, a fly"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "s:0.00",
+   "look": "alert"
+  },
+  {
+   "shot": "A2",
+   "at": "s:1.90",
+   "look": "alert"
+  },
+  {
+   "shot": "A3",
+   "at": "s:4.08",
+   "look": "night"
+  },
+  {
+   "shot": "A4",
+   "at": "s:5.55"
+  },
+  {
+   "shot": "A5",
+   "at": "s:6.95"
+  },
+  {
+   "shot": "A6",
+   "at": "s:8.59"
+  },
+  {
+   "shot": "A7",
+   "at": "s:11.30"
+  },
+  {
+   "shot": "A8",
+   "at": "s:13.51"
+  },
+  {
+   "shot": "A9",
+   "at": "s:14.65"
+  },
+  {
+   "shot": "A10",
+   "at": "s:16.37",
+   "look": "c7"
+  },
+  {
+   "shot": "A11",
+   "at": "s:18.15",
+   "look": "c7"
+  },
+  {
+   "shot": "A12",
+   "at": "s:19.91",
+   "look": "c7"
+  },
+  {
+   "shot": "A13",
+   "at": "s:21.54",
+   "look": "c7"
+  },
+  {
+   "shot": "A14",
+   "at": "s:23.28",
+   "look": "c7"
+  },
+  {
+   "shot": "A15",
+   "at": "s:24.74",
+   "look": "c7"
+  },
+  {
+   "shot": "A16",
+   "at": "s:26.46",
+   "look": "c7"
+  },
+  {
+   "shot": "A17",
+   "at": "s:28.29",
+   "look": "c7"
+  },
+  {
+   "shot": "A18",
+   "at": "s:29.64",
+   "look": "c7"
+  },
+  {
+   "shot": "A19",
+   "at": "s:31.30",
+   "look": "c5"
+  },
+  {
+   "shot": "A20",
+   "at": "s:33.20",
+   "look": "c5"
+  },
+  {
+   "shot": "A21",
+   "at": "s:34.77",
+   "look": "c5"
+  },
+  {
+   "shot": "A22",
+   "at": "s:36.25",
+   "look": "c5"
+  },
+  {
+   "shot": "A23",
+   "at": "s:38.54",
+   "look": "c5"
+  },
+  {
+   "shot": "A24",
+   "at": "s:40.18",
+   "look": "c5"
+  },
+  {
+   "shot": "A25",
+   "at": "s:41.67",
+   "look": "c5"
+  }
+ ],
+ "fx": [
+  {
+   "at": "A5+17",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.22
+  },
+  {
+   "at": "A18+19",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.22
+  },
+  {
+   "at": "A20+8",
+   "kind": "shake",
+   "len": 4,
+   "amp": 6
+  }
+ ],
+ "events": [
+  [
+   "A1",
+   "room_tone",
+   0.1,
+   "onset",
+   "A10"
+  ],
+  [
+   "A10",
+   "class_murmur",
+   0.1,
+   "onset",
+   "A13"
+  ],
+  [
+   "A13",
+   "room_tone",
+   0.1,
+   "onset",
+   "A23"
+  ],
+  [
+   "A23",
+   "room_tone",
+   0.08,
+   "onset",
+   "A25"
+  ],
+  [
+   "A25",
+   "room_tone",
+   0.08
+  ],
+  [
+   "A5+17",
+   "paper_land",
+   0.09
+  ],
+  [
+   "A18+19",
+   "paper_land",
+   0.09
+  ],
+  [
+   "A8+3",
+   "pop",
+   0.08
+  ],
+  [
+   "A8+8",
+   "pop",
+   0.08
+  ],
+  [
+   "A8+13",
+   "pop",
+   0.08
+  ],
+  [
+   "A12+14",
+   "sparkle",
+   0.08
+  ],
+  [
+   "A13+6",
+   "select_draw",
+   0.08
+  ],
+  [
+   "A14+8",
+   "pop",
+   0.07
+  ],
+  [
+   "A16+17",
+   "ding",
+   0.08
+  ],
+  [
+   "A20+8",
+   "land",
+   0.1
+  ],
+  [
+   "A20+12",
+   "sparkle",
+   0.08
+  ],
+  [
+   "A24+10",
+   "sparkle",
+   0.1
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "A3+2",
+   "clip": "copy_click",
+   "n": 11,
+   "every": 2,
+   "gain": [
+    0.06,
+    0.09
+   ],
+   "pitch": [
+    0.95,
+    1.05
+   ]
+  },
+  {
+   "at": "A6+4",
+   "clip": "paper_land",
+   "n": 7,
+   "every": 8,
+   "gain": [
+    0.05,
+    0.07
+   ],
+   "pitch": [
+    1.2,
+    1.4
+   ]
+  },
+  {
+   "at": "A7+4",
+   "clip": "pop",
+   "n": 10,
+   "every": 5,
+   "gain": [
+    0.05,
+    0.08
+   ],
+   "pitch": [
+    0.9,
+    1.3
+   ]
+  },
+  {
+   "at": "A9+2",
+   "clip": "step",
+   "n": 8,
+   "every": 6,
+   "gain": [
+    0.06,
+    0.09
+   ],
+   "pitch": [
+    0.92,
+    1.08
+   ]
+  },
+  {
+   "at": "A15+0",
+   "clip": "counter_tick",
+   "n": 14,
+   "every": 3,
+   "gain": [
+    0.05,
+    0.08
+   ],
+   "pitch": [
+    1.0,
+    1.3
+   ]
+  },
+  {
+   "at": "A16+8",
+   "clip": "counter_tick",
+   "n": 4,
+   "every": 2,
+   "gain": [
+    0.07,
+    0.09
+   ],
+   "pitch": [
+    1.0,
+    1.2
+   ]
+  },
+  {
+   "at": "A19+2",
+   "clip": "step",
+   "n": 5,
+   "every": 5,
+   "gain": [
+    0.08,
+    0.12
+   ],
+   "pitch": [
+    0.92,
+    1.08
+   ]
+  },
+  {
+   "at": "A22+2",
+   "clip": "pop",
+   "n": 5,
+   "every": 3,
+   "gain": [
+    0.05,
+    0.07
+   ],
+   "pitch": [
+    0.9,
+    1.2
+   ]
+  },
+  {
+   "at": "A22+28",
+   "clip": "pop",
+   "n": 6,
+   "every": 4,
+   "gain": [
+    0.05,
+    0.08
+   ],
+   "pitch": [
+    0.95,
+    1.25
+   ]
+  },
+  {
+   "at": "A23+3",
+   "clip": "clink",
+   "n": 4,
+   "every": 7,
+   "gain": [
+    0.06,
+    0.09
+   ],
+   "pitch": [
+    0.9,
+    1.1
+   ]
+  }
+ ]
+}

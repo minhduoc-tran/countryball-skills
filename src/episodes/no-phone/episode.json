@@ -1,0 +1,153 @@
+{
+  "id": "NoPhone",
+  "slug": "no-phone",
+  "topic": "Nếu bạn không được dùng điện thoại di động",
+  "title": [
+    "SẼ RA SAO NẾU",
+    "KHÔNG ĐƯỢC DÙNG ĐIỆN THOẠI?"
+  ],
+  "script": [
+    {
+      "beat": "0",
+      "text": "Bạn không được dùng điện thoại."
+    },
+    {
+      "beat": "1",
+      "text": "Không lướt. Không nhắn tin."
+    },
+    {
+      "beat": "2",
+      "text": "Tay cứ tìm trong túi."
+    },
+    {
+      "beat": "3",
+      "text": "Bạn mở lại cuốn sách."
+    },
+    {
+      "beat": "4",
+      "text": "Nói chuyện với người bên cạnh."
+    },
+    {
+      "beat": "5",
+      "text": "Nhưng tìm đường thế nào?"
+    },
+    {
+      "beat": "6",
+      "text": "Khi cần gọi người thân thì sao?"
+    },
+    {
+      "beat": "7",
+      "text": "Bạn chịu được bao lâu?"
+    }
+  ],
+  "science": [],
+  "audio": false,
+  "shots": [
+    {
+      "id": "S1",
+      "size": "title wide",
+      "key": 25,
+      "len": 90,
+      "first": 0,
+      "line": "Bạn không được dùng điện thoại.",
+      "note": "Bạn không được dùng điện thoại."
+    },
+    {
+      "id": "S2",
+      "size": "macro",
+      "key": 25,
+      "len": 60,
+      "first": 90,
+      "line": "Không lướt. Không nhắn tin.",
+      "note": "Không lướt. Không nhắn tin."
+    },
+    {
+      "id": "S3",
+      "size": "medium",
+      "key": 25,
+      "len": 75,
+      "first": 150,
+      "line": "Tay cứ tìm trong túi.",
+      "note": "Tay cứ tìm trong túi."
+    },
+    {
+      "id": "S4",
+      "size": "high medium",
+      "key": 25,
+      "len": 90,
+      "first": 225,
+      "line": "Bạn mở lại cuốn sách.",
+      "note": "Bạn mở lại cuốn sách."
+    },
+    {
+      "id": "S5",
+      "size": "wide",
+      "key": 25,
+      "len": 90,
+      "first": 315,
+      "line": "Nói chuyện với người bên cạnh.",
+      "note": "Nói chuyện với người bên cạnh."
+    },
+    {
+      "id": "S6",
+      "size": "insert",
+      "key": 25,
+      "len": 90,
+      "first": 405,
+      "line": "Nhưng tìm đường thế nào?",
+      "note": "Nhưng tìm đường thế nào?"
+    },
+    {
+      "id": "S7",
+      "size": "close",
+      "key": 25,
+      "len": 75,
+      "first": 495,
+      "line": "Khi cần gọi người thân thì sao?",
+      "note": "Khi cần gọi người thân thì sao?"
+    },
+    {
+      "id": "S8",
+      "size": "wide",
+      "key": 25,
+      "len": 90,
+      "first": 570,
+      "line": "Bạn chịu được bao lâu?",
+      "note": "Bạn chịu được bao lâu?"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "s:0.0"
+    },
+    {
+      "shot": "S2",
+      "at": "s:3.0"
+    },
+    {
+      "shot": "S3",
+      "at": "s:5.0"
+    },
+    {
+      "shot": "S4",
+      "at": "s:7.5"
+    },
+    {
+      "shot": "S5",
+      "at": "s:10.5"
+    },
+    {
+      "shot": "S6",
+      "at": "s:13.5"
+    },
+    {
+      "shot": "S7",
+      "at": "s:16.5"
+    },
+    {
+      "shot": "S8",
+      "at": "s:19.0"
+    }
+  ]
+}

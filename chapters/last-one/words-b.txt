@@ -1,0 +1,35 @@
+# chapter B: beats 12-19. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "3 fun: turning point"  70.51-74.04 s
+# Ngày đầu tiên, bạn sợ. Ngày thứ hai, bạn bắt đầu thấy thích.
+Ngày@70.44 đầu@70.63 tiên,@70.85 bạn@71.33 sợ.@71.62 Ngày@72.27 thứ@72.50 hai,@72.69 bạn@73.18 bắt@73.32 đầu@73.46 thấy@73.60 thích.@73.77
+
+## beat "3 fun: supermarket"  74.48-82.17 s
+# Siêu thị? Của bạn. Muốn lấy gì thì lấy. Không xếp hàng, không tính tiền. Kem, bánh, nước ngọt, bạn ăn thẳng từ trên kệ.
+Siêu@74.41 thị?@74.67 Của@75.24 bạn.@75.39 Muốn@76.03 lấy@76.27 gì@76.46 thì@76.61 lấy.@76.80 Không@77.42 xếp@77.66 hàng,@77.83 không@78.33 tính@78.55 tiền.@78.73 Kem,@79.24 bánh,@79.79 nước@80.38 ngọt,@80.56 bạn@81.04 ăn@81.20 thẳng@81.33 từ@81.65 trên@81.78 kệ.@81.98
+
+## beat "3 fun: school"  82.68-87.29 s
+# Trường học? Không thầy, không bài kiểm tra. Bạn viết lên bảng bất cứ điều gì bạn muốn.
+Trường@82.62 học?@82.81 Không@83.48 thầy,@83.70 không@84.20 bài@84.42 kiểm@84.57 tra.@84.75 Bạn@85.37 viết@85.53 lên@85.74 bảng@85.90 bất@86.11 cứ@86.39 điều@86.52 gì@86.73 bạn@86.86 muốn.@87.02
+
+## beat "3 fun: city"  87.70-93.08 s
+# Cả thành phố là sân chơi của bạn. Bạn nằm giữa ngã tư đông nhất, ngắm mây trôi. Không một tiếng còi xe.
+Cả@87.64 thành@87.77 phố@88.09 là@88.25 sân@88.55 chơi@88.72 của@88.92 bạn.@89.09 Bạn@89.57 nằm@89.72 giữa@89.87 ngã@90.05 tư@90.20 đông@90.32 nhất,@90.50 ngắm@90.99 mây@91.21 trôi.@91.40 Không@92.02 một@92.34 tiếng@92.50 còi@92.73 xe.@92.89
+
+## beat "3 fun: bike and tower"  93.63-102.24 s
+# Bạn đạp xe giữa đường cao tốc, hai tay buông lái. Bạn leo lên nóc tòa nhà cao nhất, và hét thật to. Cả thành phố nghe thấy. Mà thật ra, chẳng có ai nghe cả.
+Bạn@93.57 đạp@93.73 xe@93.89 giữa@94.02 đường@94.22 cao@94.45 tốc,@94.62 hai@95.08 tay@95.26 buông@95.44 lái.@95.71 Bạn@96.27 leo@96.42 lên@96.57 nóc@96.73 tòa@96.99 nhà@97.14 cao@97.30 nhất,@97.45 và@97.94 hét@98.05 thật@98.29 to.@98.58 Cả@99.22 thành@99.34 phố@99.65 nghe@99.82 thấy.@100.01 Mà@100.53 thật@100.67 ra,@100.88 chẳng@101.31 có@101.56 ai@101.70 nghe@101.83 cả.@102.04
+
+## beat "3 fun: night"  102.73-109.09 s
+# Tối đến, bạn bật nhạc to hết cỡ. Không ai phàn nàn. Bạn ngủ ở bất cứ đâu, thức dậy lúc nào cũng được.
+Tối@102.66 đến,@102.87 bạn@103.38 bật@103.55 nhạc@103.72 to@104.06 hết@104.19 cỡ.@104.45 Không@105.13 ai@105.37 phàn@105.58 nàn.@105.78 Bạn@106.49 ngủ@106.69 ở@106.89 bất@107.00 cứ@107.19 đâu,@107.48 thức@107.97 dậy@108.15 lúc@108.30 nào@108.45 cũng@108.60 được.@108.84
+
+## beat "3 fun: toy store"  109.64-116.32 s
+# Cửa hàng đồ chơi lớn nhất thành phố, giờ là phòng riêng của bạn. Bạn dựng một pháo đài bằng gối giữa trung tâm thương mại, và ngủ ở đó.
+Cửa@109.57 hàng@109.75 đồ@109.96 chơi@110.09 lớn@110.31 nhất@110.48 thành@110.69 phố,@111.11 giờ@111.58 là@111.75 phòng@111.87 riêng@112.19 của@112.42 bạn.@112.58 Bạn@113.06 dựng@113.21 một@113.40 pháo@113.63 đài@113.81 bằng@113.96 gối@114.15 giữa@114.30 trung@114.49 tâm@114.70 thương@114.86 mại,@115.11 và@115.56 ngủ@115.73 ở@115.95 đó.@116.08
+
+## beat "3 fun: dream"  116.87-123.67 s
+# Không bài tập. Không ai bảo bạn phải làm gì. Nghe như một giấc mơ, đúng không? Nhưng giấc mơ này có một cái giá.
+Không@116.80 bài@116.97 tập.@117.09 Không@117.76 ai@117.97 bảo@118.09 bạn@118.23 phải@118.50 làm@118.68 gì.@118.83 Nghe@119.48 như@119.70 một@119.88 giấc@120.05 mơ,@120.27 đúng@120.71 không?@120.89 Nhưng@121.65 giấc@121.99 mơ@122.28 này@122.47 có@122.70 một@122.89 cái@123.13 giá.@123.36
+
+# chapter ends at s:124.60 (next chapter's first cut, or the episode end)

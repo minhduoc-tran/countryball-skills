@@ -1,0 +1,595 @@
+{
+ "chapter": "c",
+ "shots": [
+  {
+   "id": "C1",
+   "file": "shots-chc-family-mum",
+   "size": "macro",
+   "set": "bedroom",
+   "key": 40,
+   "note": "4:00 alarm, dawn warming in window"
+  },
+  {
+   "id": "C2",
+   "file": "shots-chc-family-mum",
+   "size": "wide",
+   "set": "street",
+   "key": 24,
+   "note": "dawn alley, mum at xoi cart"
+  },
+  {
+   "id": "C3",
+   "file": "shots-chc-family-mum",
+   "size": "medium",
+   "set": "street",
+   "key": 26,
+   "note": "mum hums, worried ghost fades, tin ignored"
+  },
+  {
+   "id": "C4",
+   "file": "shots-chc-family-mo-pip",
+   "size": "medium",
+   "set": "street",
+   "key": 34,
+   "note": "Mo drops night-shift apron"
+  },
+  {
+   "id": "C5",
+   "file": "shots-chc-family-mo-pip",
+   "size": "wide",
+   "set": "room",
+   "key": 22,
+   "note": "Mo enters art class, easel"
+  },
+  {
+   "id": "C6",
+   "file": "shots-chc-family-mo-pip",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "Pip looks up, thought coming"
+  },
+  {
+   "id": "C7",
+   "file": "shots-chc-family-mo-pip",
+   "size": "wide",
+   "set": "street",
+   "key": 44,
+   "note": "bubble fills with dreams"
+  },
+  {
+   "id": "C8",
+   "file": "shots-chc-family-mo-pip",
+   "size": "wide",
+   "set": "street",
+   "key": 32,
+   "note": "money bubble pops"
+  },
+  {
+   "id": "C9",
+   "file": "shots-chc-grandma",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "ticket seller at alley mouth"
+  },
+  {
+   "id": "C10",
+   "file": "shots-chc-grandma",
+   "size": "low",
+   "set": "street",
+   "key": 24,
+   "note": "feet, sun then rain, 30 NAM"
+  },
+  {
+   "id": "C11",
+   "file": "shots-chc-grandma",
+   "size": "wide",
+   "set": "porch",
+   "key": 56,
+   "note": "porch, pours tea"
+  },
+  {
+   "id": "C12",
+   "file": "shots-chc-grandma",
+   "size": "medium",
+   "set": "porch",
+   "key": 36,
+   "note": "points kids to school"
+  },
+  {
+   "id": "C13",
+   "file": "shots-chc-grandma",
+   "size": "close",
+   "set": "porch",
+   "key": 50,
+   "note": "slow push-in, birds, steam"
+  },
+  {
+   "id": "C14",
+   "file": "shots-chc-kenya-intro",
+   "size": "card",
+   "set": "schematic",
+   "key": 30,
+   "note": "NHUNG KHOAN DA freeze, worried tag"
+  },
+  {
+   "id": "C15",
+   "file": "shots-chc-kenya-intro",
+   "size": "card",
+   "set": "schematic",
+   "key": 30,
+   "note": "price tag shoots up ?"
+  },
+  {
+   "id": "C16",
+   "file": "shots-chc-kenya-intro",
+   "size": "card",
+   "set": "schematic",
+   "key": 50,
+   "note": "KENYA outline, economists"
+  },
+  {
+   "id": "C17",
+   "file": "shots-chc-kenya-intro",
+   "size": "card",
+   "set": "schematic",
+   "key": 50,
+   "note": "10.000+ HO houses light up"
+  },
+  {
+   "id": "C18",
+   "file": "shots-chc-kenya-intro",
+   "size": "card",
+   "set": "schematic",
+   "key": 30,
+   "note": "1.000 USD per household"
+  },
+  {
+   "id": "C19",
+   "file": "shots-chc-kenya-multiplier",
+   "size": "wide",
+   "set": "market",
+   "key": 40,
+   "note": "one coin circulates through market"
+  },
+  {
+   "id": "C20",
+   "file": "shots-chc-kenya-multiplier",
+   "size": "card",
+   "set": "schematic",
+   "key": 30,
+   "note": "x2,5 coins"
+  },
+  {
+   "id": "C21",
+   "file": "shots-chc-kenya-multiplier",
+   "size": "card",
+   "set": "schematic",
+   "key": 30,
+   "note": "price tag barely moves"
+  },
+  {
+   "id": "C22",
+   "file": "shots-chc-kenya-multiplier",
+   "size": "card",
+   "set": "schematic",
+   "key": 36,
+   "note": "< 1% + DO LA THAT"
+  },
+  {
+   "id": "C23",
+   "file": "shots-chc-finland-trial",
+   "size": "medium",
+   "set": "room",
+   "key": 30,
+   "note": "lazy? couch + question"
+  },
+  {
+   "id": "C24",
+   "file": "shots-chc-finland-trial",
+   "size": "card",
+   "set": "schematic",
+   "key": 40,
+   "note": "PHAN LAN 2.000 NGUOI"
+  },
+  {
+   "id": "C25",
+   "file": "shots-chc-finland-trial",
+   "size": "card",
+   "set": "schematic",
+   "key": 30,
+   "note": "560 EUR / THANG"
+  },
+  {
+   "id": "C26",
+   "file": "shots-chc-finland-trial",
+   "size": "card",
+   "set": "schematic",
+   "key": 50,
+   "note": "2 NAM + KHONG DIEU KIEN"
+  },
+  {
+   "id": "C27",
+   "file": "shots-chc-finland-result",
+   "size": "medium",
+   "set": "room",
+   "key": 30,
+   "note": "empty couch"
+  },
+  {
+   "id": "C28",
+   "file": "shots-chc-finland-result",
+   "size": "card",
+   "set": "schematic",
+   "key": 36,
+   "note": "work bar a bit up"
+  },
+  {
+   "id": "C29",
+   "file": "shots-chc-finland-result",
+   "size": "card",
+   "set": "schematic",
+   "key": 40,
+   "note": "stress meter down"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "C1",
+   "at": "s:96.97",
+   "look": "warm"
+  },
+  {
+   "shot": "C2",
+   "at": "s:98.80",
+   "look": "warm"
+  },
+  {
+   "shot": "C3",
+   "at": "s:100.41",
+   "look": "warm"
+  },
+  {
+   "shot": "C4",
+   "at": "s:102.37",
+   "look": "warm"
+  },
+  {
+   "shot": "C5",
+   "at": "s:104.16",
+   "look": "warm"
+  },
+  {
+   "shot": "C6",
+   "at": "s:105.05",
+   "look": "warm"
+  },
+  {
+   "shot": "C7",
+   "at": "s:106.59",
+   "look": "warm"
+  },
+  {
+   "shot": "C8",
+   "at": "s:108.49",
+   "look": "warm"
+  },
+  {
+   "shot": "C9",
+   "at": "s:110.92",
+   "look": "before"
+  },
+  {
+   "shot": "C10",
+   "at": "s:112.83",
+   "look": "before"
+  },
+  {
+   "shot": "C11",
+   "at": "s:114.58",
+   "look": "zero"
+  },
+  {
+   "shot": "C12",
+   "at": "s:116.85",
+   "look": "zero"
+  },
+  {
+   "shot": "C13",
+   "at": "s:118.43",
+   "look": "zero"
+  },
+  {
+   "shot": "C14",
+   "at": "s:120.89",
+   "look": "before"
+  },
+  {
+   "shot": "C15",
+   "at": "s:123.14",
+   "look": "before"
+  },
+  {
+   "shot": "C16",
+   "at": "s:124.63"
+  },
+  {
+   "shot": "C17",
+   "at": "s:127.23"
+  },
+  {
+   "shot": "C18",
+   "at": "s:129.60"
+  },
+  {
+   "shot": "C19",
+   "at": "s:131.13"
+  },
+  {
+   "shot": "C20",
+   "at": "s:133.22"
+  },
+  {
+   "shot": "C21",
+   "at": "s:134.58"
+  },
+  {
+   "shot": "C22",
+   "at": "s:136.42"
+  },
+  {
+   "shot": "C23",
+   "at": "s:137.97",
+   "look": "before"
+  },
+  {
+   "shot": "C24",
+   "at": "s:139.44"
+  },
+  {
+   "shot": "C25",
+   "at": "s:141.89"
+  },
+  {
+   "shot": "C26",
+   "at": "s:143.96"
+  },
+  {
+   "shot": "C27",
+   "at": "s:146.23",
+   "look": "zero"
+  },
+  {
+   "shot": "C28",
+   "at": "s:147.80",
+   "look": "zero"
+  },
+  {
+   "shot": "C29",
+   "at": "s:149.35",
+   "look": "zero"
+  }
+ ],
+ "fx": [],
+ "events": [
+  [
+   "C1",
+   "room_tone",
+   0.08,
+   "onset",
+   "C2"
+  ],
+  [
+   "C1+3",
+   "ting",
+   0.1
+  ],
+  [
+   "C2",
+   "room_tone",
+   0.08,
+   "onset",
+   "C4"
+  ],
+  [
+   "C4+40",
+   "paper_land",
+   0.12
+  ],
+  [
+   "C5",
+   "class_murmur",
+   0.1,
+   "onset",
+   "C6"
+  ],
+  [
+   "C6+14",
+   "sparkle",
+   0.08
+  ],
+  [
+   "C7+10",
+   "pop",
+   0.08
+  ],
+  [
+   "C8+38",
+   "pop",
+   0.22
+  ],
+  [
+   "C8+40",
+   "sparkle",
+   0.1
+  ],
+  [
+   "C9",
+   "room_tone",
+   0.08,
+   "onset",
+   "C11"
+  ],
+  [
+   "C10+22",
+   "rain",
+   0.1,
+   "onset",
+   "C11"
+  ],
+  [
+   "C11",
+   "room_tone",
+   0.07,
+   "onset",
+   "C14"
+  ],
+  [
+   "C11+44",
+   "splash",
+   0.07
+  ],
+  [
+   "C13+12",
+   "sparkle",
+   0.08
+  ],
+  [
+   "C14",
+   "switch_off",
+   0.12
+  ],
+  [
+   "C14+30",
+   "paper_land",
+   0.1
+  ],
+  [
+   "C15+22",
+   "gasp",
+   0.08
+  ],
+  [
+   "C16+14",
+   "ding",
+   0.1
+  ],
+  [
+   "C18+16",
+   "clink",
+   0.14
+  ],
+  [
+   "C19+19",
+   "clink",
+   0.14
+  ],
+  [
+   "C19+34",
+   "clink",
+   0.14
+  ],
+  [
+   "C19+49",
+   "clink",
+   0.14
+  ],
+  [
+   "C20+8",
+   "pop",
+   0.12
+  ],
+  [
+   "C20+12",
+   "pop",
+   0.12
+  ],
+  [
+   "C20+20",
+   "ding",
+   0.1
+  ],
+  [
+   "C22+24",
+   "ding",
+   0.16
+  ],
+  [
+   "C23",
+   "room_tone",
+   0.07,
+   "onset",
+   "C24"
+  ],
+  [
+   "C25+20",
+   "paper_land",
+   0.12
+  ],
+  [
+   "C26+40",
+   "ding",
+   0.12
+  ],
+  [
+   "C27",
+   "room_tone",
+   0.07,
+   "onset",
+   "C28"
+  ],
+  [
+   "C28+22",
+   "ding",
+   0.1
+  ],
+  [
+   "C29+10",
+   "sparkle",
+   0.1
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "C10+2",
+   "clip": "step",
+   "n": 5,
+   "every": 9,
+   "gain": [
+    0.08,
+    0.12
+   ]
+  },
+  {
+   "at": "C17+4",
+   "clip": "counter_tick",
+   "n": 8,
+   "every": 3,
+   "gain": [
+    0.05,
+    0.08
+   ]
+  },
+  {
+   "at": "C24+12",
+   "clip": "counter_tick",
+   "n": 10,
+   "every": 3,
+   "gain": [
+    0.04,
+    0.07
+   ]
+  },
+  {
+   "at": "C27+6",
+   "clip": "step",
+   "n": 5,
+   "every": 8,
+   "gain": [
+    0.08,
+    0.12
+   ]
+  }
+ ]
+}

@@ -1,0 +1,363 @@
+{
+ "chapter": "c",
+ "shots": [
+  {
+   "id": "C1",
+   "file": "shots-chc",
+   "size": "title",
+   "set": "title",
+   "key": 20,
+   "note": "28/06 · LAM SƠN 72"
+  },
+  {
+   "id": "C2",
+   "file": "shots-chc",
+   "size": "title",
+   "set": "title",
+   "key": 20,
+   "note": "28/06 · LAM SƠN 72"
+  },
+  {
+   "id": "C3",
+   "file": "shots-chc",
+   "size": "archive",
+   "set": "photo",
+   "key": 20,
+   "note": "28/06 · LAM SƠN 72"
+  },
+  {
+   "id": "C4",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "28/06 · LAM SƠN 72"
+  },
+  {
+   "id": "C5",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "28/06 · LAM SƠN 72"
+  },
+  {
+   "id": "C6",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Hai hướng phản công"
+  },
+  {
+   "id": "C7",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Hai hướng phản công"
+  },
+  {
+   "id": "C8",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Hai hướng phản công"
+  },
+  {
+   "id": "C9",
+   "file": "shots-chc",
+   "size": "archive",
+   "set": "photo",
+   "key": 20,
+   "note": "Hai hướng phản công"
+  },
+  {
+   "id": "C10",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "battle",
+   "key": 20,
+   "note": "Hai hướng phản công"
+  },
+  {
+   "id": "C11",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "battle",
+   "key": 20,
+   "note": "Hai hướng phản công"
+  },
+  {
+   "id": "C12",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Tiến đến vùng ven thị xã"
+  },
+  {
+   "id": "C13",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "battle",
+   "key": 20,
+   "note": "Tiến đến vùng ven thị xã"
+  },
+  {
+   "id": "C14",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Tiến đến vùng ven thị xã"
+  },
+  {
+   "id": "C15",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "battle",
+   "key": 20,
+   "note": "Tiến đến vùng ven thị xã"
+  },
+  {
+   "id": "C16",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "battle",
+   "key": 20,
+   "note": "Tiến đến vùng ven thị xã"
+  },
+  {
+   "id": "C17",
+   "file": "shots-chc",
+   "size": "archive",
+   "set": "photo",
+   "key": 20,
+   "note": "11/07 · Đổ quân bằng trực thăng"
+  },
+  {
+   "id": "C18",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "11/07 · Đổ quân bằng trực thăng"
+  },
+  {
+   "id": "C19",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "11/07 · Đổ quân bằng trực thăng"
+  },
+  {
+   "id": "C20",
+   "file": "shots-chc",
+   "size": "archive",
+   "set": "photo",
+   "key": 20,
+   "note": "11/07 · Đổ quân bằng trực thăng"
+  },
+  {
+   "id": "C21",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Cuối tháng Bảy · Đổi hướng tiến công"
+  },
+  {
+   "id": "C22",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Cuối tháng Bảy · Đổi hướng tiến công"
+  },
+  {
+   "id": "C23",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "battle",
+   "key": 20,
+   "note": "Cuối tháng Bảy · Đổi hướng tiến công"
+  },
+  {
+   "id": "C24",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Cuối tháng Bảy · Đổi hướng tiến công"
+  },
+  {
+   "id": "C25",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "battle",
+   "key": 20,
+   "note": "Tháng Tám · Tiến chậm"
+  },
+  {
+   "id": "C26",
+   "file": "shots-chc",
+   "size": "archive",
+   "set": "photo",
+   "key": 20,
+   "note": "Tháng Tám · Tiến chậm"
+  },
+  {
+   "id": "C27",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "battle",
+   "key": 20,
+   "note": "Tháng Tám · Tiến chậm"
+  },
+  {
+   "id": "C28",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "battle",
+   "key": 20,
+   "note": "Tháng Tám · Tiến chậm"
+  },
+  {
+   "id": "C29",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "battle",
+   "key": 20,
+   "note": "Tháng Tám · Tiến chậm"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "C1",
+   "at": "s:193.513"
+  },
+  {
+   "shot": "C2",
+   "at": "s:198.548"
+  },
+  {
+   "shot": "C3",
+   "at": "s:201.465"
+  },
+  {
+   "shot": "C4",
+   "at": "s:206.028"
+  },
+  {
+   "shot": "C5",
+   "at": "s:208.689"
+  },
+  {
+   "shot": "C6",
+   "at": "s:211.431"
+  },
+  {
+   "shot": "C7",
+   "at": "s:213.630"
+  },
+  {
+   "shot": "C8",
+   "at": "s:216.028"
+  },
+  {
+   "shot": "C9",
+   "at": "s:220.239"
+  },
+  {
+   "shot": "C10",
+   "at": "s:224.147"
+  },
+  {
+   "shot": "C11",
+   "at": "s:226.189"
+  },
+  {
+   "shot": "C12",
+   "at": "s:229.170"
+  },
+  {
+   "shot": "C13",
+   "at": "s:232.079"
+  },
+  {
+   "shot": "C14",
+   "at": "s:235.171"
+  },
+  {
+   "shot": "C15",
+   "at": "s:238.933"
+  },
+  {
+   "shot": "C16",
+   "at": "s:241.048"
+  },
+  {
+   "shot": "C17",
+   "at": "s:246.082"
+  },
+  {
+   "shot": "C18",
+   "at": "s:251.593"
+  },
+  {
+   "shot": "C19",
+   "at": "s:252.949"
+  },
+  {
+   "shot": "C20",
+   "at": "s:258.351"
+  },
+  {
+   "shot": "C21",
+   "at": "s:262.988"
+  },
+  {
+   "shot": "C22",
+   "at": "s:268.804"
+  },
+  {
+   "shot": "C23",
+   "at": "s:273.022"
+  },
+  {
+   "shot": "C24",
+   "at": "s:277.355"
+  },
+  {
+   "shot": "C25",
+   "at": "s:280.665"
+  },
+  {
+   "shot": "C26",
+   "at": "s:284.202"
+  },
+  {
+   "shot": "C27",
+   "at": "s:286.926"
+  },
+  {
+   "shot": "C28",
+   "at": "s:289.880"
+  },
+  {
+   "shot": "C29",
+   "at": "s:292.616"
+  }
+ ],
+ "events": [
+  [
+   "C1",
+   "title_boom",
+   0.14,
+   "onset"
+  ]
+ ]
+}

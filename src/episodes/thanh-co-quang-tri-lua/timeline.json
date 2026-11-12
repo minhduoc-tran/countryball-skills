@@ -1,0 +1,3767 @@
+{
+ "slug": "thanh-co-quang-tri-lua",
+ "title": "THÀNH CỔ QUẢNG TRỊ BÁM TRỤ GIỮA MƯA BOM",
+ "fps": 30,
+ "total": 18180,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 31,
+   "t0": 0,
+   "t1": 31,
+   "line": "Thành cổ Quảng Trị,"
+  },
+  {
+   "shot": "A2",
+   "a": 31,
+   "b": 112,
+   "t0": 0,
+   "t1": 81,
+   "line": "mùa hè năm một nghìn chín trăm bảy mươi hai."
+  },
+  {
+   "shot": "A3",
+   "a": 112,
+   "b": 168,
+   "t0": 0,
+   "t1": 56,
+   "line": "Bom đánh sập cổng phía tây."
+  },
+  {
+   "shot": "A4",
+   "a": 168,
+   "b": 227,
+   "t0": 0,
+   "t1": 59,
+   "line": "Bên dưới cổng là một căn hầm."
+  },
+  {
+   "shot": "A5",
+   "a": 227,
+   "b": 283,
+   "t0": 0,
+   "t1": 56,
+   "line": "Hơn mười người đang trú trong đó."
+  },
+  {
+   "shot": "A6",
+   "a": 283,
+   "b": 335,
+   "t0": 0,
+   "t1": 52,
+   "line": "Người của Đại đội Sáu chạy tới."
+  },
+  {
+   "shot": "A7",
+   "a": 335,
+   "b": 395,
+   "t0": 0,
+   "t1": 60,
+   "line": "Họ dỡ được một phần gạch đá."
+  },
+  {
+   "shot": "A8",
+   "a": 395,
+   "b": 439,
+   "t0": 0,
+   "t1": 44,
+   "line": "Cựu binh Hoàng Chiến kể,"
+  },
+  {
+   "shot": "A9",
+   "a": 439,
+   "b": 531,
+   "t0": 0,
+   "t1": 92,
+   "line": "từ dưới hầm vẫn vọng lên tiếng đồng đội kêu cứu."
+  },
+  {
+   "shot": "A10",
+   "a": 531,
+   "b": 589,
+   "t0": 0,
+   "t1": 58,
+   "line": "Vậy là họ lại đào tiếp."
+  },
+  {
+   "shot": "A11",
+   "a": 589,
+   "b": 670,
+   "t0": 0,
+   "t1": 81,
+   "line": "Nhưng có những tảng bê tông mà sức người không nhấc nổi."
+  },
+  {
+   "shot": "A12",
+   "a": 670,
+   "b": 699,
+   "t0": 0,
+   "t1": 29,
+   "line": "Pháo vẫn rơi."
+  },
+  {
+   "shot": "A13",
+   "a": 699,
+   "b": 759,
+   "t0": 0,
+   "t1": 60,
+   "line": "Hai người tham gia đào cứu bị thương."
+  },
+  {
+   "shot": "A14",
+   "a": 759,
+   "b": 845,
+   "t0": 0,
+   "t1": 86,
+   "line": "Những người còn lại phải quay về vị trí chiến đấu."
+  },
+  {
+   "shot": "A15",
+   "a": 845,
+   "b": 937,
+   "t0": 0,
+   "t1": 92,
+   "line": "Câu chuyện ấy đến từ lời kể của người đã có mặt."
+  },
+  {
+   "shot": "A16",
+   "a": 937,
+   "b": 1052,
+   "t0": 0,
+   "t1": 115,
+   "line": "Bức ảnh này cho thấy hào và tường thành sau những đợt bắn phá."
+  },
+  {
+   "shot": "A17",
+   "a": 1052,
+   "b": 1122,
+   "t0": 0,
+   "t1": 70,
+   "line": "Từng chỗ đổ nát có thể là chỗ núp."
+  },
+  {
+   "shot": "A18",
+   "a": 1122,
+   "b": 1191,
+   "t0": 0,
+   "t1": 69,
+   "line": "Cũng có thể là nơi chôn vùi người đang núp."
+  },
+  {
+   "shot": "A19",
+   "a": 1191,
+   "b": 1301,
+   "t0": 0,
+   "t1": 110,
+   "line": "Đó là một phần của tám mươi mốt ngày đêm ở Thành cổ Quảng Trị."
+  },
+  {
+   "shot": "A20",
+   "a": 1301,
+   "b": 1440,
+   "t0": 0,
+   "t1": 139,
+   "line": "Để hiểu vì sao một đại đội lại phải đào đồng đội lên giữa lúc pháo còn bắn,"
+  },
+  {
+   "shot": "A21",
+   "a": 1440,
+   "b": 1497,
+   "t0": 0,
+   "t1": 57,
+   "line": "hãy nhìn tòa thành từ bên kia sông."
+  },
+  {
+   "shot": "A22",
+   "a": 1497,
+   "b": 1573,
+   "t0": 0,
+   "t1": 76,
+   "line": "Thị xã Quảng Trị nằm cạnh sông Thạch Hãn."
+  },
+  {
+   "shot": "A23",
+   "a": 1573,
+   "b": 1633,
+   "t0": 0,
+   "t1": 60,
+   "line": "Thành cổ ở bên trong thị xã."
+  },
+  {
+   "shot": "A24",
+   "a": 1633,
+   "b": 1666,
+   "t0": 0,
+   "t1": 33,
+   "line": "Từ bờ bên kia,"
+  },
+  {
+   "shot": "A25",
+   "a": 1666,
+   "b": 1787,
+   "t0": 0,
+   "t1": 121,
+   "line": "người bổ sung và vật tư phải tìm đường qua sông rồi mới tới các chốt."
+  },
+  {
+   "shot": "A26",
+   "a": 1787,
+   "b": 1832,
+   "t0": 0,
+   "t1": 45,
+   "line": "Tường thành có thể che người,"
+  },
+  {
+   "shot": "A27",
+   "a": 1832,
+   "b": 1934,
+   "t0": 0,
+   "t1": 102,
+   "line": "nhưng bên trong nó không tự có đạn, gạo hay thuốc."
+  },
+  {
+   "shot": "A28",
+   "a": 1934,
+   "b": 2000,
+   "t0": 0,
+   "t1": 66,
+   "line": "Cuối tháng ba, Quân đội Nhân dân Việt Nam"
+  },
+  {
+   "shot": "A29",
+   "a": 2000,
+   "b": 2067,
+   "t0": 0,
+   "t1": 67,
+   "line": "mở cuộc tiến công ở mặt trận Trị Thiên."
+  },
+  {
+   "shot": "A30",
+   "a": 2067,
+   "b": 2186,
+   "t0": 0,
+   "t1": 119,
+   "line": "Đến đầu tháng năm, lực lượng Việt Nam Cộng hòa rút khỏi thị xã."
+  },
+  {
+   "shot": "A31",
+   "a": 2186,
+   "b": 2260,
+   "t0": 0,
+   "t1": 74,
+   "line": "Quân đội Nhân dân Việt Nam kiểm soát tỉnh lỵ."
+  },
+  {
+   "shot": "A32",
+   "a": 2260,
+   "b": 2369,
+   "t0": 0,
+   "t1": 109,
+   "line": "Tình thế đảo chiều khi đối phương tập hợp lực lượng ở phía nam."
+  },
+  {
+   "shot": "A33",
+   "a": 2369,
+   "b": 2489,
+   "t0": 0,
+   "t1": 120,
+   "line": "Ngày hai mươi tám tháng sáu, cuộc phản công Lam Sơn bảy mươi hai bắt đầu."
+  },
+  {
+   "shot": "A34",
+   "a": 2489,
+   "b": 2603,
+   "t0": 0,
+   "t1": 114,
+   "line": "Nhảy dù tiến về phía thị xã theo hướng tây Quốc lộ Một."
+  },
+  {
+   "shot": "A35",
+   "a": 2603,
+   "b": 2669,
+   "t0": 0,
+   "t1": 66,
+   "line": "Thủy quân Lục chiến tiến ở phía đông."
+  },
+  {
+   "shot": "A36",
+   "a": 2669,
+   "b": 2763,
+   "t0": 0,
+   "t1": 94,
+   "line": "Hỏa lực Hoa Kỳ yểm trợ từ trên không và ngoài biển."
+  },
+  {
+   "shot": "A37",
+   "a": 2763,
+   "b": 2872,
+   "t0": 0,
+   "t1": 109,
+   "line": "Tàu chiến này là chiếc Niu Pót Niu của Hải quân Hoa Kỳ."
+  },
+  {
+   "shot": "A38",
+   "a": 2872,
+   "b": 2968,
+   "t0": 0,
+   "t1": 96,
+   "line": "Pháo hạm có thể bắn từ ngoài khơi vào trận địa trên bờ."
+  },
+  {
+   "shot": "A39",
+   "a": 2968,
+   "b": 3003,
+   "t0": 0,
+   "t1": 35,
+   "line": "Bên trong thị xã,"
+  },
+  {
+   "shot": "A40",
+   "a": 3003,
+   "b": 3137,
+   "t0": 0,
+   "t1": 134,
+   "line": "người giữ chốt phải tồn tại dưới hỏa lực ấy trước cả khi đối phương tới sát tường."
+  },
+  {
+   "shot": "B1",
+   "a": 3137,
+   "b": 3180,
+   "t0": 0,
+   "t1": 43,
+   "line": "Trong hồi ức của Hoàng Chiến,"
+  },
+  {
+   "shot": "B2",
+   "a": 3180,
+   "b": 3302,
+   "t0": 0,
+   "t1": 122,
+   "line": "ông nhận lệnh đưa Đại đội Sáu vượt sông ban ngày để bổ sung quân giữ thành."
+  },
+  {
+   "shot": "B3",
+   "a": 3302,
+   "b": 3352,
+   "t0": 0,
+   "t1": 50,
+   "line": "Ông đề nghị chờ đến tối."
+  },
+  {
+   "shot": "B4",
+   "a": 3352,
+   "b": 3436,
+   "t0": 0,
+   "t1": 84,
+   "line": "Đơn vị phía bên kia đã chịu nhiều thương vong."
+  },
+  {
+   "shot": "B5",
+   "a": 3436,
+   "b": 3481,
+   "t0": 0,
+   "t1": 45,
+   "line": "Lệnh vẫn là phải sang."
+  },
+  {
+   "shot": "B6",
+   "a": 3481,
+   "b": 3611,
+   "t0": 0,
+   "t1": 130,
+   "line": "Khi tới gần bờ, họ nhìn thấy máy bay trinh sát Ô Vê mười lượn trên đầu."
+  },
+  {
+   "shot": "B7",
+   "a": 3611,
+   "b": 3722,
+   "t0": 0,
+   "t1": 111,
+   "line": "Trên mặt nước trống, người vượt sông không có tường để nép vào."
+  },
+  {
+   "shot": "B8",
+   "a": 3722,
+   "b": 3780,
+   "t0": 0,
+   "t1": 58,
+   "line": "Hoàng Chiến dẫn tổ đi đầu xuống trước."
+  },
+  {
+   "shot": "B9",
+   "a": 3780,
+   "b": 3908,
+   "t0": 0,
+   "t1": 128,
+   "line": "Theo lời ông kể, đến giữa sông, ông truyền cho các bộ phận đi theo hàng dọc."
+  },
+  {
+   "shot": "B10",
+   "a": 3908,
+   "b": 3986,
+   "t0": 0,
+   "t1": 78,
+   "line": "Người đi trước kéo đội hình về phía bờ nam."
+  },
+  {
+   "shot": "B11",
+   "a": 3986,
+   "b": 4107,
+   "t0": 0,
+   "t1": 121,
+   "line": "Những người đi sau phải tiếp tục qua chính khoảng nước đang bị quan sát."
+  },
+  {
+   "shot": "B12",
+   "a": 4107,
+   "b": 4155,
+   "t0": 0,
+   "t1": 48,
+   "line": "Khi pháo bắt đầu bắn truy kích,"
+  },
+  {
+   "shot": "B13",
+   "a": 4155,
+   "b": 4249,
+   "t0": 0,
+   "t1": 94,
+   "line": "đại đội đã sang tới bờ và tìm được chỗ ẩn."
+  },
+  {
+   "shot": "B14",
+   "a": 4249,
+   "b": 4360,
+   "t0": 0,
+   "t1": 111,
+   "line": "Đó là chuyến vượt sông mà Hoàng Chiến nhớ lại nhiều năm sau."
+  },
+  {
+   "shot": "B15",
+   "a": 4360,
+   "b": 4463,
+   "t0": 0,
+   "t1": 103,
+   "line": "Một lần sang được bờ chỉ giúp họ giải quyết câu hỏi đầu tiên."
+  },
+  {
+   "shot": "B16",
+   "a": 4463,
+   "b": 4504,
+   "t0": 0,
+   "t1": 41,
+   "line": "Còn giữ chốt bằng gì?"
+  },
+  {
+   "shot": "B17",
+   "a": 4504,
+   "b": 4623,
+   "t0": 0,
+   "t1": 119,
+   "line": "Đại đội Sáu được bố trí giữ các mặt thành phía bắc, đông và nam."
+  },
+  {
+   "shot": "B18",
+   "a": 4623,
+   "b": 4676,
+   "t0": 0,
+   "t1": 53,
+   "line": "Đơn vị địa phương giữ phía tây."
+  },
+  {
+   "shot": "B19",
+   "a": 4676,
+   "b": 4711,
+   "t0": 0,
+   "t1": 35,
+   "line": "Có nhiều mũi tiến công,"
+  },
+  {
+   "shot": "B20",
+   "a": 4711,
+   "b": 4821,
+   "t0": 0,
+   "t1": 110,
+   "line": "nên người ở mỗi mặt thành phải bám đúng vị trí mình được giao."
+  },
+  {
+   "shot": "B21",
+   "a": 4821,
+   "b": 4920,
+   "t0": 0,
+   "t1": 99,
+   "line": "Cựu binh Hoàng Văn Thao nhớ bữa đầu tiên khi vào thành."
+  },
+  {
+   "shot": "B22",
+   "a": 4920,
+   "b": 5003,
+   "t0": 0,
+   "t1": 83,
+   "line": "Phần cơm của mỗi người chỉ là một nắm cơm vắt."
+  },
+  {
+   "shot": "B23",
+   "a": 5003,
+   "b": 5069,
+   "t0": 0,
+   "t1": 66,
+   "line": "Đồ ăn còn mang vào được thì chia nhau."
+  },
+  {
+   "shot": "B24",
+   "a": 5069,
+   "b": 5158,
+   "t0": 0,
+   "t1": 89,
+   "line": "Còn nước uống, từng vị trí phải xoay xở lấy."
+  },
+  {
+   "shot": "B25",
+   "a": 5158,
+   "b": 5251,
+   "t0": 0,
+   "t1": 93,
+   "line": "Theo lời ông Thao, phía đông và phía bắc có hai giếng."
+  },
+  {
+   "shot": "B26",
+   "a": 5251,
+   "b": 5331,
+   "t0": 0,
+   "t1": 80,
+   "line": "Các chốt xa giếng khó đi lấy nước dưới pháo."
+  },
+  {
+   "shot": "B27",
+   "a": 5331,
+   "b": 5417,
+   "t0": 0,
+   "t1": 86,
+   "line": "Người ở đó dùng thùng lương khô đục lỗ ở đáy,"
+  },
+  {
+   "shot": "B28",
+   "a": 5417,
+   "b": 5483,
+   "t0": 0,
+   "t1": 66,
+   "line": "ấn xuống vũng mưa để gạn bớt cặn."
+  },
+  {
+   "shot": "B29",
+   "a": 5483,
+   "b": 5527,
+   "t0": 0,
+   "t1": 44,
+   "line": "Nước mưa rỉ vào thùng."
+  },
+  {
+   "shot": "B30",
+   "a": 5527,
+   "b": 5617,
+   "t0": 0,
+   "t1": 90,
+   "line": "Người lính chờ cặn lắng bớt rồi mới lấy nước uống."
+  },
+  {
+   "shot": "B31",
+   "a": 5617,
+   "b": 5771,
+   "t0": 0,
+   "t1": 154,
+   "line": "Chi tiết này cho thấy vì sao giữ thành còn là chuyện của từng bữa ăn và từng ngụm nước,"
+  },
+  {
+   "shot": "B32",
+   "a": 5771,
+   "b": 5832,
+   "t0": 0,
+   "t1": 61,
+   "line": "ngay cả giữa hai đợt giao tranh."
+  },
+  {
+   "shot": "C1",
+   "a": 5832,
+   "b": 5937,
+   "t0": 0,
+   "t1": 105,
+   "line": "Đêm mùng chín tháng bảy, một đơn vị khác tập kết ở làng Nhan Biều."
+  },
+  {
+   "shot": "C2",
+   "a": 5937,
+   "b": 6029,
+   "t0": 0,
+   "t1": 92,
+   "line": "Đó là Tiểu đoàn Ba Tam Đảo, thuộc Trung đoàn Bốn Tám."
+  },
+  {
+   "shot": "C3",
+   "a": 6029,
+   "b": 6123,
+   "t0": 0,
+   "t1": 94,
+   "line": "Rạng sáng hôm sau, họ vượt Thạch Hãn vào giữ thành."
+  },
+  {
+   "shot": "C4",
+   "a": 6123,
+   "b": 6174,
+   "t0": 0,
+   "t1": 51,
+   "line": "Trong nhật ký của Nguyễn Văn Hợi,"
+  },
+  {
+   "shot": "C5",
+   "a": 6174,
+   "b": 6302,
+   "t0": 0,
+   "t1": 128,
+   "line": "chuyến vượt sông là mốc ngay trước khi tiểu đoàn bước vào trận địa."
+  },
+  {
+   "shot": "C6",
+   "a": 6302,
+   "b": 6385,
+   "t0": 0,
+   "t1": 83,
+   "line": "Trong thành, cuộc sống chuyển sang nhịp hầm hào."
+  },
+  {
+   "shot": "C7",
+   "a": 6385,
+   "b": 6443,
+   "t0": 0,
+   "t1": 58,
+   "line": "Đến cuối tháng bảy, đầu tháng tám,"
+  },
+  {
+   "shot": "C8",
+   "a": 6443,
+   "b": 6535,
+   "t0": 0,
+   "t1": 92,
+   "line": "ông nhớ mưa kéo dài làm hầm ngập và đất sụt."
+  },
+  {
+   "shot": "C9",
+   "a": 6535,
+   "b": 6596,
+   "t0": 0,
+   "t1": 61,
+   "line": "Hầm che mảnh đạn khi pháo bắn."
+  },
+  {
+   "shot": "C10",
+   "a": 6596,
+   "b": 6679,
+   "t0": 0,
+   "t1": 83,
+   "line": "Khi nước tràn vào, chính chỗ che ấy khó ở lại."
+  },
+  {
+   "shot": "C11",
+   "a": 6679,
+   "b": 6746,
+   "t0": 0,
+   "t1": 67,
+   "line": "Bùn lấp lối ra, nền sạt xuống."
+  },
+  {
+   "shot": "C12",
+   "a": 6746,
+   "b": 6808,
+   "t0": 0,
+   "t1": 62,
+   "line": "Mưa làm cả đường tiếp tế qua sông khó hơn"
+  },
+  {
+   "shot": "C13",
+   "a": 6808,
+   "b": 6896,
+   "t0": 0,
+   "t1": 88,
+   "line": "đúng lúc các chốt cần người và vật tư."
+  },
+  {
+   "shot": "C14",
+   "a": 6896,
+   "b": 6968,
+   "t0": 0,
+   "t1": 72,
+   "line": "Đối phương cũng tìm cách siết đường tiếp tế."
+  },
+  {
+   "shot": "C15",
+   "a": 6968,
+   "b": 7110,
+   "t0": 0,
+   "t1": 142,
+   "line": "Đây là ảnh Thủy quân Lục chiến Việt Nam Cộng hòa lên trực thăng ngày mở màn phản công."
+  },
+  {
+   "shot": "C16",
+   "a": 7110,
+   "b": 7147,
+   "t0": 0,
+   "t1": 37,
+   "line": "Gần hai tuần sau,"
+  },
+  {
+   "shot": "C17",
+   "a": 7147,
+   "b": 7255,
+   "t0": 0,
+   "t1": 108,
+   "line": "một cuộc đổ quân khác nhắm vào khu vực phía đông bắc thị xã."
+  },
+  {
+   "shot": "C18",
+   "a": 7255,
+   "b": 7294,
+   "t0": 0,
+   "t1": 39,
+   "line": "Ngày mười một tháng bảy,"
+  },
+  {
+   "shot": "C19",
+   "a": 7294,
+   "b": 7442,
+   "t0": 0,
+   "t1": 148,
+   "line": "trực thăng Mỹ chở một tiểu đoàn Thủy quân Lục chiến Việt Nam Cộng hòa đổ xuống phía đông bắc."
+  },
+  {
+   "shot": "C20",
+   "a": 7442,
+   "b": 7515,
+   "t0": 0,
+   "t1": 73,
+   "line": "Mục tiêu là chặn đường năm sáu không và"
+  },
+  {
+   "shot": "C21",
+   "a": 7515,
+   "b": 7583,
+   "t0": 0,
+   "t1": 68,
+   "line": "gây sức ép lên tuyến tiếp tế vào thành."
+  },
+  {
+   "shot": "C22",
+   "a": 7583,
+   "b": 7662,
+   "t0": 0,
+   "t1": 79,
+   "line": "Lực lượng phòng thủ đánh trả cả vào đội trực thăng."
+  },
+  {
+   "shot": "C23",
+   "a": 7662,
+   "b": 7730,
+   "t0": 0,
+   "t1": 68,
+   "line": "Sử liệu Thủy quân Lục chiến Hoa Kỳ ghi một chiếc"
+  },
+  {
+   "shot": "C24",
+   "a": 7730,
+   "b": 7812,
+   "t0": 0,
+   "t1": 82,
+   "line": "trực thăng hạng nặng trúng tên lửa phòng không và rơi."
+  },
+  {
+   "shot": "C25",
+   "a": 7812,
+   "b": 7887,
+   "t0": 0,
+   "t1": 75,
+   "line": "Cuộc đổ quân vẫn tiếp tục."
+  },
+  {
+   "shot": "C26",
+   "a": 7887,
+   "b": 7956,
+   "t0": 0,
+   "t1": 69,
+   "line": "Tới cuối tháng, Thủy quân Lục chiến được"
+  },
+  {
+   "shot": "C27",
+   "a": 7956,
+   "b": 8032,
+   "t0": 0,
+   "t1": 76,
+   "line": "giao thay Nhảy dù đánh vào thị xã."
+  },
+  {
+   "shot": "C28",
+   "a": 8032,
+   "b": 8158,
+   "t0": 0,
+   "t1": 126,
+   "line": "Trong lúc ấy, một tổ thông tin rời sở chỉ huy mặt trận để vào thành."
+  },
+  {
+   "shot": "C29",
+   "a": 8158,
+   "b": 8207,
+   "t0": 0,
+   "t1": 49,
+   "line": "Tổ do Hoàng Văn Tịch phụ trách."
+  },
+  {
+   "shot": "C30",
+   "a": 8207,
+   "b": 8276,
+   "t0": 0,
+   "t1": 69,
+   "line": "Họ phải đem thiết bị qua chiến trường để giữ liên"
+  },
+  {
+   "shot": "C31",
+   "a": 8276,
+   "b": 8376,
+   "t0": 0,
+   "t1": 100,
+   "line": "lạc giữa lực lượng trong thành và chỉ huy bên ngoài."
+  },
+  {
+   "shot": "C32",
+   "a": 8376,
+   "b": 8423,
+   "t0": 0,
+   "t1": 47,
+   "line": "Một máy liên lạc cần điện."
+  },
+  {
+   "shot": "C33",
+   "a": 8423,
+   "b": 8493,
+   "t0": 0,
+   "t1": 70,
+   "line": "Tổ mang theo cả ắc quy và máy nổ."
+  },
+  {
+   "shot": "C34",
+   "a": 8493,
+   "b": 8588,
+   "t0": 0,
+   "t1": 95,
+   "line": "Những thứ này phải tới đúng chỗ cùng với người sử dụng."
+  },
+  {
+   "shot": "C35",
+   "a": 8588,
+   "b": 8680,
+   "t0": 0,
+   "t1": 92,
+   "line": "Đêm ba mươi mốt tháng bảy, tổ vượt Thạch Hãn vào thành."
+  },
+  {
+   "shot": "C36",
+   "a": 8680,
+   "b": 8786,
+   "t0": 0,
+   "t1": 106,
+   "line": "Tổ bọc khí tài trong túi ni lông, dùng chính các túi ấy làm phao."
+  },
+  {
+   "shot": "C37",
+   "a": 8786,
+   "b": 8865,
+   "t0": 0,
+   "t1": 79,
+   "line": "Ra gần giữa sông, dòng nước xé đội hình."
+  },
+  {
+   "shot": "C38",
+   "a": 8865,
+   "b": 8930,
+   "t0": 0,
+   "t1": 65,
+   "line": "Đàm Văn Ngọ dạt xuống phía dưới."
+  },
+  {
+   "shot": "C39",
+   "a": 8930,
+   "b": 9008,
+   "t0": 0,
+   "t1": 78,
+   "line": "Anh lần ngược theo bờ để tìm về chỗ hẹn."
+  },
+  {
+   "shot": "C40",
+   "a": 9008,
+   "b": 9126,
+   "t0": 0,
+   "t1": 118,
+   "line": "Tới hầm, họ hong thiết bị, lắp máy và nối ăng ten."
+  },
+  {
+   "shot": "C41",
+   "a": 9126,
+   "b": 9165,
+   "t0": 0,
+   "t1": 39,
+   "line": "Tín hiệu thông trở lại."
+  },
+  {
+   "shot": "C42",
+   "a": 9165,
+   "b": 9272,
+   "t0": 0,
+   "t1": 107,
+   "line": "Nhưng máy ở dưới đất, còn ăng ten phải đặt trên gò bên ngoài."
+  },
+  {
+   "shot": "C43",
+   "a": 9272,
+   "b": 9309,
+   "t0": 0,
+   "t1": 37,
+   "line": "Pháo đánh gãy cột."
+  },
+  {
+   "shot": "C44",
+   "a": 9309,
+   "b": 9386,
+   "t0": 0,
+   "t1": 77,
+   "line": "Họ ghép củi nhà bếp để dựng một cột khác."
+  },
+  {
+   "shot": "C45",
+   "a": 9386,
+   "b": 9478,
+   "t0": 0,
+   "t1": 92,
+   "line": "Khi cột lại gãy và hết vật liệu, họ đổi cách."
+  },
+  {
+   "shot": "C46",
+   "a": 9478,
+   "b": 9594,
+   "t0": 0,
+   "t1": 116,
+   "line": "Mỗi phiên mở máy, một người ra nấp sau đống gạch, giữ ăng ten."
+  },
+  {
+   "shot": "C47",
+   "a": 9594,
+   "b": 9656,
+   "t0": 0,
+   "t1": 62,
+   "line": "Xong phiên thì mang vào hầm."
+  },
+  {
+   "shot": "C48",
+   "a": 9656,
+   "b": 9749,
+   "t0": 0,
+   "t1": 93,
+   "line": "Họ giữ liên lạc bằng cách đó hơn một tháng."
+  },
+  {
+   "shot": "C49",
+   "a": 9749,
+   "b": 9860,
+   "t0": 0,
+   "t1": 111,
+   "line": "Qua đường liên lạc, tình hình trong thành có thể truyền ra ngoài."
+  },
+  {
+   "shot": "C50",
+   "a": 9860,
+   "b": 9932,
+   "t0": 0,
+   "t1": 72,
+   "line": "Người chỉ huy nhận được tin về các chốt."
+  },
+  {
+   "shot": "C51",
+   "a": 9932,
+   "b": 9994,
+   "t0": 0,
+   "t1": 62,
+   "line": "Người ở trong thành nhận được chỉ thị."
+  },
+  {
+   "shot": "C52",
+   "a": 9994,
+   "b": 10035,
+   "t0": 0,
+   "t1": 41,
+   "line": "Khi đường qua sông khó đi,"
+  },
+  {
+   "shot": "C53",
+   "a": 10035,
+   "b": 10142,
+   "t0": 0,
+   "t1": 107,
+   "line": "một tín hiệu đi được vẫn giữ cho hai bên biết tình hình của nhau."
+  },
+  {
+   "shot": "D1",
+   "a": 10142,
+   "b": 10211,
+   "t0": 0,
+   "t1": 69,
+   "line": "Trên đường Trần Hưng Đạo có Trường Bồ Đề."
+  },
+  {
+   "shot": "D2",
+   "a": 10211,
+   "b": 10272,
+   "t0": 0,
+   "t1": 61,
+   "line": "Người dân từng góp gạo dựng trường."
+  },
+  {
+   "shot": "D3",
+   "a": 10272,
+   "b": 10363,
+   "t0": 0,
+   "t1": 91,
+   "line": "Trước chiến tranh, nơi này có hơn một nghìn học sinh."
+  },
+  {
+   "shot": "D4",
+   "a": 10363,
+   "b": 10486,
+   "t0": 0,
+   "t1": 123,
+   "line": "Mùa hè ấy, trường nằm ngay trên một hướng có thể tiến vào thị xã."
+  },
+  {
+   "shot": "D5",
+   "a": 10486,
+   "b": 10565,
+   "t0": 0,
+   "t1": 79,
+   "line": "Trung đoàn Tám Tám được giao giữ khu vực trường."
+  },
+  {
+   "shot": "D6",
+   "a": 10565,
+   "b": 10626,
+   "t0": 0,
+   "t1": 61,
+   "line": "Các lớp học nằm trên hướng tây nam,"
+  },
+  {
+   "shot": "D7",
+   "a": 10626,
+   "b": 10697,
+   "t0": 0,
+   "t1": 71,
+   "line": "nơi lực lượng tiến công tìm đường áp sát."
+  },
+  {
+   "shot": "D8",
+   "a": 10697,
+   "b": 10767,
+   "t0": 0,
+   "t1": 70,
+   "line": "Người lính phải dùng các bức tường"
+  },
+  {
+   "shot": "D9",
+   "a": 10767,
+   "b": 10832,
+   "t0": 0,
+   "t1": 65,
+   "line": "và nền móng còn lại làm chỗ bám trụ."
+  },
+  {
+   "shot": "D10",
+   "a": 10832,
+   "b": 10882,
+   "t0": 0,
+   "t1": 50,
+   "line": "Nhìn trên sơ đồ, cổng,"
+  },
+  {
+   "shot": "D11",
+   "a": 10882,
+   "b": 10964,
+   "t0": 0,
+   "t1": 82,
+   "line": "trường và các đoạn tường cách nhau không xa."
+  },
+  {
+   "shot": "D12",
+   "a": 10964,
+   "b": 11068,
+   "t0": 0,
+   "t1": 104,
+   "line": "Nhưng đánh qua một khoảng trống nghĩa là phải rời vật che."
+  },
+  {
+   "shot": "D13",
+   "a": 11068,
+   "b": 11174,
+   "t0": 0,
+   "t1": 106,
+   "line": "Khi một chốt bị mất, người ở chốt bên cạnh có thể bị hở sườn."
+  },
+  {
+   "shot": "D14",
+   "a": 11174,
+   "b": 11248,
+   "t0": 0,
+   "t1": 74,
+   "line": "Vì vậy, mỗi góc tường đều có người bám."
+  },
+  {
+   "shot": "D15",
+   "a": 11248,
+   "b": 11342,
+   "t0": 0,
+   "t1": 94,
+   "line": "Ảnh chiến trường cho thấy tường bị bắn vỡ thành từng mảng."
+  },
+  {
+   "shot": "D16",
+   "a": 11342,
+   "b": 11450,
+   "t0": 0,
+   "t1": 108,
+   "line": "Người giữ thành tận dụng cả hào và gạch đổ để trú."
+  },
+  {
+   "shot": "D17",
+   "a": 11450,
+   "b": 11515,
+   "t0": 0,
+   "t1": 65,
+   "line": "Người tiến công phải đi qua cùng những chỗ đó."
+  },
+  {
+   "shot": "D18",
+   "a": 11515,
+   "b": 11630,
+   "t0": 0,
+   "t1": 115,
+   "line": "Sử liệu phía Hoa Kỳ ghi nhận đà tiến quanh thành trong tháng tám vẫn chậm."
+  },
+  {
+   "shot": "D19",
+   "a": 11630,
+   "b": 11688,
+   "t0": 0,
+   "t1": 58,
+   "line": "Trong một đợt bắn phá kéo dài,"
+  },
+  {
+   "shot": "D20",
+   "a": 11688,
+   "b": 11782,
+   "t0": 0,
+   "t1": 94,
+   "line": "Hoàng Chiến kể ông cho các bộ phận chuẩn bị hầm trước."
+  },
+  {
+   "shot": "D21",
+   "a": 11782,
+   "b": 11813,
+   "t0": 0,
+   "t1": 31,
+   "line": "Khi loạt đầu qua,"
+  },
+  {
+   "shot": "D22",
+   "a": 11813,
+   "b": 11930,
+   "t0": 0,
+   "t1": 117,
+   "line": "người lính phải rời chỗ đang trú và lợi dụng các hố đạn để di chuyển."
+  },
+  {
+   "shot": "D23",
+   "a": 11930,
+   "b": 12035,
+   "t0": 0,
+   "t1": 105,
+   "line": "Ngay cả đường di chuyển cũng thay đổi theo chỗ đạn vừa rơi."
+  },
+  {
+   "shot": "D24",
+   "a": 12035,
+   "b": 12090,
+   "t0": 0,
+   "t1": 55,
+   "line": "Rồi cổng Tây đổ xuống căn hầm."
+  },
+  {
+   "shot": "D25",
+   "a": 12090,
+   "b": 12149,
+   "t0": 0,
+   "t1": 59,
+   "line": "Đại đội Sáu cử người tới đào."
+  },
+  {
+   "shot": "D26",
+   "a": 12149,
+   "b": 12216,
+   "t0": 0,
+   "t1": 67,
+   "line": "Họ nghe tiếng kêu dưới đống bê tông,"
+  },
+  {
+   "shot": "D27",
+   "a": 12216,
+   "b": 12335,
+   "t0": 0,
+   "t1": 119,
+   "line": "nhưng không thể mở được lối xuống trước khi pháo lại làm người bị thương."
+  },
+  {
+   "shot": "D28",
+   "a": 12335,
+   "b": 12404,
+   "t0": 0,
+   "t1": 69,
+   "line": "Hoàng Chiến kể, họ phải trở về chốt."
+  },
+  {
+   "shot": "D29",
+   "a": 12404,
+   "b": 12467,
+   "t0": 0,
+   "t1": 63,
+   "line": "Hoàng Chiến bị mảnh bom vào ngực và"
+  },
+  {
+   "shot": "D30",
+   "a": 12467,
+   "b": 12539,
+   "t0": 0,
+   "t1": 72,
+   "line": "được đưa về trạm phẫu giữa tháng tám."
+  },
+  {
+   "shot": "D31",
+   "a": 12539,
+   "b": 12623,
+   "t0": 0,
+   "t1": 84,
+   "line": "Cuối tháng ấy, Hoàng Văn Thao cũng bị thương."
+  },
+  {
+   "shot": "D32",
+   "a": 12623,
+   "b": 12728,
+   "t0": 0,
+   "t1": 105,
+   "line": "Sau khi điều trị, cả hai trở lại chiến trường ở các đơn vị khác nhau."
+  },
+  {
+   "shot": "D33",
+   "a": 12728,
+   "b": 12811,
+   "t0": 0,
+   "t1": 83,
+   "line": "Mãi nhiều năm sau họ mới gặp lại tại Thành cổ."
+  },
+  {
+   "shot": "E1",
+   "a": 12811,
+   "b": 12963,
+   "t0": 0,
+   "t1": 152,
+   "line": "Sang tháng chín, lực lượng Thủy quân Lục chiến Việt Nam Cộng hòa dồn sức đánh vào thành."
+  },
+  {
+   "shot": "E2",
+   "a": 12963,
+   "b": 13027,
+   "t0": 0,
+   "t1": 64,
+   "line": "Sử liệu quân đội Hoa Kỳ ghi ngày mười một"
+  },
+  {
+   "shot": "E3",
+   "a": 13027,
+   "b": 13121,
+   "t0": 0,
+   "t1": 94,
+   "line": "tháng chín là mốc họ mở được một lối qua tường."
+  },
+  {
+   "shot": "E4",
+   "a": 13121,
+   "b": 13220,
+   "t0": 0,
+   "t1": 99,
+   "line": "Những cuộc đụng độ ở cự ly gần vẫn kéo dài nhiều ngày."
+  },
+  {
+   "shot": "E5",
+   "a": 13220,
+   "b": 13267,
+   "t0": 0,
+   "t1": 47,
+   "line": "Cũng ngày mười một tháng chín,"
+  },
+  {
+   "shot": "E6",
+   "a": 13267,
+   "b": 13355,
+   "t0": 0,
+   "t1": 88,
+   "line": "một người lính tên Lê Văn Huỳnh viết thư cho gia đình."
+  },
+  {
+   "shot": "E7",
+   "a": 13355,
+   "b": 13406,
+   "t0": 0,
+   "t1": 51,
+   "line": "Anh từng là sinh viên Đại học Xây dựng."
+  },
+  {
+   "shot": "E8",
+   "a": 13406,
+   "b": 13450,
+   "t0": 0,
+   "t1": 44,
+   "line": "Trên những trang giấy sổ tay,"
+  },
+  {
+   "shot": "E9",
+   "a": 13450,
+   "b": 13554,
+   "t0": 0,
+   "t1": 104,
+   "line": "anh dặn người nhà cách tìm mình nếu anh không trở về."
+  },
+  {
+   "shot": "E10",
+   "a": 13554,
+   "b": 13679,
+   "t0": 0,
+   "t1": 125,
+   "line": "Trong thư, anh chỉ đường từ thị xã qua Thạch Hãn rồi hỏi về làng bên kia."
+  },
+  {
+   "shot": "E11",
+   "a": 13679,
+   "b": 13768,
+   "t0": 0,
+   "t1": 89,
+   "line": "Đó là đường được ghi ra để người ở nhà có thể đi tìm,"
+  },
+  {
+   "shot": "E12",
+   "a": 13768,
+   "b": 13822,
+   "t0": 0,
+   "t1": 54,
+   "line": "nếu họ nhận được tin dữ."
+  },
+  {
+   "shot": "E13",
+   "a": 13822,
+   "b": 13887,
+   "t0": 0,
+   "t1": 65,
+   "line": "Bức thư không kết thúc cuộc chiến của anh."
+  },
+  {
+   "shot": "E14",
+   "a": 13887,
+   "b": 13988,
+   "t0": 0,
+   "t1": 101,
+   "line": "Anh còn làm nhiệm vụ sau khi trận Thành cổ đã khép lại."
+  },
+  {
+   "shot": "E15",
+   "a": 13988,
+   "b": 14107,
+   "t0": 0,
+   "t1": 119,
+   "line": "Ở góc đông bắc, hồi ức của Tiểu đoàn Ba kể lại một tình huống khác."
+  },
+  {
+   "shot": "E16",
+   "a": 14107,
+   "b": 14155,
+   "t0": 0,
+   "t1": 48,
+   "line": "Rạng sáng ngày mười bốn,"
+  },
+  {
+   "shot": "E17",
+   "a": 14155,
+   "b": 14327,
+   "t0": 0,
+   "t1": 172,
+   "line": "tiểu đội phó Lê Cảnh Tứ và đồng đội phát hiện một tốp đối phương luồn qua những lỗ tường bị phá."
+  },
+  {
+   "shot": "E18",
+   "a": 14327,
+   "b": 14388,
+   "t0": 0,
+   "t1": 61,
+   "line": "Họ tìm cách áp sát để cắm cờ."
+  },
+  {
+   "shot": "E19",
+   "a": 14388,
+   "b": 14444,
+   "t0": 0,
+   "t1": 56,
+   "line": "Hãy nhìn khe tường từ phía chốt."
+  },
+  {
+   "shot": "E20",
+   "a": 14444,
+   "b": 14515,
+   "t0": 0,
+   "t1": 71,
+   "line": "Người đứng ngoài khó biết bên trong còn ai."
+  },
+  {
+   "shot": "E21",
+   "a": 14515,
+   "b": 14612,
+   "t0": 0,
+   "t1": 97,
+   "line": "Người giữ chốt phải đợi tới lúc phát hiện được đối phương."
+  },
+  {
+   "shot": "E22",
+   "a": 14612,
+   "b": 14646,
+   "t0": 0,
+   "t1": 34,
+   "line": "Theo lời kể của đơn vị,"
+  },
+  {
+   "shot": "E23",
+   "a": 14646,
+   "b": 14753,
+   "t0": 0,
+   "t1": 107,
+   "line": "họ đánh trả và tốp tiến vào không giữ được vị trí ấy."
+  },
+  {
+   "shot": "E24",
+   "a": 14753,
+   "b": 14816,
+   "t0": 0,
+   "t1": 63,
+   "line": "Trong ngày, các đợt đánh tiếp tục."
+  },
+  {
+   "shot": "E25",
+   "a": 14816,
+   "b": 14924,
+   "t0": 0,
+   "t1": 108,
+   "line": "Hồi ức Tiểu đoàn Ba ghi có xe tăng phun lửa đánh vào các chốt."
+  },
+  {
+   "shot": "E26",
+   "a": 14924,
+   "b": 15007,
+   "t0": 0,
+   "t1": 83,
+   "line": "Người trong thành đã phải trú qua nhiều đợt pháo,"
+  },
+  {
+   "shot": "E27",
+   "a": 15007,
+   "b": 15131,
+   "t0": 0,
+   "t1": 124,
+   "line": "giờ phải đối phó với lực lượng áp sát qua cả những lối tường đã vỡ."
+  },
+  {
+   "shot": "E28",
+   "a": 15131,
+   "b": 15215,
+   "t0": 0,
+   "t1": 84,
+   "line": "Theo người kể của Tiểu đoàn Ba, tới ngày mười bốn,"
+  },
+  {
+   "shot": "E29",
+   "a": 15215,
+   "b": 15288,
+   "t0": 0,
+   "t1": 73,
+   "line": "tiểu đoàn chỉ còn gần hai mươi tay súng."
+  },
+  {
+   "shot": "E30",
+   "a": 15288,
+   "b": 15360,
+   "t0": 0,
+   "t1": 72,
+   "line": "Đây là quân số họ nhớ tại đơn vị mình lúc ấy."
+  },
+  {
+   "shot": "E31",
+   "a": 15360,
+   "b": 15443,
+   "t0": 0,
+   "t1": 83,
+   "line": "Những người còn lại chia nhau đối phó từ nhiều hướng,"
+  },
+  {
+   "shot": "E32",
+   "a": 15443,
+   "b": 15511,
+   "t0": 0,
+   "t1": 68,
+   "line": "cùng sự chi viện của các đơn vị bạn."
+  },
+  {
+   "shot": "E33",
+   "a": 15511,
+   "b": 15630,
+   "t0": 0,
+   "t1": 119,
+   "line": "Buổi chiều, một tốp tiến vào từ góc đông nam bị đánh bật."
+  },
+  {
+   "shot": "E34",
+   "a": 15630,
+   "b": 15735,
+   "t0": 0,
+   "t1": 105,
+   "line": "Đến chạng vạng, đợt tiến công lại mở từ ba hướng."
+  },
+  {
+   "shot": "E35",
+   "a": 15735,
+   "b": 15823,
+   "t0": 0,
+   "t1": 88,
+   "line": "Đó là cái giá của việc giữ một vị trí trong những ngày cuối."
+  },
+  {
+   "shot": "E36",
+   "a": 15823,
+   "b": 15927,
+   "t0": 0,
+   "t1": 104,
+   "line": "Chặn được một mũi rồi phải chuẩn bị cho mũi tiếp theo."
+  },
+  {
+   "shot": "F1",
+   "a": 15927,
+   "b": 15969,
+   "t0": 0,
+   "t1": 42,
+   "line": "Đêm mười lăm tháng chín,"
+  },
+  {
+   "shot": "F2",
+   "a": 15969,
+   "b": 16058,
+   "t0": 0,
+   "t1": 89,
+   "line": "tổ thông tin A ba năm không nhận lệnh cắt liên lạc."
+  },
+  {
+   "shot": "F3",
+   "a": 16058,
+   "b": 16093,
+   "t0": 0,
+   "t1": 35,
+   "line": "Họ bàn giao máy,"
+  },
+  {
+   "shot": "F4",
+   "a": 16093,
+   "b": 16214,
+   "t0": 0,
+   "t1": 121,
+   "line": "ắc quy và máy nổ cho đơn vị thông tin của Trung đoàn Bốn Tám."
+  },
+  {
+   "shot": "F5",
+   "a": 16214,
+   "b": 16254,
+   "t0": 0,
+   "t1": 40,
+   "line": "Rồi rời Thành cổ."
+  },
+  {
+   "shot": "F6",
+   "a": 16254,
+   "b": 16376,
+   "t0": 0,
+   "t1": 122,
+   "line": "Rạng sáng ngày mười sáu, lực lượng còn lại rút về phía tả ngạn Thạch Hãn."
+  },
+  {
+   "shot": "F7",
+   "a": 16376,
+   "b": 16489,
+   "t0": 0,
+   "t1": 113,
+   "line": "Đường sông từng đưa người và hàng vào thành giờ là đường rút."
+  },
+  {
+   "shot": "F8",
+   "a": 16489,
+   "b": 16611,
+   "t0": 0,
+   "t1": 122,
+   "line": "Những người vượt sông lần này để lại các chốt họ đã bám suốt mùa hè."
+  },
+  {
+   "shot": "F9",
+   "a": 16611,
+   "b": 16740,
+   "t0": 0,
+   "t1": 129,
+   "line": "Ngày mười sáu tháng chín, Thủy quân Lục chiến Việt Nam Cộng hòa kiểm soát Thành cổ."
+  },
+  {
+   "shot": "F10",
+   "a": 16740,
+   "b": 16802,
+   "t0": 0,
+   "t1": 62,
+   "line": "Tám mươi mốt ngày đêm khép lại."
+  },
+  {
+   "shot": "F11",
+   "a": 16802,
+   "b": 16865,
+   "t0": 0,
+   "t1": 63,
+   "line": "Cuộc chiến quanh Quảng Trị vẫn chưa dừng."
+  },
+  {
+   "shot": "F12",
+   "a": 16865,
+   "b": 16906,
+   "t0": 0,
+   "t1": 41,
+   "line": "Với gia đình những người lính,"
+  },
+  {
+   "shot": "F13",
+   "a": 16906,
+   "b": 16996,
+   "t0": 0,
+   "t1": 90,
+   "line": "còn có một quãng chờ tin dài hơn cả trận đánh."
+  },
+  {
+   "shot": "F14",
+   "a": 16996,
+   "b": 17081,
+   "t0": 0,
+   "t1": 85,
+   "line": "Lê Văn Huỳnh hy sinh đầu tháng giêng năm sau."
+  },
+  {
+   "shot": "F15",
+   "a": 17081,
+   "b": 17148,
+   "t0": 0,
+   "t1": 67,
+   "line": "Lá thư được đồng đội chuyển về cho gia đình."
+  },
+  {
+   "shot": "F16",
+   "a": 17148,
+   "b": 17212,
+   "t0": 0,
+   "t1": 64,
+   "line": "Những trang giấy từng được viết trong những ngày cuối"
+  },
+  {
+   "shot": "F17",
+   "a": 17212,
+   "b": 17295,
+   "t0": 0,
+   "t1": 83,
+   "line": "của trận Thành cổ nay được lưu tại bảo tàng."
+  },
+  {
+   "shot": "F18",
+   "a": 17295,
+   "b": 17368,
+   "t0": 0,
+   "t1": 73,
+   "line": "Người đi qua có thể đọc được lời anh để lại."
+  },
+  {
+   "shot": "F19",
+   "a": 17368,
+   "b": 17433,
+   "t0": 0,
+   "t1": 65,
+   "line": "Tòa thành hôm nay có cổng được phục dựng."
+  },
+  {
+   "shot": "F20",
+   "a": 17433,
+   "b": 17466,
+   "t0": 0,
+   "t1": 33,
+   "line": "Còn những đoạn tường,"
+  },
+  {
+   "shot": "F21",
+   "a": 17466,
+   "b": 17678,
+   "t0": 0,
+   "t1": 212,
+   "line": "hầm chỉ huy và dấu tích trường Bồ Đề giúp người đến sau tìm lại từng địa điểm mà các nhân chứng từng nhắc đến."
+  },
+  {
+   "shot": "F22",
+   "a": 17678,
+   "b": 17749,
+   "t0": 0,
+   "t1": 71,
+   "line": "Trên Thạch Hãn, người ta thả hoa tưởng niệm."
+  },
+  {
+   "shot": "F23",
+   "a": 17749,
+   "b": 17815,
+   "t0": 0,
+   "t1": 66,
+   "line": "Hãy nhớ những người đã đưa đồng đội sang bờ,"
+  },
+  {
+   "shot": "F24",
+   "a": 17815,
+   "b": 17961,
+   "t0": 0,
+   "t1": 146,
+   "line": "gạn nước mưa trong thùng lương khô, giữ tín hiệu qua đêm và đào dưới cổng Tây."
+  },
+  {
+   "shot": "F25",
+   "a": 17961,
+   "b": 18180,
+   "t0": 0,
+   "t1": 219,
+   "line": "Tám mươi mốt ngày đêm được làm nên từ từng việc cụ thể ấy."
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "key": 17,
+   "len": 31,
+   "first": 0,
+   "line": "Thành cổ Quảng Trị,",
+   "note": "Cổng Tây sập"
+  },
+  {
+   "id": "A2",
+   "size": "medium",
+   "key": 17,
+   "len": 81,
+   "first": 31,
+   "line": "mùa hè năm một nghìn chín trăm bảy mươi hai.",
+   "note": "Cổng Tây sập"
+  },
+  {
+   "id": "A3",
+   "size": "medium",
+   "key": 17,
+   "len": 56,
+   "first": 112,
+   "line": "Bom đánh sập cổng phía tây.",
+   "note": "Cổng Tây sập"
+  },
+  {
+   "id": "A4",
+   "size": "close",
+   "key": 17,
+   "len": 59,
+   "first": 168,
+   "line": "Bên dưới cổng là một căn hầm.",
+   "note": "Cổng Tây sập"
+  },
+  {
+   "id": "A5",
+   "size": "wide",
+   "key": 17,
+   "len": 56,
+   "first": 227,
+   "line": "Hơn mười người đang trú trong đó.",
+   "note": "Cổng Tây sập"
+  },
+  {
+   "id": "A6",
+   "size": "wide",
+   "key": 17,
+   "len": 52,
+   "first": 283,
+   "line": "Người của Đại đội Sáu chạy tới.",
+   "note": "Có tiếng người dưới gạch"
+  },
+  {
+   "id": "A7",
+   "size": "medium",
+   "key": 17,
+   "len": 60,
+   "first": 335,
+   "line": "Họ dỡ được một phần gạch đá.",
+   "note": "Có tiếng người dưới gạch"
+  },
+  {
+   "id": "A8",
+   "size": "close",
+   "key": 17,
+   "len": 44,
+   "first": 395,
+   "line": "Cựu binh Hoàng Chiến kể,",
+   "note": "Có tiếng người dưới gạch"
+  },
+  {
+   "id": "A9",
+   "size": "wide",
+   "key": 17,
+   "len": 92,
+   "first": 439,
+   "line": "từ dưới hầm vẫn vọng lên tiếng đồng đội kêu cứu.",
+   "note": "Có tiếng người dưới gạch"
+  },
+  {
+   "id": "A10",
+   "size": "wide",
+   "key": 17,
+   "len": 58,
+   "first": 531,
+   "line": "Vậy là họ lại đào tiếp.",
+   "note": "Có tiếng người dưới gạch"
+  },
+  {
+   "id": "A11",
+   "size": "wide",
+   "key": 17,
+   "len": 81,
+   "first": 589,
+   "line": "Nhưng có những tảng bê tông mà sức người không nhấc nổi.",
+   "note": "Tấm bê tông chắn lối"
+  },
+  {
+   "id": "A12",
+   "size": "medium",
+   "key": 17,
+   "len": 29,
+   "first": 670,
+   "line": "Pháo vẫn rơi.",
+   "note": "Tấm bê tông chắn lối"
+  },
+  {
+   "id": "A13",
+   "size": "close",
+   "key": 17,
+   "len": 60,
+   "first": 699,
+   "line": "Hai người tham gia đào cứu bị thương.",
+   "note": "Tấm bê tông chắn lối"
+  },
+  {
+   "id": "A14",
+   "size": "wide",
+   "key": 17,
+   "len": 86,
+   "first": 759,
+   "line": "Những người còn lại phải quay về vị trí chiến đấu.",
+   "note": "Tấm bê tông chắn lối"
+  },
+  {
+   "id": "A15",
+   "size": "wide",
+   "key": 17,
+   "len": 92,
+   "first": 845,
+   "line": "Câu chuyện ấy đến từ lời kể của người đã có mặt.",
+   "note": "Dấu vết trên tường thành"
+  },
+  {
+   "id": "A16",
+   "size": "archive",
+   "key": 17,
+   "len": 115,
+   "first": 937,
+   "line": "Bức ảnh này cho thấy hào và tường thành sau những đợt bắn phá.",
+   "note": "Dấu vết trên tường thành"
+  },
+  {
+   "id": "A17",
+   "size": "close",
+   "key": 17,
+   "len": 70,
+   "first": 1052,
+   "line": "Từng chỗ đổ nát có thể là chỗ núp.",
+   "note": "Dấu vết trên tường thành"
+  },
+  {
+   "id": "A18",
+   "size": "wide",
+   "key": 17,
+   "len": 69,
+   "first": 1122,
+   "line": "Cũng có thể là nơi chôn vùi người đang núp.",
+   "note": "Dấu vết trên tường thành"
+  },
+  {
+   "id": "A19",
+   "size": "title",
+   "key": 17,
+   "len": 110,
+   "first": 1191,
+   "line": "Đó là một phần của tám mươi mốt ngày đêm ở Thành cổ Quảng Trị.",
+   "note": "TÁM MƯƠI MỐT NGÀY ĐÊM"
+  },
+  {
+   "id": "A20",
+   "size": "map",
+   "key": 17,
+   "len": 139,
+   "first": 1301,
+   "line": "Để hiểu vì sao một đại đội lại phải đào đồng đội lên giữa lúc pháo còn bắn,",
+   "note": "TÁM MƯƠI MỐT NGÀY ĐÊM"
+  },
+  {
+   "id": "A21",
+   "size": "map",
+   "key": 17,
+   "len": 57,
+   "first": 1440,
+   "line": "hãy nhìn tòa thành từ bên kia sông.",
+   "note": "TÁM MƯƠI MỐT NGÀY ĐÊM"
+  },
+  {
+   "id": "A22",
+   "size": "map",
+   "key": 17,
+   "len": 76,
+   "first": 1497,
+   "line": "Thị xã Quảng Trị nằm cạnh sông Thạch Hãn.",
+   "note": "Sông · thị xã · Thành cổ"
+  },
+  {
+   "id": "A23",
+   "size": "map",
+   "key": 17,
+   "len": 60,
+   "first": 1573,
+   "line": "Thành cổ ở bên trong thị xã.",
+   "note": "Sông · thị xã · Thành cổ"
+  },
+  {
+   "id": "A24",
+   "size": "close",
+   "key": 17,
+   "len": 33,
+   "first": 1633,
+   "line": "Từ bờ bên kia,",
+   "note": "Sông · thị xã · Thành cổ"
+  },
+  {
+   "id": "A25",
+   "size": "wide",
+   "key": 17,
+   "len": 121,
+   "first": 1666,
+   "line": "người bổ sung và vật tư phải tìm đường qua sông rồi mới tới các chốt.",
+   "note": "Sông · thị xã · Thành cổ"
+  },
+  {
+   "id": "A26",
+   "size": "insert",
+   "key": 17,
+   "len": 45,
+   "first": 1787,
+   "line": "Tường thành có thể che người,",
+   "note": "Sông · thị xã · Thành cổ"
+  },
+  {
+   "id": "A27",
+   "size": "insert",
+   "key": 17,
+   "len": 102,
+   "first": 1832,
+   "line": "nhưng bên trong nó không tự có đạn, gạo hay thuốc.",
+   "note": "Sông · thị xã · Thành cổ"
+  },
+  {
+   "id": "A28",
+   "size": "map",
+   "key": 17,
+   "len": 66,
+   "first": 1934,
+   "line": "Cuối tháng ba, Quân đội Nhân dân Việt Nam",
+   "note": "Ba mươi tháng ba"
+  },
+  {
+   "id": "A29",
+   "size": "map",
+   "key": 17,
+   "len": 67,
+   "first": 2000,
+   "line": "mở cuộc tiến công ở mặt trận Trị Thiên.",
+   "note": "Ba mươi tháng ba"
+  },
+  {
+   "id": "A30",
+   "size": "archive",
+   "key": 17,
+   "len": 119,
+   "first": 2067,
+   "line": "Đến đầu tháng năm, lực lượng Việt Nam Cộng hòa rút khỏi thị xã.",
+   "note": "Ba mươi tháng ba"
+  },
+  {
+   "id": "A31",
+   "size": "map",
+   "key": 17,
+   "len": 74,
+   "first": 2186,
+   "line": "Quân đội Nhân dân Việt Nam kiểm soát tỉnh lỵ.",
+   "note": "Ba mươi tháng ba"
+  },
+  {
+   "id": "A32",
+   "size": "map",
+   "key": 17,
+   "len": 109,
+   "first": 2260,
+   "line": "Tình thế đảo chiều khi đối phương tập hợp lực lượng ở phía nam.",
+   "note": "Ba mươi tháng ba"
+  },
+  {
+   "id": "A33",
+   "size": "map",
+   "key": 17,
+   "len": 120,
+   "first": 2369,
+   "line": "Ngày hai mươi tám tháng sáu, cuộc phản công Lam Sơn bảy mươi hai bắt đầu.",
+   "note": "Hai mũi tiến quân"
+  },
+  {
+   "id": "A34",
+   "size": "map",
+   "key": 17,
+   "len": 114,
+   "first": 2489,
+   "line": "Nhảy dù tiến về phía thị xã theo hướng tây Quốc lộ Một.",
+   "note": "Hai mũi tiến quân"
+  },
+  {
+   "id": "A35",
+   "size": "map",
+   "key": 17,
+   "len": 66,
+   "first": 2603,
+   "line": "Thủy quân Lục chiến tiến ở phía đông.",
+   "note": "Hai mũi tiến quân"
+  },
+  {
+   "id": "A36",
+   "size": "archive",
+   "key": 17,
+   "len": 94,
+   "first": 2669,
+   "line": "Hỏa lực Hoa Kỳ yểm trợ từ trên không và ngoài biển.",
+   "note": "Hai mũi tiến quân"
+  },
+  {
+   "id": "A37",
+   "size": "archive",
+   "key": 17,
+   "len": 109,
+   "first": 2763,
+   "line": "Tàu chiến này là chiếc Niu Pót Niu của Hải quân Hoa Kỳ.",
+   "note": "Hỏa lực từ ngoài khơi"
+  },
+  {
+   "id": "A38",
+   "size": "archive",
+   "key": 17,
+   "len": 96,
+   "first": 2872,
+   "line": "Pháo hạm có thể bắn từ ngoài khơi vào trận địa trên bờ.",
+   "note": "Hỏa lực từ ngoài khơi"
+  },
+  {
+   "id": "A39",
+   "size": "close",
+   "key": 17,
+   "len": 35,
+   "first": 2968,
+   "line": "Bên trong thị xã,",
+   "note": "Hỏa lực từ ngoài khơi"
+  },
+  {
+   "id": "A40",
+   "size": "wide",
+   "key": 17,
+   "len": 134,
+   "first": 3003,
+   "line": "người giữ chốt phải tồn tại dưới hỏa lực ấy trước cả khi đối phương tới sát tường.",
+   "note": "Hỏa lực từ ngoài khơi"
+  },
+  {
+   "id": "B1",
+   "size": "wide",
+   "key": 17,
+   "len": 43,
+   "first": 3137,
+   "line": "Trong hồi ức của Hoàng Chiến,",
+   "note": "Đại đội trưởng Hoàng Chiến"
+  },
+  {
+   "id": "B2",
+   "size": "medium",
+   "key": 17,
+   "len": 122,
+   "first": 3180,
+   "line": "ông nhận lệnh đưa Đại đội Sáu vượt sông ban ngày để bổ sung quân giữ thành.",
+   "note": "Đại đội trưởng Hoàng Chiến"
+  },
+  {
+   "id": "B3",
+   "size": "medium",
+   "key": 17,
+   "len": 50,
+   "first": 3302,
+   "line": "Ông đề nghị chờ đến tối.",
+   "note": "Đại đội trưởng Hoàng Chiến"
+  },
+  {
+   "id": "B4",
+   "size": "map",
+   "key": 17,
+   "len": 84,
+   "first": 3352,
+   "line": "Đơn vị phía bên kia đã chịu nhiều thương vong.",
+   "note": "Đại đội trưởng Hoàng Chiến"
+  },
+  {
+   "id": "B5",
+   "size": "wide",
+   "key": 17,
+   "len": 45,
+   "first": 3436,
+   "line": "Lệnh vẫn là phải sang.",
+   "note": "Đại đội trưởng Hoàng Chiến"
+  },
+  {
+   "id": "B6",
+   "size": "wide",
+   "key": 17,
+   "len": 130,
+   "first": 3481,
+   "line": "Khi tới gần bờ, họ nhìn thấy máy bay trinh sát Ô Vê mười lượn trên đầu.",
+   "note": "Máy bay trinh sát"
+  },
+  {
+   "id": "B7",
+   "size": "medium",
+   "key": 17,
+   "len": 111,
+   "first": 3611,
+   "line": "Trên mặt nước trống, người vượt sông không có tường để nép vào.",
+   "note": "Máy bay trinh sát"
+  },
+  {
+   "id": "B8",
+   "size": "close",
+   "key": 17,
+   "len": 58,
+   "first": 3722,
+   "line": "Hoàng Chiến dẫn tổ đi đầu xuống trước.",
+   "note": "Máy bay trinh sát"
+  },
+  {
+   "id": "B9",
+   "size": "wide",
+   "key": 17,
+   "len": 128,
+   "first": 3780,
+   "line": "Theo lời ông kể, đến giữa sông, ông truyền cho các bộ phận đi theo hàng dọc.",
+   "note": "Vượt sông theo hàng dọc"
+  },
+  {
+   "id": "B10",
+   "size": "medium",
+   "key": 17,
+   "len": 78,
+   "first": 3908,
+   "line": "Người đi trước kéo đội hình về phía bờ nam.",
+   "note": "Vượt sông theo hàng dọc"
+  },
+  {
+   "id": "B11",
+   "size": "close",
+   "key": 17,
+   "len": 121,
+   "first": 3986,
+   "line": "Những người đi sau phải tiếp tục qua chính khoảng nước đang bị quan sát.",
+   "note": "Vượt sông theo hàng dọc"
+  },
+  {
+   "id": "B12",
+   "size": "wide",
+   "key": 17,
+   "len": 48,
+   "first": 4107,
+   "line": "Khi pháo bắt đầu bắn truy kích,",
+   "note": "Loạt pháo đến sau"
+  },
+  {
+   "id": "B13",
+   "size": "medium",
+   "key": 17,
+   "len": 94,
+   "first": 4155,
+   "line": "đại đội đã sang tới bờ và tìm được chỗ ẩn.",
+   "note": "Loạt pháo đến sau"
+  },
+  {
+   "id": "B14",
+   "size": "medium",
+   "key": 17,
+   "len": 111,
+   "first": 4249,
+   "line": "Đó là chuyến vượt sông mà Hoàng Chiến nhớ lại nhiều năm sau.",
+   "note": "Loạt pháo đến sau"
+  },
+  {
+   "id": "B15",
+   "size": "map",
+   "key": 17,
+   "len": 103,
+   "first": 4360,
+   "line": "Một lần sang được bờ chỉ giúp họ giải quyết câu hỏi đầu tiên.",
+   "note": "Loạt pháo đến sau"
+  },
+  {
+   "id": "B16",
+   "size": "insert",
+   "key": 17,
+   "len": 41,
+   "first": 4463,
+   "line": "Còn giữ chốt bằng gì?",
+   "note": "Loạt pháo đến sau"
+  },
+  {
+   "id": "B17",
+   "size": "map",
+   "key": 17,
+   "len": 119,
+   "first": 4504,
+   "line": "Đại đội Sáu được bố trí giữ các mặt thành phía bắc, đông và nam.",
+   "note": "Chia nhau giữ mặt thành"
+  },
+  {
+   "id": "B18",
+   "size": "map",
+   "key": 17,
+   "len": 53,
+   "first": 4623,
+   "line": "Đơn vị địa phương giữ phía tây.",
+   "note": "Chia nhau giữ mặt thành"
+  },
+  {
+   "id": "B19",
+   "size": "close",
+   "key": 17,
+   "len": 35,
+   "first": 4676,
+   "line": "Có nhiều mũi tiến công,",
+   "note": "Chia nhau giữ mặt thành"
+  },
+  {
+   "id": "B20",
+   "size": "wide",
+   "key": 17,
+   "len": 110,
+   "first": 4711,
+   "line": "nên người ở mỗi mặt thành phải bám đúng vị trí mình được giao.",
+   "note": "Chia nhau giữ mặt thành"
+  },
+  {
+   "id": "B21",
+   "size": "wide",
+   "key": 17,
+   "len": 99,
+   "first": 4821,
+   "line": "Cựu binh Hoàng Văn Thao nhớ bữa đầu tiên khi vào thành.",
+   "note": "Một nắm cơm"
+  },
+  {
+   "id": "B22",
+   "size": "insert",
+   "key": 17,
+   "len": 83,
+   "first": 4920,
+   "line": "Phần cơm của mỗi người chỉ là một nắm cơm vắt.",
+   "note": "Một nắm cơm"
+  },
+  {
+   "id": "B23",
+   "size": "insert",
+   "key": 17,
+   "len": 66,
+   "first": 5003,
+   "line": "Đồ ăn còn mang vào được thì chia nhau.",
+   "note": "Một nắm cơm"
+  },
+  {
+   "id": "B24",
+   "size": "insert",
+   "key": 17,
+   "len": 89,
+   "first": 5069,
+   "line": "Còn nước uống, từng vị trí phải xoay xở lấy.",
+   "note": "Một nắm cơm"
+  },
+  {
+   "id": "B25",
+   "size": "insert",
+   "key": 17,
+   "len": 93,
+   "first": 5158,
+   "line": "Theo lời ông Thao, phía đông và phía bắc có hai giếng.",
+   "note": "Hai giếng nước"
+  },
+  {
+   "id": "B26",
+   "size": "medium",
+   "key": 17,
+   "len": 80,
+   "first": 5251,
+   "line": "Các chốt xa giếng khó đi lấy nước dưới pháo.",
+   "note": "Hai giếng nước"
+  },
+  {
+   "id": "B27",
+   "size": "insert",
+   "key": 17,
+   "len": 86,
+   "first": 5331,
+   "line": "Người ở đó dùng thùng lương khô đục lỗ ở đáy,",
+   "note": "Hai giếng nước"
+  },
+  {
+   "id": "B28",
+   "size": "insert",
+   "key": 17,
+   "len": 66,
+   "first": 5417,
+   "line": "ấn xuống vũng mưa để gạn bớt cặn.",
+   "note": "Hai giếng nước"
+  },
+  {
+   "id": "B29",
+   "size": "insert",
+   "key": 17,
+   "len": 44,
+   "first": 5483,
+   "line": "Nước mưa rỉ vào thùng.",
+   "note": "Gạn nước từ vũng mưa"
+  },
+  {
+   "id": "B30",
+   "size": "insert",
+   "key": 17,
+   "len": 90,
+   "first": 5527,
+   "line": "Người lính chờ cặn lắng bớt rồi mới lấy nước uống.",
+   "note": "Gạn nước từ vũng mưa"
+  },
+  {
+   "id": "B31",
+   "size": "close",
+   "key": 17,
+   "len": 154,
+   "first": 5617,
+   "line": "Chi tiết này cho thấy vì sao giữ thành còn là chuyện của từng bữa ăn và từng ngụm nước,",
+   "note": "Gạn nước từ vũng mưa"
+  },
+  {
+   "id": "B32",
+   "size": "wide",
+   "key": 17,
+   "len": 61,
+   "first": 5771,
+   "line": "ngay cả giữa hai đợt giao tranh.",
+   "note": "Gạn nước từ vũng mưa"
+  },
+  {
+   "id": "C1",
+   "size": "title",
+   "key": 17,
+   "len": 105,
+   "first": 5832,
+   "line": "Đêm mùng chín tháng bảy, một đơn vị khác tập kết ở làng Nhan Biều.",
+   "note": "Đêm mùng chín tháng bảy"
+  },
+  {
+   "id": "C2",
+   "size": "map",
+   "key": 17,
+   "len": 92,
+   "first": 5937,
+   "line": "Đó là Tiểu đoàn Ba Tam Đảo, thuộc Trung đoàn Bốn Tám.",
+   "note": "Đêm mùng chín tháng bảy"
+  },
+  {
+   "id": "C3",
+   "size": "close",
+   "key": 17,
+   "len": 94,
+   "first": 6029,
+   "line": "Rạng sáng hôm sau, họ vượt Thạch Hãn vào giữ thành.",
+   "note": "Đêm mùng chín tháng bảy"
+  },
+  {
+   "id": "C4",
+   "size": "wide",
+   "key": 17,
+   "len": 51,
+   "first": 6123,
+   "line": "Trong nhật ký của Nguyễn Văn Hợi,",
+   "note": "Từ Nhan Biều sang thị xã"
+  },
+  {
+   "id": "C5",
+   "size": "medium",
+   "key": 17,
+   "len": 128,
+   "first": 6174,
+   "line": "chuyến vượt sông là mốc ngay trước khi tiểu đoàn bước vào trận địa.",
+   "note": "Từ Nhan Biều sang thị xã"
+  },
+  {
+   "id": "C6",
+   "size": "medium",
+   "key": 17,
+   "len": 83,
+   "first": 6302,
+   "line": "Trong thành, cuộc sống chuyển sang nhịp hầm hào.",
+   "note": "Từ Nhan Biều sang thị xã"
+  },
+  {
+   "id": "C7",
+   "size": "close",
+   "key": 17,
+   "len": 58,
+   "first": 6385,
+   "line": "Đến cuối tháng bảy, đầu tháng tám,",
+   "note": "Từ Nhan Biều sang thị xã"
+  },
+  {
+   "id": "C8",
+   "size": "wide",
+   "key": 17,
+   "len": 92,
+   "first": 6443,
+   "line": "ông nhớ mưa kéo dài làm hầm ngập và đất sụt.",
+   "note": "Từ Nhan Biều sang thị xã"
+  },
+  {
+   "id": "C9",
+   "size": "wide",
+   "key": 17,
+   "len": 61,
+   "first": 6535,
+   "line": "Hầm che mảnh đạn khi pháo bắn.",
+   "note": "Hầm đang ngập"
+  },
+  {
+   "id": "C10",
+   "size": "medium",
+   "key": 17,
+   "len": 83,
+   "first": 6596,
+   "line": "Khi nước tràn vào, chính chỗ che ấy khó ở lại.",
+   "note": "Hầm đang ngập"
+  },
+  {
+   "id": "C11",
+   "size": "close",
+   "key": 17,
+   "len": 67,
+   "first": 6679,
+   "line": "Bùn lấp lối ra, nền sạt xuống.",
+   "note": "Hầm đang ngập"
+  },
+  {
+   "id": "C12",
+   "size": "wide",
+   "key": 17,
+   "len": 62,
+   "first": 6746,
+   "line": "Mưa làm cả đường tiếp tế qua sông khó hơn",
+   "note": "Hầm đang ngập"
+  },
+  {
+   "id": "C13",
+   "size": "medium",
+   "key": 17,
+   "len": 88,
+   "first": 6808,
+   "line": "đúng lúc các chốt cần người và vật tư.",
+   "note": "Hầm đang ngập"
+  },
+  {
+   "id": "C14",
+   "size": "map",
+   "key": 17,
+   "len": 72,
+   "first": 6896,
+   "line": "Đối phương cũng tìm cách siết đường tiếp tế.",
+   "note": "Trực thăng của lực lượng phản công"
+  },
+  {
+   "id": "C15",
+   "size": "archive",
+   "key": 17,
+   "len": 142,
+   "first": 6968,
+   "line": "Đây là ảnh Thủy quân Lục chiến Việt Nam Cộng hòa lên trực thăng ngày mở màn phản công.",
+   "note": "Trực thăng của lực lượng phản công"
+  },
+  {
+   "id": "C16",
+   "size": "close",
+   "key": 17,
+   "len": 37,
+   "first": 7110,
+   "line": "Gần hai tuần sau,",
+   "note": "Trực thăng của lực lượng phản công"
+  },
+  {
+   "id": "C17",
+   "size": "wide",
+   "key": 17,
+   "len": 108,
+   "first": 7147,
+   "line": "một cuộc đổ quân khác nhắm vào khu vực phía đông bắc thị xã.",
+   "note": "Trực thăng của lực lượng phản công"
+  },
+  {
+   "id": "C18",
+   "size": "wide",
+   "key": 17,
+   "len": 39,
+   "first": 7255,
+   "line": "Ngày mười một tháng bảy,",
+   "note": "Mười một tháng bảy"
+  },
+  {
+   "id": "C19",
+   "size": "medium",
+   "key": 17,
+   "len": 148,
+   "first": 7294,
+   "line": "trực thăng Mỹ chở một tiểu đoàn Thủy quân Lục chiến Việt Nam Cộng hòa đổ xuống phía đông bắc.",
+   "note": "Mười một tháng bảy"
+  },
+  {
+   "id": "C20",
+   "size": "map",
+   "key": 17,
+   "len": 73,
+   "first": 7442,
+   "line": "Mục tiêu là chặn đường năm sáu không và",
+   "note": "Mười một tháng bảy"
+  },
+  {
+   "id": "C21",
+   "size": "map",
+   "key": 17,
+   "len": 68,
+   "first": 7515,
+   "line": "gây sức ép lên tuyến tiếp tế vào thành.",
+   "note": "Mười một tháng bảy"
+  },
+  {
+   "id": "C22",
+   "size": "close",
+   "key": 17,
+   "len": 79,
+   "first": 7583,
+   "line": "Lực lượng phòng thủ đánh trả cả vào đội trực thăng.",
+   "note": "Mười một tháng bảy"
+  },
+  {
+   "id": "C23",
+   "size": "wide",
+   "key": 17,
+   "len": 68,
+   "first": 7662,
+   "line": "Sử liệu Thủy quân Lục chiến Hoa Kỳ ghi một chiếc",
+   "note": "Đổ quân dưới hỏa lực"
+  },
+  {
+   "id": "C24",
+   "size": "medium",
+   "key": 17,
+   "len": 82,
+   "first": 7730,
+   "line": "trực thăng hạng nặng trúng tên lửa phòng không và rơi.",
+   "note": "Đổ quân dưới hỏa lực"
+  },
+  {
+   "id": "C25",
+   "size": "medium",
+   "key": 17,
+   "len": 75,
+   "first": 7812,
+   "line": "Cuộc đổ quân vẫn tiếp tục.",
+   "note": "Đổ quân dưới hỏa lực"
+  },
+  {
+   "id": "C26",
+   "size": "map",
+   "key": 17,
+   "len": 69,
+   "first": 7887,
+   "line": "Tới cuối tháng, Thủy quân Lục chiến được",
+   "note": "Đổ quân dưới hỏa lực"
+  },
+  {
+   "id": "C27",
+   "size": "map",
+   "key": 17,
+   "len": 76,
+   "first": 7956,
+   "line": "giao thay Nhảy dù đánh vào thị xã.",
+   "note": "Đổ quân dưới hỏa lực"
+  },
+  {
+   "id": "C28",
+   "size": "wide",
+   "key": 17,
+   "len": 126,
+   "first": 8032,
+   "line": "Trong lúc ấy, một tổ thông tin rời sở chỉ huy mặt trận để vào thành.",
+   "note": "Tổ điện đài A ba năm không"
+  },
+  {
+   "id": "C29",
+   "size": "medium",
+   "key": 17,
+   "len": 49,
+   "first": 8158,
+   "line": "Tổ do Hoàng Văn Tịch phụ trách.",
+   "note": "Tổ điện đài A ba năm không"
+  },
+  {
+   "id": "C30",
+   "size": "close",
+   "key": 17,
+   "len": 69,
+   "first": 8207,
+   "line": "Họ phải đem thiết bị qua chiến trường để giữ liên",
+   "note": "Tổ điện đài A ba năm không"
+  },
+  {
+   "id": "C31",
+   "size": "wide",
+   "key": 17,
+   "len": 100,
+   "first": 8276,
+   "line": "lạc giữa lực lượng trong thành và chỉ huy bên ngoài.",
+   "note": "Tổ điện đài A ba năm không"
+  },
+  {
+   "id": "C32",
+   "size": "wide",
+   "key": 17,
+   "len": 47,
+   "first": 8376,
+   "line": "Một máy liên lạc cần điện.",
+   "note": "Máy, ắc quy, máy nổ"
+  },
+  {
+   "id": "C33",
+   "size": "medium",
+   "key": 17,
+   "len": 70,
+   "first": 8423,
+   "line": "Tổ mang theo cả ắc quy và máy nổ.",
+   "note": "Máy, ắc quy, máy nổ"
+  },
+  {
+   "id": "C34",
+   "size": "close",
+   "key": 17,
+   "len": 95,
+   "first": 8493,
+   "line": "Những thứ này phải tới đúng chỗ cùng với người sử dụng.",
+   "note": "Máy, ắc quy, máy nổ"
+  },
+  {
+   "id": "C35",
+   "size": "wide",
+   "key": 17,
+   "len": 92,
+   "first": 8588,
+   "line": "Đêm ba mươi mốt tháng bảy, tổ vượt Thạch Hãn vào thành.",
+   "note": "Máy, ắc quy, máy nổ"
+  },
+  {
+   "id": "C36",
+   "size": "wide",
+   "key": 17,
+   "len": 106,
+   "first": 8680,
+   "line": "Tổ bọc khí tài trong túi ni lông, dùng chính các túi ấy làm phao.",
+   "note": "Đàm Văn Ngọ bị nước cuốn"
+  },
+  {
+   "id": "C37",
+   "size": "medium",
+   "key": 17,
+   "len": 79,
+   "first": 8786,
+   "line": "Ra gần giữa sông, dòng nước xé đội hình.",
+   "note": "Đàm Văn Ngọ bị nước cuốn"
+  },
+  {
+   "id": "C38",
+   "size": "close",
+   "key": 17,
+   "len": 65,
+   "first": 8865,
+   "line": "Đàm Văn Ngọ dạt xuống phía dưới.",
+   "note": "Đàm Văn Ngọ bị nước cuốn"
+  },
+  {
+   "id": "C39",
+   "size": "wide",
+   "key": 17,
+   "len": 78,
+   "first": 8930,
+   "line": "Anh lần ngược theo bờ để tìm về chỗ hẹn.",
+   "note": "Đàm Văn Ngọ bị nước cuốn"
+  },
+  {
+   "id": "C40",
+   "size": "wide",
+   "key": 17,
+   "len": 118,
+   "first": 9008,
+   "line": "Tới hầm, họ hong thiết bị, lắp máy và nối ăng ten.",
+   "note": "Sấy máy dưới hầm"
+  },
+  {
+   "id": "C41",
+   "size": "medium",
+   "key": 17,
+   "len": 39,
+   "first": 9126,
+   "line": "Tín hiệu thông trở lại.",
+   "note": "Sấy máy dưới hầm"
+  },
+  {
+   "id": "C42",
+   "size": "close",
+   "key": 17,
+   "len": 107,
+   "first": 9165,
+   "line": "Nhưng máy ở dưới đất, còn ăng ten phải đặt trên gò bên ngoài.",
+   "note": "Sấy máy dưới hầm"
+  },
+  {
+   "id": "C43",
+   "size": "wide",
+   "key": 17,
+   "len": 37,
+   "first": 9272,
+   "line": "Pháo đánh gãy cột.",
+   "note": "Sấy máy dưới hầm"
+  },
+  {
+   "id": "C44",
+   "size": "medium",
+   "key": 17,
+   "len": 77,
+   "first": 9309,
+   "line": "Họ ghép củi nhà bếp để dựng một cột khác.",
+   "note": "Sấy máy dưới hầm"
+  },
+  {
+   "id": "C45",
+   "size": "wide",
+   "key": 17,
+   "len": 92,
+   "first": 9386,
+   "line": "Khi cột lại gãy và hết vật liệu, họ đổi cách.",
+   "note": "Giữ ăng ten bằng tay"
+  },
+  {
+   "id": "C46",
+   "size": "medium",
+   "key": 17,
+   "len": 116,
+   "first": 9478,
+   "line": "Mỗi phiên mở máy, một người ra nấp sau đống gạch, giữ ăng ten.",
+   "note": "Giữ ăng ten bằng tay"
+  },
+  {
+   "id": "C47",
+   "size": "close",
+   "key": 17,
+   "len": 62,
+   "first": 9594,
+   "line": "Xong phiên thì mang vào hầm.",
+   "note": "Giữ ăng ten bằng tay"
+  },
+  {
+   "id": "C48",
+   "size": "wide",
+   "key": 17,
+   "len": 93,
+   "first": 9656,
+   "line": "Họ giữ liên lạc bằng cách đó hơn một tháng.",
+   "note": "Giữ ăng ten bằng tay"
+  },
+  {
+   "id": "C49",
+   "size": "wide",
+   "key": 17,
+   "len": 111,
+   "first": 9749,
+   "line": "Qua đường liên lạc, tình hình trong thành có thể truyền ra ngoài.",
+   "note": "Tín hiệu qua hai bờ"
+  },
+  {
+   "id": "C50",
+   "size": "medium",
+   "key": 17,
+   "len": 72,
+   "first": 9860,
+   "line": "Người chỉ huy nhận được tin về các chốt.",
+   "note": "Tín hiệu qua hai bờ"
+  },
+  {
+   "id": "C51",
+   "size": "close",
+   "key": 17,
+   "len": 62,
+   "first": 9932,
+   "line": "Người ở trong thành nhận được chỉ thị.",
+   "note": "Tín hiệu qua hai bờ"
+  },
+  {
+   "id": "C52",
+   "size": "wide",
+   "key": 17,
+   "len": 41,
+   "first": 9994,
+   "line": "Khi đường qua sông khó đi,",
+   "note": "Tín hiệu qua hai bờ"
+  },
+  {
+   "id": "C53",
+   "size": "medium",
+   "key": 17,
+   "len": 107,
+   "first": 10035,
+   "line": "một tín hiệu đi được vẫn giữ cho hai bên biết tình hình của nhau.",
+   "note": "Tín hiệu qua hai bờ"
+  },
+  {
+   "id": "D1",
+   "size": "wide",
+   "key": 17,
+   "len": 69,
+   "first": 10142,
+   "line": "Trên đường Trần Hưng Đạo có Trường Bồ Đề.",
+   "note": "Trường Bồ Đề trước chiến sự"
+  },
+  {
+   "id": "D2",
+   "size": "medium",
+   "key": 17,
+   "len": 61,
+   "first": 10211,
+   "line": "Người dân từng góp gạo dựng trường.",
+   "note": "Trường Bồ Đề trước chiến sự"
+  },
+  {
+   "id": "D3",
+   "size": "close",
+   "key": 17,
+   "len": 91,
+   "first": 10272,
+   "line": "Trước chiến tranh, nơi này có hơn một nghìn học sinh.",
+   "note": "Trường Bồ Đề trước chiến sự"
+  },
+  {
+   "id": "D4",
+   "size": "map",
+   "key": 17,
+   "len": 123,
+   "first": 10363,
+   "line": "Mùa hè ấy, trường nằm ngay trên một hướng có thể tiến vào thị xã.",
+   "note": "Trường Bồ Đề trước chiến sự"
+  },
+  {
+   "id": "D5",
+   "size": "wide",
+   "key": 17,
+   "len": 79,
+   "first": 10486,
+   "line": "Trung đoàn Tám Tám được giao giữ khu vực trường.",
+   "note": "Trung đoàn Tám Tám giữ chốt"
+  },
+  {
+   "id": "D6",
+   "size": "map",
+   "key": 17,
+   "len": 61,
+   "first": 10565,
+   "line": "Các lớp học nằm trên hướng tây nam,",
+   "note": "Trung đoàn Tám Tám giữ chốt"
+  },
+  {
+   "id": "D7",
+   "size": "map",
+   "key": 17,
+   "len": 71,
+   "first": 10626,
+   "line": "nơi lực lượng tiến công tìm đường áp sát.",
+   "note": "Trung đoàn Tám Tám giữ chốt"
+  },
+  {
+   "id": "D8",
+   "size": "close",
+   "key": 17,
+   "len": 70,
+   "first": 10697,
+   "line": "Người lính phải dùng các bức tường",
+   "note": "Trung đoàn Tám Tám giữ chốt"
+  },
+  {
+   "id": "D9",
+   "size": "wide",
+   "key": 17,
+   "len": 65,
+   "first": 10767,
+   "line": "và nền móng còn lại làm chỗ bám trụ.",
+   "note": "Trung đoàn Tám Tám giữ chốt"
+  },
+  {
+   "id": "D10",
+   "size": "map",
+   "key": 17,
+   "len": 50,
+   "first": 10832,
+   "line": "Nhìn trên sơ đồ, cổng,",
+   "note": "Một tòa thành, nhiều hướng đánh"
+  },
+  {
+   "id": "D11",
+   "size": "map",
+   "key": 17,
+   "len": 82,
+   "first": 10882,
+   "line": "trường và các đoạn tường cách nhau không xa.",
+   "note": "Một tòa thành, nhiều hướng đánh"
+  },
+  {
+   "id": "D12",
+   "size": "medium",
+   "key": 17,
+   "len": 104,
+   "first": 10964,
+   "line": "Nhưng đánh qua một khoảng trống nghĩa là phải rời vật che.",
+   "note": "Một tòa thành, nhiều hướng đánh"
+  },
+  {
+   "id": "D13",
+   "size": "map",
+   "key": 17,
+   "len": 106,
+   "first": 11068,
+   "line": "Khi một chốt bị mất, người ở chốt bên cạnh có thể bị hở sườn.",
+   "note": "Một tòa thành, nhiều hướng đánh"
+  },
+  {
+   "id": "D14",
+   "size": "wide",
+   "key": 17,
+   "len": 74,
+   "first": 11174,
+   "line": "Vì vậy, mỗi góc tường đều có người bám.",
+   "note": "Một tòa thành, nhiều hướng đánh"
+  },
+  {
+   "id": "D15",
+   "size": "archive",
+   "key": 17,
+   "len": 94,
+   "first": 11248,
+   "line": "Ảnh chiến trường cho thấy tường bị bắn vỡ thành từng mảng.",
+   "note": "Gạch đổ vẫn là công sự"
+  },
+  {
+   "id": "D16",
+   "size": "archive",
+   "key": 17,
+   "len": 108,
+   "first": 11342,
+   "line": "Người giữ thành tận dụng cả hào và gạch đổ để trú.",
+   "note": "Gạch đổ vẫn là công sự"
+  },
+  {
+   "id": "D17",
+   "size": "close",
+   "key": 17,
+   "len": 65,
+   "first": 11450,
+   "line": "Người tiến công phải đi qua cùng những chỗ đó.",
+   "note": "Gạch đổ vẫn là công sự"
+  },
+  {
+   "id": "D18",
+   "size": "archive",
+   "key": 17,
+   "len": 115,
+   "first": 11515,
+   "line": "Sử liệu phía Hoa Kỳ ghi nhận đà tiến quanh thành trong tháng tám vẫn chậm.",
+   "note": "Gạch đổ vẫn là công sự"
+  },
+  {
+   "id": "D19",
+   "size": "wide",
+   "key": 17,
+   "len": 58,
+   "first": 11630,
+   "line": "Trong một đợt bắn phá kéo dài,",
+   "note": "Từ hầm sang hố đạn"
+  },
+  {
+   "id": "D20",
+   "size": "medium",
+   "key": 17,
+   "len": 94,
+   "first": 11688,
+   "line": "Hoàng Chiến kể ông cho các bộ phận chuẩn bị hầm trước.",
+   "note": "Từ hầm sang hố đạn"
+  },
+  {
+   "id": "D21",
+   "size": "medium",
+   "key": 17,
+   "len": 31,
+   "first": 11782,
+   "line": "Khi loạt đầu qua,",
+   "note": "Từ hầm sang hố đạn"
+  },
+  {
+   "id": "D22",
+   "size": "close",
+   "key": 17,
+   "len": 117,
+   "first": 11813,
+   "line": "người lính phải rời chỗ đang trú và lợi dụng các hố đạn để di chuyển.",
+   "note": "Từ hầm sang hố đạn"
+  },
+  {
+   "id": "D23",
+   "size": "close",
+   "key": 17,
+   "len": 105,
+   "first": 11930,
+   "line": "Ngay cả đường di chuyển cũng thay đổi theo chỗ đạn vừa rơi.",
+   "note": "Từ hầm sang hố đạn"
+  },
+  {
+   "id": "D24",
+   "size": "wide",
+   "key": 17,
+   "len": 55,
+   "first": 12035,
+   "line": "Rồi cổng Tây đổ xuống căn hầm.",
+   "note": "Trở lại cổng Tây"
+  },
+  {
+   "id": "D25",
+   "size": "medium",
+   "key": 17,
+   "len": 59,
+   "first": 12090,
+   "line": "Đại đội Sáu cử người tới đào.",
+   "note": "Trở lại cổng Tây"
+  },
+  {
+   "id": "D26",
+   "size": "close",
+   "key": 17,
+   "len": 67,
+   "first": 12149,
+   "line": "Họ nghe tiếng kêu dưới đống bê tông,",
+   "note": "Trở lại cổng Tây"
+  },
+  {
+   "id": "D27",
+   "size": "wide",
+   "key": 17,
+   "len": 119,
+   "first": 12216,
+   "line": "nhưng không thể mở được lối xuống trước khi pháo lại làm người bị thương.",
+   "note": "Trở lại cổng Tây"
+  },
+  {
+   "id": "D28",
+   "size": "wide",
+   "key": 17,
+   "len": 69,
+   "first": 12335,
+   "line": "Hoàng Chiến kể, họ phải trở về chốt.",
+   "note": "Trở lại cổng Tây"
+  },
+  {
+   "id": "D29",
+   "size": "wide",
+   "key": 17,
+   "len": 63,
+   "first": 12404,
+   "line": "Hoàng Chiến bị mảnh bom vào ngực và",
+   "note": "Hai người lính bị thương"
+  },
+  {
+   "id": "D30",
+   "size": "medium",
+   "key": 17,
+   "len": 72,
+   "first": 12467,
+   "line": "được đưa về trạm phẫu giữa tháng tám.",
+   "note": "Hai người lính bị thương"
+  },
+  {
+   "id": "D31",
+   "size": "medium",
+   "key": 17,
+   "len": 84,
+   "first": 12539,
+   "line": "Cuối tháng ấy, Hoàng Văn Thao cũng bị thương.",
+   "note": "Hai người lính bị thương"
+  },
+  {
+   "id": "D32",
+   "size": "close",
+   "key": 17,
+   "len": 105,
+   "first": 12623,
+   "line": "Sau khi điều trị, cả hai trở lại chiến trường ở các đơn vị khác nhau.",
+   "note": "Hai người lính bị thương"
+  },
+  {
+   "id": "D33",
+   "size": "wide",
+   "key": 17,
+   "len": 83,
+   "first": 12728,
+   "line": "Mãi nhiều năm sau họ mới gặp lại tại Thành cổ.",
+   "note": "Hai người lính bị thương"
+  },
+  {
+   "id": "E1",
+   "size": "title",
+   "key": 17,
+   "len": 152,
+   "first": 12811,
+   "line": "Sang tháng chín, lực lượng Thủy quân Lục chiến Việt Nam Cộng hòa dồn sức đánh vào thành.",
+   "note": "Mười một tháng chín"
+  },
+  {
+   "id": "E2",
+   "size": "medium",
+   "key": 17,
+   "len": 64,
+   "first": 12963,
+   "line": "Sử liệu quân đội Hoa Kỳ ghi ngày mười một",
+   "note": "Mười một tháng chín"
+  },
+  {
+   "id": "E3",
+   "size": "close",
+   "key": 17,
+   "len": 94,
+   "first": 13027,
+   "line": "tháng chín là mốc họ mở được một lối qua tường.",
+   "note": "Mười một tháng chín"
+  },
+  {
+   "id": "E4",
+   "size": "map",
+   "key": 17,
+   "len": 99,
+   "first": 13121,
+   "line": "Những cuộc đụng độ ở cự ly gần vẫn kéo dài nhiều ngày.",
+   "note": "Mười một tháng chín"
+  },
+  {
+   "id": "E5",
+   "size": "wide",
+   "key": 17,
+   "len": 47,
+   "first": 13220,
+   "line": "Cũng ngày mười một tháng chín,",
+   "note": "Lá thư của Lê Văn Huỳnh"
+  },
+  {
+   "id": "E6",
+   "size": "medium",
+   "key": 17,
+   "len": 88,
+   "first": 13267,
+   "line": "một người lính tên Lê Văn Huỳnh viết thư cho gia đình.",
+   "note": "Lá thư của Lê Văn Huỳnh"
+  },
+  {
+   "id": "E7",
+   "size": "medium",
+   "key": 17,
+   "len": 51,
+   "first": 13355,
+   "line": "Anh từng là sinh viên Đại học Xây dựng.",
+   "note": "Lá thư của Lê Văn Huỳnh"
+  },
+  {
+   "id": "E8",
+   "size": "close",
+   "key": 17,
+   "len": 44,
+   "first": 13406,
+   "line": "Trên những trang giấy sổ tay,",
+   "note": "Lá thư của Lê Văn Huỳnh"
+  },
+  {
+   "id": "E9",
+   "size": "wide",
+   "key": 17,
+   "len": 104,
+   "first": 13450,
+   "line": "anh dặn người nhà cách tìm mình nếu anh không trở về.",
+   "note": "Lá thư của Lê Văn Huỳnh"
+  },
+  {
+   "id": "E10",
+   "size": "wide",
+   "key": 17,
+   "len": 125,
+   "first": 13554,
+   "line": "Trong thư, anh chỉ đường từ thị xã qua Thạch Hãn rồi hỏi về làng bên kia.",
+   "note": "Chỉ đường về phía bờ sông"
+  },
+  {
+   "id": "E11",
+   "size": "medium",
+   "key": 17,
+   "len": 89,
+   "first": 13679,
+   "line": "Đó là đường được ghi ra để người ở nhà có thể đi tìm,",
+   "note": "Chỉ đường về phía bờ sông"
+  },
+  {
+   "id": "E12",
+   "size": "close",
+   "key": 17,
+   "len": 54,
+   "first": 13768,
+   "line": "nếu họ nhận được tin dữ.",
+   "note": "Chỉ đường về phía bờ sông"
+  },
+  {
+   "id": "E13",
+   "size": "close",
+   "key": 17,
+   "len": 65,
+   "first": 13822,
+   "line": "Bức thư không kết thúc cuộc chiến của anh.",
+   "note": "Chỉ đường về phía bờ sông"
+  },
+  {
+   "id": "E14",
+   "size": "wide",
+   "key": 17,
+   "len": 101,
+   "first": 13887,
+   "line": "Anh còn làm nhiệm vụ sau khi trận Thành cổ đã khép lại.",
+   "note": "Chỉ đường về phía bờ sông"
+  },
+  {
+   "id": "E15",
+   "size": "map",
+   "key": 17,
+   "len": 119,
+   "first": 13988,
+   "line": "Ở góc đông bắc, hồi ức của Tiểu đoàn Ba kể lại một tình huống khác.",
+   "note": "Rạng sáng mười bốn tháng chín"
+  },
+  {
+   "id": "E16",
+   "size": "medium",
+   "key": 17,
+   "len": 48,
+   "first": 14107,
+   "line": "Rạng sáng ngày mười bốn,",
+   "note": "Rạng sáng mười bốn tháng chín"
+  },
+  {
+   "id": "E17",
+   "size": "close",
+   "key": 17,
+   "len": 172,
+   "first": 14155,
+   "line": "tiểu đội phó Lê Cảnh Tứ và đồng đội phát hiện một tốp đối phương luồn qua những lỗ tường bị phá.",
+   "note": "Rạng sáng mười bốn tháng chín"
+  },
+  {
+   "id": "E18",
+   "size": "close",
+   "key": 17,
+   "len": 61,
+   "first": 14327,
+   "line": "Họ tìm cách áp sát để cắm cờ.",
+   "note": "Rạng sáng mười bốn tháng chín"
+  },
+  {
+   "id": "E19",
+   "size": "wide",
+   "key": 17,
+   "len": 56,
+   "first": 14388,
+   "line": "Hãy nhìn khe tường từ phía chốt.",
+   "note": "Giữ lỗ thủng phía đông bắc"
+  },
+  {
+   "id": "E20",
+   "size": "medium",
+   "key": 17,
+   "len": 71,
+   "first": 14444,
+   "line": "Người đứng ngoài khó biết bên trong còn ai.",
+   "note": "Giữ lỗ thủng phía đông bắc"
+  },
+  {
+   "id": "E21",
+   "size": "map",
+   "key": 17,
+   "len": 97,
+   "first": 14515,
+   "line": "Người giữ chốt phải đợi tới lúc phát hiện được đối phương.",
+   "note": "Giữ lỗ thủng phía đông bắc"
+  },
+  {
+   "id": "E22",
+   "size": "wide",
+   "key": 17,
+   "len": 34,
+   "first": 14612,
+   "line": "Theo lời kể của đơn vị,",
+   "note": "Giữ lỗ thủng phía đông bắc"
+  },
+  {
+   "id": "E23",
+   "size": "medium",
+   "key": 17,
+   "len": 107,
+   "first": 14646,
+   "line": "họ đánh trả và tốp tiến vào không giữ được vị trí ấy.",
+   "note": "Giữ lỗ thủng phía đông bắc"
+  },
+  {
+   "id": "E24",
+   "size": "map",
+   "key": 17,
+   "len": 63,
+   "first": 14753,
+   "line": "Trong ngày, các đợt đánh tiếp tục.",
+   "note": "Xe phun lửa áp sát"
+  },
+  {
+   "id": "E25",
+   "size": "medium",
+   "key": 17,
+   "len": 108,
+   "first": 14816,
+   "line": "Hồi ức Tiểu đoàn Ba ghi có xe tăng phun lửa đánh vào các chốt.",
+   "note": "Xe phun lửa áp sát"
+  },
+  {
+   "id": "E26",
+   "size": "close",
+   "key": 17,
+   "len": 83,
+   "first": 14924,
+   "line": "Người trong thành đã phải trú qua nhiều đợt pháo,",
+   "note": "Xe phun lửa áp sát"
+  },
+  {
+   "id": "E27",
+   "size": "wide",
+   "key": 17,
+   "len": 124,
+   "first": 15007,
+   "line": "giờ phải đối phó với lực lượng áp sát qua cả những lối tường đã vỡ.",
+   "note": "Xe phun lửa áp sát"
+  },
+  {
+   "id": "E28",
+   "size": "map",
+   "key": 17,
+   "len": 84,
+   "first": 15131,
+   "line": "Theo người kể của Tiểu đoàn Ba, tới ngày mười bốn,",
+   "note": "Gần hai mươi tay súng"
+  },
+  {
+   "id": "E29",
+   "size": "map",
+   "key": 17,
+   "len": 73,
+   "first": 15215,
+   "line": "tiểu đoàn chỉ còn gần hai mươi tay súng.",
+   "note": "Gần hai mươi tay súng"
+  },
+  {
+   "id": "E30",
+   "size": "map",
+   "key": 17,
+   "len": 72,
+   "first": 15288,
+   "line": "Đây là quân số họ nhớ tại đơn vị mình lúc ấy.",
+   "note": "Gần hai mươi tay súng"
+  },
+  {
+   "id": "E31",
+   "size": "map",
+   "key": 17,
+   "len": 83,
+   "first": 15360,
+   "line": "Những người còn lại chia nhau đối phó từ nhiều hướng,",
+   "note": "Gần hai mươi tay súng"
+  },
+  {
+   "id": "E32",
+   "size": "map",
+   "key": 17,
+   "len": 68,
+   "first": 15443,
+   "line": "cùng sự chi viện của các đơn vị bạn.",
+   "note": "Gần hai mươi tay súng"
+  },
+  {
+   "id": "E33",
+   "size": "wide",
+   "key": 17,
+   "len": 119,
+   "first": 15511,
+   "line": "Buổi chiều, một tốp tiến vào từ góc đông nam bị đánh bật.",
+   "note": "Từ góc đông nam đến ba hướng"
+  },
+  {
+   "id": "E34",
+   "size": "map",
+   "key": 17,
+   "len": 105,
+   "first": 15630,
+   "line": "Đến chạng vạng, đợt tiến công lại mở từ ba hướng.",
+   "note": "Từ góc đông nam đến ba hướng"
+  },
+  {
+   "id": "E35",
+   "size": "close",
+   "key": 17,
+   "len": 88,
+   "first": 15735,
+   "line": "Đó là cái giá của việc giữ một vị trí trong những ngày cuối.",
+   "note": "Từ góc đông nam đến ba hướng"
+  },
+  {
+   "id": "E36",
+   "size": "wide",
+   "key": 17,
+   "len": 104,
+   "first": 15823,
+   "line": "Chặn được một mũi rồi phải chuẩn bị cho mũi tiếp theo.",
+   "note": "Từ góc đông nam đến ba hướng"
+  },
+  {
+   "id": "F1",
+   "size": "wide",
+   "key": 17,
+   "len": 42,
+   "first": 15927,
+   "line": "Đêm mười lăm tháng chín,",
+   "note": "Đêm mười lăm tháng chín"
+  },
+  {
+   "id": "F2",
+   "size": "medium",
+   "key": 17,
+   "len": 89,
+   "first": 15969,
+   "line": "tổ thông tin A ba năm không nhận lệnh cắt liên lạc.",
+   "note": "Đêm mười lăm tháng chín"
+  },
+  {
+   "id": "F3",
+   "size": "medium",
+   "key": 17,
+   "len": 35,
+   "first": 16058,
+   "line": "Họ bàn giao máy,",
+   "note": "Đêm mười lăm tháng chín"
+  },
+  {
+   "id": "F4",
+   "size": "close",
+   "key": 17,
+   "len": 121,
+   "first": 16093,
+   "line": "ắc quy và máy nổ cho đơn vị thông tin của Trung đoàn Bốn Tám.",
+   "note": "Đêm mười lăm tháng chín"
+  },
+  {
+   "id": "F5",
+   "size": "close",
+   "key": 17,
+   "len": 40,
+   "first": 16214,
+   "line": "Rồi rời Thành cổ.",
+   "note": "Đêm mười lăm tháng chín"
+  },
+  {
+   "id": "F6",
+   "size": "wide",
+   "key": 17,
+   "len": 122,
+   "first": 16254,
+   "line": "Rạng sáng ngày mười sáu, lực lượng còn lại rút về phía tả ngạn Thạch Hãn.",
+   "note": "Trở lại Thạch Hãn"
+  },
+  {
+   "id": "F7",
+   "size": "medium",
+   "key": 17,
+   "len": 113,
+   "first": 16376,
+   "line": "Đường sông từng đưa người và hàng vào thành giờ là đường rút.",
+   "note": "Trở lại Thạch Hãn"
+  },
+  {
+   "id": "F8",
+   "size": "map",
+   "key": 17,
+   "len": 122,
+   "first": 16489,
+   "line": "Những người vượt sông lần này để lại các chốt họ đã bám suốt mùa hè.",
+   "note": "Trở lại Thạch Hãn"
+  },
+  {
+   "id": "F9",
+   "size": "title",
+   "key": 17,
+   "len": 129,
+   "first": 16611,
+   "line": "Ngày mười sáu tháng chín, Thủy quân Lục chiến Việt Nam Cộng hòa kiểm soát Thành cổ.",
+   "note": "Mười sáu tháng chín"
+  },
+  {
+   "id": "F10",
+   "size": "title",
+   "key": 17,
+   "len": 62,
+   "first": 16740,
+   "line": "Tám mươi mốt ngày đêm khép lại.",
+   "note": "Mười sáu tháng chín"
+  },
+  {
+   "id": "F11",
+   "size": "map",
+   "key": 17,
+   "len": 63,
+   "first": 16802,
+   "line": "Cuộc chiến quanh Quảng Trị vẫn chưa dừng.",
+   "note": "Mười sáu tháng chín"
+  },
+  {
+   "id": "F12",
+   "size": "wide",
+   "key": 17,
+   "len": 41,
+   "first": 16865,
+   "line": "Với gia đình những người lính,",
+   "note": "Mười sáu tháng chín"
+  },
+  {
+   "id": "F13",
+   "size": "medium",
+   "key": 17,
+   "len": 90,
+   "first": 16906,
+   "line": "còn có một quãng chờ tin dài hơn cả trận đánh.",
+   "note": "Mười sáu tháng chín"
+  },
+  {
+   "id": "F14",
+   "size": "wide",
+   "key": 17,
+   "len": 85,
+   "first": 16996,
+   "line": "Lê Văn Huỳnh hy sinh đầu tháng giêng năm sau.",
+   "note": "Lá thư về tới nhà"
+  },
+  {
+   "id": "F15",
+   "size": "medium",
+   "key": 17,
+   "len": 67,
+   "first": 17081,
+   "line": "Lá thư được đồng đội chuyển về cho gia đình.",
+   "note": "Lá thư về tới nhà"
+  },
+  {
+   "id": "F16",
+   "size": "close",
+   "key": 17,
+   "len": 64,
+   "first": 17148,
+   "line": "Những trang giấy từng được viết trong những ngày cuối",
+   "note": "Lá thư về tới nhà"
+  },
+  {
+   "id": "F17",
+   "size": "wide",
+   "key": 17,
+   "len": 83,
+   "first": 17212,
+   "line": "của trận Thành cổ nay được lưu tại bảo tàng.",
+   "note": "Lá thư về tới nhà"
+  },
+  {
+   "id": "F18",
+   "size": "wide",
+   "key": 17,
+   "len": 73,
+   "first": 17295,
+   "line": "Người đi qua có thể đọc được lời anh để lại.",
+   "note": "Lá thư về tới nhà"
+  },
+  {
+   "id": "F19",
+   "size": "archive",
+   "key": 17,
+   "len": 65,
+   "first": 17368,
+   "line": "Tòa thành hôm nay có cổng được phục dựng.",
+   "note": "Cổng thành hôm nay"
+  },
+  {
+   "id": "F20",
+   "size": "medium",
+   "key": 17,
+   "len": 33,
+   "first": 17433,
+   "line": "Còn những đoạn tường,",
+   "note": "Cổng thành hôm nay"
+  },
+  {
+   "id": "F21",
+   "size": "close",
+   "key": 17,
+   "len": 212,
+   "first": 17466,
+   "line": "hầm chỉ huy và dấu tích trường Bồ Đề giúp người đến sau tìm lại từng địa điểm mà các nhân chứng từng nhắc đến.",
+   "note": "Cổng thành hôm nay"
+  },
+  {
+   "id": "F22",
+   "size": "archive",
+   "key": 17,
+   "len": 71,
+   "first": 17678,
+   "line": "Trên Thạch Hãn, người ta thả hoa tưởng niệm.",
+   "note": "Sông Thạch Hãn"
+  },
+  {
+   "id": "F23",
+   "size": "medium",
+   "key": 17,
+   "len": 66,
+   "first": 17749,
+   "line": "Hãy nhớ những người đã đưa đồng đội sang bờ,",
+   "note": "Sông Thạch Hãn"
+  },
+  {
+   "id": "F24",
+   "size": "close",
+   "key": 17,
+   "len": 146,
+   "first": 17815,
+   "line": "gạn nước mưa trong thùng lương khô, giữ tín hiệu qua đêm và đào dưới cổng Tây.",
+   "note": "Sông Thạch Hãn"
+  },
+  {
+   "id": "F25",
+   "size": "close",
+   "key": 17,
+   "len": 219,
+   "first": 17961,
+   "line": "Tám mươi mốt ngày đêm được làm nên từ từng việc cụ thể ấy.",
+   "note": "Sông Thạch Hãn"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "amp": 9,
+   "len": 9,
+   "f": 123
+  },
+  {
+   "kind": "shake",
+   "amp": 9,
+   "len": 9,
+   "f": 7673
+  },
+  {
+   "kind": "shake",
+   "amp": 9,
+   "len": 9,
+   "f": 12046
+  },
+  {
+   "kind": "shake",
+   "amp": 9,
+   "len": 9,
+   "f": 15641
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.173,
+  "musicVol": 0.149,
+  "voice": "thanh-co-quang-tri-lua/voice.wav",
+  "sfx": "thanh-co-quang-tri-lua/sfx.wav",
+  "music": "thanh-co-quang-tri-lua/music.wav"
+ }
+}

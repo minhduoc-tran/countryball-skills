@@ -1,0 +1,2566 @@
+{
+ "slug": "neu-chien-tranh",
+ "title": "SẼ RA SAO NẾU CHIẾN TRANH ẬP ĐẾN?",
+ "fps": 30,
+ "total": 8630,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 43,
+   "t0": 0,
+   "t1": 43,
+   "line": "Chủ nhật. Bạn đang uống",
+   "look": "peace"
+  },
+  {
+   "shot": "A2",
+   "a": 43,
+   "b": 90,
+   "t0": 0,
+   "t1": 47,
+   "line": "cà phê sữa đá với Mo.",
+   "look": "peace"
+  },
+  {
+   "shot": "A3",
+   "a": 90,
+   "b": 140,
+   "t0": 0,
+   "t1": 50,
+   "line": "Em gái bạn ngồi làm bài tập.",
+   "look": "peace"
+  },
+  {
+   "shot": "A4",
+   "a": 140,
+   "b": 195,
+   "t0": 0,
+   "t1": 55,
+   "line": "Mẹ bạn bán xôi ở đầu ngõ.",
+   "look": "peace"
+  },
+  {
+   "shot": "A5",
+   "a": 195,
+   "b": 268,
+   "t0": 0,
+   "t1": 73,
+   "line": "Một ngày bình thường, như hàng nghìn ngày khác.",
+   "look": "peace"
+  },
+  {
+   "shot": "A6",
+   "a": 268,
+   "b": 317,
+   "t0": 0,
+   "t1": 49,
+   "line": "Rồi điện thoại của cả quán cùng",
+   "look": "peace"
+  },
+  {
+   "shot": "A7",
+   "a": 317,
+   "b": 368,
+   "t0": 0,
+   "t1": 51,
+   "line": "rung lên một lúc.",
+   "look": "alert"
+  },
+  {
+   "shot": "A8",
+   "a": 368,
+   "b": 443,
+   "t0": 0,
+   "t1": 75,
+   "line": "Sẽ ra sao nếu chiến tranh ập đến,"
+  },
+  {
+   "shot": "A9",
+   "a": 443,
+   "b": 495,
+   "t0": 0,
+   "t1": 52,
+   "line": "ngay giữa cuộc sống hiện đại này?"
+  },
+  {
+   "shot": "A10",
+   "a": 495,
+   "b": 541,
+   "t0": 0,
+   "t1": 46,
+   "line": "Không phải trong sách sử."
+  },
+  {
+   "shot": "A11",
+   "a": 541,
+   "b": 619,
+   "t0": 0,
+   "t1": 78,
+   "line": "Mà là hôm nay, với điện thoại, mạng xã hội,"
+  },
+  {
+   "shot": "A12",
+   "a": 619,
+   "b": 694,
+   "t0": 0,
+   "t1": 75,
+   "line": "và ví điện tử trong túi bạn."
+  },
+  {
+   "shot": "A13",
+   "a": 694,
+   "b": 763,
+   "t0": 0,
+   "t1": 69,
+   "line": "Giờ đầu tiên. Tin nhắn cảnh báo.",
+   "look": "alert"
+  },
+  {
+   "shot": "A14",
+   "a": 763,
+   "b": 841,
+   "t0": 0,
+   "t1": 78,
+   "line": "Còi hú. Cả thành phố gọi điện cho người thân cùng",
+   "look": "h1"
+  },
+  {
+   "shot": "A15",
+   "a": 841,
+   "b": 910,
+   "t0": 0,
+   "t1": 69,
+   "line": "một lúc, và mạng điện thoại nghẽn cứng.",
+   "look": "h1"
+  },
+  {
+   "shot": "A16",
+   "a": 910,
+   "b": 987,
+   "t0": 0,
+   "t1": 77,
+   "line": "Bạn gọi cho mẹ năm lần. Không được.",
+   "look": "h1"
+  },
+  {
+   "shot": "A17",
+   "a": 987,
+   "b": 1041,
+   "t0": 0,
+   "t1": 54,
+   "line": "Mạng xã hội tràn ngập tin đồn.",
+   "look": "h1"
+  },
+  {
+   "shot": "A18",
+   "a": 1041,
+   "b": 1099,
+   "t0": 0,
+   "t1": 58,
+   "line": "Tin nào là thật? Không ai biết.",
+   "look": "h1"
+  },
+  {
+   "shot": "A19",
+   "a": 1099,
+   "b": 1182,
+   "t0": 0,
+   "t1": 83,
+   "line": "Mo kéo tay bạn chạy. Hai đứa chạy ngược dòng người,",
+   "look": "h1"
+  },
+  {
+   "shot": "A20",
+   "a": 1182,
+   "b": 1280,
+   "t0": 0,
+   "t1": 98,
+   "line": "về phía đầu ngõ. Mẹ đang dọn hàng, tay run run.",
+   "look": "h1"
+  },
+  {
+   "shot": "A21",
+   "a": 1280,
+   "b": 1330,
+   "t0": 0,
+   "t1": 50,
+   "line": "Em gái ôm chặt cặp sách.",
+   "look": "h1"
+  },
+  {
+   "shot": "A22",
+   "a": 1330,
+   "b": 1418,
+   "t0": 0,
+   "t1": 88,
+   "line": "Cả nhà ôm nhau giữa con ngõ, không ai nói được câu nào.",
+   "look": "h1"
+  },
+  {
+   "shot": "A23",
+   "a": 1418,
+   "b": 1505,
+   "t0": 0,
+   "t1": 87,
+   "line": "Còi lại hú. Người ta chạy xuống tầng hầm gửi xe,",
+   "look": "h1"
+  },
+  {
+   "shot": "A24",
+   "a": 1505,
+   "b": 1554,
+   "t0": 0,
+   "t1": 49,
+   "line": "xuống những nhà ga dưới lòng đất.",
+   "look": "h1"
+  },
+  {
+   "shot": "A25",
+   "a": 1554,
+   "b": 1642,
+   "t0": 0,
+   "t1": 88,
+   "line": "Năm hai nghìn không trăm hai mươi hai, ở Ukraine,",
+   "look": "h1"
+  },
+  {
+   "shot": "A26",
+   "a": 1642,
+   "b": 1716,
+   "t0": 0,
+   "t1": 74,
+   "line": "hàng nghìn người đã ngủ trong các ga tàu điện ngầm,",
+   "look": "h1"
+  },
+  {
+   "shot": "A27",
+   "a": 1716,
+   "b": 1786,
+   "t0": 0,
+   "t1": 70,
+   "line": "biến chúng thành những hầm trú ẩn khổng lồ.",
+   "look": "h1"
+  },
+  {
+   "shot": "A28",
+   "a": 1786,
+   "b": 1832,
+   "t0": 0,
+   "t1": 46,
+   "line": "Đó là thật.",
+   "look": "h1"
+  },
+  {
+   "shot": "B1",
+   "a": 1832,
+   "b": 1934,
+   "t0": 0,
+   "t1": 102,
+   "line": "Ngày đầu tiên. Ai cũng làm cùng một việc: mua tích trữ.",
+   "look": "d1"
+  },
+  {
+   "shot": "B2",
+   "a": 1934,
+   "b": 1982,
+   "t0": 0,
+   "t1": 48,
+   "line": "Kệ mì gói trống trơn chỉ sau",
+   "look": "d1"
+  },
+  {
+   "shot": "B3",
+   "a": 1982,
+   "b": 2010,
+   "t0": 0,
+   "t1": 28,
+   "line": "hai giờ.",
+   "look": "d1"
+  },
+  {
+   "shot": "B4",
+   "a": 2010,
+   "b": 2083,
+   "t0": 0,
+   "t1": 73,
+   "line": "Cây xăng xếp hàng dài tới tận ngã tư.",
+   "look": "d1"
+  },
+  {
+   "shot": "B5",
+   "a": 2083,
+   "b": 2129,
+   "t0": 0,
+   "t1": 46,
+   "line": "Máy rút tiền hết tiền.",
+   "look": "d1"
+  },
+  {
+   "shot": "B6",
+   "a": 2129,
+   "b": 2196,
+   "t0": 0,
+   "t1": 67,
+   "line": "Ví điện tử báo lỗi, vì mất mạng.",
+   "look": "d1"
+  },
+  {
+   "shot": "B7",
+   "a": 2196,
+   "b": 2250,
+   "t0": 0,
+   "t1": 54,
+   "line": "Bạn chợt nhận ra, cả cuộc sống của mình",
+   "look": "d1"
+  },
+  {
+   "shot": "B8",
+   "a": 2250,
+   "b": 2308,
+   "t0": 0,
+   "t1": 58,
+   "line": "nằm trong một chiếc điện thoại.",
+   "look": "d1"
+  },
+  {
+   "shot": "B9",
+   "a": 2308,
+   "b": 2383,
+   "t0": 0,
+   "t1": 75,
+   "line": "Và chiếc điện thoại thì cần điện, cần mạng.",
+   "look": "d1"
+  },
+  {
+   "shot": "B10",
+   "a": 2383,
+   "b": 2434,
+   "t0": 0,
+   "t1": 51,
+   "line": "Năm hai nghìn không trăm hai mươi ba,",
+   "look": "d1"
+  },
+  {
+   "shot": "B11",
+   "a": 2434,
+   "b": 2490,
+   "t0": 0,
+   "t1": 56,
+   "line": "internet đã bị cắt ít nhất",
+   "look": "d1"
+  },
+  {
+   "shot": "B12",
+   "a": 2490,
+   "b": 2531,
+   "t0": 0,
+   "t1": 41,
+   "line": "hai trăm tám mươi ba lần,",
+   "look": "d1"
+  },
+  {
+   "shot": "B13",
+   "a": 2531,
+   "b": 2636,
+   "t0": 0,
+   "t1": 105,
+   "line": "ở ba mươi chín quốc gia, rất nhiều lần là giữa xung đột.",
+   "look": "d1"
+  },
+  {
+   "shot": "B14",
+   "a": 2636,
+   "b": 2678,
+   "t0": 0,
+   "t1": 42,
+   "line": "Đó là thật.",
+   "look": "d1"
+  },
+  {
+   "shot": "B15",
+   "a": 2678,
+   "b": 2739,
+   "t0": 0,
+   "t1": 61,
+   "line": "Tuần đầu tiên. Trường học đóng cửa.",
+   "look": "w1"
+  },
+  {
+   "shot": "B16",
+   "a": 2739,
+   "b": 2786,
+   "t0": 0,
+   "t1": 47,
+   "line": "Bàn của em gái bạn để trống.",
+   "look": "w1"
+  },
+  {
+   "shot": "B17",
+   "a": 2786,
+   "b": 2859,
+   "t0": 0,
+   "t1": 73,
+   "line": "Nhà máy nơi bố của Mo làm việc ngừng chạy.",
+   "look": "w1"
+  },
+  {
+   "shot": "B18",
+   "a": 2859,
+   "b": 2907,
+   "t0": 0,
+   "t1": 48,
+   "line": "Giá cả tăng lên mỗi ngày.",
+   "look": "w1"
+  },
+  {
+   "shot": "B19",
+   "a": 2907,
+   "b": 2958,
+   "t0": 0,
+   "t1": 51,
+   "line": "Năm hai nghìn không trăm hai mươi hai,",
+   "look": "w1"
+  },
+  {
+   "shot": "B20",
+   "a": 2958,
+   "b": 3050,
+   "t0": 0,
+   "t1": 92,
+   "line": "khi chiến tranh nổ ra ở Ukraine, giá dầu thế giới có",
+   "look": "w1"
+  },
+  {
+   "shot": "B21",
+   "a": 3050,
+   "b": 3125,
+   "t0": 0,
+   "t1": 75,
+   "line": "lúc vọt lên gần một trăm bốn mươi đô một thùng.",
+   "look": "w1"
+  },
+  {
+   "shot": "B22",
+   "a": 3125,
+   "b": 3196,
+   "t0": 0,
+   "t1": 71,
+   "line": "Ở Việt Nam, cách đó hàng nghìn cây số,",
+   "look": "w1"
+  },
+  {
+   "shot": "B23",
+   "a": 3196,
+   "b": 3298,
+   "t0": 0,
+   "t1": 102,
+   "line": "giá xăng lên gần ba mươi ba nghìn đồng một lít. Đó là thật.",
+   "look": "w1"
+  },
+  {
+   "shot": "B24",
+   "a": 3298,
+   "b": 3386,
+   "t0": 0,
+   "t1": 88,
+   "line": "Còn ở nơi có chiến tranh, mọi thứ đắt hơn nhiều.",
+   "look": "w1"
+  },
+  {
+   "shot": "B25",
+   "a": 3386,
+   "b": 3462,
+   "t0": 0,
+   "t1": 76,
+   "line": "Bạn học cách sống thiếu. Nến thay cho đèn.",
+   "look": "blackout"
+  },
+  {
+   "shot": "B26",
+   "a": 3462,
+   "b": 3522,
+   "t0": 0,
+   "t1": 60,
+   "line": "Nước đóng chai thay cho nước máy.",
+   "look": "blackout"
+  },
+  {
+   "shot": "B27",
+   "a": 3522,
+   "b": 3575,
+   "t0": 0,
+   "t1": 53,
+   "line": "Một bữa cơm chia làm hai.",
+   "look": "blackout"
+  },
+  {
+   "shot": "C1",
+   "a": 3575,
+   "b": 3661,
+   "t0": 0,
+   "t1": 86,
+   "line": "Nhưng cũng trong tuần đó, bạn thấy một điều khác.",
+   "look": "w1"
+  },
+  {
+   "shot": "C2",
+   "a": 3661,
+   "b": 3729,
+   "t0": 0,
+   "t1": 68,
+   "line": "Bà cụ tầng dưới nấu một nồi cháo thật to,",
+   "look": "w1"
+  },
+  {
+   "shot": "C3",
+   "a": 3729,
+   "b": 3770,
+   "t0": 0,
+   "t1": 41,
+   "line": "chia cho cả dãy nhà.",
+   "look": "w1"
+  },
+  {
+   "shot": "C4",
+   "a": 3770,
+   "b": 3835,
+   "t0": 0,
+   "t1": 65,
+   "line": "Chú sửa xe dựng một trạm sạc điện thoại",
+   "look": "w1"
+  },
+  {
+   "shot": "C5",
+   "a": 3835,
+   "b": 3879,
+   "t0": 0,
+   "t1": 44,
+   "line": "bằng bình ắc quy.",
+   "look": "w1"
+  },
+  {
+   "shot": "C6",
+   "a": 3879,
+   "b": 3940,
+   "t0": 0,
+   "t1": 61,
+   "line": "Người ta xếp hàng, và nhường nhau.",
+   "look": "w1"
+  },
+  {
+   "shot": "C7",
+   "a": 3940,
+   "b": 3998,
+   "t0": 0,
+   "t1": 58,
+   "line": "Trong lúc tồi tệ nhất, con người lại",
+   "look": "w1"
+  },
+  {
+   "shot": "C8",
+   "a": 3998,
+   "b": 4054,
+   "t0": 0,
+   "t1": 56,
+   "line": "tử tế với nhau hơn.",
+   "look": "w1"
+  },
+  {
+   "shot": "C9",
+   "a": 4054,
+   "b": 4137,
+   "t0": 0,
+   "t1": 83,
+   "line": "Tháng đầu tiên. Nhà máy điện trở thành mục tiêu.",
+   "look": "m1"
+  },
+  {
+   "shot": "C10",
+   "a": 4137,
+   "b": 4203,
+   "t0": 0,
+   "t1": 66,
+   "line": "Mùa đông năm hai nghìn không trăm hai mươi hai,",
+   "look": "m1"
+  },
+  {
+   "shot": "C11",
+   "a": 4203,
+   "b": 4257,
+   "t0": 0,
+   "t1": 54,
+   "line": "chính phủ Ukraine cho biết gần",
+   "look": "m1"
+  },
+  {
+   "shot": "C12",
+   "a": 4257,
+   "b": 4321,
+   "t0": 0,
+   "t1": 64,
+   "line": "một nửa hệ thống năng lượng của nước này",
+   "look": "m1"
+  },
+  {
+   "shot": "C13",
+   "a": 4321,
+   "b": 4378,
+   "t0": 0,
+   "t1": 57,
+   "line": "đã bị hư hại. Đó là thật.",
+   "look": "m1"
+  },
+  {
+   "shot": "C14",
+   "a": 4378,
+   "b": 4424,
+   "t0": 0,
+   "t1": 46,
+   "line": "Mất điện là mất tất cả.",
+   "look": "blackout"
+  },
+  {
+   "shot": "C15",
+   "a": 4424,
+   "b": 4471,
+   "t0": 0,
+   "t1": 47,
+   "line": "Tủ lạnh. Máy bơm nước.",
+   "look": "m1"
+  },
+  {
+   "shot": "C16",
+   "a": 4471,
+   "b": 4545,
+   "t0": 0,
+   "t1": 74,
+   "line": "Sóng điện thoại. Thang máy của bệnh viện.",
+   "look": "m1"
+  },
+  {
+   "shot": "C17",
+   "a": 4545,
+   "b": 4594,
+   "t0": 0,
+   "t1": 49,
+   "line": "Nhà bạn quyết định sơ tán.",
+   "look": "m1"
+  },
+  {
+   "shot": "C18",
+   "a": 4594,
+   "b": 4656,
+   "t0": 0,
+   "t1": 62,
+   "line": "Mỗi người chỉ được mang một chiếc ba lô.",
+   "look": "m1"
+  },
+  {
+   "shot": "C19",
+   "a": 4656,
+   "b": 4694,
+   "t0": 0,
+   "t1": 38,
+   "line": "Bạn phải chọn.",
+   "look": "m1"
+  },
+  {
+   "shot": "C20",
+   "a": 4694,
+   "b": 4795,
+   "t0": 0,
+   "t1": 101,
+   "line": "Sạc dự phòng. Giấy tờ. Một tấm ảnh gia đình.",
+   "look": "m1"
+  },
+  {
+   "shot": "C21",
+   "a": 4795,
+   "b": 4846,
+   "t0": 0,
+   "t1": 51,
+   "line": "Và con mèo của em gái.",
+   "look": "m1"
+  },
+  {
+   "shot": "C22",
+   "a": 4846,
+   "b": 4907,
+   "t0": 0,
+   "t1": 61,
+   "line": "Chỉ riêng cuộc chiến ở Ukraine,",
+   "look": "m1"
+  },
+  {
+   "shot": "C23",
+   "a": 4907,
+   "b": 5006,
+   "t0": 0,
+   "t1": 99,
+   "line": "hơn sáu triệu người đã phải rời bỏ đất nước. Đó là thật.",
+   "look": "m1"
+  },
+  {
+   "shot": "C24",
+   "a": 5006,
+   "b": 5046,
+   "t0": 0,
+   "t1": 40,
+   "line": "Mo ở lại với bố.",
+   "look": "m1"
+  },
+  {
+   "shot": "C25",
+   "a": 5046,
+   "b": 5122,
+   "t0": 0,
+   "t1": 76,
+   "line": "Ở bến xe, hai đứa ôm nhau thật lâu.",
+   "look": "m1"
+  },
+  {
+   "shot": "C26",
+   "a": 5122,
+   "b": 5171,
+   "t0": 0,
+   "t1": 49,
+   "line": "Không ai biết bao giờ mới gặp lại.",
+   "look": "m1"
+  },
+  {
+   "shot": "C27",
+   "a": 5171,
+   "b": 5252,
+   "t0": 0,
+   "t1": 81,
+   "line": "Chuyến xe đi mất hai ngày, thay vì sáu tiếng.",
+   "look": "m1"
+  },
+  {
+   "shot": "C28",
+   "a": 5252,
+   "b": 5314,
+   "t0": 0,
+   "t1": 62,
+   "line": "Những con đường đầy xe, đầy người,",
+   "look": "m1"
+  },
+  {
+   "shot": "C29",
+   "a": 5314,
+   "b": 5378,
+   "t0": 0,
+   "t1": 64,
+   "line": "đầy những chiếc ba lô giống hệt của bạn.",
+   "look": "m1"
+  },
+  {
+   "shot": "C30",
+   "a": 5378,
+   "b": 5428,
+   "t0": 0,
+   "t1": 50,
+   "line": "Em gái bạn ngủ gục trên vai bạn,",
+   "look": "m1"
+  },
+  {
+   "shot": "C31",
+   "a": 5428,
+   "b": 5489,
+   "t0": 0,
+   "t1": 61,
+   "line": "tay vẫn ôm con mèo.",
+   "look": "m1"
+  },
+  {
+   "shot": "D1",
+   "a": 5489,
+   "b": 5534,
+   "t0": 0,
+   "t1": 45,
+   "line": "Năm đầu tiên. Nền kinh tế",
+   "look": "y1"
+  },
+  {
+   "shot": "D2",
+   "a": 5534,
+   "b": 5596,
+   "t0": 0,
+   "t1": 62,
+   "line": "co lại như một quả bóng xì hơi.",
+   "look": "y1"
+  },
+  {
+   "shot": "D3",
+   "a": 5596,
+   "b": 5654,
+   "t0": 0,
+   "t1": 58,
+   "line": "Năm hai nghìn không trăm hai mươi hai,",
+   "look": "y1"
+  },
+  {
+   "shot": "D4",
+   "a": 5654,
+   "b": 5704,
+   "t0": 0,
+   "t1": 50,
+   "line": "kinh tế Ukraine giảm gần",
+   "look": "y1"
+  },
+  {
+   "shot": "D5",
+   "a": 5704,
+   "b": 5761,
+   "t0": 0,
+   "t1": 57,
+   "line": "một phần ba. Đó là thật.",
+   "look": "y1"
+  },
+  {
+   "shot": "D6",
+   "a": 5761,
+   "b": 5804,
+   "t0": 0,
+   "t1": 43,
+   "line": "Tiền tiết kiệm của mẹ mua",
+   "look": "y1"
+  },
+  {
+   "shot": "D7",
+   "a": 5804,
+   "b": 5851,
+   "t0": 0,
+   "t1": 47,
+   "line": "được ít hơn sau mỗi tháng.",
+   "look": "y1"
+  },
+  {
+   "shot": "D8",
+   "a": 5851,
+   "b": 5912,
+   "t0": 0,
+   "t1": 61,
+   "line": "Nhà bạn ở nhờ một gia đình xa lạ,",
+   "look": "y1"
+  },
+  {
+   "shot": "D9",
+   "a": 5912,
+   "b": 5952,
+   "t0": 0,
+   "t1": 40,
+   "line": "ở một thành phố khác.",
+   "look": "y1"
+  },
+  {
+   "shot": "D10",
+   "a": 5952,
+   "b": 6007,
+   "t0": 0,
+   "t1": 55,
+   "line": "Bạn học cách làm lại từ đầu.",
+   "look": "y1"
+  },
+  {
+   "shot": "D11",
+   "a": 6007,
+   "b": 6085,
+   "t0": 0,
+   "t1": 78,
+   "line": "Một ngôi trường mới. Những người bạn mới.",
+   "look": "y1"
+  },
+  {
+   "shot": "D12",
+   "a": 6085,
+   "b": 6123,
+   "t0": 0,
+   "t1": 38,
+   "line": "Một giọng nói khác.",
+   "look": "y1"
+  },
+  {
+   "shot": "D13",
+   "a": 6123,
+   "b": 6178,
+   "t0": 0,
+   "t1": 55,
+   "line": "Mỗi tối, bạn mở điện thoại,",
+   "look": "y1"
+  },
+  {
+   "shot": "D14",
+   "a": 6178,
+   "b": 6224,
+   "t0": 0,
+   "t1": 46,
+   "line": "chờ một tin nhắn của Mo.",
+   "look": "y1"
+  },
+  {
+   "shot": "D15",
+   "a": 6224,
+   "b": 6276,
+   "t0": 0,
+   "t1": 52,
+   "line": "Và thứ thiếu nhất là thức ăn.",
+   "look": "y1"
+  },
+  {
+   "shot": "D16",
+   "a": 6276,
+   "b": 6379,
+   "t0": 0,
+   "t1": 103,
+   "line": "Năm hai nghìn không trăm hai mươi ba, gần hai trăm tám mươi hai triệu người",
+   "look": "y1"
+  },
+  {
+   "shot": "D17",
+   "a": 6379,
+   "b": 6432,
+   "t0": 0,
+   "t1": 53,
+   "line": "trên thế giới bị đói cấp tính,",
+   "look": "y1"
+  },
+  {
+   "shot": "D18",
+   "a": 6432,
+   "b": 6515,
+   "t0": 0,
+   "t1": 83,
+   "line": "và xung đột là nguyên nhân hàng đầu. Đó là thật.",
+   "look": "y1"
+  },
+  {
+   "shot": "D19",
+   "a": 6515,
+   "b": 6579,
+   "t0": 0,
+   "t1": 64,
+   "line": "Người chịu thiệt nhiều nhất là trẻ em.",
+   "look": "y1"
+  },
+  {
+   "shot": "D20",
+   "a": 6579,
+   "b": 6655,
+   "t0": 0,
+   "t1": 76,
+   "line": "Theo UNICEF, cứ sáu trẻ em trên thế giới,",
+   "look": "y1"
+  },
+  {
+   "shot": "D21",
+   "a": 6655,
+   "b": 6731,
+   "t0": 0,
+   "t1": 76,
+   "line": "có hơn một em đang sống ở vùng có xung đột.",
+   "look": "y1"
+  },
+  {
+   "shot": "D22",
+   "a": 6731,
+   "b": 6800,
+   "t0": 0,
+   "t1": 69,
+   "line": "Em gái bạn đã một năm không được đến trường.",
+   "look": "y1"
+  },
+  {
+   "shot": "D23",
+   "a": 6800,
+   "b": 6838,
+   "t0": 0,
+   "t1": 38,
+   "line": "Em vẫn mở vở ra,",
+   "look": "y1"
+  },
+  {
+   "shot": "D24",
+   "a": 6838,
+   "b": 6919,
+   "t0": 0,
+   "t1": 81,
+   "line": "tự viết chữ, để khỏi quên.",
+   "look": "y1"
+  },
+  {
+   "shot": "E1",
+   "a": 6919,
+   "b": 6981,
+   "t0": 0,
+   "t1": 62,
+   "line": "Rồi một ngày, tiếng súng dừng lại."
+  },
+  {
+   "shot": "E2",
+   "a": 6981,
+   "b": 7036,
+   "t0": 0,
+   "t1": 55,
+   "line": "Nhưng chiến tranh thì chưa kết thúc."
+  },
+  {
+   "shot": "E3",
+   "a": 7036,
+   "b": 7086,
+   "t0": 0,
+   "t1": 50,
+   "line": "Việt Nam mình hiểu rõ điều đó.",
+   "look": "memory"
+  },
+  {
+   "shot": "E4",
+   "a": 7086,
+   "b": 7135,
+   "t0": 0,
+   "t1": 49,
+   "line": "Hơn năm mươi năm sau chiến tranh,",
+   "look": "memory"
+  },
+  {
+   "shot": "E5",
+   "a": 7135,
+   "b": 7188,
+   "t0": 0,
+   "t1": 53,
+   "line": "gần một phần năm diện tích đất",
+   "look": "memory"
+  },
+  {
+   "shot": "E6",
+   "a": 7188,
+   "b": 7267,
+   "t0": 0,
+   "t1": 79,
+   "line": "nước vẫn còn bom mìn chưa nổ nằm dưới lòng đất.",
+   "look": "memory"
+  },
+  {
+   "shot": "E7",
+   "a": 7267,
+   "b": 7318,
+   "t0": 0,
+   "t1": 51,
+   "line": "Đó là thật. Đến hôm nay,",
+   "look": "memory"
+  },
+  {
+   "shot": "E8",
+   "a": 7318,
+   "b": 7365,
+   "t0": 0,
+   "t1": 47,
+   "line": "những người rà phá bom mìn vẫn"
+  },
+  {
+   "shot": "E9",
+   "a": 7365,
+   "b": 7409,
+   "t0": 0,
+   "t1": 44,
+   "line": "lặng lẽ làm sạch từng"
+  },
+  {
+   "shot": "E10",
+   "a": 7409,
+   "b": 7450,
+   "t0": 0,
+   "t1": 41,
+   "line": "mét đất."
+  },
+  {
+   "shot": "E11",
+   "a": 7450,
+   "b": 7512,
+   "t0": 0,
+   "t1": 62,
+   "line": "Bạn trở về. Con hẻm cũ.",
+   "look": "peace"
+  },
+  {
+   "shot": "E12",
+   "a": 7512,
+   "b": 7570,
+   "t0": 0,
+   "t1": 58,
+   "line": "Quán cà phê cũ đã đóng cửa.",
+   "look": "peace"
+  },
+  {
+   "shot": "E13",
+   "a": 7570,
+   "b": 7604,
+   "t0": 0,
+   "t1": 34,
+   "line": "Nhưng một buổi sáng,",
+   "look": "peace"
+  },
+  {
+   "shot": "E14",
+   "a": 7604,
+   "b": 7672,
+   "t0": 0,
+   "t1": 68,
+   "line": "mùi xôi lại bay ra từ đầu ngõ.",
+   "look": "peace"
+  },
+  {
+   "shot": "E15",
+   "a": 7672,
+   "b": 7707,
+   "t0": 0,
+   "t1": 35,
+   "line": "Mẹ lại bày hàng.",
+   "look": "peace"
+  },
+  {
+   "shot": "E16",
+   "a": 7707,
+   "b": 7792,
+   "t0": 0,
+   "t1": 85,
+   "line": "Điện thoại rung. Một tin nhắn: Tao về rồi.",
+   "look": "peace"
+  },
+  {
+   "shot": "E17",
+   "a": 7792,
+   "b": 7849,
+   "t0": 0,
+   "t1": 57,
+   "line": "Mo đạp xe tới, gầy hơn,",
+   "look": "peace"
+  },
+  {
+   "shot": "E18",
+   "a": 7849,
+   "b": 7880,
+   "t0": 0,
+   "t1": 31,
+   "line": "nhưng vẫn cười.",
+   "look": "peace"
+  },
+  {
+   "shot": "E19",
+   "a": 7880,
+   "b": 7943,
+   "t0": 0,
+   "t1": 63,
+   "line": "Hai đứa lại ngồi uống cà phê sữa đá.",
+   "look": "peace"
+  },
+  {
+   "shot": "E20",
+   "a": 7943,
+   "b": 8004,
+   "t0": 0,
+   "t1": 61,
+   "line": "Một ngày bình thường.",
+   "look": "peace"
+  },
+  {
+   "shot": "E21",
+   "a": 8004,
+   "b": 8059,
+   "t0": 0,
+   "t1": 55,
+   "line": "Hòa bình giống như không khí.",
+   "look": "peace"
+  },
+  {
+   "shot": "E22",
+   "a": 8059,
+   "b": 8116,
+   "t0": 0,
+   "t1": 57,
+   "line": "Khi có, ta chẳng để ý.",
+   "look": "peace"
+  },
+  {
+   "shot": "E23",
+   "a": 8116,
+   "b": 8199,
+   "t0": 0,
+   "t1": 83,
+   "line": "Khi mất, ta mới biết mình cần nó đến mức nào.",
+   "look": "memory"
+  },
+  {
+   "shot": "E24",
+   "a": 8199,
+   "b": 8243,
+   "t0": 0,
+   "t1": 44,
+   "line": "Một bữa sáng bình thường.",
+   "look": "peace"
+  },
+  {
+   "shot": "E25",
+   "a": 8243,
+   "b": 8281,
+   "t0": 0,
+   "t1": 38,
+   "line": "Một tiếng trống trường.",
+   "look": "peace"
+  },
+  {
+   "shot": "E26",
+   "a": 8281,
+   "b": 8326,
+   "t0": 0,
+   "t1": 45,
+   "line": "Một cánh đồng không có bom.",
+   "look": "peace"
+  },
+  {
+   "shot": "E27",
+   "a": 8326,
+   "b": 8377,
+   "t0": 0,
+   "t1": 51,
+   "line": "Tất cả đều là thứ có người",
+   "look": "peace"
+  },
+  {
+   "shot": "E28",
+   "a": 8377,
+   "b": 8409,
+   "t0": 0,
+   "t1": 32,
+   "line": "đã phải gìn giữ.",
+   "look": "peace"
+  },
+  {
+   "shot": "E29",
+   "a": 8409,
+   "b": 8511,
+   "t0": 0,
+   "t1": 102,
+   "line": "Nếu chỉ được mang theo một chiếc ba lô, bạn sẽ bỏ gì vào đó?",
+   "look": "peace"
+  },
+  {
+   "shot": "E30",
+   "a": 8511,
+   "b": 8630,
+   "t0": 0,
+   "t1": 119,
+   "line": "Viết ở phần bình luận nhé.",
+   "look": "peace"
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "key": 18,
+   "len": 43,
+   "first": 0,
+   "line": "Chủ nhật. Bạn đang uống",
+   "note": "Sunday street, Pip and Mo sipping at stools, CHỦ NHẬT"
+  },
+  {
+   "id": "A2",
+   "size": "macro",
+   "key": 22,
+   "len": 47,
+   "first": 43,
+   "line": "cà phê sữa đá với Mo.",
+   "note": "two iced milk coffees clink"
+  },
+  {
+   "id": "A3",
+   "size": "medium",
+   "key": 30,
+   "len": 50,
+   "first": 90,
+   "line": "Em gái bạn ngồi làm bài tập.",
+   "note": "sis doing homework"
+  },
+  {
+   "id": "A4",
+   "size": "medium",
+   "key": 30,
+   "len": 55,
+   "first": 140,
+   "line": "Mẹ bạn bán xôi ở đầu ngõ.",
+   "note": "mum at xôi cart, steam"
+  },
+  {
+   "id": "A5",
+   "size": "insert",
+   "key": 50,
+   "len": 73,
+   "first": 195,
+   "line": "Một ngày bình thường, như hàng nghìn ngày khác.",
+   "note": "calendar of identical Sundays ticking off"
+  },
+  {
+   "id": "A6",
+   "size": "medium",
+   "key": 20,
+   "len": 49,
+   "first": 268,
+   "line": "Rồi điện thoại của cả quán cùng",
+   "note": "cafe calm, phones dark on the tables"
+  },
+  {
+   "id": "A7",
+   "size": "medium",
+   "key": 30,
+   "len": 51,
+   "first": 317,
+   "line": "rung lên một lúc.",
+   "note": "every phone lights, heads turn"
+  },
+  {
+   "id": "A8",
+   "size": "wide",
+   "key": 60,
+   "len": 75,
+   "first": 368,
+   "line": "Sẽ ra sao nếu chiến tranh ập đến,",
+   "note": "TitleCard over alley, thin smoke far away"
+  },
+  {
+   "id": "A9",
+   "size": "medium",
+   "key": 30,
+   "len": 52,
+   "first": 443,
+   "line": "ngay giữa cuộc sống hiện đại này?",
+   "note": "Pip and Mo walk the market street with phones"
+  },
+  {
+   "id": "A10",
+   "size": "top-down",
+   "key": 44,
+   "len": 46,
+   "first": 495,
+   "line": "Không phải trong sách sử.",
+   "note": "history book slams shut"
+  },
+  {
+   "id": "A11",
+   "size": "medium",
+   "key": 60,
+   "len": 78,
+   "first": 541,
+   "line": "Mà là hôm nay, với điện thoại, mạng xã hội,",
+   "note": "phone from pocket, call + heart icons pop"
+  },
+  {
+   "id": "A12",
+   "size": "macro",
+   "key": 30,
+   "len": 75,
+   "first": 619,
+   "line": "và ví điện tử trong túi bạn.",
+   "note": "wallet icon pops, all sink into the pocket"
+  },
+  {
+   "id": "A13",
+   "size": "macro",
+   "key": 52,
+   "len": 69,
+   "first": 694,
+   "line": "Giờ đầu tiên. Tin nhắn cảnh báo.",
+   "note": "lock screen then emergency alert slams in"
+  },
+  {
+   "id": "A14",
+   "size": "wide",
+   "key": 50,
+   "len": 78,
+   "first": 763,
+   "line": "Còi hú. Cả thành phố gọi điện cho người thân cùng",
+   "note": "siren horn over rooftops, calls rising"
+  },
+  {
+   "id": "A15",
+   "size": "macro",
+   "key": 40,
+   "len": 69,
+   "first": 841,
+   "line": "một lúc, và mạng điện thoại nghẽn cứng.",
+   "note": "MẠNG BẬN"
+  },
+  {
+   "id": "A16",
+   "size": "medium",
+   "key": 60,
+   "len": 77,
+   "first": 910,
+   "line": "Bạn gọi cho mẹ năm lần. Không được.",
+   "note": "call log mum x5 red, KHÔNG ĐƯỢC"
+  },
+  {
+   "id": "A17",
+   "size": "medium",
+   "key": 40,
+   "len": 54,
+   "first": 987,
+   "line": "Mạng xã hội tràn ngập tin đồn.",
+   "note": "feed of rumours with ?"
+  },
+  {
+   "id": "A18",
+   "size": "close-up",
+   "key": 40,
+   "len": 58,
+   "first": 1041,
+   "line": "Tin nào là thật? Không ai biết.",
+   "note": "Pip lit by the screen, not knowing"
+  },
+  {
+   "id": "A19",
+   "size": "wide",
+   "key": 45,
+   "len": 83,
+   "first": 1099,
+   "line": "Mo kéo tay bạn chạy. Hai đứa chạy ngược dòng người,",
+   "note": "Pip and Mo run against the crowd"
+  },
+  {
+   "id": "A20",
+   "size": "wide",
+   "key": 80,
+   "len": 98,
+   "first": 1182,
+   "line": "về phía đầu ngõ. Mẹ đang dọn hàng, tay run run.",
+   "note": "mum packing the cart, shaking hands"
+  },
+  {
+   "id": "A21",
+   "size": "close-up",
+   "key": 30,
+   "len": 50,
+   "first": 1280,
+   "line": "Em gái ôm chặt cặp sách.",
+   "note": "sis clutching her schoolbag"
+  },
+  {
+   "id": "A22",
+   "size": "medium",
+   "key": 70,
+   "len": 88,
+   "first": 1330,
+   "line": "Cả nhà ôm nhau giữa con ngõ, không ai nói được câu nào.",
+   "note": "family hug, slow push-in"
+  },
+  {
+   "id": "A23",
+   "size": "wide",
+   "key": 40,
+   "len": 87,
+   "first": 1418,
+   "line": "Còi lại hú. Người ta chạy xuống tầng hầm gửi xe,",
+   "note": "siren, people hurry down to the basement"
+  },
+  {
+   "id": "A24",
+   "size": "wide",
+   "key": 30,
+   "len": 49,
+   "first": 1505,
+   "line": "xuống những nhà ga dưới lòng đất.",
+   "note": "crowd goes down into the metro"
+  },
+  {
+   "id": "A25",
+   "size": "card",
+   "key": 80,
+   "len": 88,
+   "first": 1554,
+   "line": "Năm hai nghìn không trăm hai mươi hai, ở Ukraine,",
+   "note": "2022 + plain UKRAINE outline"
+  },
+  {
+   "id": "A26",
+   "size": "card",
+   "key": 60,
+   "len": 74,
+   "first": 1642,
+   "line": "hàng nghìn người đã ngủ trong các ga tàu điện ngầm,",
+   "note": "HÀNG NGHÌN NGƯỜI asleep on a platform icon"
+  },
+  {
+   "id": "A27",
+   "size": "medium",
+   "key": 40,
+   "len": 70,
+   "first": 1716,
+   "line": "biến chúng thành những hầm trú ẩn khổng lồ.",
+   "note": "family on the floor underground, phone light"
+  },
+  {
+   "id": "A28",
+   "size": "card",
+   "key": 30,
+   "len": 46,
+   "first": 1786,
+   "line": "Đó là thật.",
+   "note": "ĐÓ LÀ THẬT tick + source"
+  },
+  {
+   "id": "B1",
+   "size": "wide",
+   "key": 50,
+   "len": 102,
+   "first": 1832,
+   "line": "Ngày đầu tiên. Ai cũng làm cùng một việc: mua tích trữ.",
+   "note": "rush home with stuffed bags"
+  },
+  {
+   "id": "B2",
+   "size": "wide",
+   "key": 32,
+   "len": 48,
+   "first": 1934,
+   "line": "Kệ mì gói trống trơn chỉ sau",
+   "note": "aisle emptying, shoppers rush"
+  },
+  {
+   "id": "B3",
+   "size": "insert",
+   "key": 8,
+   "len": 28,
+   "first": 1982,
+   "line": "hai giờ.",
+   "note": "noodle shelf bare, clock to 2:00"
+  },
+  {
+   "id": "B4",
+   "size": "wide",
+   "key": 36,
+   "len": 73,
+   "first": 2010,
+   "line": "Cây xăng xếp hàng dài tới tận ngã tư.",
+   "note": "petrol queue pan to crossroads"
+  },
+  {
+   "id": "B5",
+   "size": "insert",
+   "key": 24,
+   "len": 46,
+   "first": 2083,
+   "line": "Máy rút tiền hết tiền.",
+   "note": "ATM HẾT TIỀN"
+  },
+  {
+   "id": "B6",
+   "size": "insert",
+   "key": 45,
+   "len": 67,
+   "first": 2129,
+   "line": "Ví điện tử báo lỗi, vì mất mạng.",
+   "note": "e-wallet LỖI KẾT NỐI glitch, bars die"
+  },
+  {
+   "id": "B7",
+   "size": "medium",
+   "key": 40,
+   "len": 54,
+   "first": 2196,
+   "line": "Bạn chợt nhận ra, cả cuộc sống của mình",
+   "note": "Pip realises, phone glow"
+  },
+  {
+   "id": "B8",
+   "size": "insert",
+   "key": 50,
+   "len": 58,
+   "first": 2250,
+   "line": "nằm trong một chiếc điện thoại.",
+   "note": "four apps pop: money map school chat"
+  },
+  {
+   "id": "B9",
+   "size": "insert",
+   "key": 74,
+   "len": 75,
+   "first": 2308,
+   "line": "Và chiếc điện thoại thì cần điện, cần mạng.",
+   "note": "battery 7% + no signal"
+  },
+  {
+   "id": "B10",
+   "size": "card",
+   "key": 25,
+   "len": 51,
+   "first": 2383,
+   "line": "Năm hai nghìn không trăm hai mươi ba,",
+   "note": "card 2023"
+  },
+  {
+   "id": "B11",
+   "size": "card",
+   "key": 40,
+   "len": 56,
+   "first": 2434,
+   "line": "internet đã bị cắt ít nhất",
+   "note": "cable cut, wifi dies"
+  },
+  {
+   "id": "B12",
+   "size": "card",
+   "key": 30,
+   "len": 41,
+   "first": 2490,
+   "line": "hai trăm tám mươi ba lần,",
+   "note": "283 LẦN + ACCESS NOW"
+  },
+  {
+   "id": "B13",
+   "size": "card",
+   "key": 90,
+   "len": 105,
+   "first": 2531,
+   "line": "ở ba mươi chín quốc gia, rất nhiều lần là giữa xung đột.",
+   "note": "world map, cut cables, 39 QUỐC GIA"
+  },
+  {
+   "id": "B14",
+   "size": "card",
+   "key": 25,
+   "len": 42,
+   "first": 2636,
+   "line": "Đó là thật.",
+   "note": "ĐÓ LÀ THẬT stamp"
+  },
+  {
+   "id": "B15",
+   "size": "wide",
+   "key": 50,
+   "len": 61,
+   "first": 2678,
+   "line": "Tuần đầu tiên. Trường học đóng cửa.",
+   "note": "school gate padlocked, Pip + sis outside"
+  },
+  {
+   "id": "B16",
+   "size": "medium",
+   "key": 40,
+   "len": 47,
+   "first": 2739,
+   "line": "Bàn của em gái bạn để trống.",
+   "note": "sis desk empty, pencil rolls"
+  },
+  {
+   "id": "B17",
+   "size": "wide",
+   "key": 62,
+   "len": 73,
+   "first": 2786,
+   "line": "Nhà máy nơi bố của Mo làm việc ngừng chạy.",
+   "note": "factory gate closes, TẠM NGỪNG, Mo dad"
+  },
+  {
+   "id": "B18",
+   "size": "insert",
+   "key": 40,
+   "len": 48,
+   "first": 2859,
+   "line": "Giá cả tăng lên mỗi ngày.",
+   "note": "price tags flip up"
+  },
+  {
+   "id": "B19",
+   "size": "card",
+   "key": 25,
+   "len": 51,
+   "first": 2907,
+   "line": "Năm hai nghìn không trăm hai mươi hai,",
+   "note": "card 2022"
+  },
+  {
+   "id": "B20",
+   "size": "card",
+   "key": 80,
+   "len": 92,
+   "first": 2958,
+   "line": "khi chiến tranh nổ ra ở Ukraine, giá dầu thế giới có",
+   "note": "map push to Ukraine pin + barrel"
+  },
+  {
+   "id": "B21",
+   "size": "card",
+   "key": 60,
+   "len": 75,
+   "first": 3050,
+   "line": "lúc vọt lên gần một trăm bốn mươi đô một thùng.",
+   "note": "140 USD / THÙNG, barrel, spike"
+  },
+  {
+   "id": "B22",
+   "size": "card",
+   "key": 55,
+   "len": 71,
+   "first": 3125,
+   "line": "Ở Việt Nam, cách đó hàng nghìn cây số,",
+   "note": "arc Ukraine to Vietnam, HÀNG NGHÌN KM"
+  },
+  {
+   "id": "B23",
+   "size": "card",
+   "key": 90,
+   "len": 102,
+   "first": 3196,
+   "line": "giá xăng lên gần ba mươi ba nghìn đồng một lít. Đó là thật.",
+   "note": "33.000 Đ / LÍT, VN outline, ĐÓ LÀ THẬT"
+  },
+  {
+   "id": "B24",
+   "size": "card",
+   "key": 70,
+   "len": 88,
+   "first": 3298,
+   "line": "Còn ở nơi có chiến tranh, mọi thứ đắt hơn nhiều.",
+   "note": "price tags shoot off, ĐẮT HƠN NHIỀU"
+  },
+  {
+   "id": "B25",
+   "size": "medium",
+   "key": 60,
+   "len": 76,
+   "first": 3386,
+   "line": "Bạn học cách sống thiếu. Nến thay cho đèn.",
+   "note": "dark kitchen, switch, candle"
+  },
+  {
+   "id": "B26",
+   "size": "insert",
+   "key": 22,
+   "len": 60,
+   "first": 3462,
+   "line": "Nước đóng chai thay cho nước máy.",
+   "note": "bottle pour, dry tap"
+  },
+  {
+   "id": "B27",
+   "size": "top",
+   "key": 24,
+   "len": 53,
+   "first": 3522,
+   "line": "Một bữa cơm chia làm hai.",
+   "note": "one bowl split in two"
+  },
+  {
+   "id": "C1",
+   "size": "wide",
+   "key": 72,
+   "len": 86,
+   "first": 3575,
+   "line": "Nhưng cũng trong tuần đó, bạn thấy một điều khác.",
+   "note": "Pip walks down the street toward steam from the pot"
+  },
+  {
+   "id": "C2",
+   "size": "medium",
+   "key": 40,
+   "len": 68,
+   "first": 3661,
+   "line": "Bà cụ tầng dưới nấu một nồi cháo thật to,",
+   "note": "grandma stirs the huge porridge pot"
+  },
+  {
+   "id": "C3",
+   "size": "medium",
+   "key": 22,
+   "len": 41,
+   "first": 3729,
+   "line": "chia cho cả dãy nhà.",
+   "note": "she ladles bowls for the whole row"
+  },
+  {
+   "id": "C4",
+   "size": "medium",
+   "key": 50,
+   "len": 65,
+   "first": 3770,
+   "line": "Chú sửa xe dựng một trạm sạc điện thoại",
+   "note": "mechanic builds a phone-charging station from a car battery"
+  },
+  {
+   "id": "C5",
+   "size": "insert",
+   "key": 30,
+   "len": 44,
+   "first": 3835,
+   "line": "bằng bình ắc quy.",
+   "note": "battery clamps, phones lighting up in a row"
+  },
+  {
+   "id": "C6",
+   "size": "medium",
+   "key": 40,
+   "len": 61,
+   "first": 3879,
+   "line": "Người ta xếp hàng, và nhường nhau.",
+   "note": "queue, A lets B go first"
+  },
+  {
+   "id": "C7",
+   "size": "wide",
+   "key": 30,
+   "len": 58,
+   "first": 3940,
+   "line": "Trong lúc tồi tệ nhất, con người lại",
+   "note": "dark street, two warm pools: pot and station"
+  },
+  {
+   "id": "C8",
+   "size": "close-up",
+   "key": 40,
+   "len": 56,
+   "first": 3998,
+   "line": "tử tế với nhau hơn.",
+   "note": "hands passing a bowl, push-in"
+  },
+  {
+   "id": "C9",
+   "size": "wide",
+   "key": 70,
+   "len": 83,
+   "first": 4054,
+   "line": "Tháng đầu tiên. Nhà máy điện trở thành mục tiêu.",
+   "note": "distant power plant, lights go out"
+  },
+  {
+   "id": "C10",
+   "size": "card",
+   "key": 40,
+   "len": 66,
+   "first": 4137,
+   "line": "Mùa đông năm hai nghìn không trăm hai mươi hai,",
+   "note": "card: UKRAINE, MÙA ĐÔNG 2022"
+  },
+  {
+   "id": "C11",
+   "size": "card",
+   "key": 40,
+   "len": 54,
+   "first": 4203,
+   "line": "chính phủ Ukraine cho biết gần",
+   "note": "source: CHÍNH PHỦ UKRAINE"
+  },
+  {
+   "id": "C12",
+   "size": "card",
+   "key": 40,
+   "len": 64,
+   "first": 4257,
+   "line": "một nửa hệ thống năng lượng của nước này",
+   "note": "≈ 1/2, ten plants lit"
+  },
+  {
+   "id": "C13",
+   "size": "card",
+   "key": 50,
+   "len": 57,
+   "first": 4321,
+   "line": "đã bị hư hại. Đó là thật.",
+   "note": "half dark, ĐÓ LÀ THẬT tick"
+  },
+  {
+   "id": "C14",
+   "size": "wide",
+   "key": 36,
+   "len": 46,
+   "first": 4378,
+   "line": "Mất điện là mất tất cả.",
+   "note": "street blacks out"
+  },
+  {
+   "id": "C15",
+   "size": "card",
+   "key": 18,
+   "len": 47,
+   "first": 4424,
+   "line": "Tủ lạnh. Máy bơm nước.",
+   "note": "fridge, water pump go dark"
+  },
+  {
+   "id": "C16",
+   "size": "card",
+   "key": 30,
+   "len": 74,
+   "first": 4471,
+   "line": "Sóng điện thoại. Thang máy của bệnh viện.",
+   "note": "phone signal, hospital lift go dark"
+  },
+  {
+   "id": "C17",
+   "size": "medium",
+   "key": 30,
+   "len": 49,
+   "first": 4545,
+   "line": "Nhà bạn quyết định sơ tán.",
+   "note": "the family decides to evacuate"
+  },
+  {
+   "id": "C18",
+   "size": "medium",
+   "key": 44,
+   "len": 62,
+   "first": 4594,
+   "line": "Mỗi người chỉ được mang một chiếc ba lô.",
+   "note": "one backpack each"
+  },
+  {
+   "id": "C19",
+   "size": "close-up",
+   "key": 20,
+   "len": 38,
+   "first": 4656,
+   "line": "Bạn phải chọn.",
+   "note": "Pip has to choose"
+  },
+  {
+   "id": "C20",
+   "size": "top-down",
+   "key": 45,
+   "len": 101,
+   "first": 4694,
+   "line": "Sạc dự phòng. Giấy tờ. Một tấm ảnh gia đình.",
+   "note": "power bank, papers, photo go into the pack"
+  },
+  {
+   "id": "C21",
+   "size": "close-up",
+   "key": 42,
+   "len": 51,
+   "first": 4795,
+   "line": "Và con mèo của em gái.",
+   "note": "sis cat pops out of her pack"
+  },
+  {
+   "id": "C22",
+   "size": "card",
+   "key": 40,
+   "len": 61,
+   "first": 4846,
+   "line": "Chỉ riêng cuộc chiến ở Ukraine,",
+   "note": "outline of the country, people inside"
+  },
+  {
+   "id": "C23",
+   "size": "card",
+   "key": 85,
+   "len": 99,
+   "first": 4907,
+   "line": "hơn sáu triệu người đã phải rời bỏ đất nước. Đó là thật.",
+   "note": "HƠN 6 TRIỆU NGƯỜI, streams leave, UNHCR, tick"
+  },
+  {
+   "id": "C24",
+   "size": "medium",
+   "key": 30,
+   "len": 40,
+   "first": 5006,
+   "line": "Mo ở lại với bố.",
+   "note": "Mo stays with dad; Pip walks in"
+  },
+  {
+   "id": "C25",
+   "size": "medium",
+   "key": 50,
+   "len": 76,
+   "first": 5046,
+   "line": "Ở bến xe, hai đứa ôm nhau thật lâu.",
+   "note": "the long hug, push-in"
+  },
+  {
+   "id": "C26",
+   "size": "medium",
+   "key": 34,
+   "len": 49,
+   "first": 5122,
+   "line": "Không ai biết bao giờ mới gặp lại.",
+   "note": "bus door closes, Mo waves"
+  },
+  {
+   "id": "C27",
+   "size": "card",
+   "key": 50,
+   "len": 81,
+   "first": 5171,
+   "line": "Chuyến xe đi mất hai ngày, thay vì sáu tiếng.",
+   "note": "6 GIỜ crossed, 2 NGÀY"
+  },
+  {
+   "id": "C28",
+   "size": "wide",
+   "key": 36,
+   "len": 62,
+   "first": 5252,
+   "line": "Những con đường đầy xe, đầy người,",
+   "note": "road full of vehicles and backpacks"
+  },
+  {
+   "id": "C29",
+   "size": "medium",
+   "key": 45,
+   "len": 64,
+   "first": 5314,
+   "line": "đầy những chiếc ba lô giống hệt của bạn.",
+   "note": "Pip and sis in the stream, identical packs"
+  },
+  {
+   "id": "C30",
+   "size": "medium",
+   "key": 30,
+   "len": 50,
+   "first": 5378,
+   "line": "Em gái bạn ngủ gục trên vai bạn,",
+   "note": "night bus, sis asleep on Pips shoulder"
+  },
+  {
+   "id": "C31",
+   "size": "close-up",
+   "key": 36,
+   "len": 61,
+   "first": 5428,
+   "line": "tay vẫn ôm con mèo.",
+   "note": "sis hugging the cat, window lights"
+  },
+  {
+   "id": "D1",
+   "size": "insert",
+   "key": 30,
+   "len": 45,
+   "first": 5489,
+   "line": "Năm đầu tiên. Nền kinh tế",
+   "note": "tear-off calendar: twelve months fly off one after another"
+  },
+  {
+   "id": "D2",
+   "size": "wide",
+   "key": 28,
+   "len": 62,
+   "first": 5534,
+   "line": "co lại như một quả bóng xì hơi.",
+   "note": "the KINH TẾ balloon sinks and goes flat, air hissing from the neck"
+  },
+  {
+   "id": "D3",
+   "size": "wide",
+   "key": 45,
+   "len": 58,
+   "first": 5596,
+   "line": "Năm hai nghìn không trăm hai mươi hai,",
+   "note": "plain outline world map, pin + label UKRAINE, big 2022"
+  },
+  {
+   "id": "D4",
+   "size": "medium",
+   "key": 40,
+   "len": 50,
+   "first": 5654,
+   "line": "kinh tế Ukraine giảm gần",
+   "note": "two GDP bars, the 2022 bar drops by about a third"
+  },
+  {
+   "id": "D5",
+   "size": "medium",
+   "key": 45,
+   "len": 57,
+   "first": 5704,
+   "line": "một phần ba. Đó là thật.",
+   "note": "number card ≈ -1/3, source tag WORLD BANK, ĐÓ LÀ THẬT tick"
+  },
+  {
+   "id": "D6",
+   "size": "medium",
+   "key": 25,
+   "len": 43,
+   "first": 5761,
+   "line": "Tiền tiết kiệm của mẹ mua",
+   "note": "mum counts the same few notes by the lamp, savings book beside"
+  },
+  {
+   "id": "D7",
+   "size": "insert",
+   "key": 40,
+   "len": 47,
+   "first": 5804,
+   "line": "được ít hơn sau mỗi tháng.",
+   "note": "same three notes beside a basket that loses an item per month, THÁNG 1 to 12"
+  },
+  {
+   "id": "D8",
+   "size": "wide",
+   "key": 40,
+   "len": 61,
+   "first": 5851,
+   "line": "Nhà bạn ở nhờ một gia đình xa lạ,",
+   "note": "stranger's spare room: two mattresses, the cat, a kind host brings a tray of bowls"
+  },
+  {
+   "id": "D9",
+   "size": "medium",
+   "key": 25,
+   "len": 40,
+   "first": 5912,
+   "line": "ở một thành phố khác.",
+   "note": "Pip at the window onto a skyline that is not his, slow push-in"
+  },
+  {
+   "id": "D10",
+   "size": "medium",
+   "key": 50,
+   "len": 55,
+   "first": 5952,
+   "line": "Bạn học cách làm lại từ đầu.",
+   "note": "Pip unpacks the bag onto a bare shelf: notebook, pencil case, photo of him and Mo"
+  },
+  {
+   "id": "D11",
+   "size": "medium",
+   "key": 60,
+   "len": 78,
+   "first": 6007,
+   "line": "Một ngôi trường mới. Những người bạn mới.",
+   "note": "over his shoulder: new classroom, faces turn, one kid waves"
+  },
+  {
+   "id": "D12",
+   "size": "medium",
+   "key": 28,
+   "len": 38,
+   "first": 6085,
+   "line": "Một giọng nói khác.",
+   "note": "two classmates talk, speech bubbles with squiggles that are not his; Pip puzzled"
+  },
+  {
+   "id": "D13",
+   "size": "medium",
+   "key": 40,
+   "len": 55,
+   "first": 6123,
+   "line": "Mỗi tối, bạn mở điện thoại,",
+   "note": "dark spare room, the others asleep, Pip's face lit by his phone"
+  },
+  {
+   "id": "D14",
+   "size": "insert",
+   "key": 40,
+   "len": 46,
+   "first": 6178,
+   "line": "chờ một tin nhắn của Mo.",
+   "note": "chat with Mo: Pip's messages, Đã gửi, never Đã xem; screen dims"
+  },
+  {
+   "id": "D15",
+   "size": "wide",
+   "key": 30,
+   "len": 52,
+   "first": 6224,
+   "line": "Và thứ thiếu nhất là thức ăn.",
+   "note": "food-aid queue seen from behind, serving table far off, empty bowls in the near blur"
+  },
+  {
+   "id": "D16",
+   "size": "medium",
+   "key": 95,
+   "len": 103,
+   "first": 6276,
+   "line": "Năm hai nghìn không trăm hai mươi ba, gần hai trăm tám mươi hai triệu người",
+   "note": "card 2023, ≈ 282 TRIỆU NGƯỜI counting up over a row of empty bowls"
+  },
+  {
+   "id": "D17",
+   "size": "wide",
+   "key": 45,
+   "len": 53,
+   "first": 6379,
+   "line": "trên thế giới bị đói cấp tính,",
+   "note": "world map, empty bowls ringing orange, ĐÓI CẤP TÍNH"
+  },
+  {
+   "id": "D18",
+   "size": "medium",
+   "key": 75,
+   "len": 83,
+   "first": 6432,
+   "line": "và xung đột là nguyên nhân hàng đầu. Đó là thật.",
+   "note": "XUNG ĐỘT = NGUYÊN NHÂN HÀNG ĐẦU, medal 1, GLOBAL REPORT ON FOOD CRISES, ĐÓ LÀ THẬT"
+  },
+  {
+   "id": "D19",
+   "size": "wide low",
+   "key": 30,
+   "len": 64,
+   "first": 6515,
+   "line": "Người chịu thiệt nhiều nhất là trẻ em.",
+   "note": "an empty swing at dusk, a ball left in the dust"
+  },
+  {
+   "id": "D20",
+   "size": "medium",
+   "key": 50,
+   "len": 76,
+   "first": 6579,
+   "line": "Theo UNICEF, cứ sáu trẻ em trên thế giới,",
+   "note": "UNICEF card: six child icons pop on"
+  },
+  {
+   "id": "D21",
+   "size": "medium",
+   "key": 60,
+   "len": 76,
+   "first": 6655,
+   "line": "có hơn một em đang sống ở vùng có xung đột.",
+   "note": "one of six lights up: > 1/6 TRẺ EM, SỐNG Ở VÙNG CÓ XUNG ĐỘT"
+  },
+  {
+   "id": "D22",
+   "size": "medium",
+   "key": 62,
+   "len": 69,
+   "first": 6731,
+   "line": "Em gái bạn đã một năm không được đến trường.",
+   "note": "sis on the mattress, twelve wall calendars crossed out, her schoolbag on a hook"
+  },
+  {
+   "id": "D23",
+   "size": "insert top-down",
+   "key": 14,
+   "len": 38,
+   "first": 6800,
+   "line": "Em vẫn mở vở ra,",
+   "note": "candlelit, her hand opens the cover of the exercise book"
+  },
+  {
+   "id": "D24",
+   "size": "macro",
+   "key": 75,
+   "len": 81,
+   "first": 6838,
+   "line": "tự viết chữ, để khỏi quên.",
+   "note": "macro: her careful letters a ă â b c d / e ê g h i, pencil, the cat beside, candle"
+  },
+  {
+   "id": "E1",
+   "size": "wide",
+   "key": 30,
+   "len": 62,
+   "first": 6919,
+   "line": "Rồi một ngày, tiếng súng dừng lại.",
+   "note": "guns stop: silent horizon, smoke thinning, birds"
+  },
+  {
+   "id": "E2",
+   "size": "close-up",
+   "key": 28,
+   "len": 55,
+   "first": 6981,
+   "line": "Nhưng chiến tranh thì chưa kết thúc.",
+   "note": "war not over: Pip worried close"
+  },
+  {
+   "id": "E3",
+   "size": "insert",
+   "key": 30,
+   "len": 50,
+   "first": 7036,
+   "line": "Việt Nam mình hiểu rõ điều đó.",
+   "note": "Vietnam outline draws on"
+  },
+  {
+   "id": "E4",
+   "size": "insert",
+   "key": 34,
+   "len": 49,
+   "first": 7086,
+   "line": "Hơn năm mươi năm sau chiến tranh,",
+   "note": "> 50 NAM SAU"
+  },
+  {
+   "id": "E5",
+   "size": "insert",
+   "key": 40,
+   "len": 53,
+   "first": 7135,
+   "line": "gần một phần năm diện tích đất",
+   "note": "1/5 DIEN TICH, a fifth hatched"
+  },
+  {
+   "id": "E6",
+   "size": "insert",
+   "key": 55,
+   "len": 79,
+   "first": 7188,
+   "line": "nước vẫn còn bom mìn chưa nổ nằm dưới lòng đất.",
+   "note": "bom min chua no, warning marks, VNMAC"
+  },
+  {
+   "id": "E7",
+   "size": "insert",
+   "key": 36,
+   "len": 51,
+   "first": 7267,
+   "line": "Đó là thật. Đến hôm nay,",
+   "note": "DO LA THAT tick"
+  },
+  {
+   "id": "E8",
+   "size": "wide",
+   "key": 25,
+   "len": 47,
+   "first": 7318,
+   "line": "những người rà phá bom mìn vẫn",
+   "note": "three deminers in vests at the frontier"
+  },
+  {
+   "id": "E9",
+   "size": "medium",
+   "key": 40,
+   "len": 44,
+   "first": 7365,
+   "line": "lặng lẽ làm sạch từng",
+   "note": "detector sweeping, stake goes in"
+  },
+  {
+   "id": "E10",
+   "size": "wide",
+   "key": 28,
+   "len": 41,
+   "first": 7409,
+   "line": "mét đất.",
+   "note": "cleared strip green, kids run"
+  },
+  {
+   "id": "E11",
+   "size": "wide",
+   "key": 30,
+   "len": 62,
+   "first": 7450,
+   "line": "Bạn trở về. Con hẻm cũ.",
+   "note": "family walks into old alley with bags"
+  },
+  {
+   "id": "E12",
+   "size": "medium",
+   "key": 30,
+   "len": 58,
+   "first": 7512,
+   "line": "Quán cà phê cũ đã đóng cửa.",
+   "note": "old cafe shuttered, dust"
+  },
+  {
+   "id": "E13",
+   "size": "wide",
+   "key": 18,
+   "len": 34,
+   "first": 7570,
+   "line": "Nhưng một buổi sáng,",
+   "note": "alley at first light, empty"
+  },
+  {
+   "id": "E14",
+   "size": "close-up",
+   "key": 40,
+   "len": 68,
+   "first": 7604,
+   "line": "mùi xôi lại bay ra từ đầu ngõ.",
+   "note": "Pip smells xoi, scent wisps"
+  },
+  {
+   "id": "E15",
+   "size": "medium",
+   "key": 20,
+   "len": 35,
+   "first": 7672,
+   "line": "Mẹ lại bày hàng.",
+   "note": "mum sets up cart, steam"
+  },
+  {
+   "id": "E16",
+   "size": "insert",
+   "key": 70,
+   "len": 85,
+   "first": 7707,
+   "line": "Điện thoại rung. Một tin nhắn: Tao về rồi.",
+   "note": "phone buzz then Tao ve roi"
+  },
+  {
+   "id": "E17",
+   "size": "wide",
+   "key": 30,
+   "len": 57,
+   "first": 7792,
+   "line": "Mo đạp xe tới, gầy hơn,",
+   "note": "Mo cycles in tired"
+  },
+  {
+   "id": "E18",
+   "size": "close-up",
+   "key": 18,
+   "len": 31,
+   "first": 7849,
+   "line": "nhưng vẫn cười.",
+   "note": "Mo smile"
+  },
+  {
+   "id": "E19",
+   "size": "medium",
+   "key": 40,
+   "len": 63,
+   "first": 7880,
+   "line": "Hai đứa lại ngồi uống cà phê sữa đá.",
+   "note": "Pip and Mo stools iced coffee clink"
+  },
+  {
+   "id": "E20",
+   "size": "wide",
+   "key": 30,
+   "len": 61,
+   "first": 7943,
+   "line": "Một ngày bình thường.",
+   "note": "a normal day: whole corner"
+  },
+  {
+   "id": "E21",
+   "size": "medium",
+   "key": 30,
+   "len": 55,
+   "first": 8004,
+   "line": "Hòa bình giống như không khí.",
+   "note": "Pip breathes open sky"
+  },
+  {
+   "id": "E22",
+   "size": "medium",
+   "key": 30,
+   "len": 57,
+   "first": 8059,
+   "line": "Khi có, ta chẳng để ý.",
+   "note": "nobody notices: Pip on phone, passers"
+  },
+  {
+   "id": "E23",
+   "size": "medium",
+   "key": 50,
+   "len": 83,
+   "first": 8116,
+   "line": "Khi mất, ta mới biết mình cần nó đến mức nào.",
+   "note": "when lost: Pip hugs bag in stairwell"
+  },
+  {
+   "id": "E24",
+   "size": "insert",
+   "key": 30,
+   "len": 44,
+   "first": 8199,
+   "line": "Một bữa sáng bình thường.",
+   "note": "normal breakfast top-down"
+  },
+  {
+   "id": "E25",
+   "size": "wide",
+   "key": 20,
+   "len": 38,
+   "first": 8243,
+   "line": "Một tiếng trống trường.",
+   "note": "school drum, kids run in"
+  },
+  {
+   "id": "E26",
+   "size": "wide",
+   "key": 25,
+   "len": 45,
+   "first": 8281,
+   "line": "Một cánh đồng không có bom.",
+   "note": "green field no bombs, kite"
+  },
+  {
+   "id": "E27",
+   "size": "insert",
+   "key": 40,
+   "len": 51,
+   "first": 8326,
+   "line": "Tất cả đều là thứ có người",
+   "note": "many hands together"
+  },
+  {
+   "id": "E28",
+   "size": "wide",
+   "key": 15,
+   "len": 32,
+   "first": 8377,
+   "line": "đã phải gìn giữ.",
+   "note": "lit window at dusk, pull out"
+  },
+  {
+   "id": "E29",
+   "size": "wide",
+   "key": 80,
+   "len": 102,
+   "first": 8409,
+   "line": "Nếu chỉ được mang theo một chiếc ba lô, bạn sẽ bỏ gì vào đó?",
+   "note": "end card: question over alley and bag"
+  },
+  {
+   "id": "E30",
+   "size": "wide",
+   "key": 100,
+   "len": 119,
+   "first": 8511,
+   "line": "Viết ở phần bình luận nhé.",
+   "note": "end card: write in comments, holds to end"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#CFE6FF",
+   "o": 0.35,
+   "f": 321
+  },
+  {
+   "kind": "flash",
+   "color": "#FF6A5A",
+   "o": 0.4,
+   "f": 726
+  },
+  {
+   "kind": "shake",
+   "len": 6,
+   "amp": 8,
+   "f": 726
+  },
+  {
+   "kind": "shake",
+   "len": 6,
+   "amp": 7,
+   "f": 521
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.18,
+   "f": 7270
+  },
+  {
+   "kind": "flash",
+   "color": "#FFE7B0",
+   "o": 0.1,
+   "f": 8246
+  }
+ ],
+ "audio": {
+  "voice": "neu-chien-tranh/voice.wav",
+  "sfx": "neu-chien-tranh/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.5795,
+  "music": "neu-chien-tranh/music.wav",
+  "musicVol": 0.3533
+ }
+}

@@ -1,0 +1,787 @@
+{
+ "chapter": "b",
+ "shots": [
+  {
+   "id": "B1",
+   "file": "shots-chb-body",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "06:00, Pip stretches by the window, a cyan scan refreshes him"
+  },
+  {
+   "id": "B2",
+   "file": "shots-chb-body",
+   "size": "wide",
+   "set": "street",
+   "key": 32,
+   "note": "bike hits a stone, Pip tumbles, sits clutching a scraped knee"
+  },
+  {
+   "id": "B3",
+   "file": "shots-chb-body",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 14,
+   "note": "reset: the same knee at 06:00 is clean, sparkle, mitten pats it"
+  },
+  {
+   "id": "B4",
+   "file": "shots-chb-body",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 22,
+   "note": "23:59 dumbbell presses, arms swell; reset 06:00, skinny arms"
+  },
+  {
+   "id": "B5",
+   "file": "shots-chb-body",
+   "size": "close-up",
+   "set": "bathroom",
+   "key": 40,
+   "note": "mirror: identical face, NGÀY # climbs, calendar stuck on THỨ TƯ"
+  },
+  {
+   "id": "B6",
+   "file": "shots-chb-lottery",
+   "size": "close-up",
+   "set": "bedroom",
+   "key": 30,
+   "note": "an idea: smug Pip, thought bubble with the ticket and bouncing balls"
+  },
+  {
+   "id": "B7",
+   "file": "shots-chb-lottery",
+   "size": "over-shoulder",
+   "set": "living room",
+   "key": 40,
+   "note": "18:00 THỨ TƯ: the Mega 6/45 draw on TV, drum spinning, Pip's hood blurred in front"
+  },
+  {
+   "id": "B8",
+   "file": "shots-chb-lottery",
+   "size": "schematic",
+   "set": "card",
+   "key": 70,
+   "note": "odds card 1 / 8.145.060 counts up, '> 8 TRIỆU', a field of tickets with one gold"
+  },
+  {
+   "id": "B9",
+   "file": "shots-chb-lottery",
+   "size": "close-up",
+   "set": "bedroom",
+   "key": 30,
+   "note": "MemoryGlow: last night's result in a sepia memory frame, TỐI QUA"
+  },
+  {
+   "id": "B10",
+   "file": "shots-chb-lottery",
+   "size": "medium",
+   "set": "street stall",
+   "key": 34,
+   "note": "lottery cart, seller in a nón lá hands Pip the ticket, he holds it up"
+  },
+  {
+   "id": "B11",
+   "file": "shots-chb-jackpot-reset",
+   "size": "insert",
+   "set": "tv",
+   "key": 22,
+   "note": "balls tick off the ticket one by one, then JACKPOT ≥ 12 TỶ ĐỒNG"
+  },
+  {
+   "id": "B12",
+   "file": "shots-chb-jackpot-reset",
+   "size": "wide",
+   "set": "bedroom night",
+   "key": 20,
+   "note": "late-night party: party hat, confetti, ticket held high"
+  },
+  {
+   "id": "B13",
+   "file": "shots-chb-jackpot-reset",
+   "size": "card",
+   "set": "bedroom night",
+   "key": 40,
+   "note": "ResetClock 23:59 -> 00:00 -> spins back -> 06:00 THỨ TƯ"
+  },
+  {
+   "id": "B14",
+   "file": "shots-chb-jackpot-reset",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 50,
+   "note": "06:00, sitting up in bed, the ticket dissolves into cyan flakes"
+  },
+  {
+   "id": "B15",
+   "file": "shots-chb-jackpot-reset",
+   "size": "insert",
+   "set": "duvet top",
+   "key": 40,
+   "note": "wallet opens on one 50.000 note, a moth flutters out"
+  },
+  {
+   "id": "B16",
+   "file": "shots-chb-learning-cards",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 24,
+   "note": "06:00: ticket, dumbbell, money float round Pip and dissolve cyan; a '?' over him"
+  },
+  {
+   "id": "B17",
+   "file": "shots-chb-learning-cards",
+   "size": "extreme close-up",
+   "set": "bedroom",
+   "key": 24,
+   "note": "MemoryGlow on his head, the six numbers stream into it"
+  },
+  {
+   "id": "B18",
+   "file": "shots-chb-learning-cards",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 40,
+   "note": "time-lapse dawn to night, clock races, day bar 06:00-24:00, '18 GIỜ'"
+  },
+  {
+   "id": "B19",
+   "file": "shots-chb-learning-cards",
+   "size": "schematic",
+   "set": "card",
+   "key": 34,
+   "note": "FSI card: building draws on, 'FSI', 'VIỆN NGOẠI GIAO HOA KỲ'"
+  },
+  {
+   "id": "B20",
+   "file": "shots-chb-learning-cards",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "a wobbling tower of 日本語 textbooks on the desk, Pip looks up, worried"
+  },
+  {
+   "id": "B21",
+   "file": "shots-chb-learning-cards",
+   "size": "schematic",
+   "set": "card",
+   "key": 70,
+   "note": "'2.200' counts up, GIỜ HỌC, textbook; あ い う pop on 'tiếng Nhật'"
+  },
+  {
+   "id": "B22",
+   "file": "shots-chb-learning-cards",
+   "size": "insert",
+   "set": "bedroom wall",
+   "key": 40,
+   "note": "tear-off calendar pages fly off, always THỨ TƯ; 2.200 ÷ 18 ≈ 122, '≈ 4 THÁNG'"
+  },
+  {
+   "id": "B23",
+   "file": "shots-chb-learning-cards",
+   "size": "schematic",
+   "set": "card",
+   "key": 56,
+   "note": "1 NĂM LẶP LẠI: 365 ticks fill, '> 6.500 GIỜ', 365 × 18 = 6.570"
+  },
+  {
+   "id": "B24",
+   "file": "shots-chb-skills-montage",
+   "size": "panels",
+   "set": "studio",
+   "key": 44,
+   "note": "two panels slide in: Pip at the piano, then painting a sunset at the easel"
+  },
+  {
+   "id": "B25",
+   "file": "shots-chb-skills-montage",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 40,
+   "note": "kitchen: pancake flip, then skill badges pop round him"
+  },
+  {
+   "id": "B26",
+   "file": "shots-chb-skills-montage",
+   "size": "insert",
+   "set": "piano",
+   "key": 44,
+   "note": "06:00 at the keys: the mitten hovers soft, presses one key, fumbles two"
+  },
+  {
+   "id": "B27",
+   "file": "shots-chb-skills-montage",
+   "size": "close-up",
+   "set": "bedroom",
+   "key": 40,
+   "note": "notes stream into his glowing head; a staff of kept notes fills above"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "B1",
+   "at": "s:61.00"
+  },
+  {
+   "shot": "B2",
+   "at": "s:62.87"
+  },
+  {
+   "shot": "B3",
+   "at": "s:64.23"
+  },
+  {
+   "shot": "B4",
+   "at": "s:65.33"
+  },
+  {
+   "shot": "B5",
+   "at": "s:68.60"
+  },
+  {
+   "shot": "B6",
+   "at": "s:70.81"
+  },
+  {
+   "shot": "B7",
+   "at": "s:72.49"
+  },
+  {
+   "shot": "B8",
+   "at": "s:74.85"
+  },
+  {
+   "shot": "B9",
+   "at": "s:78.25"
+  },
+  {
+   "shot": "B10",
+   "at": "s:80.28"
+  },
+  {
+   "shot": "B11",
+   "at": "s:81.91"
+  },
+  {
+   "shot": "B12",
+   "at": "s:84.69",
+   "look": "midnight"
+  },
+  {
+   "shot": "B13",
+   "at": "s:86.02"
+  },
+  {
+   "shot": "B14",
+   "at": "s:87.84"
+  },
+  {
+   "shot": "B15",
+   "at": "s:90.37"
+  },
+  {
+   "shot": "B16",
+   "at": "s:93.34"
+  },
+  {
+   "shot": "B17",
+   "at": "s:95.53"
+  },
+  {
+   "shot": "B18",
+   "at": "s:97.11"
+  },
+  {
+   "shot": "B19",
+   "at": "s:99.45"
+  },
+  {
+   "shot": "B20",
+   "at": "s:101.33"
+  },
+  {
+   "shot": "B21",
+   "at": "s:102.75"
+  },
+  {
+   "shot": "B22",
+   "at": "s:105.61",
+   "look": "day122"
+  },
+  {
+   "shot": "B23",
+   "at": "s:107.91",
+   "look": "year1"
+  },
+  {
+   "shot": "B24",
+   "at": "s:110.73"
+  },
+  {
+   "shot": "B25",
+   "at": "s:112.48"
+  },
+  {
+   "shot": "B26",
+   "at": "s:114.53"
+  },
+  {
+   "shot": "B27",
+   "at": "s:117.38"
+  }
+ ],
+ "fx": [
+  {
+   "at": "B11+26",
+   "kind": "flash",
+   "color": "#FFE27A",
+   "o": 0.45
+  },
+  {
+   "at": "B2+20",
+   "kind": "shake",
+   "len": 6,
+   "amp": 6
+  },
+  {
+   "at": "B13+51",
+   "kind": "shake",
+   "len": 6,
+   "amp": 5
+  }
+ ],
+ "events": [
+  [
+   "B1+8",
+   "sparkle",
+   0.08
+  ],
+  [
+   "B1+36",
+   "ting",
+   0.07
+  ],
+  [
+   "B2+13",
+   "tumble",
+   0.14
+  ],
+  [
+   "B2+20",
+   "land",
+   0.14
+  ],
+  [
+   "B2+35",
+   "rewind_start",
+   0.1
+  ],
+  [
+   "B3",
+   "glitch",
+   0.14
+  ],
+  [
+   "B3+1",
+   "rewind",
+   0.1
+  ],
+  [
+   "B3+2",
+   "phone_ring",
+   0.06,
+   "onset",
+   "B4"
+  ],
+  [
+   "B3+6",
+   "sparkle",
+   0.1
+  ],
+  [
+   "B4+26",
+   "rewind_start",
+   0.1
+  ],
+  [
+   "B4+32",
+   "glitch",
+   0.14
+  ],
+  [
+   "B4+33",
+   "rewind",
+   0.1
+  ],
+  [
+   "B4+34",
+   "phone_ring",
+   0.06,
+   "onset",
+   "B5"
+  ],
+  [
+   "B6+7",
+   "pop",
+   0.08
+  ],
+  [
+   "B6+10",
+   "ting",
+   0.09
+  ],
+  [
+   "B7",
+   "room_tone",
+   0.07,
+   "onset",
+   "B8"
+  ],
+  [
+   "B7+30",
+   "pop",
+   0.07
+  ],
+  [
+   "B7+44",
+   "pop",
+   0.07
+  ],
+  [
+   "B8+91",
+   "drone_hit",
+   0.1
+  ],
+  [
+   "B9+4",
+   "sparkle",
+   0.1
+  ],
+  [
+   "B10+8",
+   "paper_land",
+   0.1
+  ],
+  [
+   "B10+32",
+   "ding",
+   0.07
+  ],
+  [
+   "B11+26",
+   "title_boom",
+   0.16
+  ],
+  [
+   "B12+1",
+   "laugh",
+   0.08
+  ],
+  [
+   "B12+2",
+   "pop",
+   0.08
+  ],
+  [
+   "B13+14",
+   "rewind_start",
+   0.12
+  ],
+  [
+   "B13+29",
+   "rewind",
+   0.14
+  ],
+  [
+   "B13+50",
+   "glitch",
+   0.16
+  ],
+  [
+   "B13+51",
+   "ding",
+   0.09
+  ],
+  [
+   "B14+2",
+   "phone_ring",
+   0.06,
+   "onset",
+   "B15"
+  ],
+  [
+   "B14+38",
+   "power_down",
+   0.1
+  ],
+  [
+   "B15+4",
+   "paper_land",
+   0.08
+  ],
+  [
+   "B16+34",
+   "pop",
+   0.08
+  ],
+  [
+   "B17",
+   "sparkle",
+   0.08
+  ],
+  [
+   "B18+52",
+   "ding",
+   0.09
+  ],
+  [
+   "B19",
+   "select_draw",
+   0.1
+  ],
+  [
+   "B20+9",
+   "gulp",
+   0.12
+  ],
+  [
+   "B22+30",
+   "ding",
+   0.09
+  ],
+  [
+   "B23+36",
+   "drone_hit",
+   0.1
+  ],
+  [
+   "B24+31",
+   "swoosh",
+   0.08
+  ],
+  [
+   "B25+3",
+   "swoosh",
+   0.08
+  ],
+  [
+   "B25+18",
+   "catch",
+   0.1
+  ],
+  [
+   "B26+39",
+   "ting",
+   0.1
+  ],
+  [
+   "B26+61",
+   "buzzer",
+   0.05
+  ],
+  [
+   "B27",
+   "sparkle",
+   0.08
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "B4+2",
+   "clip": "clink",
+   "n": 3,
+   "every": 9,
+   "gain": [
+    0.05,
+    0.08
+   ],
+   "pitch": [
+    0.9,
+    1.1
+   ]
+  },
+  {
+   "at": "B5+6",
+   "clip": "counter_tick",
+   "n": 10,
+   "every": 6,
+   "gain": [
+    0.04,
+    0.06
+   ],
+   "pitch": [
+    0.95,
+    1.1
+   ]
+  },
+  {
+   "at": "B8+4",
+   "clip": "counter_tick",
+   "n": 10,
+   "every": 3,
+   "gain": [
+    0.04,
+    0.06
+   ],
+   "pitch": [
+    0.9,
+    1.2
+   ]
+  },
+  {
+   "at": "B11+3",
+   "clip": "pop",
+   "n": 6,
+   "every": 4,
+   "gain": [
+    0.07,
+    0.1
+   ],
+   "pitch": [
+    0.9,
+    1.3
+   ]
+  },
+  {
+   "at": "B16+15",
+   "clip": "sparkle",
+   "n": 3,
+   "every": 8,
+   "gain": [
+    0.05,
+    0.07
+   ],
+   "pitch": [
+    0.9,
+    1.1
+   ]
+  },
+  {
+   "at": "B17+10",
+   "clip": "ting",
+   "n": 6,
+   "every": 4,
+   "gain": [
+    0.04,
+    0.06
+   ],
+   "pitch": [
+    0.9,
+    1.3
+   ]
+  },
+  {
+   "at": "B18+4",
+   "clip": "counter_tick",
+   "n": 12,
+   "every": 4,
+   "gain": [
+    0.04,
+    0.06
+   ],
+   "pitch": [
+    0.9,
+    1.1
+   ]
+  },
+  {
+   "at": "B21+8",
+   "clip": "counter_tick",
+   "n": 10,
+   "every": 3,
+   "gain": [
+    0.04,
+    0.06
+   ],
+   "pitch": [
+    0.9,
+    1.2
+   ]
+  },
+  {
+   "at": "B21+58",
+   "clip": "pop",
+   "n": 3,
+   "every": 5,
+   "gain": [
+    0.06,
+    0.08
+   ],
+   "pitch": [
+    1.0,
+    1.3
+   ]
+  },
+  {
+   "at": "B22+2",
+   "clip": "paper_land",
+   "n": 7,
+   "every": 8,
+   "gain": [
+    0.05,
+    0.07
+   ],
+   "pitch": [
+    0.9,
+    1.2
+   ]
+  },
+  {
+   "at": "B23+4",
+   "clip": "counter_tick",
+   "n": 10,
+   "every": 3,
+   "gain": [
+    0.04,
+    0.06
+   ],
+   "pitch": [
+    0.9,
+    1.2
+   ]
+  },
+  {
+   "at": "B24+2",
+   "clip": "ting",
+   "n": 5,
+   "every": 6,
+   "gain": [
+    0.04,
+    0.07
+   ],
+   "pitch": [
+    0.8,
+    1.4
+   ]
+  },
+  {
+   "at": "B25+24",
+   "clip": "pop",
+   "n": 6,
+   "every": 3,
+   "gain": [
+    0.05,
+    0.08
+   ],
+   "pitch": [
+    0.9,
+    1.3
+   ]
+  },
+  {
+   "at": "B27+12",
+   "clip": "ting",
+   "n": 8,
+   "every": 7,
+   "gain": [
+    0.04,
+    0.07
+   ],
+   "pitch": [
+    0.8,
+    1.4
+   ]
+  }
+ ]
+}

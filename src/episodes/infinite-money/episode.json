@@ -1,0 +1,3419 @@
+{
+ "cast": [
+  "pipHood",
+  "mo",
+  "sis",
+  "mom",
+  "suit"
+ ],
+ "tail": 3.0,
+ "id": "InfiniteMoneyEn",
+ "slug": "infinite-money",
+ "topic": "What if you had infinite money?",
+ "title": [
+  "WHAT IF YOU HAD",
+  "INFINITE MONEY?"
+ ],
+ "accent": "INFINITE",
+ "power": {
+  "word": "Tap. Payment approved.",
+  "rule": "a black card with no limit, real money, never runs out",
+  "look": "card chip BALANCE: ∞, terminal beep, green PAYMENT APPROVED"
+ },
+ "script": [
+  {
+   "beat": "0 cold open, demo 1",
+   "text": "A black card. No spending limit."
+  },
+  {
+   "beat": "0 cold open, demo 2",
+   "text": "Buy every sandwich on the whole street. Tap. Payment approved."
+  },
+  {
+   "beat": "0 cold open, demo 3",
+   "text": "Buy an entire island. Tap. Payment approved."
+  },
+  {
+   "beat": "0 title",
+   "text": "What if you had infinite money?"
+  },
+  {
+   "beat": "1 envelope",
+   "text": "This morning, there's an envelope in your mailbox with no name on it. Inside is a black card, and a note with just two words: no limit."
+  },
+  {
+   "beat": "1 rule",
+   "text": "Buy anything. As much as you want. The bank has checked it: it's real money, and it never runs out."
+  },
+  {
+   "beat": "1 test",
+   "text": "You try buying a bubble tea. Tap. Payment approved. Your balance comes up: infinity."
+  },
+  {
+   "beat": "2 scale",
+   "text": "To give you a sense of scale: in twenty twenty five, Vietnam's entire economy produced about five hundred billion dollars' worth of goods and services. With this card, one tap covers all of it. Then you tap again."
+  },
+  {
+   "beat": "3 fun: breakfast",
+   "text": "On day one, you buy breakfast for the whole neighborhood. Sandwiches, noodle soup, sticky rice, coffee. Tap."
+  },
+  {
+   "beat": "3 fun: family",
+   "text": "You pay off your parents' mortgage. You buy your little sister an entire toy store. You give your best friend a brand new scooter. Tap, tap, tap."
+  },
+  {
+   "beat": "3 fun: school",
+   "text": "You rebuild your old school. Cool classrooms, a library full of books, a brand new football pitch. You open a movie theater and let the whole school in for free."
+  },
+  {
+   "beat": "3 fun: big",
+   "text": "You buy the tallest building in the city, and open the rooftop so anyone can watch the sunset for free. You buy a trip to space. Tickets cost tens of millions of dollars. Tap."
+  },
+  {
+   "beat": "3 fun: hunger",
+   "text": "Then you think bigger. According to a study called Ceres twenty thirty, the world needs about thirty three billion extra dollars a year to end hunger by twenty thirty. For you, that's one tap."
+  },
+  {
+   "beat": "3 fun: dream",
+   "text": "Sounds like you just became the kindest person on the planet, right? But this card has a problem nobody told you about."
+  },
+  {
+   "beat": "4 cost: new money",
+   "text": "Every time you tap, new money flows into the economy. But not a single new thing gets made."
+  },
+  {
+   "beat": "4 cost: banh mi",
+   "text": "You buy every sandwich on the street. The next morning, nobody else can buy one. Sellers see that everyone wants to buy, so they raise their prices."
+  },
+  {
+   "beat": "4 cost: rice",
+   "text": "You buy ten thousand bags of rice for flood victims. But farmers can't grow rice as fast as you can tap. Rice runs short. The price goes up, for everyone."
+  },
+  {
+   "beat": "4 cost: shopkeepers",
+   "text": "Shopkeepers start to recognize you. When they see you coming, they quietly change their price boards."
+  },
+  {
+   "beat": "4 cost: 1986",
+   "text": "This has really happened. In nineteen eighty six, inflation in Vietnam hit seven hundred seventy four point seven percent. Something that cost one dong in January cost almost nine by December. People carried bags of cash to the market. That's real."
+  },
+  {
+   "beat": "4 cost: zimbabwe",
+   "text": "In Zimbabwe, at one point prices were doubling about every day. In two thousand nine, the country printed a one hundred trillion dollar note."
+  },
+  {
+   "beat": "4 cost: savings",
+   "text": "And the people who lose the most are the ones who did nothing at all. Your grandma saved her whole life into one savings book. Every time you tap, that book buys a little less."
+  },
+  {
+   "beat": "4 cost: the suit",
+   "text": "A week later, a man in a suit comes to see you. He works at the central bank. He says just one thing: please, stop tapping."
+  },
+  {
+   "beat": "5 insight",
+   "text": "That's when you finally understand. Money has no value by itself. Money is just a promise that someone will trade you their work. The rice a farmer grows. A surgeon's operation. The bread a baker gets up at four in the morning to bake."
+  },
+  {
+   "beat": "5 cannot make",
+   "text": "Infinite money can't make more rice. It can't make more doctors. It can't add a single hour to the day."
+  },
+  {
+   "beat": "6 mom",
+   "text": "The next morning, your mom still gets up early and pushes her sticky rice cart to the end of the alley, like every day. You ask: I have infinite money now, why are you still selling? She smiles: because people still need breakfast, sweetheart."
+  },
+  {
+   "beat": "6 help mom",
+   "text": "That day, you help her sell for one morning. For the first time in your life, you hold money you earned yourself. Fifteen thousand dong. It feels heavier than the black card."
+  },
+  {
+   "beat": "6 smart",
+   "text": "So if you had infinite money, what's the smartest way to spend it? Not on more stuff. On helping the world make more things. Build schools to train more doctors. Fund research on better rice. Send poor kids to school."
+  },
+  {
+   "beat": "6 smart more",
+   "text": "You pay teachers and doctors in remote villages really well. You fund scientists, so they can find cheaper power and cleaner water."
+  },
+  {
+   "beat": "6 slower",
+   "text": "You tap slower. Less often. But every time you tap, the world gets one more real thing."
+  },
+  {
+   "beat": "7 ending",
+   "text": "A year later, the black card is still in your wallet. You use it less than you ever imagined. And your mom still sells sticky rice at the end of the alley. It's still the best in town."
+  },
+  {
+   "beat": "7 friend",
+   "text": "One day, your best friend asks: if you could choose again, would you still want that card? You think for a long time. Then you say: yes. But now I know what to use it for."
+  },
+  {
+   "beat": "7 question",
+   "text": "So, if you had a card with no limit, what's the first thing you'd buy? And would you dare to use it to change the world? Tell us in the comments."
+  }
+ ],
+ "science": [
+  {
+   "claim": "In 2025 Vietnam's economy produced about $500 billion of goods and services.",
+   "working": "GDP 2025 at current prices: 12,847.6 trillion VND ≈ US$514 billion.",
+   "source": "General Statistics Office of Vietnam (NSO), 2025 socio-economic report (Jan 2026)"
+  },
+  {
+   "claim": "Ceres2030: about $33 billion extra a year to end hunger by 2030.",
+   "working": "Ceres2030 (Cornell, IFPRI, IISD, 2020): ~$330 billion extra to 2030 ≈ $33 billion/year; other estimates are higher, hence 'according to a study'.",
+   "source": "Ceres2030 summary (2020); IFPRI"
+  },
+  {
+   "claim": "Space trips cost tens of millions of dollars.",
+   "working": "Private seats to the ISS were reported at about $55 million (2022).",
+   "source": "press reports, 2022"
+  },
+  {
+   "claim": "New money without new goods raises prices; savers lose.",
+   "working": "Quantity theory of money (MV = PY).",
+   "source": "basic macroeconomics"
+  },
+  {
+   "claim": "In 1986 inflation in Vietnam hit 774.7%; 1 dong in January ≈ almost 9 by December.",
+   "working": "1 × (1 + 7.747) = 8.747.",
+   "source": "General Statistics Office of Vietnam; VnExpress"
+  },
+  {
+   "claim": "Zimbabwe: prices doubled about every day; a 100 trillion dollar note in 2009.",
+   "working": "Hanke & Kwok (2009): peak monthly inflation Nov 2008 79.6 billion %, prices doubling every ~24.7 h; Z$100 trillion note issued Jan 2009.",
+   "source": "S. Hanke & A. Kwok, Cato Journal 29(2), 2009"
+  }
+ ],
+ "voice": {
+  "provider": "lucylab",
+  "userVoiceId": "4cVrzyhHkh4Bxy16qtZcNv",
+  "speed": 1
+ },
+ "gaps": {
+  "word": 0.12,
+  "comma": 0.35,
+  "sentence": 0.75,
+  "question": 0.95
+ },
+ "holds": {
+  "money|This": 1.2,
+  "again|On": 1.2,
+  "about|Every": 1.2,
+  "tapping|That's": 1.2,
+  "day|The": 1.2,
+  "thing|A": 1.2,
+  "for|So": 1.2
+ },
+ "sound": {
+  "clips": {
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+    0.7
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "shatter": [
+    "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
+    1.3
+   ],
+   "rewind": [
+    "a VHS tape rewinding fast, high whirring tape squeal with mechanical hum",
+    1.6
+   ],
+   "catch": [
+    "a hand catching a ceramic mug mid-air, soft slap and thud",
+    0.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "cat_yowl": [
+    "an angry cat yowl and hiss, short and startled",
+    0.9
+   ],
+   "tumble": [
+    "a cartoon character tumbling down wooden stairs, a quick series of bumps and thuds",
+    1.3
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "dizzy": [
+    "cartoon dizzy birds tweeting in a circle after a bonk",
+    1.4
+   ],
+   "big_step": [
+    "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+    0.7
+   ],
+   "cat_chirp": [
+    "a cat making a short curious chirp meow",
+    0.6
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "shades": [
+    "cool sunglasses sliding on with a swoosh and a bright metallic glint",
+    0.9
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "clock_back": [
+    "a clock ticking very fast then spinning backwards, mechanical ratchet whirr",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "crack": [
+    "glass cracking sharply, the crack spreading across a pane",
+    1.1
+   ],
+   "bulb_pop": [
+    "a small light bulb popping out, a tiny glass tink and fizz",
+    0.5
+   ],
+   "rewind_start": [
+    "a quick reverse swoosh, like a sound being sucked backwards",
+    0.7
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "class_murmur": [
+    "a quiet classroom murmur, kids whispering, chairs shuffling",
+    2.0
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "copy_click": [
+    "a crisp satisfying computer copy click with a tiny soft digital chime, short",
+    0.5
+   ],
+   "paste_pop": [
+    "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+    0.7
+   ],
+   "paper_land": [
+    "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+    0.7
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "cookie_crunch": [
+    "one crunchy bite into a chocolate chip cookie, close up",
+    0.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "power_hum": [
+    "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+    3.0
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "phone_ring": [
+    "synth: a modern phone ringback tone, two soft electronic burrs (generated locally with numpy)",
+    1.2
+   ],
+   "ting": [
+    "synth: bank app notification chime, two bright bell notes (generated locally with numpy)",
+    0.5
+   ],
+   "score": [
+    "synth: infinite-money score, tools/synth-score.py",
+    295.7
+   ]
+  },
+  "events": [
+   [
+    "A1",
+    "room_tone",
+    0.08,
+    "onset",
+    "A3"
+   ],
+   [
+    "A1+6",
+    "sparkle",
+    0.1
+   ],
+   [
+    "A3",
+    "room_tone",
+    0.08,
+    "onset",
+    "A7"
+   ],
+   [
+    "A5+1",
+    "ting",
+    0.07
+   ],
+   [
+    "A7",
+    "roof_wind",
+    0.1,
+    "onset",
+    "A10"
+   ],
+   [
+    "A9+1",
+    "ting",
+    0.07
+   ],
+   [
+    "A9+16",
+    "land",
+    0.14
+   ],
+   [
+    "A10+0",
+    "title_boom",
+    0.14
+   ],
+   [
+    "A10+16",
+    "sparkle",
+    0.1
+   ],
+   [
+    "A10",
+    "roof_wind",
+    0.1,
+    "onset",
+    "A11"
+   ],
+   [
+    "A11",
+    "room_tone",
+    0.08,
+    "onset",
+    "A18"
+   ],
+   [
+    "A12+22",
+    "paper_land",
+    0.12
+   ],
+   [
+    "A13+30",
+    "sparkle",
+    0.12
+   ],
+   [
+    "A14+6",
+    "paper_land",
+    0.1
+   ],
+   [
+    "A15+2",
+    "gasp",
+    0.1
+   ],
+   [
+    "A17+30",
+    "ding",
+    0.08
+   ],
+   [
+    "A18",
+    "room_tone",
+    0.08,
+    "onset",
+    "A23"
+   ],
+   [
+    "A20+1",
+    "ting",
+    0.07
+   ],
+   [
+    "A22+6",
+    "gulp",
+    0.12
+   ],
+   [
+    "A23",
+    "room_tone",
+    0.06
+   ],
+   [
+    "A26+56",
+    "ting",
+    0.07
+   ],
+   [
+    "A27+24",
+    "ting",
+    0.07
+   ],
+   [
+    "A27+26",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B1",
+    "room_tone",
+    0.1,
+    "onset",
+    "B6"
+   ],
+   [
+    "B1+26",
+    "laugh",
+    0.07
+   ],
+   [
+    "B3+3",
+    "paste_pop",
+    0.06
+   ],
+   [
+    "B3+17",
+    "paste_pop",
+    0.06
+   ],
+   [
+    "B4+3",
+    "paste_pop",
+    0.1
+   ],
+   [
+    "B4+21",
+    "paste_pop",
+    0.1
+   ],
+   [
+    "B5+17",
+    "ting",
+    0.11
+   ],
+   [
+    "B6+14",
+    "paper_land",
+    0.18
+   ],
+   [
+    "B6+46",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B7",
+    "room_tone",
+    0.08,
+    "onset",
+    "B8"
+   ],
+   [
+    "B7+34",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B8+3",
+    "paste_pop",
+    0.12
+   ],
+   [
+    "B8+39",
+    "paste_pop",
+    0.1
+   ],
+   [
+    "B8+41",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B9+13",
+    "ting",
+    0.1
+   ],
+   [
+    "B9+35",
+    "ting",
+    0.1
+   ],
+   [
+    "B9+57",
+    "ting",
+    0.12
+   ],
+   [
+    "B10+28",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B11",
+    "class_murmur",
+    0.07,
+    "onset",
+    "B13"
+   ],
+   [
+    "B13+8",
+    "pop",
+    0.12
+   ],
+   [
+    "B13+22",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B14+8",
+    "ding",
+    0.08
+   ],
+   [
+    "B14+14",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B14+20",
+    "laugh",
+    0.06
+   ],
+   [
+    "B15+2",
+    "laugh",
+    0.1,
+    "onset",
+    "B16"
+   ],
+   [
+    "B15+33",
+    "paste_pop",
+    0.14
+   ],
+   [
+    "B15+35",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B16",
+    "roof_wind",
+    0.1,
+    "onset",
+    "B19"
+   ],
+   [
+    "B17+6",
+    "ding",
+    0.08
+   ],
+   [
+    "B18+10",
+    "sparkle",
+    0.1
+   ],
+   [
+    "B19+8",
+    "power_hum",
+    0.06,
+    "onset",
+    "B20"
+   ],
+   [
+    "B19+16",
+    "fall_whoosh",
+    0.06
+   ],
+   [
+    "B20",
+    "room_tone",
+    0.1,
+    "onset",
+    "B21"
+   ],
+   [
+    "B20+12",
+    "paste_pop",
+    0.1
+   ],
+   [
+    "B20+69",
+    "ting",
+    0.1
+   ],
+   [
+    "B21+12",
+    "select_draw",
+    0.06
+   ],
+   [
+    "B22+4",
+    "paper_land",
+    0.1
+   ],
+   [
+    "B24+96",
+    "ding",
+    0.08
+   ],
+   [
+    "B25+6",
+    "paste_pop",
+    0.1
+   ],
+   [
+    "B26+14",
+    "ting",
+    0.12
+   ],
+   [
+    "B27",
+    "roof_wind",
+    0.08,
+    "onset",
+    "B30"
+   ],
+   [
+    "B27+10",
+    "sparkle",
+    0.12
+   ],
+   [
+    "B29+28",
+    "crack",
+    0.07
+   ],
+   [
+    "B29+30",
+    "glitch",
+    0.07
+   ],
+   [
+    "B29+30",
+    "drone_hit",
+    0.12
+   ],
+   [
+    "B30+14",
+    "power_down",
+    0.1
+   ],
+   [
+    "C1+26",
+    "ting",
+    0.12
+   ],
+   [
+    "C4",
+    "class_murmur",
+    0.07,
+    "onset",
+    "C8"
+   ],
+   [
+    "C4+12",
+    "ting",
+    0.1
+   ],
+   [
+    "C4+40",
+    "ting",
+    0.1
+   ],
+   [
+    "C5+16",
+    "gasp",
+    0.07
+   ],
+   [
+    "C6+16",
+    "ding",
+    0.07
+   ],
+   [
+    "C7+6",
+    "counter_tick",
+    0.12
+   ],
+   [
+    "C7+20",
+    "counter_tick",
+    0.12
+   ],
+   [
+    "C8",
+    "roof_wind",
+    0.09,
+    "onset",
+    "C11"
+   ],
+   [
+    "C11",
+    "class_murmur",
+    0.08,
+    "onset",
+    "C12"
+   ],
+   [
+    "C11+36",
+    "counter_tick",
+    0.13
+   ],
+   [
+    "C11+52",
+    "counter_tick",
+    0.13
+   ],
+   [
+    "C11+68",
+    "counter_tick",
+    0.13
+   ],
+   [
+    "C12",
+    "class_murmur",
+    0.06,
+    "onset",
+    "C15"
+   ],
+   [
+    "C12+12",
+    "gasp",
+    0.07
+   ],
+   [
+    "C14+24",
+    "buzzer",
+    0.08
+   ],
+   [
+    "C14+25",
+    "counter_tick",
+    0.1
+   ],
+   [
+    "C15",
+    "class_murmur",
+    0.1,
+    "onset",
+    "C21"
+   ],
+   [
+    "C17+98",
+    "drone_hit",
+    0.12
+   ],
+   [
+    "C19+26",
+    "pop",
+    0.1
+   ],
+   [
+    "C21",
+    "room_tone",
+    0.06,
+    "onset",
+    "C22"
+   ],
+   [
+    "C22+8",
+    "pop",
+    0.08
+   ],
+   [
+    "C22+34",
+    "counter_tick",
+    0.1
+   ],
+   [
+    "C22+44",
+    "counter_tick",
+    0.1
+   ],
+   [
+    "C22+54",
+    "counter_tick",
+    0.1
+   ],
+   [
+    "C22+62",
+    "counter_tick",
+    0.1
+   ],
+   [
+    "C22+70",
+    "counter_tick",
+    0.1
+   ],
+   [
+    "C23+30",
+    "pop",
+    0.1
+   ],
+   [
+    "C24",
+    "power_hum",
+    0.08,
+    "onset",
+    "C25"
+   ],
+   [
+    "C25+90",
+    "gasp",
+    0.08
+   ],
+   [
+    "D1",
+    "roof_wind",
+    0.07,
+    "onset",
+    "D2"
+   ],
+   [
+    "D2",
+    "room_tone",
+    0.09,
+    "onset",
+    "D5"
+   ],
+   [
+    "D3+33",
+    "ting",
+    0.1
+   ],
+   [
+    "D5",
+    "room_tone",
+    0.08,
+    "onset",
+    "D9"
+   ],
+   [
+    "D6+14",
+    "paper_land",
+    0.12
+   ],
+   [
+    "D8+32",
+    "gulp",
+    0.12
+   ],
+   [
+    "D13",
+    "room_tone",
+    0.07,
+    "onset",
+    "D14"
+   ],
+   [
+    "D14",
+    "roof_wind",
+    0.06,
+    "onset",
+    "D15"
+   ],
+   [
+    "D18",
+    "roof_wind",
+    0.1,
+    "onset",
+    "D22+40"
+   ],
+   [
+    "D22+30",
+    "clink",
+    0.07
+   ],
+   [
+    "E1",
+    "room_tone",
+    0.09,
+    "onset",
+    "E6"
+   ],
+   [
+    "E6",
+    "room_tone",
+    0.09,
+    "onset",
+    "E8"
+   ],
+   [
+    "E18",
+    "room_tone",
+    0.09,
+    "onset",
+    "E22"
+   ],
+   [
+    "E22",
+    "roof_wind",
+    0.1,
+    "onset",
+    "E25"
+   ],
+   [
+    "E25",
+    "roof_wind",
+    0.1
+   ],
+   [
+    "E2+34",
+    "clink",
+    0.08
+   ],
+   [
+    "E3+22",
+    "clink",
+    0.14
+   ],
+   [
+    "E4+26",
+    "sparkle",
+    0.1
+   ],
+   [
+    "E5+22",
+    "land",
+    0.08
+   ],
+   [
+    "E8+22",
+    "sparkle",
+    0.08
+   ],
+   [
+    "E9+50",
+    "land",
+    0.1
+   ],
+   [
+    "E10+34",
+    "sparkle",
+    0.1
+   ],
+   [
+    "E12+36",
+    "clink",
+    0.1
+   ],
+   [
+    "E12+72",
+    "clink",
+    0.1
+   ],
+   [
+    "E13+34",
+    "sparkle",
+    0.08
+   ],
+   [
+    "E14+20",
+    "sparkle",
+    0.08
+   ],
+   [
+    "E14+52",
+    "ding",
+    0.07
+   ],
+   [
+    "E15+22",
+    "ting",
+    0.1
+   ],
+   [
+    "E16+19",
+    "ting",
+    0.1
+   ],
+   [
+    "E16+22",
+    "sparkle",
+    0.12
+   ],
+   [
+    "E17+8",
+    "ting",
+    0.08
+   ],
+   [
+    "E17+10",
+    "sparkle",
+    0.12
+   ],
+   [
+    "E17+36",
+    "ting",
+    0.08
+   ],
+   [
+    "E17+38",
+    "sparkle",
+    0.12
+   ],
+   [
+    "E18+50",
+    "sparkle",
+    0.06
+   ],
+   [
+    "E21+14",
+    "sparkle",
+    0.08
+   ],
+   [
+    "E22+78",
+    "pop",
+    0.08
+   ],
+   [
+    "E24+36",
+    "sparkle",
+    0.1
+   ],
+   [
+    "E24+50",
+    "ding",
+    0.08
+   ],
+   [
+    "E25+4",
+    "pop",
+    0.06
+   ],
+   [
+    "E26+6",
+    "sparkle",
+    0.06
+   ]
+  ],
+  "repeats": [
+   {
+    "at": "A3+10",
+    "clip": "clink",
+    "n": 5,
+    "every": 11,
+    "gain": [
+     0.07,
+     0.1
+    ],
+    "pitch": [
+     0.95,
+     1.1
+    ]
+   },
+   {
+    "at": "A24+46",
+    "clip": "pop",
+    "n": 8,
+    "every": 6,
+    "gain": [
+     0.05,
+     0.08
+    ],
+    "pitch": [
+     0.95,
+     1.15
+    ]
+   },
+   {
+    "at": "A25+10",
+    "clip": "counter_tick",
+    "n": 16,
+    "every": 3,
+    "gain": [
+     0.06,
+     0.09
+    ],
+    "pitch": [
+     0.98,
+     1.1
+    ]
+   },
+   {
+    "at": "B7+3",
+    "clip": "step",
+    "n": 4,
+    "every": 7,
+    "gain": [
+     0.05,
+     0.07
+    ]
+   },
+   {
+    "at": "B7+32",
+    "clip": "paste_pop",
+    "n": 4,
+    "every": 2,
+    "gain": [
+     0.06,
+     0.1
+    ],
+    "pitch": [
+     0.9,
+     1.3
+    ]
+   },
+   {
+    "at": "B12+2",
+    "clip": "paste_pop",
+    "n": 5,
+    "every": 5,
+    "gain": [
+     0.04,
+     0.07
+    ],
+    "pitch": [
+     1.0,
+     1.3
+    ]
+   },
+   {
+    "at": "B17+16",
+    "clip": "step",
+    "n": 6,
+    "every": 5,
+    "gain": [
+     0.04,
+     0.06
+    ]
+   },
+   {
+    "at": "B23+20",
+    "clip": "counter_tick",
+    "n": 10,
+    "every": 2,
+    "gain": [
+     0.05,
+     0.07
+    ]
+   },
+   {
+    "at": "B24+10",
+    "clip": "counter_tick",
+    "n": 8,
+    "every": 9,
+    "gain": [
+     0.04,
+     0.06
+    ]
+   },
+   {
+    "at": "B26+8",
+    "clip": "sparkle",
+    "n": 6,
+    "every": 3,
+    "gain": [
+     0.05,
+     0.08
+    ],
+    "pitch": [
+     1.0,
+     1.4
+    ]
+   },
+   {
+    "at": "C2+4",
+    "clip": "ting",
+    "n": 4,
+    "every": 20,
+    "gain": [
+     0.05,
+     0.07
+    ],
+    "pitch": [
+     0.98,
+     1.04
+    ]
+   },
+   {
+    "at": "C3+6",
+    "clip": "counter_tick",
+    "n": 9,
+    "every": 9,
+    "gain": [
+     0.06,
+     0.09
+    ],
+    "pitch": [
+     0.95,
+     1.05
+    ]
+   },
+   {
+    "at": "C10+2",
+    "clip": "ting",
+    "n": 6,
+    "every": 7,
+    "gain": [
+     0.06,
+     0.09
+    ],
+    "pitch": [
+     0.96,
+     1.06
+    ]
+   },
+   {
+    "at": "C13+8",
+    "clip": "pop",
+    "n": 4,
+    "every": 5,
+    "gain": [
+     0.06,
+     0.09
+    ],
+    "pitch": [
+     0.9,
+     1.15
+    ]
+   },
+   {
+    "at": "C16+6",
+    "clip": "paper_land",
+    "n": 4,
+    "every": 7,
+    "gain": [
+     0.08,
+     0.1
+    ],
+    "pitch": [
+     0.9,
+     1.1
+    ]
+   },
+   {
+    "at": "C17+26",
+    "clip": "counter_tick",
+    "n": 22,
+    "every": 3,
+    "gain": [
+     0.05,
+     0.07
+    ],
+    "pitch": [
+     0.95,
+     1.1
+    ]
+   },
+   {
+    "at": "C19+4",
+    "clip": "counter_tick",
+    "n": 11,
+    "every": 2,
+    "gain": [
+     0.06,
+     0.08
+    ],
+    "pitch": [
+     0.95,
+     1.1
+    ]
+   },
+   {
+    "at": "C20+4",
+    "clip": "step",
+    "n": 5,
+    "every": 11,
+    "gain": [
+     0.05,
+     0.08
+    ],
+    "pitch": [
+     0.9,
+     1.05
+    ]
+   },
+   {
+    "at": "C23+4",
+    "clip": "counter_tick",
+    "n": 11,
+    "every": 3,
+    "gain": [
+     0.07,
+     0.09
+    ],
+    "pitch": [
+     0.95,
+     1.05
+    ]
+   },
+   {
+    "at": "C24+4",
+    "clip": "copy_click",
+    "n": 8,
+    "every": 6,
+    "gain": [
+     0.05,
+     0.07
+    ],
+    "pitch": [
+     0.9,
+     1.05
+    ]
+   },
+   {
+    "at": "C25+56",
+    "clip": "counter_tick",
+    "n": 5,
+    "every": 6,
+    "gain": [
+     0.09,
+     0.11
+    ],
+    "pitch": [
+     1,
+     1.1
+    ]
+   },
+   {
+    "at": "D5+6",
+    "clip": "step",
+    "n": 6,
+    "every": 9,
+    "gain": [
+     0.08,
+     0.12
+    ]
+   },
+   {
+    "at": "D19+2",
+    "clip": "step",
+    "n": 6,
+    "every": 14,
+    "gain": [
+     0.06,
+     0.09
+    ],
+    "pitch": [
+     0.9,
+     1.0
+    ]
+   },
+   {
+    "at": "E7+2",
+    "clip": "pop",
+    "n": 6,
+    "every": 3,
+    "gain": [
+     0.04,
+     0.08
+    ],
+    "pitch": [
+     0.9,
+     1.2
+    ]
+   },
+   {
+    "at": "E8+44",
+    "clip": "pop",
+    "n": 5,
+    "every": 4,
+    "gain": [
+     0.04,
+     0.07
+    ],
+    "pitch": [
+     0.9,
+     1.2
+    ]
+   },
+   {
+    "at": "E11+2",
+    "clip": "step",
+    "n": 7,
+    "every": 8,
+    "gain": [
+     0.04,
+     0.08
+    ],
+    "pitch": [
+     0.9,
+     1.1
+    ]
+   },
+   {
+    "at": "E13+4",
+    "clip": "pop",
+    "n": 6,
+    "every": 7,
+    "gain": [
+     0.03,
+     0.05
+    ],
+    "pitch": [
+     1.0,
+     1.4
+    ]
+   }
+  ],
+  "music": {
+   "clip": "score"
+  },
+  "levels": {
+   "sfx_lu": -11,
+   "music_lu": -14
+  },
+  "score": [
+   {
+    "kind": "loop",
+    "from": "0 cold open, demo 1",
+    "to": "1 envelope",
+    "to_off": -0.3,
+    "gain": 0.55
+   },
+   {
+    "kind": "pad",
+    "from": "1 envelope",
+    "to": "3 fun: breakfast",
+    "chords": [
+     "C",
+     "Am",
+     "F",
+     "G"
+    ],
+    "every": 4,
+    "gain": 0.12
+   },
+   {
+    "kind": "bells",
+    "from": "1 envelope",
+    "to": "2 scale",
+    "notes": [
+     79,
+     null,
+     84,
+     null,
+     null,
+     null,
+     79,
+     null
+    ],
+    "step": 0.6,
+    "gain": 0.04
+   },
+   {
+    "kind": "pluck",
+    "from": "2 scale",
+    "to": "3 fun: breakfast",
+    "to_off": -0.4,
+    "chords": [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    "bpm": 108,
+    "gain": 0.22
+   },
+   {
+    "kind": "loop",
+    "from": "3 fun: breakfast",
+    "to": "4 cost: new money",
+    "to_off": -0.5,
+    "gain": 0.58
+   },
+   {
+    "kind": "drone",
+    "from": "4 cost: new money",
+    "from_off": -0.4,
+    "to": "5 insight",
+    "gain": 0.1
+   },
+   {
+    "kind": "pluck",
+    "from": "4 cost: new money",
+    "to": "4 cost: 1986",
+    "chords": [
+     "Am",
+     "Dm",
+     "E",
+     "Am"
+    ],
+    "bpm": 96,
+    "gain": 0.17
+   },
+   {
+    "kind": "heartbeat",
+    "from": "4 cost: 1986",
+    "to": "4 cost: the suit",
+    "bpm": 66,
+    "gain": 0.2
+   },
+   {
+    "kind": "pad",
+    "from": "4 cost: savings",
+    "to": "5 insight",
+    "chords": [
+     "Am",
+     "F",
+     "Dm",
+     "E"
+    ],
+    "every": 5,
+    "gain": 0.12
+   },
+   {
+    "kind": "pad",
+    "from": "5 insight",
+    "to": "END",
+    "chords": [
+     "F",
+     "C",
+     "G",
+     "Am",
+     "F",
+     "C",
+     "Dm",
+     "G"
+    ],
+    "every": 5,
+    "gain": 0.14
+   },
+   {
+    "kind": "bells",
+    "from": "5 insight",
+    "from_off": 2,
+    "to": "6 smart",
+    "notes": [
+     72,
+     76,
+     79,
+     77,
+     76,
+     74,
+     72,
+     null,
+     67,
+     69,
+     72,
+     74,
+     76,
+     null,
+     74,
+     72
+    ],
+    "step": 0.62,
+    "gain": 0.06,
+    "decay": 1.4
+   },
+   {
+    "kind": "pluck",
+    "from": "6 smart",
+    "to": "7 ending",
+    "chords": [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    "bpm": 92,
+    "gain": 0.18
+   },
+   {
+    "kind": "bells",
+    "from": "7 ending",
+    "to": "END",
+    "to_off": -4,
+    "notes": [
+     72,
+     76,
+     79,
+     84,
+     79,
+     76,
+     72,
+     null,
+     74,
+     77,
+     81,
+     null,
+     79,
+     76,
+     72,
+     null
+    ],
+    "step": 0.5,
+    "gain": 0.06,
+    "decay": 1.6
+   }
+  ]
+ },
+ "shots": [
+  {
+   "id": "A1",
+   "file": "shots-cha-cold-open",
+   "size": "macro",
+   "set": "insert",
+   "key": 12,
+   "note": "black card turning under spotlight"
+  },
+  {
+   "id": "A2",
+   "file": "shots-cha-cold-open",
+   "size": "close-up",
+   "set": "insert",
+   "key": 12,
+   "note": "gold infinity glint"
+  },
+  {
+   "id": "A3",
+   "file": "shots-cha-cold-open",
+   "size": "wide",
+   "set": "street",
+   "key": 12,
+   "note": "row of banh mi carts emptied, Pip sweeps card"
+  },
+  {
+   "id": "A4",
+   "file": "shots-cha-cold-open",
+   "size": "macro",
+   "set": "insert",
+   "key": 12,
+   "note": "card tap on terminal, street bokeh"
+  },
+  {
+   "id": "A5",
+   "file": "shots-cha-cold-open",
+   "size": "macro",
+   "set": "insert",
+   "key": 12,
+   "note": "terminal green THANH TOAN THANH CONG"
+  },
+  {
+   "id": "A6",
+   "file": "shots-cha-cold-open",
+   "size": "medium",
+   "set": "street",
+   "key": 12,
+   "note": "vendors cheer, Pip card up"
+  },
+  {
+   "id": "A7",
+   "file": "shots-cha-cold-open",
+   "size": "wide",
+   "set": "island",
+   "key": 12,
+   "note": "small island, Pip on sand points card"
+  },
+  {
+   "id": "A8",
+   "file": "shots-cha-cold-open",
+   "size": "macro",
+   "set": "insert",
+   "key": 12,
+   "note": "card tap, island bokeh"
+  },
+  {
+   "id": "A9",
+   "file": "shots-cha-cold-open",
+   "size": "medium",
+   "set": "island",
+   "key": 12,
+   "note": "terminal green on stump, DA BAN sign"
+  },
+  {
+   "id": "A10",
+   "file": "shots-cha-cold-open",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 12,
+   "note": "title, Pip holds card up"
+  },
+  {
+   "id": "A11",
+   "file": "shots-cha-envelope-rule",
+   "size": "wide",
+   "set": "gate",
+   "key": 12,
+   "note": "Pip walks to mailbox on gate"
+  },
+  {
+   "id": "A12",
+   "file": "shots-cha-envelope-rule",
+   "size": "medium",
+   "set": "gate",
+   "key": 12,
+   "note": "opens mailbox, pulls plain envelope"
+  },
+  {
+   "id": "A13",
+   "file": "shots-cha-envelope-rule",
+   "size": "top-down",
+   "set": "insert",
+   "key": 12,
+   "note": "envelope opens, black card slides out"
+  },
+  {
+   "id": "A14",
+   "file": "shots-cha-envelope-rule",
+   "size": "macro",
+   "set": "insert",
+   "key": 12,
+   "note": "note unfolds, KHONG GIOI HAN writes on"
+  },
+  {
+   "id": "A15",
+   "file": "shots-cha-envelope-rule",
+   "size": "close-up",
+   "set": "gate",
+   "key": 12,
+   "note": "Pip wide eyes, item badges pop"
+  },
+  {
+   "id": "A16",
+   "file": "shots-cha-envelope-rule",
+   "size": "close-up",
+   "set": "phone",
+   "key": 12,
+   "note": "bank app checking"
+  },
+  {
+   "id": "A17",
+   "file": "shots-cha-envelope-rule",
+   "size": "medium",
+   "set": "phone",
+   "key": 12,
+   "note": "HOP LE tick, SO DU infinity"
+  },
+  {
+   "id": "A18",
+   "file": "shots-cha-test-scale",
+   "size": "medium",
+   "set": "stall",
+   "key": 12,
+   "note": "drink stall, cup slides to Pip"
+  },
+  {
+   "id": "A19",
+   "file": "shots-cha-test-scale",
+   "size": "macro",
+   "set": "insert",
+   "key": 12,
+   "note": "tap at stall"
+  },
+  {
+   "id": "A20",
+   "file": "shots-cha-test-scale",
+   "size": "macro",
+   "set": "insert",
+   "key": 12,
+   "note": "terminal green + milk tea"
+  },
+  {
+   "id": "A21",
+   "file": "shots-cha-test-scale",
+   "size": "close-up",
+   "set": "phone",
+   "key": 12,
+   "note": "phone SO DU infinity"
+  },
+  {
+   "id": "A22",
+   "file": "shots-cha-test-scale",
+   "size": "medium",
+   "set": "stall",
+   "key": 12,
+   "note": "Pip sips, amazed, infinity pops"
+  },
+  {
+   "id": "A23",
+   "file": "shots-cha-test-scale",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 12,
+   "note": "Vietnam outline draws on"
+  },
+  {
+   "id": "A24",
+   "file": "shots-cha-test-scale",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 12,
+   "note": "2025, icons light up"
+  },
+  {
+   "id": "A25",
+   "file": "shots-cha-test-scale",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 12,
+   "note": "counter 12,8 TRIEU TY D, >500 TY USD"
+  },
+  {
+   "id": "A26",
+   "file": "shots-cha-test-scale",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 12,
+   "note": "card swipes across number"
+  },
+  {
+   "id": "A27",
+   "file": "shots-cha-test-scale",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 12,
+   "note": "second swipe x2"
+  },
+  {
+   "id": "B1",
+   "file": "shots-chb-fun-breakfast-and-card",
+   "size": "wide",
+   "set": "street",
+   "key": 34,
+   "note": "alley at dawn, Pip arms wide, neighbours erupt"
+  },
+  {
+   "id": "B2",
+   "file": "shots-chb-fun-breakfast-and-card",
+   "size": "medium",
+   "set": "street",
+   "key": 20,
+   "note": "neighbours cheering at the table"
+  },
+  {
+   "id": "B3",
+   "file": "shots-chb-fun-breakfast-and-card",
+   "size": "insert",
+   "set": "table",
+   "key": 30,
+   "note": "banh mi + pho pop on"
+  },
+  {
+   "id": "B4",
+   "file": "shots-chb-fun-breakfast-and-card",
+   "size": "insert",
+   "set": "table",
+   "key": 36,
+   "note": "xoi + ca phe pop on"
+  },
+  {
+   "id": "B5",
+   "file": "shots-chb-fun-breakfast-and-card",
+   "size": "close",
+   "set": "cart",
+   "key": 22,
+   "note": "card taps terminal, beep, tick"
+  },
+  {
+   "id": "B6",
+   "file": "shots-chb-fun-family-gifts",
+   "size": "insert",
+   "set": "contract/kitchen",
+   "key": 48,
+   "note": "contract stamped DA TAT TOAN, whip to mum hugging Pip"
+  },
+  {
+   "id": "B7",
+   "file": "shots-chb-fun-family-gifts",
+   "size": "wide",
+   "set": "supermarket",
+   "key": 50,
+   "note": "sis leaps in toy store, toys fly"
+  },
+  {
+   "id": "B8",
+   "file": "shots-chb-fun-family-gifts",
+   "size": "medium",
+   "set": "street",
+   "key": 50,
+   "note": "Mo + new scooter, red bow"
+  },
+  {
+   "id": "B9",
+   "file": "shots-chb-fun-family-gifts",
+   "size": "insert",
+   "set": "terminal",
+   "key": 60,
+   "note": "three fast swipes"
+  },
+  {
+   "id": "B10",
+   "file": "shots-chb-fun-school-cinema",
+   "size": "wide",
+   "set": "school",
+   "key": 44,
+   "note": "school repainted new, Pip arms wide"
+  },
+  {
+   "id": "B11",
+   "file": "shots-chb-fun-school-cinema",
+   "size": "medium",
+   "set": "classroom",
+   "key": 20,
+   "note": "bright cool classroom"
+  },
+  {
+   "id": "B12",
+   "file": "shots-chb-fun-school-cinema",
+   "size": "insert",
+   "set": "library",
+   "key": 26,
+   "note": "books fill shelves"
+  },
+  {
+   "id": "B13",
+   "file": "shots-chb-fun-school-cinema",
+   "size": "wide",
+   "set": "pitch",
+   "key": 24,
+   "note": "Pip kicks into goal, new pitch"
+  },
+  {
+   "id": "B14",
+   "file": "shots-chb-fun-school-cinema",
+   "size": "wide",
+   "set": "cinema",
+   "key": 30,
+   "note": "cinema doors open, light floods"
+  },
+  {
+   "id": "B15",
+   "file": "shots-chb-fun-school-cinema",
+   "size": "medium",
+   "set": "cinema",
+   "key": 46,
+   "note": "hall of laughing classmates, MIEN PHI ticket"
+  },
+  {
+   "id": "B16",
+   "file": "shots-chb-fun-tower-space",
+   "size": "low",
+   "set": "tower",
+   "key": 40,
+   "note": "tallest tower, low angle"
+  },
+  {
+   "id": "B17",
+   "file": "shots-chb-fun-tower-space",
+   "size": "medium",
+   "set": "roof",
+   "key": 36,
+   "note": "roof door opens, crowd streams out"
+  },
+  {
+   "id": "B18",
+   "file": "shots-chb-fun-tower-space",
+   "size": "wide",
+   "set": "roof",
+   "key": 34,
+   "note": "sunset rooftop full of people"
+  },
+  {
+   "id": "B19",
+   "file": "shots-chb-fun-tower-space",
+   "size": "medium",
+   "set": "launch",
+   "key": 40,
+   "note": "rocket launch"
+  },
+  {
+   "id": "B20",
+   "file": "shots-chb-fun-tower-space",
+   "size": "medium",
+   "set": "capsule",
+   "key": 60,
+   "note": "Pip floats in capsule, Earth behind, price, swipe"
+  },
+  {
+   "id": "B21",
+   "file": "shots-chb-fun-hunger-map",
+   "size": "medium",
+   "set": "map",
+   "key": 30,
+   "note": "Pip looks at a world map"
+  },
+  {
+   "id": "B22",
+   "file": "shots-chb-fun-hunger-map",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 50,
+   "note": "CERES2030 report card"
+  },
+  {
+   "id": "B23",
+   "file": "shots-chb-fun-hunger-map",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 50,
+   "note": "rice bowl 33 TY USD / NAM"
+  },
+  {
+   "id": "B24",
+   "file": "shots-chb-fun-hunger-map",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 70,
+   "note": "hunger to 2030 timeline"
+  },
+  {
+   "id": "B25",
+   "file": "shots-chb-fun-hunger-map",
+   "size": "medium",
+   "set": "schematic",
+   "key": 30,
+   "note": "Pip with card: 33 ty vs infinity"
+  },
+  {
+   "id": "B26",
+   "file": "shots-chb-fun-hunger-map",
+   "size": "schematic",
+   "set": "map",
+   "key": 24,
+   "note": "swipe, map lights up with bowls"
+  },
+  {
+   "id": "B27",
+   "file": "shots-chb-fun-dream-turn",
+   "size": "medium",
+   "set": "roof",
+   "key": 40,
+   "note": "Pip on roof golden hour, confetti halo"
+  },
+  {
+   "id": "B28",
+   "file": "shots-chb-fun-dream-turn",
+   "size": "close",
+   "set": "roof",
+   "key": 40,
+   "note": "close, halo, question"
+  },
+  {
+   "id": "B29",
+   "file": "shots-chb-fun-dream-turn",
+   "size": "close",
+   "set": "table",
+   "key": 40,
+   "note": "card on table, crack/glitch"
+  },
+  {
+   "id": "B30",
+   "file": "shots-chb-fun-dream-turn",
+   "size": "close",
+   "set": "roof",
+   "key": 40,
+   "note": "smile drops, drone"
+  },
+  {
+   "id": "C1",
+   "file": "shots-chc-new-money",
+   "size": "macro",
+   "set": "insert",
+   "key": 30,
+   "note": "card taps the terminal, green tick"
+  },
+  {
+   "id": "C2",
+   "file": "shots-chc-new-money",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 60,
+   "note": "notes pour through a pipe into the economy jar"
+  },
+  {
+   "id": "C3",
+   "file": "shots-chc-new-money",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 80,
+   "note": "shelf same size, money piles, scale tips"
+  },
+  {
+   "id": "C4",
+   "file": "shots-chc-bread",
+   "size": "medium",
+   "set": "street",
+   "key": 50,
+   "note": "Pip arms full of banh mi bags, carts sold out"
+  },
+  {
+   "id": "C5",
+   "file": "shots-chc-bread",
+   "size": "wide",
+   "set": "street",
+   "key": 70,
+   "note": "empty cart, neighbours queue"
+  },
+  {
+   "id": "C6",
+   "file": "shots-chc-bread",
+   "size": "medium",
+   "set": "street",
+   "key": 40,
+   "note": "seller sees crowd waving notes"
+  },
+  {
+   "id": "C7",
+   "file": "shots-chc-bread",
+   "size": "macro",
+   "set": "street",
+   "key": 30,
+   "note": "price board 25.000 -> 35.000"
+  },
+  {
+   "id": "C8",
+   "file": "shots-chc-rice",
+   "size": "wide",
+   "set": "rural",
+   "key": 50,
+   "note": "truck of rice sacks to the flood"
+  },
+  {
+   "id": "C9",
+   "file": "shots-chc-rice",
+   "size": "medium",
+   "set": "paddy",
+   "key": 35,
+   "note": "farmer plants slowly"
+  },
+  {
+   "id": "C10",
+   "file": "shots-chc-rice",
+   "size": "split",
+   "set": "schematic",
+   "key": 35,
+   "note": "paddy slow vs card swipes fast"
+  },
+  {
+   "id": "C11",
+   "file": "shots-chc-rice",
+   "size": "medium",
+   "set": "market",
+   "key": 90,
+   "note": "rice stall empties, price climbs"
+  },
+  {
+   "id": "C12",
+   "file": "shots-chc-shopkeepers",
+   "size": "medium",
+   "set": "street",
+   "key": 45,
+   "note": "seller spots Pip"
+  },
+  {
+   "id": "C13",
+   "file": "shots-chc-shopkeepers",
+   "size": "wide",
+   "set": "street",
+   "key": 30,
+   "note": "all sellers see Pip from afar"
+  },
+  {
+   "id": "C14",
+   "file": "shots-chc-shopkeepers",
+   "size": "medium",
+   "set": "street",
+   "key": 50,
+   "note": "seller swaps the price board"
+  },
+  {
+   "id": "C15",
+   "file": "shots-chc-1986",
+   "size": "wide",
+   "set": "memory",
+   "key": 30,
+   "note": "sepia market"
+  },
+  {
+   "id": "C16",
+   "file": "shots-chc-1986",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 45,
+   "note": "1986 stamped on timeline"
+  },
+  {
+   "id": "C17",
+   "file": "shots-chc-1986",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 100,
+   "note": "774,7% counts up"
+  },
+  {
+   "id": "C18",
+   "file": "shots-chc-1986",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 40,
+   "note": "item tag 1 d, January"
+  },
+  {
+   "id": "C19",
+   "file": "shots-chc-1986",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 50,
+   "note": "tag becomes ~9 d, December"
+  },
+  {
+   "id": "C20",
+   "file": "shots-chc-1986",
+   "size": "medium",
+   "set": "memory",
+   "key": 45,
+   "note": "bag of banknotes for a few vegetables"
+  },
+  {
+   "id": "C21",
+   "file": "shots-chc-1986",
+   "size": "close-up",
+   "set": "street",
+   "key": 20,
+   "note": "Pip close-up"
+  },
+  {
+   "id": "C22",
+   "file": "shots-chc-zimbabwe",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 70,
+   "note": "Zimbabwe, price doubling"
+  },
+  {
+   "id": "C23",
+   "file": "shots-chc-zimbabwe",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 35,
+   "note": "clock ~24 GIO x2"
+  },
+  {
+   "id": "C24",
+   "file": "shots-chc-zimbabwe",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 45,
+   "note": "2009 printing press"
+  },
+  {
+   "id": "C25",
+   "file": "shots-chc-zimbabwe",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 100,
+   "note": "the 100 trillion banknote"
+  },
+  {
+   "id": "D1",
+   "file": "shots-chd-savings",
+   "size": "wide",
+   "set": "street",
+   "key": 40,
+   "note": "people waiting at the bus stop"
+  },
+  {
+   "id": "D2",
+   "file": "shots-chd-savings",
+   "size": "medium",
+   "set": "study",
+   "key": 50,
+   "note": "grandma with passbook under lamp"
+  },
+  {
+   "id": "D3",
+   "file": "shots-chd-savings",
+   "size": "insert",
+   "set": "tabletop",
+   "key": 38,
+   "note": "black card taps terminal"
+  },
+  {
+   "id": "D4",
+   "file": "shots-chd-savings",
+   "size": "split",
+   "set": "tabletop",
+   "key": 50,
+   "note": "passbook vs shopping basket shrinking"
+  },
+  {
+   "id": "D5",
+   "file": "shots-chd-suit",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 50,
+   "note": "MỘT TUẦN SAU: suit walks into kitchen"
+  },
+  {
+   "id": "D6",
+   "file": "shots-chd-suit",
+   "size": "insert",
+   "set": "tabletop",
+   "key": 30,
+   "note": "badge NGÂN HÀNG TRUNG ƯƠNG slid across table"
+  },
+  {
+   "id": "D7",
+   "file": "shots-chd-suit",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 30,
+   "note": "suit tired close-up"
+  },
+  {
+   "id": "D8",
+   "file": "shots-chd-suit",
+   "size": "insert",
+   "set": "tabletop",
+   "key": 30,
+   "note": "Pip's hand frozen above terminal"
+  },
+  {
+   "id": "D9",
+   "file": "shots-chd-insight",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 30,
+   "note": "Pip understands"
+  },
+  {
+   "id": "D10",
+   "file": "shots-chd-insight",
+   "size": "macro",
+   "set": "tabletop",
+   "key": 45,
+   "note": "banknote fades to paper"
+  },
+  {
+   "id": "D11",
+   "file": "shots-chd-insight",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 90,
+   "note": "note <-> person, LỜI HỨA"
+  },
+  {
+   "id": "D12",
+   "file": "shots-chd-insight",
+   "size": "medium",
+   "set": "paddy",
+   "key": 30,
+   "note": "farmer plants rice at dawn"
+  },
+  {
+   "id": "D13",
+   "file": "shots-chd-insight",
+   "size": "medium",
+   "set": "operating room",
+   "key": 30,
+   "note": "surgeon under lamp"
+  },
+  {
+   "id": "D14",
+   "file": "shots-chd-insight",
+   "size": "medium",
+   "set": "street night",
+   "key": 40,
+   "note": "baker at clay oven 04:00"
+  },
+  {
+   "id": "D15",
+   "file": "shots-chd-no-more-and-mum",
+   "size": "card",
+   "set": "schematic",
+   "key": 50,
+   "note": "rice bowl +0"
+  },
+  {
+   "id": "D16",
+   "file": "shots-chd-no-more-and-mum",
+   "size": "card",
+   "set": "schematic",
+   "key": 40,
+   "note": "doctor +0"
+  },
+  {
+   "id": "D17",
+   "file": "shots-chd-no-more-and-mum",
+   "size": "card",
+   "set": "schematic",
+   "key": 50,
+   "note": "clock 24 GIỜ +0"
+  },
+  {
+   "id": "D18",
+   "file": "shots-chd-no-more-and-mum",
+   "size": "wide",
+   "set": "street dawn",
+   "key": 40,
+   "note": "mum and xôi cart at alley mouth"
+  },
+  {
+   "id": "D19",
+   "file": "shots-chd-no-more-and-mum",
+   "size": "medium",
+   "set": "street dawn",
+   "key": 30,
+   "note": "mum pushes cart"
+  },
+  {
+   "id": "D20",
+   "file": "shots-chd-no-more-and-mum",
+   "size": "medium",
+   "set": "street dawn",
+   "key": 30,
+   "note": "Pip asks mum"
+  },
+  {
+   "id": "D21",
+   "file": "shots-chd-no-more-and-mum",
+   "size": "close-up",
+   "set": "street dawn",
+   "key": 30,
+   "note": "mum smiles"
+  },
+  {
+   "id": "D22",
+   "file": "shots-chd-no-more-and-mum",
+   "size": "insert",
+   "set": "street dawn",
+   "key": 36,
+   "note": "neighbour takes xôi packet"
+  },
+  {
+   "id": "E1",
+   "file": "shots-che-xoi-morning",
+   "size": "wide",
+   "set": "street",
+   "key": 30,
+   "note": "dawn alley wide: mum + Pip at the xoi cart, customers, steam"
+  },
+  {
+   "id": "E2",
+   "file": "shots-che-xoi-morning",
+   "size": "medium",
+   "set": "street",
+   "key": 24,
+   "note": "Pip takes a 10.000 note, hands a packet"
+  },
+  {
+   "id": "E3",
+   "file": "shots-che-xoi-morning",
+   "size": "insert",
+   "set": "counter",
+   "key": 34,
+   "note": "insert: notes land in Pip mitten"
+  },
+  {
+   "id": "E4",
+   "file": "shots-che-xoi-morning",
+   "size": "insert",
+   "set": "counter",
+   "key": 24,
+   "note": "insert: 15.000 d tag"
+  },
+  {
+   "id": "E5",
+   "file": "shots-che-xoi-morning",
+   "size": "medium",
+   "set": "scale",
+   "key": 46,
+   "note": "scale: notes outweigh the black card"
+  },
+  {
+   "id": "E6",
+   "file": "shots-che-smart-spending",
+   "size": "medium",
+   "set": "study",
+   "key": 40,
+   "note": "Pip thinking at desk, ? bubble"
+  },
+  {
+   "id": "E7",
+   "file": "shots-che-smart-spending",
+   "size": "medium",
+   "set": "plain",
+   "key": 44,
+   "note": "pile of stuff crossed out"
+  },
+  {
+   "id": "E8",
+   "file": "shots-che-smart-spending",
+   "size": "wide",
+   "set": "schematic",
+   "key": 66,
+   "note": "schematic: money -> factory+school -> goods"
+  },
+  {
+   "id": "E9",
+   "file": "shots-che-smart-spending",
+   "size": "wide",
+   "set": "daylight hills",
+   "key": 50,
+   "note": "medical school rising, crane"
+  },
+  {
+   "id": "E10",
+   "file": "shots-che-smart-spending",
+   "size": "medium",
+   "set": "rice paddy",
+   "key": 50,
+   "note": "scientists, taller rice"
+  },
+  {
+   "id": "E11",
+   "file": "shots-che-smart-spending",
+   "size": "wide",
+   "set": "country road",
+   "key": 30,
+   "note": "kids with backpacks walk to school"
+  },
+  {
+   "id": "E12",
+   "file": "shots-che-far-and-science",
+   "size": "wide",
+   "set": "mountains",
+   "key": 50,
+   "note": "mountain teacher then village doctor, pan"
+  },
+  {
+   "id": "E13",
+   "file": "shots-che-far-and-science",
+   "size": "medium",
+   "set": "lab",
+   "key": 40,
+   "note": "scientist with glowing flask"
+  },
+  {
+   "id": "E14",
+   "file": "shots-che-far-and-science",
+   "size": "wide",
+   "set": "schematic",
+   "key": 66,
+   "note": "solar panel + water drop"
+  },
+  {
+   "id": "E15",
+   "file": "shots-che-far-and-science",
+   "size": "insert",
+   "set": "terminal",
+   "key": 30,
+   "note": "card taps terminal slowly, green tick"
+  },
+  {
+   "id": "E16",
+   "file": "shots-che-far-and-science",
+   "size": "medium",
+   "set": "hill",
+   "key": 40,
+   "note": "tap, a school pops up"
+  },
+  {
+   "id": "E17",
+   "file": "shots-che-far-and-science",
+   "size": "wide",
+   "set": "hill",
+   "key": 50,
+   "note": "taps: well + clinic pop up"
+  },
+  {
+   "id": "E18",
+   "file": "shots-che-ending-wallet-and-xoi",
+   "size": "insert",
+   "set": "wallet",
+   "key": 50,
+   "note": "wallet with the card, MOT NAM SAU"
+  },
+  {
+   "id": "E19",
+   "file": "shots-che-ending-wallet-and-xoi",
+   "size": "close",
+   "set": "study",
+   "key": 40,
+   "note": "Pip at desk, card unused, mug"
+  },
+  {
+   "id": "E20",
+   "file": "shots-che-ending-wallet-and-xoi",
+   "size": "medium",
+   "set": "street",
+   "key": 40,
+   "note": "mum scooping xoi"
+  },
+  {
+   "id": "E21",
+   "file": "shots-che-ending-wallet-and-xoi",
+   "size": "wide",
+   "set": "street",
+   "key": 40,
+   "note": "Pip eating xoi on a stool, mum at cart"
+  },
+  {
+   "id": "E22",
+   "file": "shots-che-friend-and-end-card",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 70,
+   "note": "Mo asks, Pip holds card"
+  },
+  {
+   "id": "E23",
+   "file": "shots-che-friend-and-end-card",
+   "size": "close",
+   "set": "rooftop",
+   "key": 40,
+   "note": "Pip thinks, close-up"
+  },
+  {
+   "id": "E24",
+   "file": "shots-che-friend-and-end-card",
+   "size": "medium",
+   "set": "rooftop low",
+   "key": 60,
+   "note": "Pip smiles, card up to sunset"
+  },
+  {
+   "id": "E25",
+   "file": "shots-che-friend-and-end-card",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 60,
+   "note": "end card line 1"
+  },
+  {
+   "id": "E26",
+   "file": "shots-che-friend-and-end-card",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 120,
+   "note": "end card line 2, fade out"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "s:0.00"
+  },
+  {
+   "shot": "A2",
+   "at": "s:1.39"
+  },
+  {
+   "shot": "A3",
+   "at": "s:2.93"
+  },
+  {
+   "shot": "A4",
+   "at": "s:4.96"
+  },
+  {
+   "shot": "A5",
+   "at": "s:5.91",
+   "look": "card"
+  },
+  {
+   "shot": "A6",
+   "at": "s:6.31"
+  },
+  {
+   "shot": "A7",
+   "at": "s:7.15"
+  },
+  {
+   "shot": "A8",
+   "at": "s:8.72"
+  },
+  {
+   "shot": "A9",
+   "at": "s:9.59",
+   "look": "card"
+  },
+  {
+   "shot": "A10",
+   "at": "s:10.63"
+  },
+  {
+   "shot": "A11",
+   "at": "s:13.15"
+  },
+  {
+   "shot": "A12",
+   "at": "s:15.27"
+  },
+  {
+   "shot": "A13",
+   "at": "s:16.91"
+  },
+  {
+   "shot": "A14",
+   "at": "s:18.61"
+  },
+  {
+   "shot": "A15",
+   "at": "s:21.98"
+  },
+  {
+   "shot": "A16",
+   "at": "s:24.93"
+  },
+  {
+   "shot": "A17",
+   "at": "s:26.29"
+  },
+  {
+   "shot": "A18",
+   "at": "s:29.11"
+  },
+  {
+   "shot": "A19",
+   "at": "s:31.34",
+   "look": "card"
+  },
+  {
+   "shot": "A20",
+   "at": "s:32.28",
+   "look": "card"
+  },
+  {
+   "shot": "A21",
+   "at": "s:33.68"
+  },
+  {
+   "shot": "A22",
+   "at": "s:35.03",
+   "look": "card"
+  },
+  {
+   "shot": "A23",
+   "at": "s:36.28"
+  },
+  {
+   "shot": "A24",
+   "at": "s:38.11"
+  },
+  {
+   "shot": "A25",
+   "at": "s:40.97"
+  },
+  {
+   "shot": "A26",
+   "at": "s:45.39",
+   "look": "card"
+  },
+  {
+   "shot": "A27",
+   "at": "s:48.46",
+   "look": "card"
+  },
+  {
+   "shot": "B1",
+   "at": "s:50.51"
+  },
+  {
+   "shot": "B2",
+   "at": "s:51.51"
+  },
+  {
+   "shot": "B3",
+   "at": "s:53.77"
+  },
+  {
+   "shot": "B4",
+   "at": "s:54.76"
+  },
+  {
+   "shot": "B5",
+   "at": "s:57.15",
+   "look": "card"
+  },
+  {
+   "shot": "B6",
+   "at": "s:57.97"
+  },
+  {
+   "shot": "B7",
+   "at": "s:59.79"
+  },
+  {
+   "shot": "B8",
+   "at": "s:62.85"
+  },
+  {
+   "shot": "B9",
+   "at": "s:65.74",
+   "look": "card"
+  },
+  {
+   "shot": "B10",
+   "at": "s:67.74"
+  },
+  {
+   "shot": "B11",
+   "at": "s:69.91"
+  },
+  {
+   "shot": "B12",
+   "at": "s:71.20"
+  },
+  {
+   "shot": "B13",
+   "at": "s:72.79"
+  },
+  {
+   "shot": "B14",
+   "at": "s:74.72"
+  },
+  {
+   "shot": "B15",
+   "at": "s:76.17"
+  },
+  {
+   "shot": "B16",
+   "at": "s:78.40"
+  },
+  {
+   "shot": "B17",
+   "at": "s:80.58"
+  },
+  {
+   "shot": "B18",
+   "at": "s:82.63"
+  },
+  {
+   "shot": "B19",
+   "at": "s:84.32"
+  },
+  {
+   "shot": "B20",
+   "at": "s:86.25",
+   "look": "card"
+  },
+  {
+   "shot": "B21",
+   "at": "s:89.70"
+  },
+  {
+   "shot": "B22",
+   "at": "s:91.22"
+  },
+  {
+   "shot": "B23",
+   "at": "s:94.14"
+  },
+  {
+   "shot": "B24",
+   "at": "s:95.97"
+  },
+  {
+   "shot": "B25",
+   "at": "s:99.71",
+   "look": "card"
+  },
+  {
+   "shot": "B26",
+   "at": "s:100.44",
+   "look": "card"
+  },
+  {
+   "shot": "B27",
+   "at": "s:101.84"
+  },
+  {
+   "shot": "B28",
+   "at": "s:103.48"
+  },
+  {
+   "shot": "B29",
+   "at": "s:105.64",
+   "look": "card"
+  },
+  {
+   "shot": "B30",
+   "at": "s:107.18"
+  },
+  {
+   "shot": "C1",
+   "at": "s:109.19",
+   "look": "card"
+  },
+  {
+   "shot": "C2",
+   "at": "s:110.47"
+  },
+  {
+   "shot": "C3",
+   "at": "s:112.82"
+  },
+  {
+   "shot": "C4",
+   "at": "s:115.21",
+   "look": "card"
+  },
+  {
+   "shot": "C5",
+   "at": "s:117.59"
+  },
+  {
+   "shot": "C6",
+   "at": "s:120.61",
+   "look": "prices"
+  },
+  {
+   "shot": "C7",
+   "at": "s:122.71",
+   "look": "prices"
+  },
+  {
+   "shot": "C8",
+   "at": "s:124.23"
+  },
+  {
+   "shot": "C9",
+   "at": "s:127.57"
+  },
+  {
+   "shot": "C10",
+   "at": "s:128.77"
+  },
+  {
+   "shot": "C11",
+   "at": "s:130.86",
+   "look": "prices"
+  },
+  {
+   "shot": "C12",
+   "at": "s:134.72",
+   "look": "prices"
+  },
+  {
+   "shot": "C13",
+   "at": "s:137.13",
+   "look": "prices"
+  },
+  {
+   "shot": "C14",
+   "at": "s:138.37",
+   "look": "prices"
+  },
+  {
+   "shot": "C15",
+   "at": "s:140.81",
+   "look": "memory"
+  },
+  {
+   "shot": "C16",
+   "at": "s:142.49",
+   "look": "memory"
+  },
+  {
+   "shot": "C17",
+   "at": "s:144.71",
+   "look": "memory"
+  },
+  {
+   "shot": "C18",
+   "at": "s:149.09",
+   "look": "memory"
+  },
+  {
+   "shot": "C19",
+   "at": "s:151.10",
+   "look": "memory"
+  },
+  {
+   "shot": "C20",
+   "at": "s:152.73",
+   "look": "memory"
+  },
+  {
+   "shot": "C21",
+   "at": "s:155.39"
+  },
+  {
+   "shot": "C22",
+   "at": "s:156.68"
+  },
+  {
+   "shot": "C23",
+   "at": "s:158.96"
+  },
+  {
+   "shot": "C24",
+   "at": "s:160.54"
+  },
+  {
+   "shot": "C25",
+   "at": "s:161.97"
+  },
+  {
+   "shot": "D1",
+   "at": "s:165.11"
+  },
+  {
+   "shot": "D2",
+   "at": "s:168.71"
+  },
+  {
+   "shot": "D3",
+   "at": "s:171.50",
+   "look": "card"
+  },
+  {
+   "shot": "D4",
+   "at": "s:173.49",
+   "look": "prices"
+  },
+  {
+   "shot": "D5",
+   "at": "s:175.54"
+  },
+  {
+   "shot": "D6",
+   "at": "s:178.79"
+  },
+  {
+   "shot": "D7",
+   "at": "s:180.64"
+  },
+  {
+   "shot": "D8",
+   "at": "s:183.08"
+  },
+  {
+   "shot": "D9",
+   "at": "s:184.41"
+  },
+  {
+   "shot": "D10",
+   "at": "s:186.69"
+  },
+  {
+   "shot": "D11",
+   "at": "s:187.62"
+  },
+  {
+   "shot": "D12",
+   "at": "s:192.41"
+  },
+  {
+   "shot": "D13",
+   "at": "s:194.12"
+  },
+  {
+   "shot": "D14",
+   "at": "s:195.72"
+  },
+  {
+   "shot": "D15",
+   "at": "s:198.84",
+   "look": "card"
+  },
+  {
+   "shot": "D16",
+   "at": "s:201.18",
+   "look": "card"
+  },
+  {
+   "shot": "D17",
+   "at": "s:203.16",
+   "look": "card"
+  },
+  {
+   "shot": "D18",
+   "at": "s:206.28"
+  },
+  {
+   "shot": "D19",
+   "at": "s:209.52"
+  },
+  {
+   "shot": "D20",
+   "at": "s:213.19"
+  },
+  {
+   "shot": "D21",
+   "at": "s:217.01"
+  },
+  {
+   "shot": "D22",
+   "at": "s:218.86"
+  },
+  {
+   "shot": "E1",
+   "at": "s:221.33"
+  },
+  {
+   "shot": "E2",
+   "at": "s:224.07"
+  },
+  {
+   "shot": "E3",
+   "at": "s:225.44"
+  },
+  {
+   "shot": "E4",
+   "at": "s:227.60"
+  },
+  {
+   "shot": "E5",
+   "at": "s:229.37"
+  },
+  {
+   "shot": "E6",
+   "at": "s:231.36"
+  },
+  {
+   "shot": "E7",
+   "at": "s:235.62"
+  },
+  {
+   "shot": "E8",
+   "at": "s:237.31"
+  },
+  {
+   "shot": "E9",
+   "at": "s:239.82"
+  },
+  {
+   "shot": "E10",
+   "at": "s:241.39"
+  },
+  {
+   "shot": "E11",
+   "at": "s:244.13"
+  },
+  {
+   "shot": "E12",
+   "at": "s:246.13"
+  },
+  {
+   "shot": "E13",
+   "at": "s:249.82"
+  },
+  {
+   "shot": "E14",
+   "at": "s:251.14"
+  },
+  {
+   "shot": "E15",
+   "at": "s:254.02",
+   "look": "card"
+  },
+  {
+   "shot": "E16",
+   "at": "s:255.62",
+   "look": "card"
+  },
+  {
+   "shot": "E17",
+   "at": "s:258.31",
+   "look": "card"
+  },
+  {
+   "shot": "E18",
+   "at": "s:261.28"
+  },
+  {
+   "shot": "E19",
+   "at": "s:264.33"
+  },
+  {
+   "shot": "E20",
+   "at": "s:266.52"
+  },
+  {
+   "shot": "E21",
+   "at": "s:269.88"
+  },
+  {
+   "shot": "E22",
+   "at": "s:272.78"
+  },
+  {
+   "shot": "E23",
+   "at": "s:277.68"
+  },
+  {
+   "shot": "E24",
+   "at": "s:280.60"
+  },
+  {
+   "shot": "E25",
+   "at": "s:284.69"
+  },
+  {
+   "shot": "E26",
+   "at": "s:288.96"
+  }
+ ],
+ "fx": [
+  {
+   "at": "A5+0",
+   "kind": "flash",
+   "color": "#BFFFD6",
+   "o": 0.3
+  },
+  {
+   "at": "A9+0",
+   "kind": "flash",
+   "color": "#BFFFD6",
+   "o": 0.3
+  },
+  {
+   "at": "A10+0",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.35
+  },
+  {
+   "at": "A20+0",
+   "kind": "flash",
+   "color": "#BFFFD6",
+   "o": 0.3
+  },
+  {
+   "at": "A10+0",
+   "kind": "shake",
+   "len": 5,
+   "amp": 5
+  },
+  {
+   "at": "A26+54",
+   "kind": "flash",
+   "color": "#BFFFD6",
+   "o": 0.25
+  },
+  {
+   "at": "B5+16",
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.2
+  },
+  {
+   "at": "B6+14",
+   "kind": "shake",
+   "len": 8,
+   "amp": 6
+  },
+  {
+   "at": "B9+13",
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.22
+  },
+  {
+   "at": "B9+35",
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.22
+  },
+  {
+   "at": "B9+57",
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.26
+  },
+  {
+   "at": "B19+10",
+   "kind": "shake",
+   "len": 40,
+   "amp": 4
+  },
+  {
+   "at": "B20+68",
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.2
+  },
+  {
+   "at": "B26+12",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25
+  },
+  {
+   "at": "B29+30",
+   "kind": "shake",
+   "len": 10,
+   "amp": 8
+  },
+  {
+   "at": "B29+30",
+   "kind": "flash",
+   "color": "#FF6A5A",
+   "o": 0.3
+  },
+  {
+   "at": "C7+22",
+   "kind": "shake",
+   "len": 4,
+   "amp": 5
+  },
+  {
+   "at": "C14+34",
+   "kind": "shake",
+   "len": 4,
+   "amp": 5
+  },
+  {
+   "at": "C25+80",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25
+  },
+  {
+   "at": "E15+22",
+   "kind": "flash",
+   "color": "#BFFFD8",
+   "o": 0.2
+  },
+  {
+   "at": "E24+30",
+   "kind": "flash",
+   "color": "#FFE9A8",
+   "o": 0.14
+  }
+ ]
+}

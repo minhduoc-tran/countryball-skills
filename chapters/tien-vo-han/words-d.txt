@@ -1,0 +1,23 @@
+# chapter D: beats 20-24. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "4 cost: savings"  150.40-159.36 s
+# Và người thiệt nhất lại là những người chẳng làm gì cả. Bà ngoại bạn dành dụm cả đời được một cuốn sổ tiết kiệm. Mỗi lần bạn quẹt thẻ, cuốn sổ đó mua được ít đi một chút.
+Và@150.34 người@150.45 thiệt@150.65 nhất@150.85 lại@151.41 là@151.56 những@151.66 người@151.87 chẳng@152.15 làm@152.36 gì@152.50 cả.@152.61 Bà@153.05 ngoại@153.17 bạn@153.40 dành@153.56 dụm@153.75 cả@153.91 đời@154.11 được@154.27 một@154.46 cuốn@154.75 sổ@155.06 tiết@155.18 kiệm.@155.37 Mỗi@156.17 lần@156.32 bạn@156.48 quẹt@156.63 thẻ,@157.07 cuốn@157.53 sổ@157.74 đó@157.88 mua@158.01 được@158.19 ít@158.40 đi@158.69 một@158.91 chút.@159.08
+
+## beat "4 cost: the suit"  159.91-167.98 s
+# Một tuần sau, có một người đàn ông mặc vest đến gặp bạn. Ông ấy làm ở ngân hàng trung ương. Ông chỉ nói đúng một câu: làm ơn, đừng quẹt nữa.
+Một@159.85 tuần@160.12 sau,@160.35 có@160.84 một@160.96 người@161.12 đàn@161.34 ông@161.50 mặc@161.66 vest@161.90 đến@162.37 gặp@162.53 bạn.@162.69 Ông@163.15 ấy@163.31 làm@163.44 ở@163.60 ngân@163.68 hàng@163.88 trung@164.08 ương.@164.31 Ông@165.03 chỉ@165.21 nói@165.39 đúng@165.57 một@165.78 câu:@165.96 làm@166.54 ơn,@166.79 đừng@167.28 quẹt@167.51 nữa.@167.73
+
+## beat "5 insight"  168.98-182.22 s
+# Lúc đó bạn mới hiểu: tiền tự nó không có giá trị. Tiền chỉ là một lời hứa, rằng ai đó sẽ đổi cho bạn công sức của họ. Hạt gạo người nông dân trồng. Ca mổ của bác sĩ. Ổ bánh mì mà cô bán hàng dậy từ bốn giờ sáng để nướng.
+Lúc@168.91 đó@169.09 bạn@169.24 mới@169.42 hiểu:@169.60 tiền@170.37 tự@170.58 nó@170.72 không@170.85 có@171.10 giá@171.24 trị.@171.41 Tiền@171.92 chỉ@172.15 là@172.33 một@172.47 lời@172.65 hứa,@172.83 rằng@173.31 ai@173.52 đó@173.66 sẽ@173.79 đổi@173.92 cho@174.21 bạn@174.38 công@174.55 sức@174.88 của@175.05 họ.@175.30 Hạt@175.83 gạo@176.02 người@176.20 nông@176.46 dân@176.68 trồng.@176.86 Ca@177.37 mổ@177.55 của@177.72 bác@177.93 sĩ.@178.15 Ổ@178.76 bánh@178.87 mì@179.11 mà@179.26 cô@179.72 bán@179.96 hàng@180.15 dậy@180.39 từ@180.58 bốn@181.09 giờ@181.29 sáng@181.48 để@181.72 nướng.@181.87
+
+## beat "5 cannot make"  182.53-187.65 s
+# Tiền vô hạn không làm ra thêm gạo. Không làm ra thêm bác sĩ. Không làm ra thêm một giờ nào trong ngày.
+Tiền@182.47 vô@182.66 hạn@182.78 không@182.93 làm@183.27 ra@183.42 thêm@183.54 gạo.@183.73 Không@184.38 làm@184.62 ra@184.79 thêm@184.92 bác@185.13 sĩ.@185.30 Không@185.98 làm@186.21 ra@186.37 thêm@186.49 một@186.69 giờ@186.84 nào@187.00 trong@187.16 ngày.@187.39
+
+## beat "6 mom"  188.65-199.34 s
+# Sáng hôm sau, mẹ bạn vẫn dậy sớm, đẩy xe xôi ra đầu ngõ như mọi ngày. Bạn hỏi: con có tiền vô hạn rồi, sao mẹ còn đi bán? Mẹ cười: vì người ta vẫn cần ăn sáng, con ạ.
+Sáng@188.59 hôm@188.83 sau,@189.02 mẹ@189.52 bạn@189.71 vẫn@189.96 dậy@190.21 sớm,@190.46 đẩy@191.01 xe@191.21 xôi@191.37 ra@191.57 đầu@191.72 ngõ@191.93 như@192.13 mọi@192.46 ngày.@192.66 Bạn@193.25 hỏi:@193.44 con@194.13 có@194.30 tiền@194.43 vô@194.64 hạn@194.78 rồi,@194.95 sao@195.42 mẹ@195.62 còn@195.78 đi@195.99 bán?@196.15 Mẹ@196.60 cười:@196.85 vì@197.61 người@197.75 ta@198.01 vẫn@198.15 cần@198.33 ăn@198.51 sáng,@198.65 con@199.02 ạ.@199.18
+
+# chapter ends at s:199.82 (next chapter's first cut, or the episode end)

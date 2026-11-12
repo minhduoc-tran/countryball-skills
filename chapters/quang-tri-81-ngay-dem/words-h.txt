@@ -1,0 +1,39 @@
+# chapter H: beats 43-51. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "31 today"  609.83-624.26 s
+# Hôm nay, Thành cổ Quảng Trị không còn là một pháo đài. Nơi đây là một khu tưởng niệm, được xếp hạng Di tích quốc gia đặc biệt từ năm hai nghìn không trăm mười ba. Ở chính giữa là đài tưởng niệm. Hào nước được khơi lại, cỏ xanh đã phủ lên những nơi từng là hố bom.
+Hôm@609.76 nay,@609.96 Thành@610.46 cổ@610.68 Quảng@610.80 Trị@611.03 không@611.18 còn@611.71 là@611.87 một@611.99 pháo@612.25 đài.@612.44 Nơi@612.92 đây@613.07 là@613.21 một@613.33 khu@613.47 tưởng@613.71 niệm,@613.92 được@614.39 xếp@614.60 hạng@614.77 Di@614.98 tích@615.12 quốc@615.41 gia@615.62 đặc@616.04 biệt@616.30 từ@616.69 năm@616.83 hai@617.00 nghìn@617.17 không@617.51 trăm@617.75 mười@617.96 ba.@618.17 Ở@618.70 chính@618.80 giữa@619.06 là@619.28 đài@619.66 tưởng@619.84 niệm.@620.10 Hào@620.67 nước@620.82 được@621.01 khơi@621.20 lại,@621.39 cỏ@621.84 xanh@621.98 đã@622.21 phủ@622.35 lên@622.61 những@622.80 nơi@623.06 từng@623.50 là@623.72 hố@623.86 bom.@624.01
+
+## beat "31b students"  624.59-631.83 s
+# Gần đó là đài chứng tích dành cho các sinh viên chiến sĩ Thành cổ, những người đã rời giảng đường ra trận, và không bao giờ trở lại lớp học.
+Gần@624.52 đó@624.70 là@624.84 đài@624.98 chứng@625.37 tích@625.63 dành@625.85 cho@626.33 các@626.51 sinh@626.69 viên@626.91 chiến@627.13 sĩ@627.39 Thành@627.53 cổ,@627.79 những@628.23 người@628.47 đã@628.72 rời@628.85 giảng@629.02 đường@629.26 ra@629.50 trận,@629.63 và@630.14 không@630.27 bao@630.60 giờ@630.76 trở@630.93 lại@631.26 lớp@631.43 học.@631.59
+
+## beat "32 no graves"  632.15-639.20 s
+# Người ta vẫn gọi thành cổ là một nghĩa trang không có nấm mộ. Bởi rất nhiều người đã nằm lại nơi đây, mà không ai biết chính xác ở đâu.
+Người@632.08 ta@632.32 vẫn@632.45 gọi@632.62 thành@632.79 cổ@633.03 là@633.66 một@633.79 nghĩa@633.95 trang@634.19 không@634.44 có@634.68 nấm@634.81 mộ.@634.97 Bởi@635.70 rất@635.87 nhiều@636.04 người@636.28 đã@636.52 nằm@636.65 lại@636.82 nơi@636.99 đây,@637.16 mà@637.62 không@637.76 ai@638.01 biết@638.14 chính@638.44 xác@638.69 ở@638.86 đâu.@638.96
+
+## beat "33 lanterns"  639.53-648.61 s
+# Mỗi năm, vào dịp hai mươi bảy tháng bảy, hàng nghìn ngọn hoa đăng được thả trên sông Thạch Hãn. Những đốm nến nhỏ trôi chậm trên mặt nước, như để thắp sáng cho những người lính chưa về.
+Mỗi@639.46 năm,@639.65 vào@640.14 dịp@640.29 hai@640.43 mươi@640.70 bảy@640.88 tháng@641.02 bảy,@641.24 hàng@641.68 nghìn@641.87 ngọn@642.10 hoa@642.30 đăng@642.45 được@642.65 thả@642.92 trên@643.08 sông@643.27 Thạch@643.47 Hãn.@643.69 Những@644.43 đốm@644.67 nến@644.84 nhỏ@645.01 trôi@645.18 chậm@645.39 trên@645.59 mặt@645.80 nước,@645.97 như@646.47 để@646.65 thắp@646.80 sáng@647.02 cho@647.24 những@647.43 người@647.69 lính@647.95 chưa@648.18 về.@648.40
+
+## beat "34 poem"  648.95-661.59 s
+# Ở bến thả hoa bên sông, có khắc bốn câu thơ của một cựu binh Thành cổ, ông Lê Bá Dương. Đò lên Thạch Hãn ơi, chèo nhẹ. Đáy sông còn đó, bạn tôi nằm. Có tuổi hai mươi thành sóng nước. Vỗ yên bờ bãi mãi ngàn năm.
+Ở@648.88 bến@648.98 thả@649.17 hoa@649.35 bên@649.53 sông,@649.72 có@650.24 khắc@650.37 bốn@650.65 câu@650.81 thơ@650.98 của@651.14 một@651.41 cựu@651.65 binh@651.81 Thành@652.02 cổ,@652.25 ông@652.68 Lê@652.89 Bá@653.06 Dương.@653.22 Đò@653.87 lên@654.04 Thạch@654.25 Hãn@654.55 ơi,@654.77 chèo@655.23 nhẹ.@655.47 Đáy@656.01 sông@656.23 còn@656.49 đó,@656.70 bạn@657.17 tôi@657.43 nằm.@657.59 Có@658.24 tuổi@658.37 hai@658.56 mươi@658.72 thành@658.92 sóng@659.15 nước.@659.34 Vỗ@659.86 yên@660.03 bờ@660.26 bãi@660.58 mãi@660.80 ngàn@661.03 năm.@661.30
+
+## beat "34b songs"  662.05-668.86 s
+# Bài thơ ấy sau này được phổ nhạc thành nhiều ca khúc. Và với rất nhiều người, nó đã trở thành lời nhắn chung của cả một thế hệ.
+Bài@661.99 thơ@662.16 ấy@662.34 sau@662.47 này@662.65 được@662.83 phổ@663.04 nhạc@663.38 thành@663.59 nhiều@664.00 ca@664.26 khúc.@664.39 Và@665.21 với@665.34 rất@665.51 nhiều@665.68 người,@665.93 nó@666.48 đã@666.61 trở@666.73 thành@666.90 lời@667.14 nhắn@667.30 chung@667.50 của@667.74 cả@668.12 một@668.34 thế@668.51 hệ.@668.67
+
+## beat "35 film"  669.19-680.76 s
+# Năm hai nghìn không trăm hai mươi lăm, bộ phim Mưa đỏ kể về tám mươi mốt ngày đêm này đã đưa hàng triệu người Việt Nam tới rạp. Và sau đó, rất nhiều người trẻ đã tìm về Quảng Trị, để tận mắt nhìn thấy dòng sông ấy.
+Năm@669.12 hai@669.29 nghìn@669.45 không@669.69 trăm@669.93 hai@670.13 mươi@670.30 lăm,@670.50 bộ@670.96 phim@671.10 Mưa@671.31 đỏ@671.48 kể@671.61 về@672.10 tám@672.23 mươi@672.49 mốt@672.70 ngày@672.88 đêm@673.09 này@673.26 đã@673.43 đưa@673.95 hàng@674.12 triệu@674.33 người@674.58 Việt@674.83 Nam@675.04 tới@675.21 rạp.@675.46 Và@675.98 sau@676.14 đó,@676.36 rất@676.82 nhiều@676.98 người@677.21 trẻ@677.44 đã@677.61 tìm@677.85 về@678.08 Quảng@678.21 Trị,@678.44 để@678.90 tận@679.05 mắt@679.24 nhìn@679.60 thấy@679.84 dòng@680.07 sông@680.31 ấy.@680.54
+
+## beat "36 ending"  680.81-696.87 s
+# Hơn năm mươi năm đã trôi qua. Hai bờ Thạch Hãn giờ được nối với nhau bằng những cây cầu. Những con số có thể khác nhau tùy theo người kể. Nhưng có một điều chắc chắn. Ở nơi đó, rất nhiều người đã mãi mãi ở tuổi hai mươi. Vì thế, mỗi khi đi qua dòng sông ấy, xin hãy chèo thật nhẹ.
+Hơn@680.75 năm@680.92 mươi@681.09 năm@681.30 đã@681.47 trôi@681.61 qua.@681.81 Hai@682.36 bờ@682.54 Thạch@682.68 Hãn@682.94 giờ@683.13 được@683.31 nối@683.53 với@683.71 nhau@683.89 bằng@684.12 những@684.75 cây@685.01 cầu.@685.19 Những@685.88 con@686.13 số@686.30 có@686.43 thể@686.57 khác@686.74 nhau@686.95 tùy@687.27 theo@687.44 người@687.65 kể.@687.90 Nhưng@688.56 có@688.79 một@688.92 điều@689.09 chắc@689.29 chắn.@689.58 Ở@690.09 nơi@690.22 đó,@690.45 rất@690.93 nhiều@691.10 người@691.35 đã@691.60 mãi@691.74 mãi@691.91 ở@692.08 tuổi@692.25 hai@692.46 mươi.@692.64 Vì@693.30 thế,@693.51 mỗi@694.09 khi@694.35 đi@694.53 qua@694.68 dòng@694.87 sông@695.09 ấy,@695.32 xin@695.76 hãy@695.94 chèo@696.11 thật@696.33 nhẹ.@696.62
+
+## beat "37 cta"  697.18-703.19 s
+# Bạn đã từng đến Thành cổ Quảng Trị, hay thả một ngọn hoa đăng trên sông Thạch Hãn chưa? Kể cho mình nghe ở phần bình luận nhé.
+Bạn@697.12 đã@697.28 từng@697.40 đến@697.60 Thành@697.75 cổ@697.98 Quảng@698.11 Trị,@698.34 hay@698.80 thả@698.98 một@699.15 ngọn@699.33 hoa@699.55 đăng@699.73 trên@699.95 sông@700.17 Thạch@700.38 Hãn@700.64 chưa?@700.82 Kể@701.56 cho@701.69 mình@701.85 nghe@702.06 ở@702.26 phần@702.35 bình@702.56 luận@702.76 nhé.@702.96
+
+# chapter ends at s:707.19 (next chapter's first cut, or the episode end)

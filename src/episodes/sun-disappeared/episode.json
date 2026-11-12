@@ -1,0 +1,2565 @@
+{
+ "id": "SunDisappeared",
+ "slug": "sun-disappeared",
+ "topic": "What if the Sun disappeared?",
+ "title": [
+  "WHAT IF THE SUN",
+  "JUST DISAPPEARED?"
+ ],
+ "accent": "DISAPPEARED",
+ "power": {
+  "word": "8:20",
+  "rule": "the Sun vanishes instantly, no explosion",
+  "look": "a countdown chip 08:20 while the old light is still arriving; the world goes dark at 0"
+ },
+ "script": [
+  {
+   "beat": "0 cold open, demo 1",
+   "text": "You're at the beach. The Sun is warm on your face."
+  },
+  {
+   "beat": "0 cold open, demo 2",
+   "text": "Somewhere, a kid is flying a kite. A cat is napping in a sunbeam."
+  },
+  {
+   "beat": "0 cold open, demo 3",
+   "text": "None of you know it yet. The Sun is already gone."
+  },
+  {
+   "beat": "0 title",
+   "text": "What if the Sun just disappeared?"
+  },
+  {
+   "beat": "1 rule",
+   "text": "No explosion. No warning. One moment it's there, and the next, it simply isn't. And for eight minutes and twenty seconds, nothing changes at all."
+  },
+  {
+   "beat": "1 light delay",
+   "text": "That's how long sunlight takes to cross the hundred and fifty million kilometers to Earth. The light already on its way keeps arriving, like a letter from someone who has already left."
+  },
+  {
+   "beat": "1 gravity delay",
+   "text": "Gravity is just as patient. Changes in gravity travel at the speed of light too. So for eight minutes, Earth keeps circling a Sun that isn't there anymore."
+  },
+  {
+   "beat": "2 lights out",
+   "text": "Then, at minute eight, the lights go out. The sky turns black in the middle of the day, and stars appear over your lunch break."
+  },
+  {
+   "beat": "2 moon",
+   "text": "One second later, the Moon vanishes too. It never had any light of its own. It was only ever a mirror for the Sun."
+  },
+  {
+   "beat": "2 jupiter",
+   "text": "But look up. Jupiter is still shining. Its sunlight left before the Sun vanished, and it takes more than an hour to bounce all the way back to us. For a little while, Jupiter is the brightest thing in the sky. Then it fades too."
+  },
+  {
+   "beat": "2 earth flies off",
+   "text": "And Earth? With nothing left to circle, it flies off in a straight line, at about a hundred and seven thousand kilometers per hour. Every hour, you drift another hundred thousand kilometers into the dark."
+  },
+  {
+   "beat": "2 one year away",
+   "text": "After one year, Earth would be about nine hundred and forty million kilometers from where the Sun used to be. That's farther than Jupiter is from the Sun today."
+  },
+  {
+   "beat": "3 fun: milky way",
+   "text": "At first, it's almost beautiful. For the first time in history, every city on Earth can see the Milky Way at noon. Astronomers have never had a better day."
+  },
+  {
+   "beat": "3 fun: perks",
+   "text": "There are perks. No sunburns. No sweaty summer afternoons. Your ice cream never melts. Then again, soon nothing will melt."
+  },
+  {
+   "beat": "3 fun: still on",
+   "text": "The power is still on. Your phone still works. The streetlights glow all day long. For now, it just feels like the longest night of your life."
+  },
+  {
+   "beat": "4 cost: cold",
+   "text": "Then the cold arrives. With no sunlight, the planet starts losing its heat to space. Scientists estimate that within a week, the average temperature on Earth's surface would fall below minus eighteen degrees Celsius. Within a year, minus seventy three."
+  },
+  {
+   "beat": "4 cost: plants",
+   "text": "Plants stop making food the moment the light goes out. Small plants die within weeks. Some big trees, living on their stored sugar, could hold on for years. But everything that eats plants starts to starve, and then everything that eats those animals."
+  },
+  {
+   "beat": "4 cost: weather",
+   "text": "Solar panels go dead. The wind slowly fades away, because the Sun was the engine that stirred the air. Rain stops falling. Snow stops falling too."
+  },
+  {
+   "beat": "4 cost: oceans",
+   "text": "The oceans freeze over, but only on top. A thick lid of ice keeps the water underneath from freezing, warmed from below by Earth's own heat. The deep ocean could stay liquid for a very, very long time. That's real."
+  },
+  {
+   "beat": "5 power: governments",
+   "text": "Every government on Earth scrambles. There's a man in a suit on every screen, telling everyone to stay calm. Nobody does."
+  },
+  {
+   "beat": "5 power: heat",
+   "text": "The places that survive are the ones with their own heat. Iceland already heats about nine out of ten homes with hot water from underground. Nuclear power plants don't need the Sun at all. Cities start moving underground, around reactors and hot springs."
+  },
+  {
+   "beat": "5 power: vents",
+   "text": "And deep in the ocean, around volcanic vents, tiny creatures that never needed sunlight keep living, as if nothing happened at all."
+  },
+  {
+   "beat": "6 sister",
+   "text": "Back home, your little sister asks the one question nobody can answer. Is the Sun coming back?"
+  },
+  {
+   "beat": "6 choice",
+   "text": "Your family has a heater, and enough fuel for one month. The family next door has nothing. They're knocking. Do you open the door?"
+  },
+  {
+   "beat": "6 mom",
+   "text": "Your mom looks at you. She's leaving it up to you."
+  },
+  {
+   "beat": "7 ending: drift",
+   "text": "Out in space, Earth keeps drifting. A cold, dark world with no star of its own. Astronomers think our galaxy may hold billions of planets just like that, wandering alone between the stars. Now we would be one of them."
+  },
+  {
+   "beat": "7 question",
+   "text": "So here's the thing. If the Sun disappeared right now, you would still have eight minutes of sunlight left. How would you spend them?"
+  },
+  {
+   "beat": "7 last minutes",
+   "text": "Eight minutes. Enough for one last walk outside. One last phone call. One last look at a blue sky."
+  },
+  {
+   "beat": "7 call to comments",
+   "text": "Tell us in the comments. And if you'd rather keep the Sun, hit subscribe. We'll keep it shining."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Sunlight takes about eight minutes and twenty seconds to reach Earth across about 150 million km.",
+   "working": "1 AU = 149.6 million km; / 299,792 km/s = 499 s = 8 min 19 s.",
+   "source": "IAU astronomical unit; speed of light"
+  },
+  {
+   "claim": "Changes in gravity travel at the speed of light, so Earth keeps orbiting for ~8 minutes.",
+   "working": "GW170817: gravitational waves and gamma rays from the same neutron-star merger arrived 1.7 s apart after 130 million years, fixing the speed of gravity to within ~1e-15 of c.",
+   "source": "LIGO/Virgo & Fermi, Astrophysical Journal Letters 848 (2017)"
+  },
+  {
+   "claim": "The Moon goes dark about one second later.",
+   "working": "Moon distance ~384,400 km = 1.28 light-seconds.",
+   "source": "NASA Moon fact sheet"
+  },
+  {
+   "claim": "Jupiter keeps shining for more than an hour.",
+   "working": "Sun-Jupiter 778 million km = 43 min of light; Jupiter-Earth at least 588 million km = 33 min; the last reflected sunlight arrives at least ~76 min after the Sun vanishes.",
+   "source": "NASA planetary fact sheets"
+  },
+  {
+   "claim": "Earth flies off at about 107,000 km/h; ~940 million km in a year, farther than Jupiter is from the Sun.",
+   "working": "Orbital speed 29.78 km/s x 3,600 = 107,208 km/h; x 31,557,600 s = 9.4e8 km > 7.78e8 km (Sun-Jupiter).",
+   "source": "NASA Earth fact sheet"
+  },
+  {
+   "claim": "Within a week the average surface temperature would fall below -18 °C; within a year, -73 °C.",
+   "working": "Estimates by planetary scientists (e.g. David Stevenson, Caltech) quoted in popular science coverage; stated in the script as 'scientists estimate'.",
+   "source": "Live Science, 'What would happen if the sun disappeared?'; Scientific American"
+  },
+  {
+   "claim": "Photosynthesis stops; small plants die in weeks; some large trees could survive for years on stored sugar.",
+   "working": "Plants without light exhaust stored carbohydrates; large trees have large reserves (experts quoted say decades; script says 'years', the conservative end).",
+   "source": "Live Science, same article (University of British Columbia plant physiologist quoted)"
+  },
+  {
+   "claim": "Winds fade without the Sun; weather is solar-driven.",
+   "working": "Atmospheric circulation is driven by uneven solar heating; without it, temperature gradients and winds decay.",
+   "source": "basic atmospheric physics"
+  },
+  {
+   "claim": "Oceans freeze on top only; the deep ocean could stay liquid for a very long time, kept warm by Earth's internal heat.",
+   "working": "Ice is an insulator; geothermal heat flux (~0.09 W/m2) keeps water under a thick ice lid liquid for a very long time (Stevenson 1999, on planets ejected from their star systems).",
+   "source": "D. J. Stevenson, 'Life-sustaining planets in interstellar space?', Nature 400 (1999)"
+  },
+  {
+   "claim": "Iceland heats about nine out of ten homes with geothermal hot water.",
+   "working": "About 90% of Icelandic homes are heated with geothermal energy.",
+   "source": "Orkustofnun (National Energy Authority of Iceland)"
+  },
+  {
+   "claim": "Hydrothermal vent ecosystems don't depend on sunlight.",
+   "working": "Vent communities are based on chemosynthesis by bacteria using hydrogen sulfide.",
+   "source": "NOAA Ocean Exploration"
+  },
+  {
+   "claim": "Our galaxy may hold billions of rogue planets.",
+   "working": "Microlensing surveys (Sumi et al. 2011; Mróz et al. 2017) suggest free-floating planets may be as common as stars or more: billions at least.",
+   "source": "Nature 473 (2011); Nature 548 (2017); NASA Roman Space Telescope projections"
+  }
+ ],
+ "cast": [
+  "pipHood",
+  "mo",
+  "sis",
+  "mom",
+  "suit"
+ ],
+ "voice": {
+  "provider": "lucylab",
+  "userVoiceId": "4cVrzyhHkh4Bxy16qtZcNv",
+  "speed": 1
+ },
+ "gaps": {
+  "word": 0.12,
+  "comma": 0.35,
+  "sentence": 0.75,
+  "question": 0.95
+ },
+ "holds": {
+  "disappeared|No": 1.2,
+  "anymore|Then": 1.2,
+  "today|At": 1.2,
+  "life|Then": 1.2,
+  "real|Every": 1.2,
+  "all|Back": 1.2,
+  "you|Out": 1.2,
+  "them|So": 1.2,
+  "sky|Tell": 1.2
+ },
+ "tail": 3.0,
+ "sound": {
+  "clips": {
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+    0.7
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "shatter": [
+    "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
+    1.3
+   ],
+   "rewind": [
+    "a VHS tape rewinding fast, high whirring tape squeal with mechanical hum",
+    1.6
+   ],
+   "catch": [
+    "a hand catching a ceramic mug mid-air, soft slap and thud",
+    0.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "cat_yowl": [
+    "an angry cat yowl and hiss, short and startled",
+    0.9
+   ],
+   "tumble": [
+    "a cartoon character tumbling down wooden stairs, a quick series of bumps and thuds",
+    1.3
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "dizzy": [
+    "cartoon dizzy birds tweeting in a circle after a bonk",
+    1.4
+   ],
+   "big_step": [
+    "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+    0.7
+   ],
+   "cat_chirp": [
+    "a cat making a short curious chirp meow",
+    0.6
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "shades": [
+    "cool sunglasses sliding on with a swoosh and a bright metallic glint",
+    0.9
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "clock_back": [
+    "a clock ticking very fast then spinning backwards, mechanical ratchet whirr",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "crack": [
+    "glass cracking sharply, the crack spreading across a pane",
+    1.1
+   ],
+   "bulb_pop": [
+    "a small light bulb popping out, a tiny glass tink and fizz",
+    0.5
+   ],
+   "rewind_start": [
+    "a quick reverse swoosh, like a sound being sucked backwards",
+    0.7
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "class_murmur": [
+    "a quiet classroom murmur, kids whispering, chairs shuffling",
+    2.0
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "copy_click": [
+    "a crisp satisfying computer copy click with a tiny soft digital chime, short",
+    0.5
+   ],
+   "paste_pop": [
+    "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+    0.7
+   ],
+   "paper_land": [
+    "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+    0.7
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "cookie_crunch": [
+    "one crunchy bite into a chocolate chip cookie, close up",
+    0.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "power_hum": [
+    "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+    3.0
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "phone_ring": [
+    "synth: a modern phone ringback tone, two soft electronic burrs (generated locally with numpy)",
+    1.2
+   ],
+   "ting": [
+    "synth: bank app notification chime, two bright bell notes (generated locally with numpy)",
+    0.5
+   ],
+   "score": [
+    "synth: sun-disappeared score, tools/synth-score.py",
+    269.19
+   ]
+  },
+  "events": [
+   [
+    "A1",
+    "roof_wind",
+    0.06,
+    "onset",
+    "A9"
+   ],
+   [
+    "A5+8",
+    "cat_chirp",
+    0.08
+   ],
+   [
+    "A9+3",
+    "title_boom",
+    0.14
+   ],
+   [
+    "A13+44",
+    "pop",
+    0.08
+   ],
+   [
+    "A17+57",
+    "sparkle",
+    0.1
+   ],
+   [
+    "A19+30",
+    "paper_land",
+    0.16
+   ],
+   [
+    "B1",
+    "power_hum",
+    0.1,
+    "onset",
+    "B2"
+   ],
+   [
+    "B1",
+    "roof_wind",
+    0.08,
+    "onset",
+    "B3"
+   ],
+   [
+    "B2+24",
+    "switch_off",
+    0.22
+   ],
+   [
+    "B2+26",
+    "drone_hit",
+    0.24,
+    "onset",
+    "B3"
+   ],
+   [
+    "B3+10",
+    "gasp",
+    0.1
+   ],
+   [
+    "B4",
+    "roof_wind",
+    0.1,
+    "onset",
+    "B6"
+   ],
+   [
+    "B4+18",
+    "sparkle",
+    0.08
+   ],
+   [
+    "B5+62",
+    "power_down",
+    0.05
+   ],
+   [
+    "B8",
+    "roof_wind",
+    0.08,
+    "onset",
+    "B9"
+   ],
+   [
+    "B9+14",
+    "sparkle",
+    0.14
+   ],
+   [
+    "B12",
+    "roof_wind",
+    0.08,
+    "onset",
+    "B14"
+   ],
+   [
+    "B12+34",
+    "sparkle",
+    0.12
+   ],
+   [
+    "B13+30",
+    "power_down",
+    0.08
+   ],
+   [
+    "B15+10",
+    "fall_whoosh",
+    0.1
+   ],
+   [
+    "B17",
+    "roof_wind",
+    0.08,
+    "onset",
+    "B18"
+   ],
+   [
+    "C1",
+    "roof_wind",
+    0.1,
+    "onset",
+    "C10"
+   ],
+   [
+    "C6+66",
+    "land",
+    0.1
+   ],
+   [
+    "C9+28",
+    "gulp",
+    0.14
+   ],
+   [
+    "C9+50",
+    "crack",
+    0.1
+   ],
+   [
+    "C10",
+    "power_hum",
+    0.08,
+    "onset",
+    "C11"
+   ],
+   [
+    "C11+2",
+    "ting",
+    0.1
+   ],
+   [
+    "C12",
+    "roof_wind",
+    0.08,
+    "onset",
+    "C13"
+   ],
+   [
+    "C13",
+    "room_tone",
+    0.1,
+    "onset",
+    "C15"
+   ],
+   [
+    "C15",
+    "roof_wind",
+    0.12,
+    "onset",
+    "C17"
+   ],
+   [
+    "C21+64",
+    "crack",
+    0.12
+   ],
+   [
+    "D1+16",
+    "switch_off",
+    0.1
+   ],
+   [
+    "D2+3",
+    "power_down",
+    0.08
+   ],
+   [
+    "D3",
+    "roof_wind",
+    0.15,
+    "onset",
+    "D7"
+   ],
+   [
+    "D7+5",
+    "crack",
+    0.18
+   ],
+   [
+    "D7+30",
+    "crack",
+    0.12
+   ],
+   [
+    "D12+3",
+    "drone_hit",
+    0.12
+   ],
+   [
+    "D15+2",
+    "drone_hit",
+    0.06
+   ],
+   [
+    "D22+6",
+    "pop",
+    0.05
+   ],
+   [
+    "E1",
+    "room_tone",
+    0.08,
+    "onset",
+    "E12"
+   ],
+   [
+    "E1",
+    "power_hum",
+    0.05,
+    "onset",
+    "E8"
+   ],
+   [
+    "E4+3",
+    "gasp",
+    0.1
+   ],
+   [
+    "E6+46",
+    "clink",
+    0.08
+   ],
+   [
+    "E8+14",
+    "step",
+    0.14
+   ],
+   [
+    "E8+22",
+    "step",
+    0.12
+   ],
+   [
+    "E8+30",
+    "step",
+    0.1
+   ],
+   [
+    "E17",
+    "roof_wind",
+    0.08,
+    "onset",
+    "E21"
+   ],
+   [
+    "E21+38",
+    "ting",
+    0.1
+   ],
+   [
+    "E23",
+    "ding",
+    0.09
+   ],
+   [
+    "E23+8",
+    "roof_wind",
+    0.12,
+    "onset"
+   ]
+  ],
+  "repeats": [
+   {
+    "at": "A10",
+    "clip": "counter_tick",
+    "n": 14,
+    "every": 30,
+    "gain": [
+     0.04,
+     0.06
+    ]
+   },
+   {
+    "at": "B16+8",
+    "clip": "counter_tick",
+    "n": 12,
+    "every": 3,
+    "gain": [
+     0.06,
+     0.1
+    ],
+    "pitch": [
+     0.95,
+     1.15
+    ]
+   },
+   {
+    "at": "B17+6",
+    "clip": "counter_tick",
+    "n": 14,
+    "every": 7,
+    "gain": [
+     0.05,
+     0.09
+    ],
+    "pitch": [
+     0.95,
+     1.1
+    ]
+   },
+   {
+    "at": "B19+22",
+    "clip": "counter_tick",
+    "n": 10,
+    "every": 5,
+    "gain": [
+     0.05,
+     0.09
+    ],
+    "pitch": [
+     0.95,
+     1.1
+    ]
+   },
+   {
+    "at": "C19+2",
+    "clip": "counter_tick",
+    "n": 10,
+    "every": 5,
+    "gain": [
+     0.03,
+     0.05
+    ]
+   },
+   {
+    "at": "C21+2",
+    "clip": "counter_tick",
+    "n": 14,
+    "every": 5,
+    "gain": [
+     0.03,
+     0.05
+    ]
+   },
+   {
+    "at": "D22+14",
+    "clip": "pop",
+    "n": 4,
+    "every": 22,
+    "gain": [
+     0.03,
+     0.05
+    ],
+    "pitch": [
+     0.8,
+     1.0
+    ]
+   },
+   {
+    "at": "E20+2",
+    "clip": "step",
+    "n": 6,
+    "every": 9,
+    "gain": [
+     0.04,
+     0.07
+    ],
+    "pitch": [
+     0.9,
+     1.1
+    ]
+   }
+  ],
+  "music": {
+   "clip": "score"
+  },
+  "levels": {
+   "sfx_lu": -9.5,
+   "music_lu": -14
+  },
+  "score": [
+   {
+    "kind": "pluck",
+    "from": "0 cold open, demo 1",
+    "to": "0 cold open, demo 3",
+    "chords": [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    "bpm": 96,
+    "gain": 0.26
+   },
+   {
+    "kind": "pad",
+    "from": "0 cold open, demo 1",
+    "to": "0 title",
+    "chords": [
+     "C",
+     "F"
+    ],
+    "every": 4,
+    "gain": 0.1
+   },
+   {
+    "kind": "pad",
+    "from": "0 cold open, demo 3",
+    "to": "1 rule",
+    "chords": [
+     "Am",
+     "E"
+    ],
+    "every": 3,
+    "gain": 0.18,
+    "bright": 7
+   },
+   {
+    "kind": "drone",
+    "from": "1 rule",
+    "to": "2 lights out",
+    "gain": 0.09
+   },
+   {
+    "kind": "heartbeat",
+    "from": "1 rule",
+    "from_off": 1,
+    "to": "2 lights out",
+    "to_off": -0.3,
+    "bpm": 70,
+    "gain": 0.2
+   },
+   {
+    "kind": "bells",
+    "from": "1 light delay",
+    "to": "2 lights out",
+    "to_off": -1,
+    "notes": [
+     81,
+     null,
+     null,
+     null,
+     76,
+     null,
+     null,
+     null
+    ],
+    "step": 0.5,
+    "gain": 0.04
+   },
+   {
+    "kind": "pad",
+    "from": "2 lights out",
+    "from_off": 0.6,
+    "to": "3 fun: milky way",
+    "chords": [
+     "Am",
+     "F",
+     "Dm",
+     "E"
+    ],
+    "every": 5,
+    "gain": 0.14
+   },
+   {
+    "kind": "bells",
+    "from": "2 moon",
+    "to": "3 fun: milky way",
+    "notes": [
+     88,
+     null,
+     null,
+     83,
+     null,
+     null,
+     null,
+     86,
+     null,
+     null,
+     null,
+     null
+    ],
+    "step": 0.45,
+    "gain": 0.035,
+    "decay": 2.2
+   },
+   {
+    "kind": "pad",
+    "from": "3 fun: milky way",
+    "to": "4 cost: cold",
+    "chords": [
+     "F",
+     "C",
+     "G",
+     "Am"
+    ],
+    "every": 5,
+    "gain": 0.15
+   },
+   {
+    "kind": "bells",
+    "from": "3 fun: milky way",
+    "to": "4 cost: cold",
+    "to_off": -1,
+    "notes": [
+     84,
+     null,
+     88,
+     null,
+     91,
+     null,
+     88,
+     null,
+     86,
+     null,
+     null,
+     null
+    ],
+    "step": 0.42,
+    "gain": 0.045,
+    "decay": 1.8
+   },
+   {
+    "kind": "drone",
+    "from": "4 cost: cold",
+    "from_off": -0.3,
+    "to": "5 power: vents",
+    "gain": 0.1
+   },
+   {
+    "kind": "heartbeat",
+    "from": "4 cost: cold",
+    "to": "4 cost: oceans",
+    "bpm": 58,
+    "gain": 0.18
+   },
+   {
+    "kind": "pad",
+    "from": "4 cost: oceans",
+    "to": "6 sister",
+    "chords": [
+     "Am",
+     "Dm",
+     "E",
+     "Am"
+    ],
+    "every": 5,
+    "gain": 0.12
+   },
+   {
+    "kind": "bells",
+    "from": "5 power: vents",
+    "to": "6 sister",
+    "notes": [
+     72,
+     null,
+     76,
+     null,
+     79,
+     null,
+     null,
+     null
+    ],
+    "step": 0.7,
+    "gain": 0.04,
+    "decay": 2.0
+   },
+   {
+    "kind": "pad",
+    "from": "6 sister",
+    "to": "7 question",
+    "chords": [
+     "Am",
+     "F",
+     "C",
+     "E"
+    ],
+    "every": 5,
+    "gain": 0.13
+   },
+   {
+    "kind": "bells",
+    "from": "6 sister",
+    "from_off": 1,
+    "to": "7 ending: drift",
+    "notes": [
+     69,
+     72,
+     76,
+     74,
+     72,
+     71,
+     69,
+     null,
+     64,
+     67,
+     69,
+     71,
+     72,
+     null,
+     71,
+     67
+    ],
+    "step": 0.62,
+    "gain": 0.06,
+    "decay": 1.4
+   },
+   {
+    "kind": "pad",
+    "from": "7 question",
+    "to": "END",
+    "chords": [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    "every": 4,
+    "gain": 0.15
+   },
+   {
+    "kind": "pluck",
+    "from": "7 last minutes",
+    "to": "END",
+    "to_off": -2,
+    "chords": [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    "bpm": 90,
+    "gain": 0.22
+   }
+  ]
+ },
+ "shots": [
+  {
+   "id": "A1",
+   "file": "shots-cha-sun-cold-open",
+   "size": "wide",
+   "set": "beach",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "A2",
+   "file": "shots-cha-sun-cold-open",
+   "size": "close",
+   "set": "beach",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "A3",
+   "file": "shots-cha-sun-cold-open",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "A4",
+   "file": "shots-cha-sun-cold-open",
+   "size": "close",
+   "set": "rooftop",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "A5",
+   "file": "shots-cha-sun-cold-open",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "A6",
+   "file": "shots-cha-sun-cold-open",
+   "size": "close",
+   "set": "kitchen",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "A7",
+   "file": "shots-cha-sun-cold-open",
+   "size": "medium",
+   "set": "beach",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "A8",
+   "file": "shots-cha-sun-cold-open",
+   "size": "close",
+   "set": "rooftop",
+   "key": 40,
+   "note": ""
+  },
+  {
+   "id": "A9",
+   "file": "shots-cha-sun-cold-open",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 90,
+   "note": ""
+  },
+  {
+   "id": "A10",
+   "file": "shots-cha-sun-schematics",
+   "size": "insert",
+   "set": "schematic",
+   "key": 32,
+   "note": ""
+  },
+  {
+   "id": "A11",
+   "file": "shots-cha-sun-schematics",
+   "size": "insert",
+   "set": "schematic",
+   "key": 28,
+   "note": ""
+  },
+  {
+   "id": "A12",
+   "file": "shots-cha-sun-schematics",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "A13",
+   "file": "shots-cha-sun-schematics",
+   "size": "insert",
+   "set": "schematic",
+   "key": 45,
+   "note": ""
+  },
+  {
+   "id": "A14",
+   "file": "shots-cha-sun-beach-and-letter",
+   "size": "wide",
+   "set": "beach",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "A15",
+   "file": "shots-cha-sun-beach-and-letter",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "A16",
+   "file": "shots-cha-sun-schematics",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "A17",
+   "file": "shots-cha-sun-schematics",
+   "size": "insert",
+   "set": "schematic",
+   "key": 60,
+   "note": ""
+  },
+  {
+   "id": "A18",
+   "file": "shots-cha-sun-schematics",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "A19",
+   "file": "shots-cha-sun-beach-and-letter",
+   "size": "insert",
+   "set": "hall",
+   "key": 40,
+   "note": ""
+  },
+  {
+   "id": "A20",
+   "file": "shots-cha-sun-schematics",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "A21",
+   "file": "shots-cha-sun-schematics",
+   "size": "insert",
+   "set": "schematic",
+   "key": 85,
+   "note": ""
+  },
+  {
+   "id": "A22",
+   "file": "shots-cha-sun-schematics",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "A23",
+   "file": "shots-cha-sun-schematics",
+   "size": "insert",
+   "set": "schematic",
+   "key": 60,
+   "note": ""
+  },
+  {
+   "id": "B1",
+   "file": "shots-chb-lights-out",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "dusk rooftop, tiny Pip with banh mi, Sun still up"
+  },
+  {
+   "id": "B2",
+   "file": "shots-chb-lights-out",
+   "size": "close",
+   "set": "rooftop",
+   "key": 30,
+   "note": "face lit by the Sun; on \"out\" Sun winks out, face goes dark, rim blue"
+  },
+  {
+   "id": "B3",
+   "file": "shots-chb-lights-out",
+   "size": "wide",
+   "set": "street",
+   "key": 50,
+   "note": "noon street goes to night, neighbours look up"
+  },
+  {
+   "id": "B4",
+   "file": "shots-chb-lights-out",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 60,
+   "note": "low angle, Pip mouth open, bite of banh mi, stars appear"
+  },
+  {
+   "id": "B5",
+   "file": "shots-chb-moon-and-jupiter",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 50,
+   "note": "night rooftop, Moon hangs then blinks out"
+  },
+  {
+   "id": "B6",
+   "file": "shots-chb-moon-and-jupiter",
+   "size": "insert",
+   "set": "schematic",
+   "key": 50,
+   "note": "Moon has no light of its own: bulb crossed"
+  },
+  {
+   "id": "B7",
+   "file": "shots-chb-moon-and-jupiter",
+   "size": "insert",
+   "set": "schematic",
+   "key": 60,
+   "note": "Sun(gone) -> Moon mirror -> Earth, 1 second"
+  },
+  {
+   "id": "B8",
+   "file": "shots-chb-moon-and-jupiter",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 30,
+   "note": "Pip points up: but look up"
+  },
+  {
+   "id": "B9",
+   "file": "shots-chb-moon-and-jupiter",
+   "size": "closeup",
+   "set": "sky",
+   "key": 50,
+   "note": "bright point JUPITER label, pointing finger"
+  },
+  {
+   "id": "B10",
+   "file": "shots-chb-moon-and-jupiter",
+   "size": "insert",
+   "set": "schematic",
+   "key": 60,
+   "note": "last sunlight Sun->Jupiter 43 min"
+  },
+  {
+   "id": "B11",
+   "file": "shots-chb-moon-and-jupiter",
+   "size": "insert",
+   "set": "schematic",
+   "key": 90,
+   "note": "bounce to Earth +33 min, > 1 HOUR"
+  },
+  {
+   "id": "B12",
+   "file": "shots-chb-moon-and-jupiter",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 100,
+   "note": "Jupiter brightest, Pip pointing, slow push"
+  },
+  {
+   "id": "B13",
+   "file": "shots-chb-moon-and-jupiter",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 45,
+   "note": "Jupiter fades, Pip lowers arm"
+  },
+  {
+   "id": "B14",
+   "file": "shots-chb-earth-flies-off",
+   "size": "insert",
+   "set": "schematic",
+   "key": 70,
+   "note": "orbit around dead Sun, Earth circles"
+  },
+  {
+   "id": "B15",
+   "file": "shots-chb-earth-flies-off",
+   "size": "insert",
+   "set": "schematic",
+   "key": 12,
+   "note": "Earth leaves along straight tangent"
+  },
+  {
+   "id": "B16",
+   "file": "shots-chb-earth-flies-off",
+   "size": "insert",
+   "set": "schematic",
+   "key": 90,
+   "note": "Earth + speed lines, 107,000 km/h"
+  },
+  {
+   "id": "B17",
+   "file": "shots-chb-earth-flies-off",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 90,
+   "note": "Pip under black sky, +100,000 km every hour counter"
+  },
+  {
+   "id": "B18",
+   "file": "shots-chb-earth-flies-off",
+   "size": "wide",
+   "set": "schematic",
+   "key": 55,
+   "note": "1 YEAR: Earth flies out past Jupiter ring"
+  },
+  {
+   "id": "B19",
+   "file": "shots-chb-earth-flies-off",
+   "size": "insert",
+   "set": "schematic",
+   "key": 110,
+   "note": "940,000,000 km dimension line"
+  },
+  {
+   "id": "B20",
+   "file": "shots-chb-earth-flies-off",
+   "size": "insert",
+   "set": "schematic",
+   "key": 90,
+   "note": "Jupiter orbit 778M km vs Earth 940M: FARTHER"
+  },
+  {
+   "id": "C1",
+   "file": "shots-chc-milky-way-and-perks",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 60,
+   "note": "rooftop sunGone, milky way, Pip lying"
+  },
+  {
+   "id": "C2",
+   "file": "shots-chc-milky-way-and-perks",
+   "size": "close",
+   "set": "sky",
+   "key": 40,
+   "note": "Pip face under galaxy"
+  },
+  {
+   "id": "C3",
+   "file": "shots-chc-milky-way-and-perks",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 50,
+   "note": "city under galaxy, 12:00 chip"
+  },
+  {
+   "id": "C4",
+   "file": "shots-chc-milky-way-and-perks",
+   "size": "medium",
+   "set": "sky",
+   "key": 40,
+   "note": "clock tower 12:00"
+  },
+  {
+   "id": "C5",
+   "file": "shots-chc-milky-way-and-perks",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 40,
+   "note": "astronomer dancing"
+  },
+  {
+   "id": "C6",
+   "file": "shots-chc-milky-way-and-perks",
+   "size": "medium",
+   "set": "beach",
+   "key": 50,
+   "note": "dark beach, sunscreen tossed"
+  },
+  {
+   "id": "C7",
+   "file": "shots-chc-milky-way-and-perks",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 30,
+   "note": "dry, sweat drop crossed"
+  },
+  {
+   "id": "C8",
+   "file": "shots-chc-milky-way-and-perks",
+   "size": "macro",
+   "set": "sky",
+   "key": 30,
+   "note": "perfect cone in hand"
+  },
+  {
+   "id": "C9",
+   "file": "shots-chc-milky-way-and-perks",
+   "size": "medium",
+   "set": "sky",
+   "key": 50,
+   "note": "cone frosts, gulp"
+  },
+  {
+   "id": "C10",
+   "file": "shots-chc-power-and-cold",
+   "size": "medium",
+   "set": "study",
+   "key": 30,
+   "note": "power on"
+  },
+  {
+   "id": "C11",
+   "file": "shots-chc-power-and-cold",
+   "size": "macro",
+   "set": "sky",
+   "key": 30,
+   "note": "phone 12:30 PM"
+  },
+  {
+   "id": "C12",
+   "file": "shots-chc-power-and-cold",
+   "size": "wide",
+   "set": "street",
+   "key": 50,
+   "note": "streetlights glow"
+  },
+  {
+   "id": "C13",
+   "file": "shots-chc-power-and-cold",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 20,
+   "note": "Pip at window"
+  },
+  {
+   "id": "C14",
+   "file": "shots-chc-power-and-cold",
+   "size": "close",
+   "set": "bedroom",
+   "key": 60,
+   "note": "push-in at window noon"
+  },
+  {
+   "id": "C15",
+   "file": "shots-chc-power-and-cold",
+   "size": "close",
+   "set": "street",
+   "key": 40,
+   "note": "breath clouds"
+  },
+  {
+   "id": "C16",
+   "file": "shots-chc-power-and-cold",
+   "size": "medium",
+   "set": "window",
+   "key": 40,
+   "note": "frost on window"
+  },
+  {
+   "id": "C17",
+   "file": "shots-chc-power-and-cold",
+   "size": "wide",
+   "set": "schematic",
+   "key": 60,
+   "note": "earth heat leaves"
+  },
+  {
+   "id": "C18",
+   "file": "shots-chc-power-and-cold",
+   "size": "medium",
+   "set": "schematic",
+   "key": 50,
+   "note": "1 week thermometer"
+  },
+  {
+   "id": "C19",
+   "file": "shots-chc-power-and-cold",
+   "size": "medium",
+   "set": "schematic",
+   "key": 50,
+   "note": "thermometer falls"
+  },
+  {
+   "id": "C20",
+   "file": "shots-chc-power-and-cold",
+   "size": "macro",
+   "set": "schematic",
+   "key": 50,
+   "note": "-18 C"
+  },
+  {
+   "id": "C21",
+   "file": "shots-chc-power-and-cold",
+   "size": "medium",
+   "set": "schematic",
+   "key": 70,
+   "note": "1 year -73"
+  },
+  {
+   "id": "C22",
+   "file": "shots-chc-plants-and-food-chain",
+   "size": "medium",
+   "set": "schematic",
+   "key": 60,
+   "note": "leaf sugar then light out"
+  },
+  {
+   "id": "C23",
+   "file": "shots-chc-plants-and-food-chain",
+   "size": "wide",
+   "set": "field",
+   "key": 50,
+   "note": "grass browning"
+  },
+  {
+   "id": "C24",
+   "file": "shots-chc-plants-and-food-chain",
+   "size": "wide",
+   "set": "tree",
+   "key": 40,
+   "note": "big tree dark"
+  },
+  {
+   "id": "C25",
+   "file": "shots-chc-plants-and-food-chain",
+   "size": "medium",
+   "set": "tree",
+   "key": 60,
+   "note": "trunk sugar glow"
+  },
+  {
+   "id": "C26",
+   "file": "shots-chc-plants-and-food-chain",
+   "size": "medium",
+   "set": "schematic",
+   "key": 70,
+   "note": "chain 1"
+  },
+  {
+   "id": "C27",
+   "file": "shots-chc-plants-and-food-chain",
+   "size": "wide",
+   "set": "schematic",
+   "key": 70,
+   "note": "chain 2"
+  },
+  {
+   "id": "D1",
+   "file": "shots-chd-weather",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 20,
+   "note": "solar panels on a dark roof fade out"
+  },
+  {
+   "id": "D2",
+   "file": "shots-chd-weather",
+   "size": "insert",
+   "set": "none",
+   "key": 24,
+   "note": "meter needle drops to 0 W"
+  },
+  {
+   "id": "D3",
+   "file": "shots-chd-weather",
+   "size": "wide",
+   "set": "night",
+   "key": 40,
+   "note": "turbine slows to a stop"
+  },
+  {
+   "id": "D4",
+   "file": "shots-chd-weather",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 50,
+   "note": "flag goes limp, Pip watches"
+  },
+  {
+   "id": "D5",
+   "file": "shots-chd-weather",
+   "size": "wide",
+   "set": "night street",
+   "key": 44,
+   "note": "rain hangs frozen then gone"
+  },
+  {
+   "id": "D6",
+   "file": "shots-chd-weather",
+   "size": "medium",
+   "set": "night street",
+   "key": 44,
+   "note": "last snowflakes stop mid-air"
+  },
+  {
+   "id": "D7",
+   "file": "shots-chd-oceans",
+   "size": "wide",
+   "set": "night sea",
+   "key": 45,
+   "note": "ice sheet spreads over dark sea"
+  },
+  {
+   "id": "D8",
+   "file": "shots-chd-oceans",
+   "size": "medium",
+   "set": "schematic",
+   "key": 50,
+   "note": "cross-section ICE lid / WATER"
+  },
+  {
+   "id": "D9",
+   "file": "shots-chd-oceans",
+   "size": "medium",
+   "set": "schematic",
+   "key": 40,
+   "note": "heat arrows rise EARTH'S HEAT"
+  },
+  {
+   "id": "D10",
+   "file": "shots-chd-oceans",
+   "size": "wide",
+   "set": "underwater",
+   "key": 50,
+   "note": "fish swims under the ice"
+  },
+  {
+   "id": "D11",
+   "file": "shots-chd-oceans",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 20,
+   "note": "Pip nods, breath puffs"
+  },
+  {
+   "id": "D12",
+   "file": "shots-chd-governments",
+   "size": "medium",
+   "set": "schematic",
+   "key": 60,
+   "note": "world map, alert dots blink"
+  },
+  {
+   "id": "D13",
+   "file": "shots-chd-governments",
+   "size": "wide",
+   "set": "shop window",
+   "key": 50,
+   "note": "wall of TVs, suit on each"
+  },
+  {
+   "id": "D14",
+   "file": "shots-chd-governments",
+   "size": "close-up",
+   "set": "tv",
+   "key": 30,
+   "note": "big TV, ticker STAY CALM"
+  },
+  {
+   "id": "D15",
+   "file": "shots-chd-governments",
+   "size": "wide",
+   "set": "street",
+   "key": 24,
+   "note": "people hurry with suitcases"
+  },
+  {
+   "id": "D16",
+   "file": "shots-chd-heat",
+   "size": "medium",
+   "set": "schematic",
+   "key": 50,
+   "note": "glowing pin drops on a volcano"
+  },
+  {
+   "id": "D17",
+   "file": "shots-chd-heat",
+   "size": "medium",
+   "set": "schematic",
+   "key": 70,
+   "note": "9 of 10 houses lit: 9 OUT OF 10"
+  },
+  {
+   "id": "D18",
+   "file": "shots-chd-heat",
+   "size": "medium",
+   "set": "cutaway",
+   "key": 40,
+   "note": "hot water rises to a lit house"
+  },
+  {
+   "id": "D19",
+   "file": "shots-chd-heat",
+   "size": "medium",
+   "set": "schematic",
+   "key": 50,
+   "note": "cooling tower glows, Sun crossed out"
+  },
+  {
+   "id": "D20",
+   "file": "shots-chd-heat",
+   "size": "wide",
+   "set": "cutaway",
+   "key": 30,
+   "note": "underground city under frozen surface"
+  },
+  {
+   "id": "D21",
+   "file": "shots-chd-heat",
+   "size": "medium",
+   "set": "cavern",
+   "key": 30,
+   "note": "Pip and sis between reactor and spring"
+  },
+  {
+   "id": "D22",
+   "file": "shots-chd-vents",
+   "size": "wide",
+   "set": "seabed",
+   "key": 30,
+   "note": "black smoker, slow push in"
+  },
+  {
+   "id": "D23",
+   "file": "shots-chd-vents",
+   "size": "close-up",
+   "set": "seabed",
+   "key": 40,
+   "note": "tube worms and shrimp glow"
+  },
+  {
+   "id": "D24",
+   "file": "shots-chd-vents",
+   "size": "wide",
+   "set": "seabed",
+   "key": 40,
+   "note": "whole vent field lives on"
+  },
+  {
+   "id": "E1",
+   "file": "shots-che-home-sister-and-door",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 30,
+   "note": "dark home, heater, sister in blanket, Pip enters"
+  },
+  {
+   "id": "E2",
+   "file": "shots-che-home-sister-and-door",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 30,
+   "note": "sister looks up at Pip"
+  },
+  {
+   "id": "E3",
+   "file": "shots-che-home-sister-and-door",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 20,
+   "note": "sister face: Is the Sun coming back?"
+  },
+  {
+   "id": "E4",
+   "file": "shots-che-home-sister-and-door",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 12,
+   "note": "Pip face, no answer, worried"
+  },
+  {
+   "id": "E5",
+   "file": "shots-che-home-sister-and-door",
+   "size": "insert",
+   "set": "dark",
+   "key": 20,
+   "note": "heater glowing"
+  },
+  {
+   "id": "E6",
+   "file": "shots-che-home-sister-and-door",
+   "size": "insert",
+   "set": "dark",
+   "key": 30,
+   "note": "fuel cans, 1 MONTH tag"
+  },
+  {
+   "id": "E7",
+   "file": "shots-che-home-sister-and-door",
+   "size": "medium",
+   "set": "night",
+   "key": 24,
+   "note": "neighbours window dark and frosted"
+  },
+  {
+   "id": "E8",
+   "file": "shots-che-home-sister-and-door",
+   "size": "medium",
+   "set": "door",
+   "key": 22,
+   "note": "door knocked 3x, frost"
+  },
+  {
+   "id": "E9",
+   "file": "shots-che-home-sister-and-door",
+   "size": "extreme close-up",
+   "set": "door",
+   "key": 30,
+   "note": "mitten hovering at handle"
+  },
+  {
+   "id": "E10",
+   "file": "shots-che-mum-and-space-drift",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 20,
+   "note": "mum gentle look"
+  },
+  {
+   "id": "E11",
+   "file": "shots-che-mum-and-space-drift",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 26,
+   "note": "Pip between cold door and family"
+  },
+  {
+   "id": "E12",
+   "file": "shots-che-mum-and-space-drift",
+   "size": "wide",
+   "set": "space",
+   "key": 30,
+   "note": "small dark Earth drifting"
+  },
+  {
+   "id": "E13",
+   "file": "shots-che-mum-and-space-drift",
+   "size": "close-up",
+   "set": "space",
+   "key": 30,
+   "note": "frozen Earth with city lights"
+  },
+  {
+   "id": "E14",
+   "file": "shots-che-mum-and-space-drift",
+   "size": "medium",
+   "set": "schematic",
+   "key": 36,
+   "note": "galaxy spiral"
+  },
+  {
+   "id": "E15",
+   "file": "shots-che-mum-and-space-drift",
+   "size": "medium",
+   "set": "schematic",
+   "key": 30,
+   "note": "billions of drifting planets BILLIONS?"
+  },
+  {
+   "id": "E16",
+   "file": "shots-che-mum-and-space-drift",
+   "size": "wide",
+   "set": "schematic",
+   "key": 100,
+   "note": "lone planets; Earth joins them"
+  },
+  {
+   "id": "E17",
+   "file": "shots-che-question-last-minutes-and-end-card",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 25,
+   "note": "Pip golden hour looks at camera"
+  },
+  {
+   "id": "E18",
+   "file": "shots-che-question-last-minutes-and-end-card",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 60,
+   "note": "low angle big Sun, 08:20 chip"
+  },
+  {
+   "id": "E19",
+   "file": "shots-che-question-last-minutes-and-end-card",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 20,
+   "note": "Pip gazes at Sun, thinking"
+  },
+  {
+   "id": "E20",
+   "file": "shots-che-question-last-minutes-and-end-card",
+   "size": "medium",
+   "set": "street",
+   "key": 40,
+   "note": "Pip and sister walk sunny street"
+  },
+  {
+   "id": "E21",
+   "file": "shots-che-question-last-minutes-and-end-card",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 20,
+   "note": "video call, Mo on screen"
+  },
+  {
+   "id": "E22",
+   "file": "shots-che-question-last-minutes-and-end-card",
+   "size": "wide",
+   "set": "sky",
+   "key": 30,
+   "note": "bright blue sky, birds"
+  },
+  {
+   "id": "E23",
+   "file": "shots-che-question-last-minutes-and-end-card",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 60,
+   "note": "end card: HOW WOULD YOU SPEND / YOUR LAST 8 MINUTES?"
+  },
+  {
+   "id": "E24",
+   "file": "shots-che-question-last-minutes-and-end-card",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "sun sets, fade to black"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "s:0.00"
+  },
+  {
+   "shot": "A2",
+   "at": "s:1.34"
+  },
+  {
+   "shot": "A3",
+   "at": "s:3.32"
+  },
+  {
+   "shot": "A4",
+   "at": "s:4.33"
+  },
+  {
+   "shot": "A5",
+   "at": "s:5.69"
+  },
+  {
+   "shot": "A6",
+   "at": "s:6.91"
+  },
+  {
+   "shot": "A7",
+   "at": "s:8.05"
+  },
+  {
+   "shot": "A8",
+   "at": "s:9.59"
+  },
+  {
+   "shot": "A9",
+   "at": "s:11.01"
+  },
+  {
+   "shot": "A10",
+   "at": "s:15.34",
+   "look": "countdown"
+  },
+  {
+   "shot": "A11",
+   "at": "s:16.86",
+   "look": "countdown"
+  },
+  {
+   "shot": "A12",
+   "at": "s:18.09",
+   "look": "countdown"
+  },
+  {
+   "shot": "A13",
+   "at": "s:19.42",
+   "look": "countdown"
+  },
+  {
+   "shot": "A14",
+   "at": "s:21.41",
+   "look": "countdown"
+  },
+  {
+   "shot": "A15",
+   "at": "s:23.45",
+   "look": "countdown"
+  },
+  {
+   "shot": "A16",
+   "at": "s:24.92",
+   "look": "countdown"
+  },
+  {
+   "shot": "A17",
+   "at": "s:26.83",
+   "look": "countdown"
+  },
+  {
+   "shot": "A18",
+   "at": "s:29.60",
+   "look": "countdown"
+  },
+  {
+   "shot": "A19",
+   "at": "s:32.03",
+   "look": "countdown"
+  },
+  {
+   "shot": "A20",
+   "at": "s:34.43",
+   "look": "countdown"
+  },
+  {
+   "shot": "A21",
+   "at": "s:36.64",
+   "look": "countdown"
+  },
+  {
+   "shot": "A22",
+   "at": "s:39.98",
+   "look": "countdown"
+  },
+  {
+   "shot": "A23",
+   "at": "s:41.30",
+   "look": "countdown"
+  },
+  {
+   "shot": "B1",
+   "at": "s:44.97"
+  },
+  {
+   "shot": "B2",
+   "at": "s:46.53"
+  },
+  {
+   "shot": "B3",
+   "at": "s:47.71"
+  },
+  {
+   "shot": "B4",
+   "at": "s:50.1"
+  },
+  {
+   "shot": "B5",
+   "at": "s:52.64"
+  },
+  {
+   "shot": "B6",
+   "at": "s:55.88"
+  },
+  {
+   "shot": "B7",
+   "at": "s:58.12"
+  },
+  {
+   "shot": "B8",
+   "at": "s:60.45"
+  },
+  {
+   "shot": "B9",
+   "at": "s:61.64"
+  },
+  {
+   "shot": "B10",
+   "at": "s:63.49"
+  },
+  {
+   "shot": "B11",
+   "at": "s:65.79"
+  },
+  {
+   "shot": "B12",
+   "at": "s:69.07"
+  },
+  {
+   "shot": "B13",
+   "at": "s:72.76"
+  },
+  {
+   "shot": "B14",
+   "at": "s:74.42"
+  },
+  {
+   "shot": "B15",
+   "at": "s:76.93"
+  },
+  {
+   "shot": "B16",
+   "at": "s:78.67"
+  },
+  {
+   "shot": "B17",
+   "at": "s:82.17"
+  },
+  {
+   "shot": "B18",
+   "at": "s:86.3"
+  },
+  {
+   "shot": "B19",
+   "at": "s:88.25"
+  },
+  {
+   "shot": "B20",
+   "at": "s:92.22"
+  },
+  {
+   "shot": "C1",
+   "at": "s:95.63"
+  },
+  {
+   "shot": "C2",
+   "at": "s:96.63"
+  },
+  {
+   "shot": "C3",
+   "at": "s:98.19"
+  },
+  {
+   "shot": "C4",
+   "at": "s:101.53"
+  },
+  {
+   "shot": "C5",
+   "at": "s:102.64"
+  },
+  {
+   "shot": "C6",
+   "at": "s:105.06"
+  },
+  {
+   "shot": "C7",
+   "at": "s:107.76"
+  },
+  {
+   "shot": "C8",
+   "at": "s:109.94"
+  },
+  {
+   "shot": "C9",
+   "at": "s:111.98"
+  },
+  {
+   "shot": "C10",
+   "at": "s:114.63"
+  },
+  {
+   "shot": "C11",
+   "at": "s:116.44"
+  },
+  {
+   "shot": "C12",
+   "at": "s:118.25"
+  },
+  {
+   "shot": "C13",
+   "at": "s:120.82"
+  },
+  {
+   "shot": "C14",
+   "at": "s:121.78"
+  },
+  {
+   "shot": "C15",
+   "at": "s:124.74",
+   "look": "cold"
+  },
+  {
+   "shot": "C16",
+   "at": "s:126.54",
+   "look": "cold"
+  },
+  {
+   "shot": "C17",
+   "at": "s:127.68",
+   "look": "cold"
+  },
+  {
+   "shot": "C18",
+   "at": "s:130.37",
+   "look": "cold"
+  },
+  {
+   "shot": "C19",
+   "at": "s:132.52",
+   "look": "cold"
+  },
+  {
+   "shot": "C20",
+   "at": "s:135.06",
+   "look": "cold"
+  },
+  {
+   "shot": "C21",
+   "at": "s:137.41",
+   "look": "cold"
+  },
+  {
+   "shot": "C22",
+   "at": "s:140.42",
+   "look": "cold"
+  },
+  {
+   "shot": "C23",
+   "at": "s:143.59",
+   "look": "cold"
+  },
+  {
+   "shot": "C24",
+   "at": "s:145.86",
+   "look": "cold"
+  },
+  {
+   "shot": "C25",
+   "at": "s:147.03",
+   "look": "cold"
+  },
+  {
+   "shot": "C26",
+   "at": "s:150.17",
+   "look": "cold"
+  },
+  {
+   "shot": "C27",
+   "at": "s:152.74",
+   "look": "cold"
+  },
+  {
+   "shot": "D1",
+   "at": "s:155.19",
+   "look": "cold"
+  },
+  {
+   "shot": "D2",
+   "at": "s:156.05"
+  },
+  {
+   "shot": "D3",
+   "at": "s:157.07",
+   "look": "cold"
+  },
+  {
+   "shot": "D4",
+   "at": "s:158.92",
+   "look": "cold"
+  },
+  {
+   "shot": "D5",
+   "at": "s:161.51",
+   "look": "cold"
+  },
+  {
+   "shot": "D6",
+   "at": "s:163.32",
+   "look": "cold"
+  },
+  {
+   "shot": "D7",
+   "at": "s:165.37",
+   "look": "cold"
+  },
+  {
+   "shot": "D8",
+   "at": "s:168.44"
+  },
+  {
+   "shot": "D9",
+   "at": "s:171.51"
+  },
+  {
+   "shot": "D10",
+   "at": "s:173.75",
+   "look": "cold"
+  },
+  {
+   "shot": "D11",
+   "at": "s:177.47",
+   "look": "cold"
+  },
+  {
+   "shot": "D12",
+   "at": "s:179.18"
+  },
+  {
+   "shot": "D13",
+   "at": "s:181.52"
+  },
+  {
+   "shot": "D14",
+   "at": "s:183.80"
+  },
+  {
+   "shot": "D15",
+   "at": "s:185.85",
+   "look": "cold"
+  },
+  {
+   "shot": "D16",
+   "at": "s:187.19"
+  },
+  {
+   "shot": "D17",
+   "at": "s:190.51"
+  },
+  {
+   "shot": "D18",
+   "at": "s:193.02"
+  },
+  {
+   "shot": "D19",
+   "at": "s:195.25"
+  },
+  {
+   "shot": "D20",
+   "at": "s:197.89"
+  },
+  {
+   "shot": "D21",
+   "at": "s:200.22"
+  },
+  {
+   "shot": "D22",
+   "at": "s:201.85"
+  },
+  {
+   "shot": "D23",
+   "at": "s:204.67"
+  },
+  {
+   "shot": "D24",
+   "at": "s:207.68"
+  },
+  {
+   "shot": "E1",
+   "at": "s:210.15"
+  },
+  {
+   "shot": "E2",
+   "at": "s:212.6"
+  },
+  {
+   "shot": "E3",
+   "at": "s:214.61"
+  },
+  {
+   "shot": "E4",
+   "at": "s:215.75"
+  },
+  {
+   "shot": "E5",
+   "at": "s:216.57"
+  },
+  {
+   "shot": "E6",
+   "at": "s:218.01"
+  },
+  {
+   "shot": "E7",
+   "at": "s:219.95"
+  },
+  {
+   "shot": "E8",
+   "at": "s:221.7"
+  },
+  {
+   "shot": "E9",
+   "at": "s:223.05"
+  },
+  {
+   "shot": "E10",
+   "at": "s:224.91"
+  },
+  {
+   "shot": "E11",
+   "at": "s:226.33"
+  },
+  {
+   "shot": "E12",
+   "at": "s:228.59",
+   "look": "cold"
+  },
+  {
+   "shot": "E13",
+   "at": "s:231.23",
+   "look": "cold"
+  },
+  {
+   "shot": "E14",
+   "at": "s:234.2",
+   "look": "cold"
+  },
+  {
+   "shot": "E15",
+   "at": "s:237.25",
+   "look": "cold"
+  },
+  {
+   "shot": "E16",
+   "at": "s:239.67",
+   "look": "cold"
+  },
+  {
+   "shot": "E17",
+   "at": "s:244.27"
+  },
+  {
+   "shot": "E18",
+   "at": "s:246.38"
+  },
+  {
+   "shot": "E19",
+   "at": "s:251.17"
+  },
+  {
+   "shot": "E20",
+   "at": "s:252.52"
+  },
+  {
+   "shot": "E21",
+   "at": "s:256.15"
+  },
+  {
+   "shot": "E22",
+   "at": "s:257.62"
+  },
+  {
+   "shot": "E23",
+   "at": "s:260.43"
+  },
+  {
+   "shot": "E24",
+   "at": "s:265.21"
+  }
+ ],
+ "fx": [
+  {
+   "at": "B2+16",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.75
+  },
+  {
+   "at": "B2+17",
+   "kind": "shake",
+   "len": 10,
+   "amp": 12
+  },
+  {
+   "at": "B5+56",
+   "kind": "flash",
+   "color": "#CFE0FF",
+   "o": 0.18
+  },
+  {
+   "at": "C9+34",
+   "kind": "flash",
+   "color": "#EAF6FF",
+   "o": 0.25
+  },
+  {
+   "at": "D2+4",
+   "kind": "flash",
+   "color": "#FF5A4A",
+   "o": 0.22
+  },
+  {
+   "at": "E8+14",
+   "kind": "shake",
+   "len": 4,
+   "amp": 5
+  },
+  {
+   "at": "E8+22",
+   "kind": "shake",
+   "len": 4,
+   "amp": 5
+  },
+  {
+   "at": "E8+30",
+   "kind": "shake",
+   "len": 4,
+   "amp": 5
+  },
+  {
+   "at": "E24+60",
+   "kind": "flash",
+   "color": "#FFD9A0",
+   "o": 0.12
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+# chapter A: beats 0-6. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "0 cold open, cockroach"  0.01-6.04 s
+# Một con gián khổng lồ bò giữa phố. Mọi người bỏ chạy. Bạn nắm tay lại. Một cú đấm. Bùm.
+Một@0.00 con@0.14 gián@0.34 khổng@0.58 lồ@0.86 bò@1.01 giữa@1.17 phố.@1.41 Mọi@2.01 người@2.19 bỏ@2.44 chạy.@2.57 Bạn@3.29 nắm@3.59 tay@3.79 lại.@4.00 Một@4.59 cú@4.93 đấm.@5.07 Bùm.@5.69
+
+## beat "0 cold open, robot"  6.37-9.90 s
+# Một con robot cao bằng tòa nhà mười tầng. Một cú đấm. Bùm.
+Một@6.30 con@6.47 robot@6.64 cao@6.96 bằng@7.12 tòa@7.40 nhà@7.56 mười@7.73 tầng.@7.93 Một@8.57 cú@8.86 đấm.@8.99 Bùm.@9.55
+
+## beat "0 cold open, cloud"  10.31-14.26 s
+# Một đám mây đen che kín cả thành phố. Một cú đấm. Trời xanh trở lại.
+Một@10.24 đám@10.44 mây@10.63 đen@10.83 che@11.02 kín@11.31 cả@11.51 thành@11.66 phố.@12.01 Một@12.51 cú@12.80 đấm.@12.92 Trời@13.42 xanh@13.64 trở@13.85 lại.@14.02
+
+## beat "0 cold open, hook"  14.81-17.93 s
+# Ba trận đánh. Ba cú đấm. Và bạn bắt đầu thấy chán.
+Ba@14.74 trận@14.90 đánh.@15.15 Ba@15.74 cú@15.91 đấm.@16.15 Và@16.78 bạn@16.92 bắt@17.09 đầu@17.27 thấy@17.44 chán.@17.65
+
+## beat "1 premise"  18.36-22.16 s
+# Sẽ ra sao nếu bạn có thể hạ gục bất cứ thứ gì, chỉ bằng một cú đấm?
+Sẽ@18.29 ra@18.45 sao@18.60 nếu@18.80 bạn@19.00 có@19.20 thể@19.36 hạ@19.55 gục@19.71 bất@19.91 cứ@20.38 thứ@20.53 gì,@20.73 chỉ@21.18 bằng@21.35 một@21.54 cú@21.81 đấm?@21.93
+
+## beat "1 rule: alarm clock"  23.16-35.49 s
+# Sáng nay bạn thức dậy, mọi thứ vẫn bình thường. Trừ một điều. Chuông báo thức reo. Bạn đập nó theo thói quen. Một cú đấm. Bùm. Chiếc đồng hồ thành bụi. Cái bàn gãy đôi. Mẹ bạn đứng ở cửa, há hốc miệng.
+Sáng@23.09 nay@23.31 bạn@23.49 thức@23.67 dậy,@23.89 mọi@24.36 thứ@24.55 vẫn@24.73 bình@24.91 thường.@25.13 Trừ@25.88 một@26.06 điều.@26.24 Chuông@26.78 báo@27.03 thức@27.17 reo.@27.36 Bạn@27.97 đập@28.12 nó@28.28 theo@28.41 thói@28.60 quen.@28.79 Một@29.48 cú@29.77 đấm.@29.90 Bùm.@30.50 Chiếc@31.32 đồng@31.52 hồ@31.70 thành@31.81 bụi.@32.01 Cái@32.71 bàn@32.88 gãy@33.06 đôi.@33.23 Mẹ@33.81 bạn@33.96 đứng@34.15 ở@34.38 cửa,@34.49 há@34.98 hốc@35.09 miệng.@35.22
+
+## beat "1 rule"  36.00-40.23 s
+# Quy tắc chỉ có một. Cú đấm nào của bạn cũng là cú mạnh nhất. Không có nhẹ tay.
+Quy@35.94 tắc@36.07 chỉ@36.35 có@36.49 một.@36.60 Cú@37.08 đấm@37.18 nào@37.32 của@37.46 bạn@37.67 cũng@37.80 là@38.40 cú@38.51 mạnh@38.71 nhất.@38.88 Không@39.48 có@39.68 nhẹ@39.79 tay.@40.03
+
+# chapter ends at s:40.97 (next chapter's first cut, or the episode end)

@@ -1,0 +1,298 @@
+{
+  "chapter": "c",
+  "shots": [
+    {
+      "id": "C1",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "control",
+      "key": 30,
+      "note": "Nhưng giá điện còn do luật và thị trường."
+    },
+    {
+      "id": "C2",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "control",
+      "key": 30,
+      "note": "Nhưng giá điện còn do luật và thị trường."
+    },
+    {
+      "id": "C3",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "water",
+      "key": 30,
+      "note": "Nước sạch vẫn cần đường ống và bảo trì."
+    },
+    {
+      "id": "C4",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "water",
+      "key": 30,
+      "note": "Nước sạch vẫn cần đường ống và bảo trì."
+    },
+    {
+      "id": "C5",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "farm",
+      "key": 30,
+      "note": "Thực phẩm vẫn cần được vận chuyển."
+    },
+    {
+      "id": "C6",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "farm",
+      "key": 30,
+      "note": "Thực phẩm vẫn cần được vận chuyển."
+    },
+    {
+      "id": "C7",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "family",
+      "key": 30,
+      "note": "Có đủ điện chưa chắc ai cũng được dùng."
+    },
+    {
+      "id": "C8",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "family",
+      "key": 30,
+      "note": "Có đủ điện chưa chắc ai cũng được dùng."
+    },
+    {
+      "id": "C9",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "grid",
+      "key": 30,
+      "note": "Một nơi dư điện, nơi khác thiếu kết nối."
+    },
+    {
+      "id": "C10",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "grid",
+      "key": 30,
+      "note": "Một nơi dư điện, nơi khác thiếu kết nối."
+    },
+    {
+      "id": "C11",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "earth",
+      "key": 30,
+      "note": "Cấp I là năng lượng, không phải công bằng."
+    },
+    {
+      "id": "C12",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "earth",
+      "key": 30,
+      "note": "Cấp I là năng lượng, không phải công bằng."
+    },
+    {
+      "id": "C13",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "heat",
+      "key": 30,
+      "note": "Rồi bạn nhận ra: năng lượng đi về đâu?"
+    },
+    {
+      "id": "C14",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "heat",
+      "key": 30,
+      "note": "Rồi bạn nhận ra: năng lượng đi về đâu?"
+    },
+    {
+      "id": "C15",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "heat",
+      "key": 30,
+      "note": "Khi sử dụng, phần lớn cuối cùng thành nhiệt."
+    },
+    {
+      "id": "C16",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "heat",
+      "key": 30,
+      "note": "Khi sử dụng, phần lớn cuối cùng thành nhiệt."
+    },
+    {
+      "id": "C17",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "earth",
+      "key": 30,
+      "note": "Trái Đất nhận nắng và tỏa nhiệt ra ngoài."
+    },
+    {
+      "id": "C18",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "earth",
+      "key": 30,
+      "note": "Trái Đất nhận nắng và tỏa nhiệt ra ngoài."
+    },
+    {
+      "id": "C19",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "heat",
+      "key": 30,
+      "note": "Thêm nguồn nhiệt ròng sẽ đổi cân bằng ấy."
+    },
+    {
+      "id": "C20",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "heat",
+      "key": 30,
+      "note": "Thêm nguồn nhiệt ròng sẽ đổi cân bằng ấy."
+    },
+    {
+      "id": "C21",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "heat",
+      "key": 30,
+      "note": "Mười triệu tỷ watt chia đều bề mặt..."
+    },
+    {
+      "id": "C22",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "heat",
+      "key": 30,
+      "note": "Mười triệu tỷ watt chia đều bề mặt..."
+    },
+    {
+      "id": "C23",
+      "file": "shots-chc",
+      "size": "wide",
+      "set": "heat",
+      "key": 30,
+      "note": "...xấp xỉ hai mươi watt mỗi mét vuông."
+    },
+    {
+      "id": "C24",
+      "file": "shots-chc",
+      "size": "insert / close",
+      "set": "heat",
+      "key": 30,
+      "note": "...xấp xỉ hai mươi watt mỗi mét vuông."
+    }
+  ],
+  "edit": [
+    {
+      "shot": "C1",
+      "at": "s:120.0"
+    },
+    {
+      "shot": "C2",
+      "at": "s:122.5"
+    },
+    {
+      "shot": "C3",
+      "at": "s:125.0"
+    },
+    {
+      "shot": "C4",
+      "at": "s:127.5"
+    },
+    {
+      "shot": "C5",
+      "at": "s:130.0"
+    },
+    {
+      "shot": "C6",
+      "at": "s:132.5"
+    },
+    {
+      "shot": "C7",
+      "at": "s:135.0"
+    },
+    {
+      "shot": "C8",
+      "at": "s:137.5"
+    },
+    {
+      "shot": "C9",
+      "at": "s:140.0"
+    },
+    {
+      "shot": "C10",
+      "at": "s:142.5"
+    },
+    {
+      "shot": "C11",
+      "at": "s:145.0"
+    },
+    {
+      "shot": "C12",
+      "at": "s:147.5"
+    },
+    {
+      "shot": "C13",
+      "at": "s:150.0"
+    },
+    {
+      "shot": "C14",
+      "at": "s:152.5"
+    },
+    {
+      "shot": "C15",
+      "at": "s:155.0"
+    },
+    {
+      "shot": "C16",
+      "at": "s:157.5"
+    },
+    {
+      "shot": "C17",
+      "at": "s:160.0"
+    },
+    {
+      "shot": "C18",
+      "at": "s:162.5"
+    },
+    {
+      "shot": "C19",
+      "at": "s:165.0"
+    },
+    {
+      "shot": "C20",
+      "at": "s:167.5"
+    },
+    {
+      "shot": "C21",
+      "at": "s:170.0"
+    },
+    {
+      "shot": "C22",
+      "at": "s:172.5"
+    },
+    {
+      "shot": "C23",
+      "at": "s:175.0"
+    },
+    {
+      "shot": "C24",
+      "at": "s:177.5"
+    }
+  ],
+  "fx": [],
+  "events": [],
+  "repeats": []
+}

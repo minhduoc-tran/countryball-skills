@@ -1,0 +1,621 @@
+{
+ "chapter": "c",
+ "shots": [
+  {
+   "id": "C1",
+   "file": "shots-chc-smell-life",
+   "size": "medium",
+   "set": "beach",
+   "key": 44,
+   "note": "Pip+Mo sniff, pinch noses, green stink rises"
+  },
+  {
+   "id": "C2",
+   "file": "shots-chc-smell-life",
+   "size": "insert",
+   "set": "schematic",
+   "key": 40,
+   "note": "200.000+ LOÀI card"
+  },
+  {
+   "id": "C3",
+   "file": "shots-chc-smell-life",
+   "size": "wide",
+   "set": "seabed",
+   "key": 26,
+   "note": "blue whale greys on dry seabed"
+  },
+  {
+   "id": "C4",
+   "file": "shots-chc-smell-life",
+   "size": "insert",
+   "set": "lens",
+   "key": 40,
+   "note": "plankton under lens go grey"
+  },
+  {
+   "id": "C5",
+   "file": "shots-chc-smell-life",
+   "size": "medium",
+   "set": "sea",
+   "key": 30,
+   "note": "all sea life greys at once"
+  },
+  {
+   "id": "C6",
+   "file": "shots-chc-smell-life",
+   "size": "wide",
+   "set": "beach",
+   "key": 30,
+   "note": "stinking coast dead fish flies"
+  },
+  {
+   "id": "C7",
+   "file": "shots-chc-smell-life",
+   "size": "wide",
+   "set": "beach",
+   "key": 18,
+   "note": "months: day/night pulses"
+  },
+  {
+   "id": "C8",
+   "file": "shots-chc-food",
+   "size": "insert",
+   "set": "schematic",
+   "key": 30,
+   "note": "globe 3 TỶ NGƯỜI"
+  },
+  {
+   "id": "C9",
+   "file": "shots-chc-food",
+   "size": "insert",
+   "set": "table",
+   "key": 30,
+   "note": "fish plate top view"
+  },
+  {
+   "id": "C10",
+   "file": "shots-chc-food",
+   "size": "insert",
+   "set": "schematic",
+   "key": 36,
+   "note": "protein pie >= 1/5"
+  },
+  {
+   "id": "C11",
+   "file": "shots-chc-food",
+   "size": "medium",
+   "set": "water",
+   "key": 40,
+   "note": "cá cơm shoal vanishes, X"
+  },
+  {
+   "id": "C12",
+   "file": "shots-chc-food",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 30,
+   "note": "Pip mourns rice, nước mắm empty"
+  },
+  {
+   "id": "C13",
+   "file": "shots-chc-economy",
+   "size": "insert",
+   "set": "schematic",
+   "key": 30,
+   "note": "falling chart"
+  },
+  {
+   "id": "C14",
+   "file": "shots-chc-economy",
+   "size": "insert",
+   "set": "schematic",
+   "key": 30,
+   "note": "80% card"
+  },
+  {
+   "id": "C15",
+   "file": "shots-chc-economy",
+   "size": "wide",
+   "set": "schematic",
+   "key": 20,
+   "note": "shipping lanes"
+  },
+  {
+   "id": "C16",
+   "file": "shots-chc-economy",
+   "size": "wide",
+   "set": "seabed",
+   "key": 16,
+   "note": "ship slams onto seabed"
+  },
+  {
+   "id": "C17",
+   "file": "shots-chc-economy",
+   "size": "wide",
+   "set": "seabed",
+   "key": 30,
+   "note": "fleet stranded"
+  },
+  {
+   "id": "C18",
+   "file": "shots-chc-economy",
+   "size": "medium",
+   "set": "port",
+   "key": 40,
+   "note": "dead port, cargo badges pop"
+  },
+  {
+   "id": "C19",
+   "file": "shots-chc-economy",
+   "size": "medium",
+   "set": "port",
+   "key": 24,
+   "note": "padlock shuts on cargo"
+  },
+  {
+   "id": "C20",
+   "file": "shots-chc-economy",
+   "size": "insert",
+   "set": "prices",
+   "key": 24,
+   "note": "price tags climb"
+  },
+  {
+   "id": "C21",
+   "file": "shots-chc-fish-counter",
+   "size": "wide",
+   "set": "market",
+   "key": 30,
+   "note": "mum before empty fish counter"
+  },
+  {
+   "id": "C22",
+   "file": "shots-chc-fish-counter",
+   "size": "insert",
+   "set": "market",
+   "key": 30,
+   "note": "empty ice tray, blank sign drops"
+  },
+  {
+   "id": "C23",
+   "file": "shots-chc-fish-counter",
+   "size": "closeup",
+   "set": "market",
+   "key": 28,
+   "note": "sign flips: HẾT HÀNG"
+  },
+  {
+   "id": "C24",
+   "file": "shots-chc-salt",
+   "size": "insert",
+   "set": "dark",
+   "key": 30,
+   "note": "salt grains pour onto heap"
+  },
+  {
+   "id": "C25",
+   "file": "shots-chc-salt",
+   "size": "medium",
+   "set": "schematic",
+   "key": 60,
+   "note": "basin drains, salt stays"
+  },
+  {
+   "id": "C26",
+   "file": "shots-chc-salt",
+   "size": "wide",
+   "set": "seabed",
+   "key": 40,
+   "note": "seabed turns white"
+  },
+  {
+   "id": "C27",
+   "file": "shots-chc-salt",
+   "size": "insert",
+   "set": "schematic",
+   "key": 30,
+   "note": "~60 M salt layer"
+  },
+  {
+   "id": "C28",
+   "file": "shots-chc-salt",
+   "size": "wide",
+   "set": "seabed",
+   "key": 30,
+   "note": "wind lifts salt dust"
+  },
+  {
+   "id": "C29",
+   "file": "shots-chc-salt",
+   "size": "wide",
+   "set": "rice-field",
+   "key": 30,
+   "note": "rice fields turn white"
+  },
+  {
+   "id": "C30",
+   "file": "shots-chc-aral",
+   "size": "medium",
+   "set": "schematic",
+   "key": 30,
+   "note": "globe ring over Central Asia"
+  },
+  {
+   "id": "C31",
+   "file": "shots-chc-aral",
+   "size": "wide",
+   "set": "map",
+   "key": 30,
+   "note": "Aral Sea 1960"
+  },
+  {
+   "id": "C32",
+   "file": "shots-chc-aral",
+   "size": "insert",
+   "set": "schematic",
+   "key": 36,
+   "note": "4th largest lake bars"
+  },
+  {
+   "id": "C33",
+   "file": "shots-chc-aral",
+   "size": "wide",
+   "set": "map",
+   "key": 26,
+   "note": "lake dries up"
+  },
+  {
+   "id": "C34",
+   "file": "shots-chc-aral",
+   "size": "wide",
+   "set": "rice-field",
+   "key": 40,
+   "note": "salt dust storm over fields"
+  },
+  {
+   "id": "C35",
+   "file": "shots-chc-aral",
+   "size": "medium",
+   "set": "rice-field",
+   "key": 30,
+   "note": "village girl coughs"
+  },
+  {
+   "id": "C36",
+   "file": "shots-chc-aral",
+   "size": "wide",
+   "set": "desert",
+   "key": 20,
+   "note": "rusty ship in desert + FactStamp"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "C1",
+   "at": "s:117.50",
+   "look": "days"
+  },
+  {
+   "shot": "C2",
+   "at": "s:119.47"
+  },
+  {
+   "shot": "C3",
+   "at": "s:121.23"
+  },
+  {
+   "shot": "C4",
+   "at": "s:122.35"
+  },
+  {
+   "shot": "C5",
+   "at": "s:124.26"
+  },
+  {
+   "shot": "C6",
+   "at": "s:125.87"
+  },
+  {
+   "shot": "C7",
+   "at": "s:127.83",
+   "look": "months"
+  },
+  {
+   "shot": "C8",
+   "at": "s:129.03"
+  },
+  {
+   "shot": "C9",
+   "at": "s:130.27"
+  },
+  {
+   "shot": "C10",
+   "at": "s:131.95"
+  },
+  {
+   "shot": "C11",
+   "at": "s:134.40"
+  },
+  {
+   "shot": "C12",
+   "at": "s:136.26"
+  },
+  {
+   "shot": "C13",
+   "at": "s:137.71"
+  },
+  {
+   "shot": "C14",
+   "at": "s:139.16"
+  },
+  {
+   "shot": "C15",
+   "at": "s:141.30"
+  },
+  {
+   "shot": "C16",
+   "at": "s:142.52",
+   "look": "sec1"
+  },
+  {
+   "shot": "C17",
+   "at": "s:143.57"
+  },
+  {
+   "shot": "C18",
+   "at": "s:145.44"
+  },
+  {
+   "shot": "C19",
+   "at": "s:147.66"
+  },
+  {
+   "shot": "C20",
+   "at": "s:148.86"
+  },
+  {
+   "shot": "C21",
+   "at": "s:149.99"
+  },
+  {
+   "shot": "C22",
+   "at": "s:151.79"
+  },
+  {
+   "shot": "C23",
+   "at": "s:153.11"
+  },
+  {
+   "shot": "C24",
+   "at": "s:154.84"
+  },
+  {
+   "shot": "C25",
+   "at": "s:156.03"
+  },
+  {
+   "shot": "C26",
+   "at": "s:158.38"
+  },
+  {
+   "shot": "C27",
+   "at": "s:160.20"
+  },
+  {
+   "shot": "C28",
+   "at": "s:161.52"
+  },
+  {
+   "shot": "C29",
+   "at": "s:163.14"
+  },
+  {
+   "shot": "C30",
+   "at": "s:164.62"
+  },
+  {
+   "shot": "C31",
+   "at": "s:166.27"
+  },
+  {
+   "shot": "C32",
+   "at": "s:167.39"
+  },
+  {
+   "shot": "C33",
+   "at": "s:169.89"
+  },
+  {
+   "shot": "C34",
+   "at": "s:170.93"
+  },
+  {
+   "shot": "C35",
+   "at": "s:173.19"
+  },
+  {
+   "shot": "C36",
+   "at": "s:175.21"
+  }
+ ],
+ "fx": [
+  {
+   "at": "C5+22",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.3
+  },
+  {
+   "at": "C16+6",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.3
+  },
+  {
+   "at": "C23+10",
+   "kind": "flash",
+   "color": "#FF6A5A",
+   "o": 0.12
+  }
+ ],
+ "events": [
+  [
+   "C1",
+   "roof_wind",
+   0.1,
+   "onset",
+   "C3"
+  ],
+  [
+   "C5+22",
+   "power_down",
+   0.06
+  ],
+  [
+   "C11+22",
+   "select_draw",
+   0.1
+  ],
+  [
+   "C12+10",
+   "clink",
+   0.07
+  ],
+  [
+   "C14+4",
+   "ding",
+   0.08
+  ],
+  [
+   "C15+30",
+   "fall_whoosh",
+   0.1
+  ],
+  [
+   "C16+6",
+   "metal_crash",
+   0.12
+  ],
+  [
+   "C17",
+   "roof_wind",
+   0.08,
+   "onset",
+   "C20"
+  ],
+  [
+   "C19+9",
+   "metal_crash",
+   0.1
+  ],
+  [
+   "C21",
+   "class_murmur",
+   0.07,
+   "onset",
+   "C24"
+  ],
+  [
+   "C23+10",
+   "drone_hit",
+   0.12
+  ],
+  [
+   "C24+4",
+   "sparkle",
+   0.08
+  ],
+  [
+   "C25+8",
+   "water_drain",
+   0.1,
+   "onset",
+   "C26"
+  ],
+  [
+   "C26",
+   "roof_wind",
+   0.09,
+   "onset",
+   "C30"
+  ],
+  [
+   "C33+4",
+   "power_down",
+   0.05
+  ],
+  [
+   "C34",
+   "roof_wind",
+   0.14,
+   "onset",
+   "C36"
+  ],
+  [
+   "C36+9",
+   "drone_hit",
+   0.1
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "C13+2",
+   "clip": "counter_tick",
+   "n": 10,
+   "every": 3,
+   "gain": [
+    0.05,
+    0.08
+   ],
+   "pitch": [
+    1.0,
+    1.3
+   ]
+  },
+  {
+   "at": "C18+3",
+   "clip": "pop",
+   "n": 1,
+   "every": 1,
+   "gain": [
+    0.06,
+    0.07
+   ]
+  },
+  {
+   "at": "C18+29",
+   "clip": "pop",
+   "n": 1,
+   "every": 1,
+   "gain": [
+    0.06,
+    0.07
+   ]
+  },
+  {
+   "at": "C18+49",
+   "clip": "pop",
+   "n": 1,
+   "every": 1,
+   "gain": [
+    0.06,
+    0.07
+   ]
+  },
+  {
+   "at": "C20+2",
+   "clip": "counter_tick",
+   "n": 8,
+   "every": 3,
+   "gain": [
+    0.05,
+    0.08
+   ],
+   "pitch": [
+    1.0,
+    1.4
+   ]
+  }
+ ]
+}

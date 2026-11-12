@@ -1,0 +1,869 @@
+{
+ "chapter": "d",
+ "shots": [
+  {
+   "id": "D1",
+   "file": "shots-chd-fix-two-minutes",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 44,
+   "note": "bulb pops over Pip at desk"
+  },
+  {
+   "id": "D2",
+   "file": "shots-chd-fix-two-minutes",
+   "size": "medium",
+   "set": "card",
+   "key": 26,
+   "note": "tips 1 2 3, first lit"
+  },
+  {
+   "id": "D3",
+   "file": "shots-chd-fix-two-minutes",
+   "size": "close",
+   "set": "card",
+   "key": 30,
+   "note": "giant 2:00 timer"
+  },
+  {
+   "id": "D4",
+   "file": "shots-chd-fix-two-minutes",
+   "size": "insert",
+   "set": "card",
+   "key": 22,
+   "note": "laptop lid opens"
+  },
+  {
+   "id": "D5",
+   "file": "shots-chd-fix-two-minutes",
+   "size": "close",
+   "set": "screen",
+   "key": 32,
+   "note": "one sentence typed"
+  },
+  {
+   "id": "D6",
+   "file": "shots-chd-fix-two-minutes",
+   "size": "wide",
+   "set": "hills",
+   "key": 44,
+   "note": "boulder starts rolling"
+  },
+  {
+   "id": "D7",
+   "file": "shots-chd-fix-two-minutes",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "timer passes 2:00"
+  },
+  {
+   "id": "D8",
+   "file": "shots-chd-fix-two-minutes",
+   "size": "medium",
+   "set": "screen",
+   "key": 36,
+   "note": "slides fill with planets"
+  },
+  {
+   "id": "D9",
+   "file": "shots-chd-fix-if-then",
+   "size": "medium",
+   "set": "card",
+   "key": 64,
+   "note": "tips 2 + NẾU/THÌ card"
+  },
+  {
+   "id": "D10",
+   "file": "shots-chd-fix-if-then",
+   "size": "insert",
+   "set": "table",
+   "key": 34,
+   "note": "dinner plate done"
+  },
+  {
+   "id": "D11",
+   "file": "shots-chd-fix-if-then",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 32,
+   "note": "Pip sits at desk"
+  },
+  {
+   "id": "D12",
+   "file": "shots-chd-fix-if-then",
+   "size": "close",
+   "set": "bedroom",
+   "key": 34,
+   "note": "15 minute timer"
+  },
+  {
+   "id": "D13",
+   "file": "shots-chd-fix-if-then",
+   "size": "medium",
+   "set": "card",
+   "key": 30,
+   "note": "stack of papers ~100 NGHIÊN CỨU"
+  },
+  {
+   "id": "D14",
+   "file": "shots-chd-fix-if-then",
+   "size": "close",
+   "set": "card",
+   "key": 46,
+   "note": "source tag Gollwitzer"
+  },
+  {
+   "id": "D15",
+   "file": "shots-chd-fix-if-then",
+   "size": "medium",
+   "set": "card",
+   "key": 50,
+   "note": "plan vs no plan bars"
+  },
+  {
+   "id": "D16",
+   "file": "shots-chd-fix-if-then",
+   "size": "close",
+   "set": "card",
+   "key": 24,
+   "note": "ĐÓ LÀ THẬT"
+  },
+  {
+   "id": "D17",
+   "file": "shots-chd-fix-forgive",
+   "size": "medium",
+   "set": "card",
+   "key": 44,
+   "note": "tip 3 lit, heart ?"
+  },
+  {
+   "id": "D18",
+   "file": "shots-chd-fix-forgive",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 34,
+   "note": "Pip in mirror hugs self"
+  },
+  {
+   "id": "D19",
+   "file": "shots-chd-fix-forgive",
+   "size": "medium",
+   "set": "card",
+   "key": 36,
+   "note": "CANADA card"
+  },
+  {
+   "id": "D20",
+   "file": "shots-chd-fix-forgive",
+   "size": "medium",
+   "set": "card",
+   "key": 36,
+   "note": "student hugs self"
+  },
+  {
+   "id": "D21",
+   "file": "shots-chd-fix-forgive",
+   "size": "insert",
+   "set": "card",
+   "key": 30,
+   "note": "exam 1 untouched books"
+  },
+  {
+   "id": "D22",
+   "file": "shots-chd-fix-forgive",
+   "size": "medium",
+   "set": "card",
+   "key": 44,
+   "note": "two bars drop"
+  },
+  {
+   "id": "D23",
+   "file": "shots-chd-fix-forgive",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 34,
+   "note": "storm cloud, blanket"
+  },
+  {
+   "id": "D24",
+   "file": "shots-chd-fix-forgive",
+   "size": "close",
+   "set": "card",
+   "key": 28,
+   "note": "ĐÓ LÀ THẬT"
+  },
+  {
+   "id": "D25",
+   "file": "shots-chd-ending-assignment",
+   "size": "medium",
+   "set": "classroom",
+   "key": 36,
+   "note": "teacher gives new task"
+  },
+  {
+   "id": "D26",
+   "file": "shots-chd-ending-assignment",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 24,
+   "note": "calendar 7 days"
+  },
+  {
+   "id": "D27",
+   "file": "shots-chd-ending-assignment",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 20,
+   "note": "opens laptop"
+  },
+  {
+   "id": "D28",
+   "file": "shots-chd-ending-assignment",
+   "size": "close",
+   "set": "screen",
+   "key": 30,
+   "note": "2 min one sentence"
+  },
+  {
+   "id": "D29",
+   "file": "shots-chd-ending-assignment",
+   "size": "insert",
+   "set": "screen",
+   "key": 24,
+   "note": "a page"
+  },
+  {
+   "id": "D30",
+   "file": "shots-chd-ending-assignment",
+   "size": "insert",
+   "set": "table",
+   "key": 22,
+   "note": "peel MAI LÀM and crumple"
+  },
+  {
+   "id": "D31",
+   "file": "shots-chd-ending-assignment",
+   "size": "wide",
+   "set": "hills",
+   "key": 24,
+   "note": "bus to countryside"
+  },
+  {
+   "id": "D32",
+   "file": "shots-chd-ending-porch",
+   "size": "close",
+   "set": "porch",
+   "key": 30,
+   "note": "grandma toothless smile"
+  },
+  {
+   "id": "D33",
+   "file": "shots-chd-ending-porch",
+   "size": "medium",
+   "set": "porch",
+   "key": 30,
+   "note": "grandma teaches strum"
+  },
+  {
+   "id": "D34",
+   "file": "shots-chd-ending-porch",
+   "size": "insert",
+   "set": "porch",
+   "key": 24,
+   "note": "dust wiped off guitar"
+  },
+  {
+   "id": "D35",
+   "file": "shots-chd-ending-porch",
+   "size": "wide",
+   "set": "porch",
+   "key": 36,
+   "note": "sunset over porch"
+  },
+  {
+   "id": "D36",
+   "file": "shots-chd-ending-porch",
+   "size": "medium",
+   "set": "porch",
+   "key": 50,
+   "note": "sleepy tomorrow sun"
+  },
+  {
+   "id": "D37",
+   "file": "shots-chd-question-card",
+   "size": "medium",
+   "set": "porch",
+   "key": 20,
+   "note": "Còn bạn: Pip to camera"
+  },
+  {
+   "id": "D38",
+   "file": "shots-chd-question-card",
+   "size": "medium",
+   "set": "porch",
+   "key": 46,
+   "note": "end card question"
+  },
+  {
+   "id": "D39",
+   "file": "shots-chd-question-card",
+   "size": "medium",
+   "set": "porch",
+   "key": 30,
+   "note": "Viết ở phần bình luận"
+  },
+  {
+   "id": "D40",
+   "file": "shots-chd-question-card",
+   "size": "medium",
+   "set": "porch",
+   "key": 36,
+   "note": "MAI LÀM crossed out"
+  },
+  {
+   "id": "D41",
+   "file": "shots-chd-question-card",
+   "size": "medium",
+   "set": "porch",
+   "key": 60,
+   "note": "NGAY BÂY GIỜ"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "D1",
+   "at": "s:176.19",
+   "look": "peace"
+  },
+  {
+   "shot": "D2",
+   "at": "s:177.92",
+   "look": "peace"
+  },
+  {
+   "shot": "D3",
+   "at": "s:178.95",
+   "look": "peace"
+  },
+  {
+   "shot": "D4",
+   "at": "s:180.19",
+   "look": "peace"
+  },
+  {
+   "shot": "D5",
+   "at": "s:180.99",
+   "look": "peace"
+  },
+  {
+   "shot": "D6",
+   "at": "s:182.23",
+   "look": "peace"
+  },
+  {
+   "shot": "D7",
+   "at": "s:183.83",
+   "look": "peace"
+  },
+  {
+   "shot": "D8",
+   "at": "s:185.04",
+   "look": "peace"
+  },
+  {
+   "shot": "D9",
+   "at": "s:186.4",
+   "look": "peace"
+  },
+  {
+   "shot": "D10",
+   "at": "s:188.86",
+   "look": "peace"
+  },
+  {
+   "shot": "D11",
+   "at": "s:190.05",
+   "look": "peace"
+  },
+  {
+   "shot": "D12",
+   "at": "s:191.76",
+   "look": "peace"
+  },
+  {
+   "shot": "D13",
+   "at": "s:192.93",
+   "look": "memory"
+  },
+  {
+   "shot": "D14",
+   "at": "s:194.49",
+   "look": "memory"
+  },
+  {
+   "shot": "D15",
+   "at": "s:196.59",
+   "look": "memory"
+  },
+  {
+   "shot": "D16",
+   "at": "s:198.67",
+   "look": "memory"
+  },
+  {
+   "shot": "D17",
+   "at": "s:199.64",
+   "look": "peace"
+  },
+  {
+   "shot": "D18",
+   "at": "s:201.65",
+   "look": "peace"
+  },
+  {
+   "shot": "D19",
+   "at": "s:203.14",
+   "look": "memory"
+  },
+  {
+   "shot": "D20",
+   "at": "s:204.95",
+   "look": "memory"
+  },
+  {
+   "shot": "D21",
+   "at": "s:206.77",
+   "look": "memory"
+  },
+  {
+   "shot": "D22",
+   "at": "s:208.42",
+   "look": "memory"
+  },
+  {
+   "shot": "D23",
+   "at": "s:210.45",
+   "look": "peace"
+  },
+  {
+   "shot": "D24",
+   "at": "s:212.65",
+   "look": "memory"
+  },
+  {
+   "shot": "D25",
+   "at": "s:214.29",
+   "look": "peace"
+  },
+  {
+   "shot": "D26",
+   "at": "s:216.22",
+   "look": "c7"
+  },
+  {
+   "shot": "D27",
+   "at": "s:217.24",
+   "look": "c7"
+  },
+  {
+   "shot": "D28",
+   "at": "s:218.18",
+   "look": "c7"
+  },
+  {
+   "shot": "D29",
+   "at": "s:219.72",
+   "look": "c7"
+  },
+  {
+   "shot": "D30",
+   "at": "s:220.89",
+   "look": "peace"
+  },
+  {
+   "shot": "D31",
+   "at": "s:221.86",
+   "look": "peace"
+  },
+  {
+   "shot": "D32",
+   "at": "s:222.9",
+   "look": "peace"
+  },
+  {
+   "shot": "D33",
+   "at": "s:224.29",
+   "look": "peace"
+  },
+  {
+   "shot": "D34",
+   "at": "s:225.61",
+   "look": "peace"
+  },
+  {
+   "shot": "D35",
+   "at": "s:227.64",
+   "look": "peace"
+  },
+  {
+   "shot": "D36",
+   "at": "s:229.5",
+   "look": "peace"
+  },
+  {
+   "shot": "D37",
+   "at": "s:232.0",
+   "look": "peace"
+  },
+  {
+   "shot": "D38",
+   "at": "s:233.1",
+   "look": "peace"
+  },
+  {
+   "shot": "D39",
+   "at": "s:235.24",
+   "look": "peace"
+  },
+  {
+   "shot": "D40",
+   "at": "s:236.74",
+   "look": "peace"
+  },
+  {
+   "shot": "D41",
+   "at": "s:238.46",
+   "look": "peace"
+  }
+ ],
+ "fx": [
+  {
+   "at": "D16+3",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25
+  },
+  {
+   "at": "D24+3",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25
+  },
+  {
+   "at": "D23+16",
+   "kind": "flash",
+   "color": "#DDE6FF",
+   "o": 0.35
+  }
+ ],
+ "events": [
+  [
+   "D1",
+   "room_tone",
+   0.08,
+   "onset",
+   "D6"
+  ],
+  [
+   "D1+18",
+   "bulb_pop",
+   0.16
+  ],
+  [
+   "D1+22",
+   "sparkle",
+   0.1
+  ],
+  [
+   "D2+18",
+   "ding",
+   0.12
+  ],
+  [
+   "D3+2",
+   "counter_tick",
+   0.08,
+   "onset",
+   "D4"
+  ],
+  [
+   "D4+12",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "D6+26",
+   "tumble",
+   0.1,
+   "onset",
+   "D7"
+  ],
+  [
+   "D7",
+   "room_tone",
+   0.08,
+   "onset",
+   "D13"
+  ],
+  [
+   "D7+25",
+   "ding",
+   0.14
+  ],
+  [
+   "D9+40",
+   "paste_pop",
+   0.12
+  ],
+  [
+   "D9+54",
+   "ding",
+   0.14
+  ],
+  [
+   "D10+28",
+   "ding",
+   0.14
+  ],
+  [
+   "D11+24",
+   "land",
+   0.12
+  ],
+  [
+   "D14+14",
+   "select_draw",
+   0.1
+  ],
+  [
+   "D15+30",
+   "ding",
+   0.12
+  ],
+  [
+   "D16+3",
+   "land",
+   0.2,
+   "onset",
+   "D17"
+  ],
+  [
+   "D17+26",
+   "ting",
+   0.12
+  ],
+  [
+   "D18",
+   "room_tone",
+   0.08,
+   "onset",
+   "D19"
+  ],
+  [
+   "D18+16",
+   "sparkle",
+   0.12
+  ],
+  [
+   "D19",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "D20+14",
+   "sparkle",
+   0.1
+  ],
+  [
+   "D22+50",
+   "ding",
+   0.12
+  ],
+  [
+   "D23",
+   "room_tone",
+   0.08,
+   "onset",
+   "D24"
+  ],
+  [
+   "D23+16",
+   "drone_hit",
+   0.14
+  ],
+  [
+   "D24+3",
+   "land",
+   0.2,
+   "onset",
+   "D25"
+  ],
+  [
+   "D25",
+   "class_murmur",
+   0.08,
+   "onset",
+   "D26"
+  ],
+  [
+   "D25+34",
+   "paper_land",
+   0.15
+  ],
+  [
+   "D27",
+   "room_tone",
+   0.08,
+   "onset",
+   "D30"
+  ],
+  [
+   "D27+12",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "D29+20",
+   "sparkle",
+   0.1
+  ],
+  [
+   "D30+6",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "D30+19",
+   "catch",
+   0.1
+  ],
+  [
+   "D31",
+   "roof_wind",
+   0.09,
+   "onset",
+   "D37"
+  ],
+  [
+   "D34+40",
+   "sparkle",
+   0.12
+  ],
+  [
+   "D38+4",
+   "pop",
+   0.1
+  ],
+  [
+   "D40+18",
+   "select_draw",
+   0.12
+  ],
+  [
+   "D41+30",
+   "ding",
+   0.14
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "D5+6",
+   "clip": "copy_click",
+   "n": 9,
+   "every": 3,
+   "gain": [
+    0.06,
+    0.1
+   ],
+   "pitch": [
+    0.9,
+    1.2
+   ]
+  },
+  {
+   "at": "D8+4",
+   "clip": "pop",
+   "n": 5,
+   "every": 6,
+   "gain": [
+    0.05,
+    0.09
+   ],
+   "pitch": [
+    0.9,
+    1.3
+   ]
+  },
+  {
+   "at": "D11+2",
+   "clip": "step",
+   "n": 4,
+   "every": 5,
+   "gain": [
+    0.08,
+    0.12
+   ],
+   "pitch": [
+    0.9,
+    1.1
+   ]
+  },
+  {
+   "at": "D13+4",
+   "clip": "paper_land",
+   "n": 5,
+   "every": 7,
+   "gain": [
+    0.05,
+    0.1
+   ],
+   "pitch": [
+    0.9,
+    1.2
+   ]
+  },
+  {
+   "at": "D26+3",
+   "clip": "pop",
+   "n": 7,
+   "every": 2,
+   "gain": [
+    0.05,
+    0.09
+   ],
+   "pitch": [
+    1.0,
+    1.5
+   ]
+  },
+  {
+   "at": "D28+8",
+   "clip": "copy_click",
+   "n": 10,
+   "every": 3,
+   "gain": [
+    0.06,
+    0.1
+   ],
+   "pitch": [
+    0.9,
+    1.2
+   ]
+  },
+  {
+   "at": "D41+8",
+   "clip": "copy_click",
+   "n": 9,
+   "every": 2,
+   "gain": [
+    0.06,
+    0.1
+   ],
+   "pitch": [
+    0.9,
+    1.2
+   ]
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+# chapter F: beats 33-36. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "24 september"  470.41-482.45 s
+# Đầu tháng chín, phía Sài Gòn đưa thêm lực lượng, mở đợt tấn công lớn từ nhiều hướng. Các mũi tấn công khép dần vào thành cổ. Bên trong, những bức tường gần như đã thành gạch vụn. Các đơn vị mới vượt sông vào cũng bị tổn thất rất nặng.
+Đầu@470.34 tháng@470.51 chín,@470.77 phía@471.28 Sài@471.46 Gòn@471.61 đưa@471.77 thêm@471.92 lực@472.10 lượng,@472.25 mở@472.77 đợt@472.91 tấn@473.20 công@473.37 lớn@473.59 từ@473.77 nhiều@473.91 hướng.@474.16 Các@475.02 mũi@475.20 tấn@475.38 công@475.56 khép@475.78 dần@475.99 vào@476.17 thành@476.35 cổ.@476.61 Bên@477.15 trong,@477.32 những@477.87 bức@478.06 tường@478.31 gần@478.77 như@478.90 đã@479.03 thành@479.13 gạch@479.32 vụn.@479.49 Các@480.03 đơn@480.19 vị@480.35 mới@480.47 vượt@480.63 sông@480.82 vào@481.02 cũng@481.18 bị@481.45 tổn@481.67 thất@481.83 rất@482.03 nặng.@482.19
+
+## beat "24b still going"  483.05-490.91 s
+# Những ngày cuối cùng, mỗi đêm vẫn có những đơn vị mới vượt sông vào thành. Họ biết rất rõ con đường ấy nguy hiểm thế nào. Nhưng họ vẫn đi.
+Những@482.98 ngày@483.19 cuối@483.37 cùng,@483.54 mỗi@484.02 đêm@484.23 vẫn@484.44 có@484.65 những@484.81 đơn@485.11 vị@485.32 mới@485.49 vượt@485.70 sông@485.95 vào@486.21 thành.@486.42 Họ@487.32 biết@487.47 rất@487.79 rõ@487.98 con@488.12 đường@488.31 ấy@488.58 nguy@488.73 hiểm@488.96 thế@489.19 nào.@489.38 Nhưng@490.05 họ@490.33 vẫn@490.49 đi.@490.69
+
+## beat "25 withdrawal"  491.25-504.20 s
+# Đêm mười lăm tháng chín, Bộ chỉ huy mặt trận ra lệnh cho các đơn vị rút khỏi thị xã và thành cổ, bắt đầu từ hai mươi hai giờ. Những người còn lại lặng lẽ đưa thương binh xuống bờ sông. Trong bóng tối, họ vượt Thạch Hãn, trở về bờ bắc.
+Đêm@491.18 mười@491.36 lăm@491.57 tháng@491.74 chín,@491.99 Bộ@492.50 chỉ@492.65 huy@492.83 mặt@493.01 trận@493.28 ra@493.51 lệnh@493.65 cho@494.31 các@494.49 đơn@494.67 vị@494.86 rút@495.00 khỏi@495.18 thị@495.40 xã@495.59 và@495.73 thành@495.87 cổ,@496.13 bắt@496.57 đầu@496.76 từ@496.94 hai@497.08 mươi@497.26 hai@497.48 giờ.@497.66 Những@498.29 người@498.55 còn@498.81 lại@498.99 lặng@499.17 lẽ@499.39 đưa@499.52 thương@499.82 binh@500.12 xuống@500.34 bờ@500.60 sông.@500.74 Trong@501.31 bóng@501.57 tối,@501.78 họ@502.26 vượt@502.38 Thạch@502.67 Hãn,@502.96 trở@503.38 về@503.59 bờ@503.76 bắc.@503.92
+
+## beat "26 flag"  504.55-523.27 s
+# Ngày mười sáu tháng chín, lính Thủy quân lục chiến cắm cờ Việt Nam Cộng hòa trên cổng phía tây thành cổ. Tám mươi mốt ngày đêm đã kết thúc. Kế hoạch hai tuần đã kéo dài gần ba tháng. Và sau ngần ấy bom đạn, phía Sài Gòn chỉ lấy lại được phần đất ở bờ nam sông Thạch Hãn. Nửa phía bắc tỉnh Quảng Trị vẫn nằm trong tay Quân Giải phóng.
+Ngày@504.48 mười@504.74 sáu@505.41 tháng@505.62 chín,@505.93 lính@506.49 Thủy@506.70 quân@506.90 lục@507.11 chiến@507.28 cắm@507.52 cờ@507.69 Việt@507.83 Nam@508.03 Cộng@508.20 hòa@508.41 trên@508.58 cổng@508.78 phía@508.99 tây@509.27 thành@509.44 cổ.@509.68 Tám@510.41 mươi@510.57 mốt@510.76 ngày@510.91 đêm@511.10 đã@511.26 kết@511.65 thúc.@511.80 Kế@512.34 hoạch@512.50 hai@512.86 tuần@513.06 đã@513.54 kéo@513.69 dài@513.89 gần@514.09 ba@514.29 tháng.@514.45 Và@515.34 sau@515.49 ngần@515.69 ấy@515.92 bom@516.07 đạn,@516.27 phía@516.76 Sài@516.98 Gòn@517.15 chỉ@517.33 lấy@517.50 lại@517.67 được@517.85 phần@518.17 đất@518.58 ở@518.75 bờ@518.85 nam@518.99 sông@519.16 Thạch@519.37 Hãn.@519.63 Nửa@520.40 phía@520.55 bắc@520.80 tỉnh@521.05 Quảng@521.23 Trị@521.44 vẫn@521.59 nằm@522.05 trong@522.20 tay@522.41 Quân@522.56 Giải@522.74 phóng.@522.99
+
+# chapter ends at s:524.50 (next chapter's first cut, or the episode end)

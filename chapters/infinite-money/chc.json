@@ -1,0 +1,663 @@
+{
+ "chapter": "c",
+ "shots": [
+  {
+   "id": "C1",
+   "file": "shots-chc-new-money",
+   "size": "macro",
+   "set": "insert",
+   "key": 30,
+   "note": "card taps the terminal, green tick"
+  },
+  {
+   "id": "C2",
+   "file": "shots-chc-new-money",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 60,
+   "note": "notes pour through a pipe into the economy jar"
+  },
+  {
+   "id": "C3",
+   "file": "shots-chc-new-money",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 80,
+   "note": "shelf same size, money piles, scale tips"
+  },
+  {
+   "id": "C4",
+   "file": "shots-chc-bread",
+   "size": "medium",
+   "set": "street",
+   "key": 50,
+   "note": "Pip arms full of banh mi bags, carts sold out"
+  },
+  {
+   "id": "C5",
+   "file": "shots-chc-bread",
+   "size": "wide",
+   "set": "street",
+   "key": 70,
+   "note": "empty cart, neighbours queue"
+  },
+  {
+   "id": "C6",
+   "file": "shots-chc-bread",
+   "size": "medium",
+   "set": "street",
+   "key": 40,
+   "note": "seller sees crowd waving notes"
+  },
+  {
+   "id": "C7",
+   "file": "shots-chc-bread",
+   "size": "macro",
+   "set": "street",
+   "key": 30,
+   "note": "price board 25.000 -> 35.000"
+  },
+  {
+   "id": "C8",
+   "file": "shots-chc-rice",
+   "size": "wide",
+   "set": "rural",
+   "key": 50,
+   "note": "truck of rice sacks to the flood"
+  },
+  {
+   "id": "C9",
+   "file": "shots-chc-rice",
+   "size": "medium",
+   "set": "paddy",
+   "key": 35,
+   "note": "farmer plants slowly"
+  },
+  {
+   "id": "C10",
+   "file": "shots-chc-rice",
+   "size": "split",
+   "set": "schematic",
+   "key": 35,
+   "note": "paddy slow vs card swipes fast"
+  },
+  {
+   "id": "C11",
+   "file": "shots-chc-rice",
+   "size": "medium",
+   "set": "market",
+   "key": 90,
+   "note": "rice stall empties, price climbs"
+  },
+  {
+   "id": "C12",
+   "file": "shots-chc-shopkeepers",
+   "size": "medium",
+   "set": "street",
+   "key": 45,
+   "note": "seller spots Pip"
+  },
+  {
+   "id": "C13",
+   "file": "shots-chc-shopkeepers",
+   "size": "wide",
+   "set": "street",
+   "key": 30,
+   "note": "all sellers see Pip from afar"
+  },
+  {
+   "id": "C14",
+   "file": "shots-chc-shopkeepers",
+   "size": "medium",
+   "set": "street",
+   "key": 50,
+   "note": "seller swaps the price board"
+  },
+  {
+   "id": "C15",
+   "file": "shots-chc-1986",
+   "size": "wide",
+   "set": "memory",
+   "key": 30,
+   "note": "sepia market"
+  },
+  {
+   "id": "C16",
+   "file": "shots-chc-1986",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 45,
+   "note": "1986 stamped on timeline"
+  },
+  {
+   "id": "C17",
+   "file": "shots-chc-1986",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 100,
+   "note": "774,7% counts up"
+  },
+  {
+   "id": "C18",
+   "file": "shots-chc-1986",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 40,
+   "note": "item tag 1 d, January"
+  },
+  {
+   "id": "C19",
+   "file": "shots-chc-1986",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 50,
+   "note": "tag becomes ~9 d, December"
+  },
+  {
+   "id": "C20",
+   "file": "shots-chc-1986",
+   "size": "medium",
+   "set": "memory",
+   "key": 45,
+   "note": "bag of banknotes for a few vegetables"
+  },
+  {
+   "id": "C21",
+   "file": "shots-chc-1986",
+   "size": "close-up",
+   "set": "street",
+   "key": 20,
+   "note": "Pip close-up"
+  },
+  {
+   "id": "C22",
+   "file": "shots-chc-zimbabwe",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 70,
+   "note": "Zimbabwe, price doubling"
+  },
+  {
+   "id": "C23",
+   "file": "shots-chc-zimbabwe",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 35,
+   "note": "clock ~24 GIO x2"
+  },
+  {
+   "id": "C24",
+   "file": "shots-chc-zimbabwe",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 45,
+   "note": "2009 printing press"
+  },
+  {
+   "id": "C25",
+   "file": "shots-chc-zimbabwe",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 100,
+   "note": "the 100 trillion banknote"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "C1",
+   "at": "s:109.19",
+   "look": "card"
+  },
+  {
+   "shot": "C2",
+   "at": "s:110.47"
+  },
+  {
+   "shot": "C3",
+   "at": "s:112.82"
+  },
+  {
+   "shot": "C4",
+   "at": "s:115.21",
+   "look": "card"
+  },
+  {
+   "shot": "C5",
+   "at": "s:117.59"
+  },
+  {
+   "shot": "C6",
+   "at": "s:120.61",
+   "look": "prices"
+  },
+  {
+   "shot": "C7",
+   "at": "s:122.71",
+   "look": "prices"
+  },
+  {
+   "shot": "C8",
+   "at": "s:124.23"
+  },
+  {
+   "shot": "C9",
+   "at": "s:127.57"
+  },
+  {
+   "shot": "C10",
+   "at": "s:128.77"
+  },
+  {
+   "shot": "C11",
+   "at": "s:130.86",
+   "look": "prices"
+  },
+  {
+   "shot": "C12",
+   "at": "s:134.72",
+   "look": "prices"
+  },
+  {
+   "shot": "C13",
+   "at": "s:137.13",
+   "look": "prices"
+  },
+  {
+   "shot": "C14",
+   "at": "s:138.37",
+   "look": "prices"
+  },
+  {
+   "shot": "C15",
+   "at": "s:140.81",
+   "look": "memory"
+  },
+  {
+   "shot": "C16",
+   "at": "s:142.49",
+   "look": "memory"
+  },
+  {
+   "shot": "C17",
+   "at": "s:144.71",
+   "look": "memory"
+  },
+  {
+   "shot": "C18",
+   "at": "s:149.09",
+   "look": "memory"
+  },
+  {
+   "shot": "C19",
+   "at": "s:151.10",
+   "look": "memory"
+  },
+  {
+   "shot": "C20",
+   "at": "s:152.73",
+   "look": "memory"
+  },
+  {
+   "shot": "C21",
+   "at": "s:155.39"
+  },
+  {
+   "shot": "C22",
+   "at": "s:156.68"
+  },
+  {
+   "shot": "C23",
+   "at": "s:158.96"
+  },
+  {
+   "shot": "C24",
+   "at": "s:160.54"
+  },
+  {
+   "shot": "C25",
+   "at": "s:161.97"
+  }
+ ],
+ "fx": [
+  {
+   "at": "C7+22",
+   "kind": "shake",
+   "len": 4,
+   "amp": 5
+  },
+  {
+   "at": "C14+34",
+   "kind": "shake",
+   "len": 4,
+   "amp": 5
+  },
+  {
+   "at": "C25+80",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25
+  }
+ ],
+ "events": [
+  [
+   "C1+26",
+   "ting",
+   0.12
+  ],
+  [
+   "C4",
+   "class_murmur",
+   0.07,
+   "onset",
+   "C8"
+  ],
+  [
+   "C4+12",
+   "ting",
+   0.1
+  ],
+  [
+   "C4+40",
+   "ting",
+   0.1
+  ],
+  [
+   "C5+16",
+   "gasp",
+   0.07
+  ],
+  [
+   "C6+16",
+   "ding",
+   0.07
+  ],
+  [
+   "C7+6",
+   "counter_tick",
+   0.12
+  ],
+  [
+   "C7+20",
+   "counter_tick",
+   0.12
+  ],
+  [
+   "C8",
+   "roof_wind",
+   0.09,
+   "onset",
+   "C11"
+  ],
+  [
+   "C11",
+   "class_murmur",
+   0.08,
+   "onset",
+   "C12"
+  ],
+  [
+   "C11+36",
+   "counter_tick",
+   0.13
+  ],
+  [
+   "C11+52",
+   "counter_tick",
+   0.13
+  ],
+  [
+   "C11+68",
+   "counter_tick",
+   0.13
+  ],
+  [
+   "C12",
+   "class_murmur",
+   0.06,
+   "onset",
+   "C15"
+  ],
+  [
+   "C12+12",
+   "gasp",
+   0.07
+  ],
+  [
+   "C14+24",
+   "buzzer",
+   0.08
+  ],
+  [
+   "C14+25",
+   "counter_tick",
+   0.1
+  ],
+  [
+   "C15",
+   "class_murmur",
+   0.1,
+   "onset",
+   "C21"
+  ],
+  [
+   "C17+98",
+   "drone_hit",
+   0.12
+  ],
+  [
+   "C19+26",
+   "pop",
+   0.1
+  ],
+  [
+   "C21",
+   "room_tone",
+   0.06,
+   "onset",
+   "C22"
+  ],
+  [
+   "C22+8",
+   "pop",
+   0.08
+  ],
+  [
+   "C22+34",
+   "counter_tick",
+   0.1
+  ],
+  [
+   "C22+44",
+   "counter_tick",
+   0.1
+  ],
+  [
+   "C22+54",
+   "counter_tick",
+   0.1
+  ],
+  [
+   "C22+62",
+   "counter_tick",
+   0.1
+  ],
+  [
+   "C22+70",
+   "counter_tick",
+   0.1
+  ],
+  [
+   "C23+30",
+   "pop",
+   0.1
+  ],
+  [
+   "C24",
+   "power_hum",
+   0.08,
+   "onset",
+   "C25"
+  ],
+  [
+   "C25+90",
+   "gasp",
+   0.08
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "C2+4",
+   "clip": "ting",
+   "n": 4,
+   "every": 20,
+   "gain": [
+    0.05,
+    0.07
+   ],
+   "pitch": [
+    0.98,
+    1.04
+   ]
+  },
+  {
+   "at": "C3+6",
+   "clip": "counter_tick",
+   "n": 9,
+   "every": 9,
+   "gain": [
+    0.06,
+    0.09
+   ],
+   "pitch": [
+    0.95,
+    1.05
+   ]
+  },
+  {
+   "at": "C10+2",
+   "clip": "ting",
+   "n": 6,
+   "every": 7,
+   "gain": [
+    0.06,
+    0.09
+   ],
+   "pitch": [
+    0.96,
+    1.06
+   ]
+  },
+  {
+   "at": "C13+8",
+   "clip": "pop",
+   "n": 4,
+   "every": 5,
+   "gain": [
+    0.06,
+    0.09
+   ],
+   "pitch": [
+    0.9,
+    1.15
+   ]
+  },
+  {
+   "at": "C16+6",
+   "clip": "paper_land",
+   "n": 4,
+   "every": 7,
+   "gain": [
+    0.08,
+    0.1
+   ],
+   "pitch": [
+    0.9,
+    1.1
+   ]
+  },
+  {
+   "at": "C17+26",
+   "clip": "counter_tick",
+   "n": 22,
+   "every": 3,
+   "gain": [
+    0.05,
+    0.07
+   ],
+   "pitch": [
+    0.95,
+    1.1
+   ]
+  },
+  {
+   "at": "C19+4",
+   "clip": "counter_tick",
+   "n": 11,
+   "every": 2,
+   "gain": [
+    0.06,
+    0.08
+   ],
+   "pitch": [
+    0.95,
+    1.1
+   ]
+  },
+  {
+   "at": "C20+4",
+   "clip": "step",
+   "n": 5,
+   "every": 11,
+   "gain": [
+    0.05,
+    0.08
+   ],
+   "pitch": [
+    0.9,
+    1.05
+   ]
+  },
+  {
+   "at": "C23+4",
+   "clip": "counter_tick",
+   "n": 11,
+   "every": 3,
+   "gain": [
+    0.07,
+    0.09
+   ],
+   "pitch": [
+    0.95,
+    1.05
+   ]
+  },
+  {
+   "at": "C24+4",
+   "clip": "copy_click",
+   "n": 8,
+   "every": 6,
+   "gain": [
+    0.05,
+    0.07
+   ],
+   "pitch": [
+    0.9,
+    1.05
+   ]
+  },
+  {
+   "at": "C25+56",
+   "clip": "counter_tick",
+   "n": 5,
+   "every": 6,
+   "gain": [
+    0.09,
+    0.11
+   ],
+   "pitch": [
+    1,
+    1.1
+   ]
+  }
+ ]
+}

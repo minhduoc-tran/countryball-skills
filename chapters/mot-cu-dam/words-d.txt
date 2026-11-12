@@ -1,0 +1,23 @@
+# chapter D: beats 14-18. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "3 science: sonic boom"  131.90-152.76 s
+# Còn nắm đấm của bạn, nhanh hơn cả tốc độ âm thanh, ba trăm bốn mươi ba mét mỗi giây. Nhanh gấp hơn ba mươi bảy lần nhà vô địch kia. Khi một vật vượt qua tốc độ âm thanh, nó tạo ra một tiếng nổ siêu thanh. Tiếng roi quất chát chúa chính là một tiếng nổ như vậy, vì đầu roi bay nhanh hơn âm thanh. Đó là thật. Nên mỗi lần bạn đấm, cả con phố nghe một tiếng nổ. Kính cửa sổ có thể vỡ.
+Còn@131.83 nắm@131.97 đấm@132.12 của@132.27 bạn,@132.41 nhanh@132.86 hơn@133.11 cả@133.28 tốc@133.42 độ@133.59 âm@133.72 thanh,@133.86 ba@134.41 trăm@134.55 bốn@134.77 mươi@134.95 ba@135.17 mét@135.31 mỗi@135.49 giây.@135.67 Nhanh@136.33 gấp@136.57 hơn@136.73 ba@136.90 mươi@137.03 bảy@137.23 lần@137.39 nhà@137.56 vô@137.72 địch@137.85 kia.@138.17 Khi@138.73 một@138.88 vật@139.02 vượt@139.27 qua@139.54 tốc@139.68 độ@139.83 âm@139.94 thanh,@140.05 nó@140.56 tạo@140.70 ra@140.88 một@141.01 tiếng@141.19 nổ@141.55 siêu@141.69 thanh.@141.90 Tiếng@142.70 roi@142.92 quất@143.07 chát@143.25 chúa@143.51 chính@143.69 là@144.18 một@144.30 tiếng@144.52 nổ@144.74 như@144.86 vậy,@145.00 vì@145.45 đầu@145.62 roi@145.83 bay@146.05 nhanh@146.45 hơn@146.76 âm@146.98 thanh.@147.14 Đó@147.97 là@148.07 thật.@148.17 Nên@148.73 mỗi@148.90 lần@149.07 bạn@149.25 đấm,@149.42 cả@149.90 con@150.03 phố@150.20 nghe@150.37 một@150.57 tiếng@150.74 nổ.@150.99 Kính@151.59 cửa@151.83 sổ@152.03 có@152.19 thể@152.34 vỡ.@152.54
+
+## beat "3 science: newton"  153.24-166.63 s
+# Và còn một định luật nữa. Định luật ba Niu tơn. Bạn đấm vào thứ gì mạnh bao nhiêu, nó đẩy ngược lại tay bạn mạnh đúng bằng chừng đó. Tay người bình thường sẽ vỡ vụn. Vậy là không chỉ nắm đấm, cả cơ thể bạn cũng phải không thể bị phá hủy.
+Và@153.18 còn@153.30 một@153.47 định@153.63 luật@153.83 nữa.@154.11 Định@154.78 luật@154.99 ba@155.45 Niu@155.58 tơn.@155.76 Bạn@156.27 đấm@156.44 vào@156.61 thứ@156.78 gì@156.95 mạnh@157.09 bao@157.29 nhiêu,@157.47 nó@158.01 đẩy@158.15 ngược@158.32 lại@158.57 tay@158.82 bạn@158.99 mạnh@159.17 đúng@159.38 bằng@159.68 chừng@159.89 đó.@160.14 Tay@160.82 người@160.98 bình@161.22 thường@161.42 sẽ@161.69 vỡ@161.81 vụn.@161.94 Vậy@162.63 là@162.84 không@162.99 chỉ@163.29 nắm@163.49 đấm,@163.70 cả@164.20 cơ@164.33 thể@164.46 bạn@164.62 cũng@164.79 phải@165.40 không@165.60 thể@165.84 bị@166.00 phá@166.23 hủy.@166.40
+
+## beat "4 boredom"  167.63-178.46 s
+# Một tuần trôi qua. Rồi một tháng. Quái vật, robot, bọn cướp. Trận nào cũng kết thúc sau một giây. Tim bạn không còn đập nhanh nữa. Không hồi hộp. Không run tay. Không gì cả.
+Một@167.56 tuần@167.76 trôi@167.99 qua.@168.23 Rồi@168.79 một@168.96 tháng.@169.22 Quái@169.86 vật,@170.04 robot,@170.48 bọn@171.16 cướp.@171.42 Trận@172.06 nào@172.27 cũng@172.43 kết@172.64 thúc@172.81 sau@173.01 một@173.18 giây.@173.35 Tim@174.10 bạn@174.26 không@174.42 còn@174.73 đập@174.89 nhanh@175.05 nữa.@175.28 Không@175.86 hồi@176.06 hộp.@176.20 Không@176.83 run@177.09 tay.@177.26 Không@177.87 gì@178.12 cả.@178.26
+
+## beat "4 boredom: football"  178.86-185.25 s
+# Mo rủ bạn đá bóng. Bạn sút. Quả bóng nổ tung. Mo cười trừ. Từ đó, chẳng ai rủ bạn chơi nữa.
+Mo@178.79 rủ@178.96 bạn@179.13 đá@179.35 bóng.@179.52 Bạn@180.11 sút.@180.27 Quả@180.94 bóng@181.13 nổ@181.37 tung.@181.52 Mo@182.15 cười@182.33 trừ.@182.69 Từ@183.37 đó,@183.55 chẳng@184.04 ai@184.31 rủ@184.45 bạn@184.59 chơi@184.78 nữa.@185.00
+
+## beat "4 boredom: flow"  185.76-201.12 s
+# Các nhà tâm lý học có một khái niệm, gọi là trạng thái dòng chảy. Con người vui nhất khi thử thách vừa sức mình. Khó một chút, nhưng vẫn làm được. Khi mọi thứ quá dễ, niềm vui biến thành nhàm chán. Đó là thật. Bạn là người mạnh nhất thế giới. Và cũng là người chán nhất thế giới.
+Các@185.70 nhà@185.83 tâm@185.97 lý@186.10 học@186.21 có@186.34 một@186.57 khái@186.70 niệm,@186.96 gọi@187.43 là@187.60 trạng@187.74 thái@187.99 dòng@188.21 chảy.@188.42 Con@189.13 người@189.27 vui@189.48 nhất@189.63 khi@189.80 thử@190.47 thách@190.61 vừa@190.93 sức@191.08 mình.@191.22 Khó@191.76 một@191.91 chút,@192.05 nhưng@192.53 vẫn@192.72 làm@192.85 được.@192.98 Khi@193.69 mọi@193.90 thứ@194.11 quá@194.32 dễ,@194.54 niềm@195.00 vui@195.22 biến@195.39 thành@195.61 nhàm@195.86 chán.@196.08 Đó@196.74 là@196.86 thật.@196.98 Bạn@197.71 là@197.87 người@197.99 mạnh@198.21 nhất@198.40 thế@198.59 giới.@198.75 Và@199.42 cũng@199.55 là@199.76 người@199.89 chán@200.13 nhất@200.47 thế@200.68 giới.@200.84
+
+# chapter ends at s:202.05 (next chapter's first cut, or the episode end)

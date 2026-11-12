@@ -1,0 +1,19 @@
+# chapter E: beats 18-21. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "7 after"  230.71-247.38 s
+# Rồi một ngày, tiếng súng dừng lại. Nhưng chiến tranh thì chưa kết thúc. Việt Nam mình hiểu rõ điều đó. Hơn năm mươi năm sau chiến tranh, gần một phần năm diện tích đất nước vẫn còn bom mìn chưa nổ nằm dưới lòng đất. Đó là thật. Đến hôm nay, những người rà phá bom mìn vẫn lặng lẽ làm sạch từng mét đất.
+Rồi@230.64 một@230.82 ngày,@230.99 tiếng@231.50 súng@231.71 dừng@231.89 lại.@232.07 Nhưng@232.70 chiến@232.91 tranh@233.13 thì@233.34 chưa@233.49 kết@233.67 thúc.@233.81 Việt@234.54 Nam@234.75 mình@234.93 hiểu@235.14 rõ@235.35 điều@235.49 đó.@235.70 Hơn@236.19 năm@236.35 mươi@236.51 năm@236.71 sau@236.88 chiến@237.04 tranh,@237.28 gần@237.82 một@237.99 phần@238.17 năm@238.38 diện@238.56 tích@238.88 đất@239.09 nước@239.61 vẫn@239.82 còn@240.00 bom@240.18 mìn@240.35 chưa@240.53 nổ@240.75 nằm@240.88 dưới@241.06 lòng@241.27 đất.@241.49 Đó@242.22 là@242.33 thật.@242.43 Đến@243.11 hôm@243.28 nay,@243.45 những@243.93 người@244.19 rà@244.45 phá@244.70 bom@244.88 mìn@245.06 vẫn@245.24 lặng@245.51 lẽ@245.73 làm@245.87 sạch@246.34 từng@246.56 mét@246.96 đất.@247.14
+
+## beat "8 return"  248.38-265.66 s
+# Bạn trở về. Con hẻm cũ. Quán cà phê cũ đã đóng cửa. Nhưng một buổi sáng, mùi xôi lại bay ra từ đầu ngõ. Mẹ lại bày hàng. Điện thoại rung. Một tin nhắn: Tao về rồi. Mo đạp xe tới, gầy hơn, nhưng vẫn cười. Hai đứa lại ngồi uống cà phê sữa đá. Một ngày bình thường.
+Bạn@248.32 trở@248.52 về.@248.73 Con@249.29 hẻm@249.50 cũ.@249.80 Quán@250.39 cà@250.62 phê@250.77 cũ@250.96 đã@251.11 đóng@251.43 cửa.@251.74 Nhưng@252.33 một@252.57 buổi@252.74 sáng,@252.94 mùi@253.45 xôi@253.68 lại@253.92 bay@254.28 ra@254.51 từ@254.70 đầu@254.88 ngõ.@255.11 Mẹ@255.75 lại@255.91 bày@256.12 hàng.@256.34 Điện@256.90 thoại@257.10 rung.@257.34 Một@257.88 tin@258.14 nhắn:@258.31 Tao@258.85 về@259.05 rồi.@259.21 Mo@259.75 đạp@259.93 xe@260.16 tới,@260.34 gầy@260.87 hơn,@261.11 nhưng@261.65 vẫn@261.93 cười.@262.12 Hai@262.67 đứa@262.86 lại@263.06 ngồi@263.25 uống@263.49 cà@263.72 phê@263.87 sữa@264.07 đá.@264.26 Một@264.78 ngày@264.94 bình@265.13 thường.@265.33
+
+## beat "9 ending"  266.86-280.05 s
+# Hòa bình giống như không khí. Khi có, ta chẳng để ý. Khi mất, ta mới biết mình cần nó đến mức nào. Một bữa sáng bình thường. Một tiếng trống trường. Một cánh đồng không có bom. Tất cả đều là thứ có người đã phải gìn giữ.
+Hòa@266.79 bình@266.97 giống@267.19 như@267.45 không@267.63 khí.@267.89 Khi@268.62 có,@268.87 ta@269.37 chẳng@269.55 để@269.88 ý.@270.05 Khi@270.55 mất,@270.67 ta@271.09 mới@271.24 biết@271.43 mình@271.75 cần@272.06 nó@272.25 đến@272.40 mức@272.59 nào.@272.78 Một@273.31 bữa@273.47 sáng@273.64 bình@273.84 thường.@274.04 Một@274.77 tiếng@275.00 trống@275.20 trường.@275.40 Một@276.02 cánh@276.18 đồng@276.38 không@276.58 có@276.82 bom.@276.95 Tất@277.52 cả@277.81 đều@278.15 là@278.34 thứ@278.48 có@278.67 người@278.95 đã@279.22 phải@279.37 gìn@279.60 giữ.@279.79
+
+## beat "9 question"  280.38-284.67 s
+# Nếu chỉ được mang theo một chiếc ba lô, bạn sẽ bỏ gì vào đó? Viết ở phần bình luận nhé.
+Nếu@280.31 chỉ@280.47 được@280.63 mang@280.83 theo@281.03 một@281.22 chiếc@281.38 ba@281.61 lô,@281.74 bạn@282.16 sẽ@282.36 bỏ@282.52 gì@282.67 vào@282.83 đó?@283.03 Viết@283.69 ở@283.87 phần@283.94 bình@284.12 luận@284.29 nhé.@284.46
+
+# chapter ends at s:287.67 (next chapter's first cut, or the episode end)

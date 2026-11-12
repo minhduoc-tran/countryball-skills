@@ -1,0 +1,828 @@
+{
+ "chapter": "a",
+ "shots": [
+  {
+   "id": "A1",
+   "file": "shots-cha-cold-open-ride",
+   "size": "wide",
+   "set": "street",
+   "key": 40,
+   "note": "Pip runs the red light on his scooter"
+  },
+  {
+   "id": "A2",
+   "file": "shots-cha-cold-open-ride",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "rides without helmet, helmet on the hook"
+  },
+  {
+   "id": "A3",
+   "file": "shots-cha-cold-open-ride",
+   "size": "medium",
+   "set": "street",
+   "key": 28,
+   "note": "passers-by watch and shrug"
+  },
+  {
+   "id": "A4",
+   "file": "shots-cha-cold-open-shop",
+   "size": "wide",
+   "set": "supermarket",
+   "key": 24,
+   "note": "walks into the store, cashier looks up"
+  },
+  {
+   "id": "A5",
+   "file": "shots-cha-cold-open-shop",
+   "size": "insert",
+   "set": "supermarket",
+   "key": 22,
+   "note": "mitten lifts a milk carton"
+  },
+  {
+   "id": "A6",
+   "file": "shots-cha-cold-open-shop",
+   "size": "wide",
+   "set": "supermarket",
+   "key": 20,
+   "note": "walks across to the door with the milk"
+  },
+  {
+   "id": "A7",
+   "file": "shots-cha-cold-open-shop",
+   "size": "medium",
+   "set": "supermarket",
+   "key": 36,
+   "note": "cashier stares as he walks past, no pay"
+  },
+  {
+   "id": "A8",
+   "file": "shots-cha-cold-open-night",
+   "size": "insert",
+   "set": "icons",
+   "key": 10,
+   "note": "law book crumbles into moonlit dust"
+  },
+  {
+   "id": "A9",
+   "file": "shots-cha-cold-open-night",
+   "size": "wide",
+   "set": "street",
+   "key": 16,
+   "note": "night street, rule signs fade"
+  },
+  {
+   "id": "A10",
+   "file": "shots-cha-premise-icons",
+   "size": "wide",
+   "set": "street",
+   "key": 60,
+   "note": "title card over the street"
+  },
+  {
+   "id": "A11",
+   "file": "shots-cha-premise-icons",
+   "size": "insert",
+   "set": "icons",
+   "key": 18,
+   "note": "empty police booth"
+  },
+  {
+   "id": "A12",
+   "file": "shots-cha-premise-icons",
+   "size": "wide",
+   "set": "icons",
+   "key": 18,
+   "note": "courthouse doors shut, gavel gone"
+  },
+  {
+   "id": "A13",
+   "file": "shots-cha-premise-icons",
+   "size": "insert",
+   "set": "icons",
+   "key": 18,
+   "note": "contract text fades to blank"
+  },
+  {
+   "id": "A14",
+   "file": "shots-cha-premise-icons",
+   "size": "insert",
+   "set": "icons",
+   "key": 3,
+   "note": "forbidden signs pop away"
+  },
+  {
+   "id": "A15",
+   "file": "shots-cha-rule-and-people",
+   "size": "medium",
+   "set": "street",
+   "key": 18,
+   "note": "family and neighbours stroll across"
+  },
+  {
+   "id": "A16",
+   "file": "shots-cha-rule-and-people",
+   "size": "wide",
+   "set": "street",
+   "key": 40,
+   "note": "normal busy street"
+  },
+  {
+   "id": "A17",
+   "file": "shots-cha-rule-and-people",
+   "size": "top-down",
+   "set": "crossroads",
+   "key": 14,
+   "note": "road paint and signs wipe away"
+  },
+  {
+   "id": "A18",
+   "file": "shots-cha-rule-and-people",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "two people shrug at each other"
+  },
+  {
+   "id": "A19",
+   "file": "shots-cha-freedom-scenes",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "Pip arms wide, bikes whizz past"
+  },
+  {
+   "id": "A20",
+   "file": "shots-cha-freedom-scenes",
+   "size": "wide",
+   "set": "street",
+   "key": 24,
+   "note": "Mo rips across the road cheering"
+  },
+  {
+   "id": "A21",
+   "file": "shots-cha-freedom-scenes",
+   "size": "close-up",
+   "set": "street",
+   "key": 20,
+   "note": "Mo hunched over bars, speed blur"
+  },
+  {
+   "id": "A22",
+   "file": "shots-cha-freedom-scenes",
+   "size": "medium",
+   "set": "street",
+   "key": 24,
+   "note": "Pip holds up the HOC THEM timetable"
+  },
+  {
+   "id": "A23",
+   "file": "shots-cha-freedom-scenes",
+   "size": "insert",
+   "set": "icons",
+   "key": 22,
+   "note": "two mittens rip the timetable"
+  },
+  {
+   "id": "A24",
+   "file": "shots-cha-freedom-scenes",
+   "size": "medium",
+   "set": "street",
+   "key": 20,
+   "note": "both laugh"
+  },
+  {
+   "id": "A25",
+   "file": "shots-cha-crossroads-approach",
+   "size": "wide",
+   "set": "street",
+   "key": 34,
+   "note": "Pip and Mo roll up to the crossing"
+  },
+  {
+   "id": "A26",
+   "file": "shots-cha-crossroads-approach",
+   "size": "insert",
+   "set": "street",
+   "key": 20,
+   "note": "signal blinking amber"
+  },
+  {
+   "id": "A27",
+   "file": "shots-cha-crossroads-approach",
+   "size": "top-down",
+   "set": "crossroads",
+   "key": 24,
+   "note": "traffic sails through the blinking light"
+  },
+  {
+   "id": "A28",
+   "file": "shots-cha-crossroads-approach",
+   "size": "top-down",
+   "set": "crossroads",
+   "key": 40,
+   "note": "four streams pour in"
+  },
+  {
+   "id": "A29",
+   "file": "shots-cha-crossroads-crash",
+   "size": "medium",
+   "set": "street",
+   "key": 14,
+   "note": "horns blaring, riders crammed in"
+  },
+  {
+   "id": "A30",
+   "file": "shots-cha-crossroads-crash",
+   "size": "medium",
+   "set": "street",
+   "key": 19,
+   "note": "the crash: bump, fallen bike, shocked rider"
+  },
+  {
+   "id": "A31",
+   "file": "shots-cha-crossroads-crash",
+   "size": "top-down",
+   "set": "crossroads",
+   "key": 20,
+   "note": "crossroads jammed solid"
+  },
+  {
+   "id": "A32",
+   "file": "shots-cha-crossroads-crash",
+   "size": "medium",
+   "set": "street",
+   "key": 16,
+   "note": "nose to nose, nobody gives way"
+  },
+  {
+   "id": "A33",
+   "file": "shots-cha-crossroads-crash",
+   "size": "wide",
+   "set": "street",
+   "key": 40,
+   "note": "who goes first? question marks"
+  },
+  {
+   "id": "A34",
+   "file": "shots-cha-crossroads-crash",
+   "size": "top-down",
+   "set": "crossroads",
+   "key": 70,
+   "note": "ambulance behind the jam, siren"
+  },
+  {
+   "id": "A35",
+   "file": "shots-cha-crossroads-crash",
+   "size": "medium",
+   "set": "street",
+   "key": 24,
+   "note": "ambulance fronts camera, nobody gives way"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "s:0.00",
+   "look": "h1"
+  },
+  {
+   "shot": "A2",
+   "at": "s:2.89",
+   "look": "h1"
+  },
+  {
+   "shot": "A3",
+   "at": "s:4.92",
+   "look": "h1"
+  },
+  {
+   "shot": "A4",
+   "at": "s:6.05",
+   "look": "h1"
+  },
+  {
+   "shot": "A5",
+   "at": "s:7.29",
+   "look": "h1"
+  },
+  {
+   "shot": "A6",
+   "at": "s:8.35",
+   "look": "h1"
+  },
+  {
+   "shot": "A7",
+   "at": "s:9.42",
+   "look": "h1"
+  },
+  {
+   "shot": "A8",
+   "at": "s:11.64",
+   "look": "h1"
+  },
+  {
+   "shot": "A9",
+   "at": "s:12.68",
+   "look": "h1"
+  },
+  {
+   "shot": "A10",
+   "at": "s:14.61"
+  },
+  {
+   "shot": "A11",
+   "at": "s:17.67"
+  },
+  {
+   "shot": "A12",
+   "at": "s:18.74"
+  },
+  {
+   "shot": "A13",
+   "at": "s:19.75"
+  },
+  {
+   "shot": "A14",
+   "at": "s:20.72"
+  },
+  {
+   "shot": "A15",
+   "at": "s:21.89"
+  },
+  {
+   "shot": "A16",
+   "at": "s:22.84"
+  },
+  {
+   "shot": "A17",
+   "at": "s:25.65"
+  },
+  {
+   "shot": "A18",
+   "at": "s:28.01"
+  },
+  {
+   "shot": "A19",
+   "at": "s:30.26",
+   "look": "h1"
+  },
+  {
+   "shot": "A20",
+   "at": "s:32.30",
+   "look": "h1"
+  },
+  {
+   "shot": "A21",
+   "at": "s:33.90",
+   "look": "h1"
+  },
+  {
+   "shot": "A22",
+   "at": "s:35.58",
+   "look": "h1"
+  },
+  {
+   "shot": "A23",
+   "at": "s:36.98",
+   "look": "h1"
+  },
+  {
+   "shot": "A24",
+   "at": "s:38.93",
+   "look": "h1"
+  },
+  {
+   "shot": "A25",
+   "at": "s:40.27",
+   "look": "h1"
+  },
+  {
+   "shot": "A26",
+   "at": "s:41.69",
+   "look": "h1"
+  },
+  {
+   "shot": "A27",
+   "at": "s:42.86",
+   "look": "h1"
+  },
+  {
+   "shot": "A28",
+   "at": "s:44.07",
+   "look": "h1"
+  },
+  {
+   "shot": "A29",
+   "at": "s:45.98",
+   "look": "h1"
+  },
+  {
+   "shot": "A30",
+   "at": "s:46.90",
+   "look": "alert"
+  },
+  {
+   "shot": "A31",
+   "at": "s:47.81",
+   "look": "alert"
+  },
+  {
+   "shot": "A32",
+   "at": "s:49.08",
+   "look": "h1"
+  },
+  {
+   "shot": "A33",
+   "at": "s:50.16",
+   "look": "h1"
+  },
+  {
+   "shot": "A34",
+   "at": "s:52.52",
+   "look": "h1"
+  },
+  {
+   "shot": "A35",
+   "at": "s:55.15",
+   "look": "h1"
+  }
+ ],
+ "fx": [
+  {
+   "at": "A30+12",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.5
+  },
+  {
+   "at": "A30+12",
+   "kind": "shake",
+   "len": 8,
+   "amp": 12
+  }
+ ],
+ "events": [
+  [
+   "A1",
+   "class_murmur",
+   0.07,
+   "onset",
+   "A4"
+  ],
+  [
+   "A1+34",
+   "swoosh",
+   0.16,
+   "peak"
+  ],
+  [
+   "A2+2",
+   "roof_wind",
+   0.1,
+   "onset",
+   "A3"
+  ],
+  [
+   "A3+4",
+   "swoosh",
+   0.12,
+   "peak"
+  ],
+  [
+   "A4",
+   "room_tone",
+   0.1,
+   "onset",
+   "A8"
+  ],
+  [
+   "A4+2",
+   "ding",
+   0.12
+  ],
+  [
+   "A5+10",
+   "catch",
+   0.12
+  ],
+  [
+   "A7+62",
+   "gasp",
+   0.1
+  ],
+  [
+   "A8",
+   "roof_wind",
+   0.12,
+   "onset",
+   "A10"
+  ],
+  [
+   "A8+20",
+   "drone_hit",
+   0.16
+  ],
+  [
+   "A8+6",
+   "sparkle",
+   0.1
+  ],
+  [
+   "A9+12",
+   "sparkle",
+   0.08
+  ],
+  [
+   "A10",
+   "class_murmur",
+   0.07,
+   "onset",
+   "A11"
+  ],
+  [
+   "A10+2",
+   "title_boom",
+   0.12,
+   "peak"
+  ],
+  [
+   "A11",
+   "room_tone",
+   0.08,
+   "onset",
+   "A15"
+  ],
+  [
+   "A11+24",
+   "pop",
+   0.1
+  ],
+  [
+   "A12+24",
+   "land",
+   0.1
+  ],
+  [
+   "A13+22",
+   "paper_land",
+   0.1
+  ],
+  [
+   "A15",
+   "class_murmur",
+   0.09,
+   "onset",
+   "A19"
+  ],
+  [
+   "A16+10",
+   "swoosh",
+   0.08,
+   "peak"
+  ],
+  [
+   "A16+34",
+   "swoosh",
+   0.08,
+   "peak"
+  ],
+  [
+   "A16+60",
+   "swoosh",
+   0.08,
+   "peak"
+  ],
+  [
+   "A17+8",
+   "glitch",
+   0.08
+  ],
+  [
+   "A19+6",
+   "sparkle",
+   0.12
+  ],
+  [
+   "A19+12",
+   "swoosh",
+   0.12,
+   "peak"
+  ],
+  [
+   "A20+6",
+   "swoosh",
+   0.2,
+   "peak"
+  ],
+  [
+   "A20+20",
+   "laugh",
+   0.1
+  ],
+  [
+   "A21+4",
+   "swoosh",
+   0.14,
+   "peak"
+  ],
+  [
+   "A22+8",
+   "pop",
+   0.12
+  ],
+  [
+   "A23+10",
+   "crack",
+   0.2
+  ],
+  [
+   "A23+26",
+   "paper_land",
+   0.1
+  ],
+  [
+   "A24+2",
+   "laugh",
+   0.14
+  ],
+  [
+   "A24+10",
+   "sparkle",
+   0.08
+  ],
+  [
+   "A25",
+   "class_murmur",
+   0.08,
+   "onset",
+   "A29"
+  ],
+  [
+   "A25+4",
+   "swoosh",
+   0.1,
+   "peak"
+  ],
+  [
+   "A27+4",
+   "swoosh",
+   0.12,
+   "peak"
+  ],
+  [
+   "A27+14",
+   "swoosh",
+   0.12,
+   "peak"
+  ],
+  [
+   "A27+26",
+   "swoosh",
+   0.12,
+   "peak"
+  ],
+  [
+   "A28+50",
+   "buzzer",
+   0.08
+  ],
+  [
+   "A29+2",
+   "buzzer",
+   0.12
+  ],
+  [
+   "A30+12",
+   "metal_crash",
+   0.18,
+   "peak"
+  ],
+  [
+   "A30+13",
+   "crack",
+   0.1
+  ],
+  [
+   "A31",
+   "class_murmur",
+   0.1,
+   "onset",
+   "A34"
+  ],
+  [
+   "A34",
+   "siren",
+   0.1,
+   "onset",
+   "A35"
+  ],
+  [
+   "A35",
+   "siren",
+   0.1
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "A4+2",
+   "clip": "step",
+   "n": 6,
+   "every": 6,
+   "gain": [
+    0.1,
+    0.14
+   ],
+   "pitch": [
+    0.92,
+    1.08
+   ]
+  },
+  {
+   "at": "A6+2",
+   "clip": "step",
+   "n": 6,
+   "every": 5,
+   "gain": [
+    0.1,
+    0.14
+   ],
+   "pitch": [
+    0.92,
+    1.08
+   ]
+  },
+  {
+   "at": "A14+6",
+   "clip": "pop",
+   "n": 5,
+   "every": 5,
+   "gain": [
+    0.06,
+    0.09
+   ],
+   "pitch": [
+    0.95,
+    1.2
+   ]
+  },
+  {
+   "at": "A15+2",
+   "clip": "step",
+   "n": 4,
+   "every": 9,
+   "gain": [
+    0.07,
+    0.1
+   ],
+   "pitch": [
+    0.92,
+    1.08
+   ]
+  },
+  {
+   "at": "A26+2",
+   "clip": "counter_tick",
+   "n": 3,
+   "every": 14,
+   "gain": [
+    0.08,
+    0.1
+   ],
+   "pitch": [
+    0.9,
+    1.0
+   ]
+  },
+  {
+   "at": "A29+4",
+   "clip": "buzzer",
+   "n": 4,
+   "every": 5,
+   "gain": [
+    0.08,
+    0.12
+   ],
+   "pitch": [
+    0.8,
+    1.3
+   ]
+  },
+  {
+   "at": "A31+2",
+   "clip": "buzzer",
+   "n": 6,
+   "every": 6,
+   "gain": [
+    0.06,
+    0.09
+   ],
+   "pitch": [
+    0.8,
+    1.3
+   ]
+  }
+ ]
+}

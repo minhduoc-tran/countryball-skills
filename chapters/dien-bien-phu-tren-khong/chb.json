@@ -1,0 +1,656 @@
+{
+ "chapter": "b",
+ "shots": [
+  {
+   "id": "B1",
+   "file": "shots-chb-breakdown",
+   "size": "wide",
+   "set": "card",
+   "key": 30,
+   "note": "Kissinger \"Hòa bình đã trong tầm tay\" card, red CHƯA stamp"
+  },
+  {
+   "id": "B2",
+   "file": "shots-chb-breakdown",
+   "size": "wide",
+   "set": "map",
+   "key": 50,
+   "note": "Sài Gòn marker + draft document stamped PHẢN ĐỐI (no ball)"
+  },
+  {
+   "id": "B3",
+   "file": "shots-chb-breakdown",
+   "size": "wide",
+   "set": "card",
+   "key": 45,
+   "note": "US ball red-pens the draft: PHÍA MỸ đòi sửa"
+  },
+  {
+   "id": "B4",
+   "file": "shots-chb-breakdown",
+   "size": "wide",
+   "set": "card",
+   "key": 40,
+   "note": "VNM ball refuses: big red X, PHÍA VIỆT NAM không chấp nhận"
+  },
+  {
+   "id": "B5",
+   "file": "shots-chb-breakdown",
+   "size": "wide",
+   "set": "map",
+   "key": 70,
+   "note": "Paris map, balls face to face, wall BẾ TẮC rises"
+  },
+  {
+   "id": "B6",
+   "file": "shots-chb-breakdown-nixon",
+   "size": "wide",
+   "set": "photo",
+   "key": 105,
+   "note": "Nixon portrait photo card + playing card flips to B-52"
+  },
+  {
+   "id": "B7",
+   "file": "shots-chb-breakdown-nixon",
+   "size": "wide",
+   "set": "card",
+   "key": 80,
+   "note": "VNM ball pulled to the table with the US terms paper"
+  },
+  {
+   "id": "B8",
+   "file": "shots-chb-breakdown-nixon",
+   "size": "wide",
+   "set": "card",
+   "key": 90,
+   "note": "calendar runs to 3.1.1973, Congress reconvenes"
+  },
+  {
+   "id": "B9",
+   "file": "shots-chb-bomber",
+   "size": "wide",
+   "set": "card",
+   "key": 90,
+   "note": "B-52 side view reveal, PHÁO ĐÀI BAY"
+  },
+  {
+   "id": "B10",
+   "file": "shots-chb-bomber",
+   "size": "wide",
+   "set": "card",
+   "key": 32,
+   "note": "top view: 8 numbered engines, then crew of 6 balls"
+  },
+  {
+   "id": "B11",
+   "file": "shots-chb-bomber",
+   "size": "wide",
+   "set": "photo",
+   "key": 55,
+   "note": "Mk 117 bombs photo, HÀNG CHỤC TẤN BOM"
+  },
+  {
+   "id": "B12",
+   "file": "shots-chb-bomber",
+   "size": "wide",
+   "set": "map",
+   "key": 60,
+   "note": "cell of 3 B-52 numbered 1-2-3 over the north"
+  },
+  {
+   "id": "B13",
+   "file": "shots-chb-bomber",
+   "size": "wide",
+   "set": "map",
+   "key": 80,
+   "note": "carpet footprint 1 km x 3 km, brackets, bomb carpet"
+  },
+  {
+   "id": "B14",
+   "file": "shots-chb-bomber",
+   "size": "wide",
+   "set": "photo",
+   "key": 60,
+   "note": "NÉM BOM RẢI THẢM + B-52D dropping bombs photo"
+  },
+  {
+   "id": "B15",
+   "file": "shots-chb-arclight-defences",
+   "size": "wide",
+   "set": "map",
+   "key": 110,
+   "note": "1965 Arc Light: cells and carpets over the South"
+  },
+  {
+   "id": "B16",
+   "file": "shots-chb-arclight-defences",
+   "size": "wide",
+   "set": "map",
+   "key": 70,
+   "note": "same sky: SAM icon struck through, almost no SAMs"
+  },
+  {
+   "id": "B17",
+   "file": "shots-chb-arclight-defences",
+   "size": "wide",
+   "set": "map",
+   "key": 40,
+   "note": "camera sweeps north to Hà Nội, NHƯNG HÀ NỘI THÌ KHÁC"
+  },
+  {
+   "id": "B18",
+   "file": "shots-chb-arclight-defences",
+   "size": "wide",
+   "set": "map",
+   "key": 100,
+   "note": "Hà Nội SAM ring, flak, searchlights"
+  },
+  {
+   "id": "B19",
+   "file": "shots-chb-arclight-defences",
+   "size": "wide",
+   "set": "map",
+   "key": 70,
+   "note": "B-52 cell flies straight into the ring"
+  },
+  {
+   "id": "B20",
+   "file": "shots-chb-plan-fleet",
+   "size": "wide",
+   "set": "card",
+   "key": 80,
+   "note": "200 small B-52 icons fill, counter to 200"
+  },
+  {
+   "id": "B21",
+   "file": "shots-chb-plan-fleet",
+   "size": "wide",
+   "set": "card",
+   "key": 80,
+   "note": "pie: nearly half of US B-52 fleet"
+  },
+  {
+   "id": "B22",
+   "file": "shots-chb-plan-fleet",
+   "size": "wide",
+   "set": "map",
+   "key": 110,
+   "note": "two bases on Pacific map, zoom to Guam + Andersen photo"
+  },
+  {
+   "id": "B23",
+   "file": "shots-chb-plan-fleet",
+   "size": "wide",
+   "set": "map",
+   "key": 50,
+   "note": "U-Tapao: Thai ball host, B-52 takes off"
+  },
+  {
+   "id": "B24",
+   "file": "shots-chb-plan-fleet",
+   "size": "wide",
+   "set": "map",
+   "key": 45,
+   "note": "package of escorts crossing the night map"
+  },
+  {
+   "id": "B25",
+   "file": "shots-chb-plan-fleet",
+   "size": "wide",
+   "set": "card",
+   "key": 50,
+   "note": "F-111 low over night hills"
+  },
+  {
+   "id": "B26",
+   "file": "shots-chb-plan-fleet",
+   "size": "wide",
+   "set": "card",
+   "key": 25,
+   "note": "F-4 Phantoms flank the B-52"
+  },
+  {
+   "id": "B27",
+   "file": "shots-chb-plan-fleet",
+   "size": "wide",
+   "set": "photo",
+   "key": 24,
+   "note": "EB-66 jammer photo + jam waves"
+  },
+  {
+   "id": "B28",
+   "file": "shots-chb-plan-fleet",
+   "size": "wide",
+   "set": "photo",
+   "key": 40,
+   "note": "tanker refuelling photo"
+  },
+  {
+   "id": "B29",
+   "file": "shots-chb-plan-fleet",
+   "size": "wide",
+   "set": "card",
+   "key": 70,
+   "note": "LINEBACKER II title typed out"
+  },
+  {
+   "id": "B30",
+   "file": "shots-chb-flight-targets",
+   "size": "wide",
+   "set": "card",
+   "key": 65,
+   "note": "B-52 takes off at night from Guam, crew ball"
+  },
+  {
+   "id": "B31",
+   "file": "shots-chb-flight-targets",
+   "size": "wide",
+   "set": "card",
+   "key": 60,
+   "note": "clock, HƠN 10 GIỜ"
+  },
+  {
+   "id": "B32",
+   "file": "shots-chb-flight-targets",
+   "size": "wide",
+   "set": "map",
+   "key": 50,
+   "note": "route Guam to Hà Nội, HÀNG NGHÌN KM"
+  },
+  {
+   "id": "B33",
+   "file": "shots-chb-flight-targets",
+   "size": "wide",
+   "set": "card",
+   "key": 24,
+   "note": "tanker side view refuelling a B-52"
+  },
+  {
+   "id": "B34",
+   "file": "shots-chb-flight-targets",
+   "size": "wide",
+   "set": "map",
+   "key": 50,
+   "note": "cell arrives over the northern sky at night"
+  },
+  {
+   "id": "B35",
+   "file": "shots-chb-flight-targets",
+   "size": "wide",
+   "set": "map",
+   "key": 110,
+   "note": "target tiles: nhà ga, kho tàng, sân bay, nhà máy điện"
+  },
+  {
+   "id": "B36",
+   "file": "shots-chb-flight-targets",
+   "size": "wide",
+   "set": "map",
+   "key": 40,
+   "note": "Yên Viên railway then Gia Lâm airfield on the map"
+  },
+  {
+   "id": "B37",
+   "file": "shots-chb-flight-targets",
+   "size": "wide",
+   "set": "map",
+   "key": 24,
+   "note": "Hải Phòng harbour reticle"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "B1",
+   "at": "s:99.67"
+  },
+  {
+   "shot": "B2",
+   "at": "s:100.98"
+  },
+  {
+   "shot": "B3",
+   "at": "s:103.13"
+  },
+  {
+   "shot": "B4",
+   "at": "s:105.01"
+  },
+  {
+   "shot": "B5",
+   "at": "s:106.62"
+  },
+  {
+   "shot": "B6",
+   "at": "s:109.22"
+  },
+  {
+   "shot": "B7",
+   "at": "s:113.36"
+  },
+  {
+   "shot": "B8",
+   "at": "s:116.42"
+  },
+  {
+   "shot": "B9",
+   "at": "s:119.71"
+  },
+  {
+   "shot": "B10",
+   "at": "s:123.32"
+  },
+  {
+   "shot": "B11",
+   "at": "s:126.05"
+  },
+  {
+   "shot": "B12",
+   "at": "s:128.03"
+  },
+  {
+   "shot": "B13",
+   "at": "s:130.40"
+  },
+  {
+   "shot": "B14",
+   "at": "s:135.06"
+  },
+  {
+   "shot": "B15",
+   "at": "s:137.46"
+  },
+  {
+   "shot": "B16",
+   "at": "s:142.26"
+  },
+  {
+   "shot": "B17",
+   "at": "s:145.16"
+  },
+  {
+   "shot": "B18",
+   "at": "s:146.65"
+  },
+  {
+   "shot": "B19",
+   "at": "s:151.03"
+  },
+  {
+   "shot": "B20",
+   "at": "s:154.07"
+  },
+  {
+   "shot": "B21",
+   "at": "s:157.57"
+  },
+  {
+   "shot": "B22",
+   "at": "s:160.75"
+  },
+  {
+   "shot": "B23",
+   "at": "s:165.41"
+  },
+  {
+   "shot": "B24",
+   "at": "s:167.61"
+  },
+  {
+   "shot": "B25",
+   "at": "s:169.53"
+  },
+  {
+   "shot": "B26",
+   "at": "s:171.64"
+  },
+  {
+   "shot": "B27",
+   "at": "s:172.82"
+  },
+  {
+   "shot": "B28",
+   "at": "s:173.88"
+  },
+  {
+   "shot": "B29",
+   "at": "s:175.58"
+  },
+  {
+   "shot": "B30",
+   "at": "s:178.28"
+  },
+  {
+   "shot": "B31",
+   "at": "s:181.00"
+  },
+  {
+   "shot": "B32",
+   "at": "s:183.51"
+  },
+  {
+   "shot": "B33",
+   "at": "s:185.85"
+  },
+  {
+   "shot": "B34",
+   "at": "s:186.94"
+  },
+  {
+   "shot": "B35",
+   "at": "s:189.00"
+  },
+  {
+   "shot": "B36",
+   "at": "s:193.06"
+  },
+  {
+   "shot": "B37",
+   "at": "s:195.23"
+  }
+ ],
+ "fx": [
+  {
+   "at": "B1+19",
+   "kind": "shake",
+   "len": 8,
+   "amp": 5
+  },
+  {
+   "at": "B13+32",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25
+  },
+  {
+   "at": "B5+39",
+   "kind": "shake",
+   "len": 8,
+   "amp": 6
+  }
+ ],
+ "events": [
+  [
+   "B1+19",
+   "drone_hit",
+   0.12
+  ],
+  [
+   "B2+25",
+   "crack",
+   0.07
+  ],
+  [
+   "B5+39",
+   "drone_hit",
+   0.1
+  ],
+  [
+   "B6+4",
+   "paper_land",
+   0.12
+  ],
+  [
+   "B6+70",
+   "pop",
+   0.1
+  ],
+  [
+   "B9",
+   "bomber_drone",
+   0.12,
+   "onset",
+   "B12"
+  ],
+  [
+   "B12",
+   "bomber_drone",
+   0.11,
+   "onset",
+   "B15"
+  ],
+  [
+   "B13+32",
+   "bomb_carpet",
+   0.06
+  ],
+  [
+   "B14+4",
+   "paper_land",
+   0.12
+  ],
+  [
+   "B15+62",
+   "bomb_far",
+   0.1
+  ],
+  [
+   "B17+2",
+   "radar_ping",
+   0.1
+  ],
+  [
+   "B18+16",
+   "sam_launch",
+   0.1
+  ],
+  [
+   "B18+60",
+   "flak",
+   0.08
+  ],
+  [
+   "B19+52",
+   "sam_launch",
+   0.1
+  ],
+  [
+   "B22+3",
+   "ting",
+   0.1
+  ],
+  [
+   "B22+69",
+   "paper_land",
+   0.1
+  ],
+  [
+   "B23+2",
+   "ting",
+   0.1
+  ],
+  [
+   "B24+6",
+   "jet_pass",
+   0.1
+  ],
+  [
+   "B25+6",
+   "jet_pass",
+   0.12
+  ],
+  [
+   "B27",
+   "radio_static",
+   0.08
+  ],
+  [
+   "B29+8",
+   "title_boom",
+   0.16
+  ],
+  [
+   "B30",
+   "bomber_drone",
+   0.1,
+   "onset",
+   "B33"
+  ],
+  [
+   "B35+32",
+   "pop",
+   0.1
+  ],
+  [
+   "B35+51",
+   "pop",
+   0.1
+  ],
+  [
+   "B35+73",
+   "pop",
+   0.1
+  ],
+  [
+   "B35+96",
+   "pop",
+   0.1
+  ],
+  [
+   "B36+2",
+   "radar_ping",
+   0.1
+  ],
+  [
+   "B36+34",
+   "radar_ping",
+   0.1
+  ],
+  [
+   "B37+2",
+   "radar_ping",
+   0.1
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "B8+27",
+   "clip": "counter_tick",
+   "n": 4,
+   "every": 9,
+   "gain": [
+    0.05,
+    0.07
+   ]
+  },
+  {
+   "at": "B10",
+   "clip": "counter_tick",
+   "n": 8,
+   "every": 4,
+   "gain": [
+    0.05,
+    0.07
+   ]
+  },
+  {
+   "at": "B20+9",
+   "clip": "counter_tick",
+   "n": 10,
+   "every": 6,
+   "gain": [
+    0.05,
+    0.07
+   ]
+  }
+ ]
+}

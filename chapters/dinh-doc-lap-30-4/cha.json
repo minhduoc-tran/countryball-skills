@@ -1,0 +1,617 @@
+{
+ "chapter": "a",
+ "shots": [
+  {
+   "id": "A1",
+   "file": "shots-cha-cold-open",
+   "size": "wide",
+   "set": "map",
+   "key": 150,
+   "note": "fly-in to Sài Gòn, 10:45 sáng 30.04.1975"
+  },
+  {
+   "id": "A2",
+   "file": "shots-cha-cold-open",
+   "size": "wide",
+   "set": "palace",
+   "key": 40,
+   "note": "tank column on the avenue (plan)"
+  },
+  {
+   "id": "A3",
+   "file": "shots-cha-cold-open",
+   "size": "wide",
+   "set": "palace",
+   "key": 40,
+   "note": "closed gate"
+  },
+  {
+   "id": "A4",
+   "file": "shots-cha-cold-open",
+   "size": "wide",
+   "set": "palace",
+   "key": 40,
+   "note": "palace facade RVN flag"
+  },
+  {
+   "id": "A5",
+   "file": "shots-cha-cold-open",
+   "size": "wide",
+   "set": "palace",
+   "key": 50,
+   "note": "nơi làm việc của Tổng thống VNCH"
+  },
+  {
+   "id": "A6",
+   "file": "shots-cha-cold-open",
+   "size": "wide",
+   "set": "palace",
+   "key": 70,
+   "note": "tank reaches gate, FREEZE before impact"
+  },
+  {
+   "id": "A7",
+   "file": "shots-cha-cold-open",
+   "size": "wide",
+   "set": "palace",
+   "key": 60,
+   "note": "freeze held, HƠN 20 NĂM, to black"
+  },
+  {
+   "id": "A8",
+   "file": "shots-cha-title",
+   "size": "wide",
+   "set": "card",
+   "key": 60,
+   "note": "calendar pages torn, 30"
+  },
+  {
+   "id": "A9",
+   "file": "shots-cha-title",
+   "size": "wide",
+   "set": "card",
+   "key": 80,
+   "note": "TITLE CARD NGÀY 30 THÁNG 4 / XE TĂNG VÀO DINH ĐỘC LẬP"
+  },
+  {
+   "id": "A10",
+   "file": "shots-cha-paris",
+   "size": "wide",
+   "set": "map",
+   "key": 45,
+   "note": "rewind to Paris"
+  },
+  {
+   "id": "A11",
+   "file": "shots-cha-paris",
+   "size": "wide",
+   "set": "photo",
+   "key": 80,
+   "note": "signing photo 27.01.1973"
+  },
+  {
+   "id": "A12",
+   "file": "shots-cha-paris",
+   "size": "wide",
+   "set": "card",
+   "key": 60,
+   "note": "agreement document signed"
+  },
+  {
+   "id": "A13",
+   "file": "shots-cha-paris",
+   "size": "wide",
+   "set": "map",
+   "key": 60,
+   "note": "US leaves Vietnam (arrow + ball)"
+  },
+  {
+   "id": "A14",
+   "file": "shots-cha-paris",
+   "size": "wide",
+   "set": "card",
+   "key": 50,
+   "note": "two months timeline 27.01 -> 29.03.1973"
+  },
+  {
+   "id": "A15",
+   "file": "shots-cha-paris",
+   "size": "wide",
+   "set": "photo",
+   "key": 55,
+   "note": "ICCS photo + plane 29.03.1973"
+  },
+  {
+   "id": "A16",
+   "file": "shots-cha-four-parties",
+   "size": "wide",
+   "set": "card",
+   "key": 100,
+   "note": "gần 5 năm đàm phán, empty chairs"
+  },
+  {
+   "id": "A17",
+   "file": "shots-cha-four-parties",
+   "size": "wide",
+   "set": "card",
+   "key": 40,
+   "note": "VNDCCH sits"
+  },
+  {
+   "id": "A18",
+   "file": "shots-cha-four-parties",
+   "size": "wide",
+   "set": "card",
+   "key": 40,
+   "note": "CPCMLT sits"
+  },
+  {
+   "id": "A19",
+   "file": "shots-cha-four-parties",
+   "size": "wide",
+   "set": "card",
+   "key": 55,
+   "note": "USA + VNCH sit"
+  },
+  {
+   "id": "A20",
+   "file": "shots-cha-four-parties",
+   "size": "wide",
+   "set": "card",
+   "key": 50,
+   "note": "trên giấy tờ: 4 flags + document"
+  },
+  {
+   "id": "A21",
+   "file": "shots-cha-ceasefire-breaks",
+   "size": "wide",
+   "set": "map",
+   "key": 130,
+   "note": "gunfire; both sides keep their areas (flags)"
+  },
+  {
+   "id": "A22",
+   "file": "shots-cha-ceasefire-breaks",
+   "size": "wide",
+   "set": "map",
+   "key": 75,
+   "note": "fighting flares across the South"
+  },
+  {
+   "id": "A23",
+   "file": "shots-cha-ceasefire-breaks",
+   "size": "wide",
+   "set": "card",
+   "key": 100,
+   "note": "RVN army still large: troops, heli, tank"
+  },
+  {
+   "id": "A24",
+   "file": "shots-cha-ceasefire-breaks",
+   "size": "wide",
+   "set": "card",
+   "key": 66,
+   "note": "US aid shrinking (gauge, no numbers)"
+  },
+  {
+   "id": "A25",
+   "file": "shots-cha-ceasefire-breaks",
+   "size": "wide",
+   "set": "card",
+   "key": 60,
+   "note": "fuel + ammo short"
+  },
+  {
+   "id": "A26",
+   "file": "shots-cha-phuoc-long",
+   "size": "wide",
+   "set": "map",
+   "key": 60,
+   "note": "06.01.1975"
+  },
+  {
+   "id": "A27",
+   "file": "shots-cha-phuoc-long",
+   "size": "wide",
+   "set": "map",
+   "key": 60,
+   "note": "PRG flag over Phước Long"
+  },
+  {
+   "id": "A28",
+   "file": "shots-cha-phuoc-long",
+   "size": "wide",
+   "set": "map",
+   "key": 70,
+   "note": "north of Sài Gòn, một phép thử"
+  },
+  {
+   "id": "A29",
+   "file": "shots-cha-phuoc-long",
+   "size": "wide",
+   "set": "card",
+   "key": 70,
+   "note": "both sides wait: will the US return"
+  },
+  {
+   "id": "A30",
+   "file": "shots-cha-phuoc-long",
+   "size": "wide",
+   "set": "card",
+   "key": 90,
+   "note": "US stays away: carrier deck"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "s:0.00"
+  },
+  {
+   "shot": "A2",
+   "at": "s:6.66"
+  },
+  {
+   "shot": "A3",
+   "at": "s:8.67"
+  },
+  {
+   "shot": "A4",
+   "at": "s:10.75"
+  },
+  {
+   "shot": "A5",
+   "at": "s:12.83"
+  },
+  {
+   "shot": "A6",
+   "at": "s:15.37"
+  },
+  {
+   "shot": "A7",
+   "at": "s:18.03"
+  },
+  {
+   "shot": "A8",
+   "at": "s:21.63"
+  },
+  {
+   "shot": "A9",
+   "at": "s:23.87"
+  },
+  {
+   "shot": "A10",
+   "at": "s:26.97"
+  },
+  {
+   "shot": "A11",
+   "at": "s:28.71"
+  },
+  {
+   "shot": "A12",
+   "at": "s:31.92"
+  },
+  {
+   "shot": "A13",
+   "at": "s:34.09"
+  },
+  {
+   "shot": "A14",
+   "at": "s:36.46"
+  },
+  {
+   "shot": "A15",
+   "at": "s:38.51"
+  },
+  {
+   "shot": "A16",
+   "at": "s:40.54"
+  },
+  {
+   "shot": "A17",
+   "at": "s:44.64"
+  },
+  {
+   "shot": "A18",
+   "at": "s:46.79"
+  },
+  {
+   "shot": "A19",
+   "at": "s:49.43"
+  },
+  {
+   "shot": "A20",
+   "at": "s:51.33"
+  },
+  {
+   "shot": "A21",
+   "at": "s:53.61"
+  },
+  {
+   "shot": "A22",
+   "at": "s:58.63"
+  },
+  {
+   "shot": "A23",
+   "at": "s:61.76"
+  },
+  {
+   "shot": "A24",
+   "at": "s:65.35"
+  },
+  {
+   "shot": "A25",
+   "at": "s:67.93"
+  },
+  {
+   "shot": "A26",
+   "at": "s:70.19"
+  },
+  {
+   "shot": "A27",
+   "at": "s:72.59"
+  },
+  {
+   "shot": "A28",
+   "at": "s:75.05"
+  },
+  {
+   "shot": "A29",
+   "at": "s:77.81"
+  },
+  {
+   "shot": "A30",
+   "at": "s:80.79"
+  }
+ ],
+ "fx": [],
+ "events": [
+  [
+   "A1",
+   "swoosh",
+   0.1
+  ],
+  [
+   "A2",
+   "drone_buzz",
+   0.07,
+   "onset",
+   "A6"
+  ],
+  [
+   "A3+8",
+   "clink",
+   0.08
+  ],
+  [
+   "A6+52",
+   "drone_hit",
+   0.16
+  ],
+  [
+   "A7",
+   "room_tone",
+   0.08,
+   "onset",
+   "A8"
+  ],
+  [
+   "A9+22",
+   "title_boom",
+   0.2
+  ],
+  [
+   "A9+26",
+   "punch_hit",
+   0.1
+  ],
+  [
+   "A10",
+   "rewind",
+   0.12
+  ],
+  [
+   "A11+2",
+   "paper_land",
+   0.12
+  ],
+  [
+   "A12+40",
+   "punch_hit",
+   0.08
+  ],
+  [
+   "A13+4",
+   "swoosh",
+   0.08
+  ],
+  [
+   "A14+4",
+   "pop",
+   0.1
+  ],
+  [
+   "A14+54",
+   "ding",
+   0.08
+  ],
+  [
+   "A15+2",
+   "paper_land",
+   0.1
+  ],
+  [
+   "A15+18",
+   "jet_pass",
+   0.07
+  ],
+  [
+   "A17+6",
+   "pop",
+   0.1
+  ],
+  [
+   "A18+6",
+   "pop",
+   0.1
+  ],
+  [
+   "A19+6",
+   "pop",
+   0.1
+  ],
+  [
+   "A19+33",
+   "pop",
+   0.1
+  ],
+  [
+   "A20+24",
+   "ting",
+   0.1
+  ],
+  [
+   "A21+2",
+   "bomb_far",
+   0.1
+  ],
+  [
+   "A23+48",
+   "drone_buzz",
+   0.06
+  ],
+  [
+   "A24+20",
+   "power_down",
+   0.08
+  ],
+  [
+   "A25+8",
+   "power_down",
+   0.08
+  ],
+  [
+   "A25+26",
+   "drone_hit",
+   0.12
+  ],
+  [
+   "A26+8",
+   "ding",
+   0.1
+  ],
+  [
+   "A27+10",
+   "pop",
+   0.12
+  ],
+  [
+   "A28+46",
+   "punch_hit",
+   0.1
+  ],
+  [
+   "A29",
+   "roof_wind",
+   0.07,
+   "onset",
+   "A30"
+  ],
+  [
+   "A30",
+   "sea_waves",
+   0.08
+  ],
+  [
+   "A30+44",
+   "drone_hit",
+   0.12
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "A8+10",
+   "clip": "swoosh",
+   "n": 4,
+   "every": 9,
+   "gain": [
+    0.05,
+    0.08
+   ],
+   "pitch": [
+    1.0,
+    1.3
+   ]
+  },
+  {
+   "at": "A16+14",
+   "clip": "counter_tick",
+   "n": 8,
+   "every": 12,
+   "gain": [
+    0.05,
+    0.07
+   ],
+   "pitch": [
+    0.95,
+    1.1
+   ]
+  },
+  {
+   "at": "A21+8",
+   "clip": "bomb_far",
+   "n": 4,
+   "every": 12,
+   "gain": [
+    0.06,
+    0.09
+   ],
+   "pitch": [
+    0.9,
+    1.1
+   ]
+  },
+  {
+   "at": "A21+50",
+   "clip": "pop",
+   "n": 9,
+   "every": 8,
+   "gain": [
+    0.05,
+    0.07
+   ],
+   "pitch": [
+    0.9,
+    1.2
+   ]
+  },
+  {
+   "at": "A22+3",
+   "clip": "bomb_far",
+   "n": 8,
+   "every": 10,
+   "gain": [
+    0.06,
+    0.1
+   ],
+   "pitch": [
+    0.9,
+    1.2
+   ]
+  },
+  {
+   "at": "A23+16",
+   "clip": "pop",
+   "n": 6,
+   "every": 4,
+   "gain": [
+    0.04,
+    0.06
+   ],
+   "pitch": [
+    1.0,
+    1.3
+   ]
+  }
+ ]
+}

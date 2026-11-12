@@ -1,0 +1,302 @@
+[
+  {
+    "scene": "city",
+    "text": "Bạn thức dậy. Cả thành phố sáng rực.",
+    "label": "SÁNG NGÀY MAI"
+  },
+  {
+    "scene": "home",
+    "text": "Máy lạnh chạy. Xe sạc. Điện vẫn dư.",
+    "label": "ĐIỆN DỒI DÀO"
+  },
+  {
+    "scene": "earth",
+    "text": "Một mạng năng lượng nối cả hành tinh.",
+    "label": "KẾT NỐI TOÀN CẦU"
+  },
+  {
+    "scene": "control",
+    "text": "Nhưng ai đang giữ công tắc?",
+    "label": "AI KIỂM SOÁT?"
+  },
+  {
+    "scene": "earth",
+    "text": "Nếu ngày mai, nhân loại đạt cấp I?",
+    "label": "VĂN MINH CẤP I"
+  },
+  {
+    "scene": "scale",
+    "text": "Đây là thang đo khả năng dùng năng lượng.",
+    "label": "THANG KARDASHEV"
+  },
+  {
+    "scene": "scale",
+    "text": "Ta chọn mốc cấp I: mười triệu tỷ watt.",
+    "label": "10¹⁶ W"
+  },
+  {
+    "scene": "solar",
+    "text": "Đó là công suất, không phải kho điện vô hạn.",
+    "label": "CÔNG SUẤT ≠ TRỮ LƯỢNG"
+  },
+  {
+    "scene": "earth",
+    "text": "Cấp I gắn với quy mô hành tinh.",
+    "label": "CẤP I · HÀNH TINH"
+  },
+  {
+    "scene": "scale",
+    "text": "Cấp II và III lớn hơn rất nhiều.",
+    "label": "SAO → THIÊN HÀ"
+  },
+  {
+    "scene": "home",
+    "text": "Giả sử cả hạ tầng cũng xuất hiện qua đêm.",
+    "label": "GIẢ ĐỊNH CỦA TẬP NÀY"
+  },
+  {
+    "scene": "solar",
+    "text": "Nguồn điện sạch hoạt động khắp nơi.",
+    "label": "MỘT KỊCH BẢN KHẢ DĨ"
+  },
+  {
+    "scene": "grid",
+    "text": "Đường dây, lưu trữ và điều phối đều sẵn sàng.",
+    "label": "KHÔNG CHỈ NHÀ MÁY"
+  },
+  {
+    "scene": "city",
+    "text": "Bạn bước vào một ngày chưa từng có.",
+    "label": "01 · NGÀY MỚI"
+  },
+  {
+    "scene": "water",
+    "text": "Biển có thể trở thành nguồn nước ngọt.",
+    "label": "KHỬ MẶN"
+  },
+  {
+    "scene": "water",
+    "text": "Bơm ép nước qua màng, giữ muối lại.",
+    "label": "THẨM THẤU NGƯỢC"
+  },
+  {
+    "scene": "farm",
+    "text": "Nhà kính có thêm điện cho đèn và bơm.",
+    "label": "TRỒNG TRỌT"
+  },
+  {
+    "scene": "farm",
+    "text": "Nhưng cây vẫn cần đất, chất dinh dưỡng, thời gian.",
+    "label": "ĐIỆN KHÔNG THAY MỌI THỨ"
+  },
+  {
+    "scene": "hospital",
+    "text": "Bệnh viện bớt lo thiếu điện vận hành.",
+    "label": "ĐIỆN CHO CHĂM SÓC"
+  },
+  {
+    "scene": "family",
+    "text": "Em gái bạn không còn học dưới đèn yếu.",
+    "label": "LỢI ÍCH ĐẾN TẬN NHÀ"
+  },
+  {
+    "scene": "city",
+    "text": "Xe điện và tàu điện có thêm nguồn cấp.",
+    "label": "02 · THỜI DỒI DÀO"
+  },
+  {
+    "scene": "factory",
+    "text": "Nhà máy có thể điện hóa nhiều công đoạn.",
+    "label": "SẢN XUẤT"
+  },
+  {
+    "scene": "factory",
+    "text": "Robot làm việc. Con người đổi nghề.",
+    "label": "CƠ HỘI VÀ XÁO TRỘN"
+  },
+  {
+    "scene": "home",
+    "text": "Hóa đơn điện có thể giảm.",
+    "label": "CÓ THỂ RẺ HƠN"
+  },
+  {
+    "scene": "control",
+    "text": "Nhưng giá điện còn do luật và thị trường.",
+    "label": "KHÔNG TỰ ĐỘNG MIỄN PHÍ"
+  },
+  {
+    "scene": "water",
+    "text": "Nước sạch vẫn cần đường ống và bảo trì.",
+    "label": "HẠ TẦNG ĐẾN TỪNG NHÀ"
+  },
+  {
+    "scene": "farm",
+    "text": "Thực phẩm vẫn cần được vận chuyển.",
+    "label": "PHÂN PHỐI"
+  },
+  {
+    "scene": "family",
+    "text": "Có đủ điện chưa chắc ai cũng được dùng.",
+    "label": "AI ĐƯỢC TIẾP CẬN?"
+  },
+  {
+    "scene": "grid",
+    "text": "Một nơi dư điện, nơi khác thiếu kết nối.",
+    "label": "KHOẢNG CÁCH HẠ TẦNG"
+  },
+  {
+    "scene": "earth",
+    "text": "Cấp I là năng lượng, không phải công bằng.",
+    "label": "THƯỚC ĐO CÒN THIẾU"
+  },
+  {
+    "scene": "heat",
+    "text": "Rồi bạn nhận ra: năng lượng đi về đâu?",
+    "label": "03 · CÁI GIÁ"
+  },
+  {
+    "scene": "heat",
+    "text": "Khi sử dụng, phần lớn cuối cùng thành nhiệt.",
+    "label": "NHIỆT THẢI"
+  },
+  {
+    "scene": "earth",
+    "text": "Trái Đất nhận nắng và tỏa nhiệt ra ngoài.",
+    "label": "CÂN BẰNG NĂNG LƯỢNG"
+  },
+  {
+    "scene": "heat",
+    "text": "Thêm nguồn nhiệt ròng sẽ đổi cân bằng ấy.",
+    "label": "PHẢI TÍNH CẢ HỆ"
+  },
+  {
+    "scene": "heat",
+    "text": "Mười triệu tỷ watt chia đều bề mặt...",
+    "label": "10¹⁶ W ÷ DIỆN TÍCH"
+  },
+  {
+    "scene": "heat",
+    "text": "...xấp xỉ hai mươi watt mỗi mét vuông.",
+    "label": "≈ 20 W/m²"
+  },
+  {
+    "scene": "solar",
+    "text": "Đó là phép tính minh họa, không phải dự báo.",
+    "label": "GIẢ SỬ ĐỀU THÀNH NHIỆT MỚI"
+  },
+  {
+    "scene": "solar",
+    "text": "Thu ánh nắng vốn tới Trái Đất khác nguồn mới.",
+    "label": "NGUỒN NĂNG LƯỢNG QUAN TRỌNG"
+  },
+  {
+    "scene": "water",
+    "text": "Khử mặn cũng để lại nước muối đậm đặc.",
+    "label": "XỬ LÝ NƯỚC MUỐI"
+  },
+  {
+    "scene": "earth",
+    "text": "Công suất lớn cần giới hạn sinh thái lớn tương ứng.",
+    "label": "KHÔNG CÓ BỮA TRƯA MIỄN PHÍ"
+  },
+  {
+    "scene": "storm",
+    "text": "Bạn không thể bấm nút xóa mọi cơn bão.",
+    "label": "04 · QUYỀN LỰC"
+  },
+  {
+    "scene": "storm",
+    "text": "Cấp I không chứng minh khả năng điều khiển thời tiết.",
+    "label": "KHÔNG PHẢI PHÉP THUẬT"
+  },
+  {
+    "scene": "control",
+    "text": "Một trung tâm muốn nối mọi thứ vào nó.",
+    "label": "TẬP TRUNG QUYỀN LỰC"
+  },
+  {
+    "scene": "grid",
+    "text": "Càng liên kết, lỗi càng cần được cô lập.",
+    "label": "THIẾT KẾ CHỊU LỖI"
+  },
+  {
+    "scene": "city",
+    "text": "Trong kịch bản này, một vùng bất ngờ tắt điện.",
+    "label": "SỰ CỐ GIẢ ĐỊNH"
+  },
+  {
+    "scene": "hospital",
+    "text": "Bệnh viện chuyển sang nguồn dự phòng.",
+    "label": "ƯU TIÊN SỰ SỐNG"
+  },
+  {
+    "scene": "family",
+    "text": "Nhà em gái bạn cũng chìm vào tối.",
+    "label": "CHUYỆN CỦA GIA ĐÌNH"
+  },
+  {
+    "scene": "control",
+    "text": "Bạn có quyền chọn cách chia phần điện còn lại.",
+    "label": "MỘT LỰA CHỌN"
+  },
+  {
+    "scene": "control",
+    "text": "Giữ đặc quyền, hay ưu tiên nhu cầu thiết yếu?",
+    "label": "ĐẶC QUYỀN / THIẾT YẾU"
+  },
+  {
+    "scene": "grid",
+    "text": "Bạn chọn mạng dự phòng và quyền tiếp cận.",
+    "label": "PHỤC HỒI"
+  },
+  {
+    "scene": "city",
+    "text": "Ánh sáng trở lại, từng khu phố một.",
+    "label": "05 · TRƯỞNG THÀNH"
+  },
+  {
+    "scene": "family",
+    "text": "Em gái bạn mở lại cuốn sách.",
+    "label": "ĐIỆN PHẢI PHỤC VỤ CON NGƯỜI"
+  },
+  {
+    "scene": "earth",
+    "text": "Nhiều năng lượng mở ra nhiều khả năng.",
+    "label": "KHẢ NĂNG, KHÔNG BẢO ĐẢM"
+  },
+  {
+    "scene": "factory",
+    "text": "Nó không tự xóa chiến tranh hay bất bình đẳng.",
+    "label": "CÔNG NGHỆ CẦN QUẢN TRỊ"
+  },
+  {
+    "scene": "storm",
+    "text": "Và không biến nhân loại thành bất tử.",
+    "label": "VẪN CÓ GIỚI HẠN"
+  },
+  {
+    "scene": "solar",
+    "text": "Ta còn phải giữ hành tinh có thể sống được.",
+    "label": "DÙNG ĐỦ · DÙNG KHÔN"
+  },
+  {
+    "scene": "earth",
+    "text": "Một nền văn minh lớn biết kiểm soát chính mình.",
+    "label": "SỨC MẠNH + TRÁCH NHIỆM"
+  },
+  {
+    "scene": "scale",
+    "text": "Đạt cấp I chỉ là vượt một mốc năng lượng.",
+    "label": "CHƯA PHẢI ĐÍCH ĐẾN"
+  },
+  {
+    "scene": "family",
+    "text": "Điều quan trọng: cuộc sống của ai tốt hơn?",
+    "label": "BẠN SẼ ƯU TIÊN AI?"
+  },
+  {
+    "scene": "earth",
+    "text": "Ngày mai có đủ điện. Ta đã đủ trưởng thành chưa?",
+    "label": "CẤP I · RỒI SAO NỮA?"
+  }
+]

@@ -1,0 +1,148 @@
+{
+  "slug": "no-phone",
+  "title": "Không được dùng điện thoại",
+  "fps": 30,
+  "total": 660,
+  "segments": [
+    {
+      "shot": "S1",
+      "a": 0,
+      "b": 90,
+      "t0": 0,
+      "t1": 90,
+      "line": "Bạn không được dùng điện thoại."
+    },
+    {
+      "shot": "S2",
+      "a": 90,
+      "b": 150,
+      "t0": 0,
+      "t1": 60,
+      "line": "Không lướt. Không nhắn tin."
+    },
+    {
+      "shot": "S3",
+      "a": 150,
+      "b": 225,
+      "t0": 0,
+      "t1": 75,
+      "line": "Tay cứ tìm trong túi."
+    },
+    {
+      "shot": "S4",
+      "a": 225,
+      "b": 315,
+      "t0": 0,
+      "t1": 90,
+      "line": "Bạn mở lại cuốn sách."
+    },
+    {
+      "shot": "S5",
+      "a": 315,
+      "b": 405,
+      "t0": 0,
+      "t1": 90,
+      "line": "Nói chuyện với người bên cạnh."
+    },
+    {
+      "shot": "S6",
+      "a": 405,
+      "b": 495,
+      "t0": 0,
+      "t1": 90,
+      "line": "Nhưng tìm đường thế nào?"
+    },
+    {
+      "shot": "S7",
+      "a": 495,
+      "b": 570,
+      "t0": 0,
+      "t1": 75,
+      "line": "Khi cần gọi người thân thì sao?"
+    },
+    {
+      "shot": "S8",
+      "a": 570,
+      "b": 660,
+      "t0": 0,
+      "t1": 90,
+      "line": "Bạn chịu được bao lâu?"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "title wide",
+      "key": 25,
+      "len": 90,
+      "first": 0,
+      "line": "Bạn không được dùng điện thoại.",
+      "note": "Bạn không được dùng điện thoại."
+    },
+    {
+      "id": "S2",
+      "size": "macro",
+      "key": 25,
+      "len": 60,
+      "first": 90,
+      "line": "Không lướt. Không nhắn tin.",
+      "note": "Không lướt. Không nhắn tin."
+    },
+    {
+      "id": "S3",
+      "size": "medium",
+      "key": 25,
+      "len": 75,
+      "first": 150,
+      "line": "Tay cứ tìm trong túi.",
+      "note": "Tay cứ tìm trong túi."
+    },
+    {
+      "id": "S4",
+      "size": "high medium",
+      "key": 25,
+      "len": 90,
+      "first": 225,
+      "line": "Bạn mở lại cuốn sách.",
+      "note": "Bạn mở lại cuốn sách."
+    },
+    {
+      "id": "S5",
+      "size": "wide",
+      "key": 25,
+      "len": 90,
+      "first": 315,
+      "line": "Nói chuyện với người bên cạnh.",
+      "note": "Nói chuyện với người bên cạnh."
+    },
+    {
+      "id": "S6",
+      "size": "insert",
+      "key": 25,
+      "len": 90,
+      "first": 405,
+      "line": "Nhưng tìm đường thế nào?",
+      "note": "Nhưng tìm đường thế nào?"
+    },
+    {
+      "id": "S7",
+      "size": "close",
+      "key": 25,
+      "len": 75,
+      "first": 495,
+      "line": "Khi cần gọi người thân thì sao?",
+      "note": "Khi cần gọi người thân thì sao?"
+    },
+    {
+      "id": "S8",
+      "size": "wide",
+      "key": 25,
+      "len": 90,
+      "first": 570,
+      "line": "Bạn chịu được bao lâu?",
+      "note": "Bạn chịu được bao lâu?"
+    }
+  ],
+  "fx": [],
+  "audio": {}
+}

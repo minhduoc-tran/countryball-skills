@@ -1,0 +1,3442 @@
+{
+ "science": [
+  {
+   "claim": "81 ngày đêm",
+   "working": "Đối chiếu mốc và bối cảnh trong nguồn.",
+   "source": "https://nvsk.vnanet.vn/cuoc-chien-dau-81-ngay-dem-bao-ve-thanh-co-quang-tri-ngay-28-6-den-16-9-1972-4-147823.vna"
+  },
+  {
+   "claim": "Diễn tiến mùa xuân và việc rút khỏi thành",
+   "working": "Đối chiếu mốc và bối cảnh trong nguồn.",
+   "source": "https://sknc.qdnd.vn/ky-niem-sau-sac/quang-tri-khong-chi-co-81-ngay-498690"
+  },
+  {
+   "claim": "Lực lượng, hướng tiến, ngày mở cửa tường thành và mốc tiếp quản",
+   "working": "Đối chiếu mốc và bối cảnh trong nguồn.",
+   "source": "https://history.army.mil/portals/143/Images/Publications/catalog/90-12.pdf"
+  },
+  {
+   "claim": "Mỹ Chánh và việc tái tổ chức sau tháng Năm",
+   "working": "Đối chiếu mốc và bối cảnh trong nguồn.",
+   "source": "https://www.usmcu.edu/Outreach/Marine-Corps-University-Press/MCH/Marine-Corps-History-Summer-2015/Vietnam-Marines-and-the-Defense-of-Quang-Tri-in-1972/"
+  },
+  {
+   "claim": "Cuộc đổ bộ trực thăng ngày 11/7",
+   "working": "Đối chiếu mốc và bối cảnh trong nguồn.",
+   "source": "https://www.usmcu.edu/Portals/218/The%20Marines%20In%20Vietnam%201954-1973%20An%20Anthology%20and%20Annotated%20Bibliography%20PCN%2019000309300.pdf"
+  },
+  {
+   "claim": "Hai cơn bão, lũ và công sự",
+   "working": "Đối chiếu mốc và bối cảnh trong nguồn.",
+   "source": "https://www.qdnd.vn/quoc-phong-an-ninh/nghe-thuat-quan-su-vn/quyet-khong-de-dich-cam-co-len-thanh-co-quang-tri-701428"
+  },
+  {
+   "claim": "Hồi ức Tiểu đoàn 3, Trung đoàn 48",
+   "working": "Đối chiếu mốc và bối cảnh trong nguồn.",
+   "source": "https://sknc.qdnd.vn/ky-niem-sau-sac/k3-tam-dao-con-thanh-co-quang-tri-con-497524"
+  },
+  {
+   "claim": "Cuộc họp Paris ngày 15/9",
+   "working": "Đối chiếu mốc và bối cảnh trong nguồn.",
+   "source": "https://history.state.gov/historicaldocuments/frus1969-76v42/d18"
+  },
+  {
+   "claim": "Bốn bên ký Hiệp định Paris tháng 1/1973",
+   "working": "Đối chiếu mốc và bối cảnh trong nguồn.",
+   "source": "https://history.state.gov/historicaldocuments/frus1969-76v42/d71"
+  },
+  {
+   "claim": "Di tích và tưởng niệm",
+   "working": "Đối chiếu mốc và bối cảnh trong nguồn.",
+   "source": "https://baochinhphu.vn/thanh-co-quang-tri-manh-dat-cua-chien-tranh-va-khat-vong-hoa-binh-102220723140013856.htm"
+  },
+  {
+   "claim": "Hoàng Chiến vượt sông ban ngày, khẩu phần, giếng nước, cứu người dưới cổng Tây và lần tái ngộ",
+   "working": "Lời kể của Hoàng Chiến và Hoàng Văn Thao, Đại đội 6 Trung đoàn 95. Sự kiện được giới thiệu bằng lời kể nhân chứng.",
+   "source": "https://sknc.qdnd.vn/ky-niem-sau-sac/tai-ngo-o-co-thanh-500718"
+  },
+  {
+   "claim": "Tiểu đoàn K3 Tam Đảo qua Thạch Hãn rạng sáng 10/7; mưa làm hầm ngập",
+   "working": "Hồi ức Nguyễn Văn Hợi và hồ sơ bia lưu niệm.",
+   "source": "https://www.qdnd.vn/xa-hoi/chinh-sach/sat-son-loi-the-giu-thanh-co-589723"
+  },
+  {
+   "claim": "Trường Bồ Đề, Trung đoàn 88 và giờ rút quân",
+   "working": "Chốt ở hướng tây nam, từ lớp học thành công sự; lệnh rút rạng sáng 16/9.",
+   "source": "https://ct.qdnd.vn/ho-so-tu-lieu/ngoi-truong-chung-tich-ben-dong-thach-han-534084"
+  },
+  {
+   "claim": "Tổ A350 vượt sông đêm 31/7; bàn giao máy và nguồn điện đêm 15/9",
+   "working": "Theo lời kể về tổ vô tuyến điện tiếp sức do Hoàng Văn Tịch phụ trách.",
+   "source": "https://cauchuyenlichsu.vn/ky-uc-song-mai/giu-mach-lien-lac-giua-tui-bom-thanh-co-f2f674"
+  },
+  {
+   "claim": "Lê Văn Huỳnh viết thư ngày 11/9, hy sinh sau trận Thành cổ",
+   "working": "Đối chiếu bản phục chế, lời gia đình và thời điểm chuyển thư.",
+   "source": "https://cand.vn/Xa-hoi/Phuc-che-thanh-cong-buc-thu-cua-Liet-si-Le-Van-Huynh-i223239/"
+  },
+  {
+   "claim": "Lê Văn Huỳnh hy sinh đầu tháng 1/1973 và đường tìm mộ trong thư",
+   "working": "Đối chiếu mốc 2/1/1973 với ngày viết thư, 11/9/1972.",
+   "source": "https://infonet.vietnamnet.vn/buc-thu-thieng-du-cam-ve-su-ra-di-cua-mot-liet-si-o-thanh-co-quang-tri-238572.html"
+  }
+ ],
+ "voice": {
+  "provider": "lucylab",
+  "userVoiceId": "u4ZCcxDX4FJScdJ97iN8pr",
+  "speed": 0.86
+ },
+ "gaps": {
+  "word": 0.12,
+  "comma": 0.3,
+  "sentence": 0.55,
+  "question": 0.75
+ },
+ "tail": 4,
+ "id": "ThanhCoQuangTriLua",
+ "slug": "thanh-co-quang-tri-lua",
+ "topic": "Bộ đội Việt Nam bám trụ Thành cổ Quảng Trị năm 1972",
+ "title": [
+  "THÀNH CỔ QUẢNG TRỊ",
+  "BÁM TRỤ GIỮA MƯA BOM"
+ ],
+ "script": [
+  {
+   "beat": "A01",
+   "text": "Thành cổ Quảng Trị, mùa hè năm một nghìn chín trăm bảy mươi hai. Bom đánh sập cổng phía tây. Bên dưới cổng là một căn hầm. Hơn mười người đang trú trong đó.",
+   "visual": "gate:impact",
+   "label": "Cổng Tây sập"
+  },
+  {
+   "beat": "A02",
+   "text": "Người của Đại đội Sáu chạy tới. Họ dỡ được một phần gạch đá. Cựu binh Hoàng Chiến kể, từ dưới hầm vẫn vọng lên tiếng đồng đội kêu cứu. Vậy là họ lại đào tiếp.",
+   "visual": "gate:dig",
+   "label": "Có tiếng người dưới gạch"
+  },
+  {
+   "beat": "A03",
+   "text": "Nhưng có những tảng bê tông mà sức người không nhấc nổi. Pháo vẫn rơi. Hai người tham gia đào cứu bị thương. Những người còn lại phải quay về vị trí chiến đấu.",
+   "visual": "gate:slab",
+   "label": "Tấm bê tông chắn lối"
+  },
+  {
+   "beat": "A04",
+   "text": "Câu chuyện ấy đến từ lời kể của người đã có mặt. Bức ảnh này cho thấy hào và tường thành sau những đợt bắn phá. Từng chỗ đổ nát có thể là chỗ núp. Cũng có thể là nơi chôn vùi người đang núp.",
+   "visual": "photo:021",
+   "label": "Dấu vết trên tường thành"
+  },
+  {
+   "beat": "A05",
+   "text": "Đó là một phần của tám mươi mốt ngày đêm ở Thành cổ Quảng Trị. Để hiểu vì sao một đại đội lại phải đào đồng đội lên giữa lúc pháo còn bắn, hãy nhìn tòa thành từ bên kia sông.",
+   "visual": "title:hold",
+   "label": "TÁM MƯƠI MỐT NGÀY ĐÊM"
+  },
+  {
+   "beat": "A06",
+   "text": "Thị xã Quảng Trị nằm cạnh sông Thạch Hãn. Thành cổ ở bên trong thị xã. Từ bờ bên kia, người bổ sung và vật tư phải tìm đường qua sông rồi mới tới các chốt. Tường thành có thể che người, nhưng bên trong nó không tự có đạn, gạo hay thuốc.",
+   "visual": "map:local",
+   "label": "Sông · thị xã · Thành cổ"
+  },
+  {
+   "beat": "A07",
+   "text": "Cuối tháng ba, Quân đội Nhân dân Việt Nam mở cuộc tiến công ở mặt trận Trị Thiên. Đến đầu tháng năm, lực lượng Việt Nam Cộng hòa rút khỏi thị xã. Quân đội Nhân dân Việt Nam kiểm soát tỉnh lỵ. Tình thế đảo chiều khi đối phương tập hợp lực lượng ở phía nam.",
+   "visual": "map:spring",
+   "label": "Ba mươi tháng ba"
+  },
+  {
+   "beat": "A08",
+   "text": "Ngày hai mươi tám tháng sáu, cuộc phản công Lam Sơn bảy mươi hai bắt đầu. Nhảy dù tiến về phía thị xã theo hướng tây Quốc lộ Một. Thủy quân Lục chiến tiến ở phía đông. Hỏa lực Hoa Kỳ yểm trợ từ trên không và ngoài biển.",
+   "visual": "map:counter",
+   "label": "Hai mũi tiến quân"
+  },
+  {
+   "beat": "A09",
+   "text": "Tàu chiến này là chiếc Niu Pót Niu của Hải quân Hoa Kỳ. Pháo hạm có thể bắn từ ngoài khơi vào trận địa trên bờ. Bên trong thị xã, người giữ chốt phải tồn tại dưới hỏa lực ấy trước cả khi đối phương tới sát tường.",
+   "visual": "photo:013",
+   "label": "Hỏa lực từ ngoài khơi"
+  },
+  {
+   "beat": "B01",
+   "text": "Trong hồi ức của Hoàng Chiến, ông nhận lệnh đưa Đại đội Sáu vượt sông ban ngày để bổ sung quân giữ thành. Ông đề nghị chờ đến tối. Đơn vị phía bên kia đã chịu nhiều thương vong. Lệnh vẫn là phải sang.",
+   "visual": "portrait:chien",
+   "label": "Đại đội trưởng Hoàng Chiến"
+  },
+  {
+   "beat": "B02",
+   "text": "Khi tới gần bờ, họ nhìn thấy máy bay trinh sát Ô Vê mười lượn trên đầu. Trên mặt nước trống, người vượt sông không có tường để nép vào. Hoàng Chiến dẫn tổ đi đầu xuống trước.",
+   "visual": "air:scout",
+   "label": "Máy bay trinh sát"
+  },
+  {
+   "beat": "B03",
+   "text": "Theo lời ông kể, đến giữa sông, ông truyền cho các bộ phận đi theo hàng dọc. Người đi trước kéo đội hình về phía bờ nam. Những người đi sau phải tiếp tục qua chính khoảng nước đang bị quan sát.",
+   "visual": "cross:day",
+   "label": "Vượt sông theo hàng dọc"
+  },
+  {
+   "beat": "B04",
+   "text": "Khi pháo bắt đầu bắn truy kích, đại đội đã sang tới bờ và tìm được chỗ ẩn. Đó là chuyến vượt sông mà Hoàng Chiến nhớ lại nhiều năm sau. Một lần sang được bờ chỉ giúp họ giải quyết câu hỏi đầu tiên. Còn giữ chốt bằng gì?",
+   "visual": "cross:bank",
+   "label": "Loạt pháo đến sau"
+  },
+  {
+   "beat": "B05",
+   "text": "Đại đội Sáu được bố trí giữ các mặt thành phía bắc, đông và nam. Đơn vị địa phương giữ phía tây. Có nhiều mũi tiến công, nên người ở mỗi mặt thành phải bám đúng vị trí mình được giao.",
+   "visual": "fort:posts",
+   "label": "Chia nhau giữ mặt thành"
+  },
+  {
+   "beat": "B06",
+   "text": "Cựu binh Hoàng Văn Thao nhớ bữa đầu tiên khi vào thành. Phần cơm của mỗi người chỉ là một nắm cơm vắt. Đồ ăn còn mang vào được thì chia nhau. Còn nước uống, từng vị trí phải xoay xở lấy.",
+   "visual": "insert:rice",
+   "label": "Một nắm cơm"
+  },
+  {
+   "beat": "B07",
+   "text": "Theo lời ông Thao, phía đông và phía bắc có hai giếng. Các chốt xa giếng khó đi lấy nước dưới pháo. Người ở đó dùng thùng lương khô đục lỗ ở đáy, ấn xuống vũng mưa để gạn bớt cặn.",
+   "visual": "insert:well",
+   "label": "Hai giếng nước"
+  },
+  {
+   "beat": "B08",
+   "text": "Nước mưa rỉ vào thùng. Người lính chờ cặn lắng bớt rồi mới lấy nước uống. Chi tiết này cho thấy vì sao giữ thành còn là chuyện của từng bữa ăn và từng ngụm nước, ngay cả giữa hai đợt giao tranh.",
+   "visual": "insert:tin",
+   "label": "Gạn nước từ vũng mưa"
+  },
+  {
+   "beat": "C01",
+   "text": "Đêm mùng chín tháng bảy, một đơn vị khác tập kết ở làng Nhan Biều. Đó là Tiểu đoàn Ba Tam Đảo, thuộc Trung đoàn Bốn Tám. Rạng sáng hôm sau, họ vượt Thạch Hãn vào giữ thành.",
+   "visual": "date:july",
+   "label": "Đêm mùng chín tháng bảy"
+  },
+  {
+   "beat": "C02",
+   "text": "Trong nhật ký của Nguyễn Văn Hợi, chuyến vượt sông là mốc ngay trước khi tiểu đoàn bước vào trận địa. Trong thành, cuộc sống chuyển sang nhịp hầm hào. Đến cuối tháng bảy, đầu tháng tám, ông nhớ mưa kéo dài làm hầm ngập và đất sụt.",
+   "visual": "cross:night",
+   "label": "Từ Nhan Biều sang thị xã"
+  },
+  {
+   "beat": "C03",
+   "text": "Hầm che mảnh đạn khi pháo bắn. Khi nước tràn vào, chính chỗ che ấy khó ở lại. Bùn lấp lối ra, nền sạt xuống. Mưa làm cả đường tiếp tế qua sông khó hơn đúng lúc các chốt cần người và vật tư.",
+   "visual": "trench:flood",
+   "label": "Hầm đang ngập"
+  },
+  {
+   "beat": "C04",
+   "text": "Đối phương cũng tìm cách siết đường tiếp tế. Đây là ảnh Thủy quân Lục chiến Việt Nam Cộng hòa lên trực thăng ngày mở màn phản công. Gần hai tuần sau, một cuộc đổ quân khác nhắm vào khu vực phía đông bắc thị xã.",
+   "visual": "photo:017",
+   "label": "Trực thăng của lực lượng phản công"
+  },
+  {
+   "beat": "C05",
+   "text": "Ngày mười một tháng bảy, trực thăng Mỹ chở một tiểu đoàn Thủy quân Lục chiến Việt Nam Cộng hòa đổ xuống phía đông bắc. Mục tiêu là chặn đường năm sáu không và gây sức ép lên tuyến tiếp tế vào thành. Lực lượng phòng thủ đánh trả cả vào đội trực thăng.",
+   "visual": "air:landing",
+   "label": "Mười một tháng bảy"
+  },
+  {
+   "beat": "C06",
+   "text": "Sử liệu Thủy quân Lục chiến Hoa Kỳ ghi một chiếc trực thăng hạng nặng trúng tên lửa phòng không và rơi. Cuộc đổ quân vẫn tiếp tục. Tới cuối tháng, Thủy quân Lục chiến được giao thay Nhảy dù đánh vào thị xã.",
+   "visual": "air:loss",
+   "label": "Đổ quân dưới hỏa lực"
+  },
+  {
+   "beat": "C07",
+   "text": "Trong lúc ấy, một tổ thông tin rời sở chỉ huy mặt trận để vào thành. Tổ do Hoàng Văn Tịch phụ trách. Họ phải đem thiết bị qua chiến trường để giữ liên lạc giữa lực lượng trong thành và chỉ huy bên ngoài.",
+   "visual": "radio:team",
+   "label": "Tổ điện đài A ba năm không"
+  },
+  {
+   "beat": "C08",
+   "text": "Một máy liên lạc cần điện. Tổ mang theo cả ắc quy và máy nổ. Những thứ này phải tới đúng chỗ cùng với người sử dụng. Đêm ba mươi mốt tháng bảy, tổ vượt Thạch Hãn vào thành.",
+   "visual": "radio:power",
+   "label": "Máy, ắc quy, máy nổ"
+  },
+  {
+   "beat": "C10",
+   "visual": "cross:drift",
+   "label": "Đàm Văn Ngọ bị nước cuốn",
+   "text": "Tổ bọc khí tài trong túi ni lông, dùng chính các túi ấy làm phao. Ra gần giữa sông, dòng nước xé đội hình. Đàm Văn Ngọ dạt xuống phía dưới. Anh lần ngược theo bờ để tìm về chỗ hẹn."
+  },
+  {
+   "beat": "C11",
+   "visual": "radio:dry",
+   "label": "Sấy máy dưới hầm",
+   "text": "Tới hầm, họ hong thiết bị, lắp máy và nối ăng ten. Tín hiệu thông trở lại. Nhưng máy ở dưới đất, còn ăng ten phải đặt trên gò bên ngoài. Pháo đánh gãy cột. Họ ghép củi nhà bếp để dựng một cột khác."
+  },
+  {
+   "beat": "C12",
+   "visual": "radio:antenna",
+   "label": "Giữ ăng ten bằng tay",
+   "text": "Khi cột lại gãy và hết vật liệu, họ đổi cách. Mỗi phiên mở máy, một người ra nấp sau đống gạch, giữ ăng ten. Xong phiên thì mang vào hầm. Họ giữ liên lạc bằng cách đó hơn một tháng."
+  },
+  {
+   "beat": "C09",
+   "text": "Qua đường liên lạc, tình hình trong thành có thể truyền ra ngoài. Người chỉ huy nhận được tin về các chốt. Người ở trong thành nhận được chỉ thị. Khi đường qua sông khó đi, một tín hiệu đi được vẫn giữ cho hai bên biết tình hình của nhau.",
+   "visual": "radio:signal",
+   "label": "Tín hiệu qua hai bờ"
+  },
+  {
+   "beat": "D01",
+   "text": "Trên đường Trần Hưng Đạo có Trường Bồ Đề. Người dân từng góp gạo dựng trường. Trước chiến tranh, nơi này có hơn một nghìn học sinh. Mùa hè ấy, trường nằm ngay trên một hướng có thể tiến vào thị xã.",
+   "visual": "school:before",
+   "label": "Trường Bồ Đề trước chiến sự"
+  },
+  {
+   "beat": "D02",
+   "text": "Trung đoàn Tám Tám được giao giữ khu vực trường. Các lớp học nằm trên hướng tây nam, nơi lực lượng tiến công tìm đường áp sát. Người lính phải dùng các bức tường và nền móng còn lại làm chỗ bám trụ.",
+   "visual": "school:hold",
+   "label": "Trung đoàn Tám Tám giữ chốt"
+  },
+  {
+   "beat": "D03",
+   "text": "Nhìn trên sơ đồ, cổng, trường và các đoạn tường cách nhau không xa. Nhưng đánh qua một khoảng trống nghĩa là phải rời vật che. Khi một chốt bị mất, người ở chốt bên cạnh có thể bị hở sườn. Vì vậy, mỗi góc tường đều có người bám.",
+   "visual": "fort:sectors",
+   "label": "Một tòa thành, nhiều hướng đánh"
+  },
+  {
+   "beat": "D04",
+   "text": "Ảnh chiến trường cho thấy tường bị bắn vỡ thành từng mảng. Người giữ thành tận dụng cả hào và gạch đổ để trú. Người tiến công phải đi qua cùng những chỗ đó. Sử liệu phía Hoa Kỳ ghi nhận đà tiến quanh thành trong tháng tám vẫn chậm.",
+   "visual": "photo:028",
+   "label": "Gạch đổ vẫn là công sự"
+  },
+  {
+   "beat": "D05",
+   "text": "Trong một đợt bắn phá kéo dài, Hoàng Chiến kể ông cho các bộ phận chuẩn bị hầm trước. Khi loạt đầu qua, người lính phải rời chỗ đang trú và lợi dụng các hố đạn để di chuyển. Ngay cả đường di chuyển cũng thay đổi theo chỗ đạn vừa rơi.",
+   "visual": "trench:crater",
+   "label": "Từ hầm sang hố đạn"
+  },
+  {
+   "beat": "D06",
+   "text": "Rồi cổng Tây đổ xuống căn hầm. Đại đội Sáu cử người tới đào. Họ nghe tiếng kêu dưới đống bê tông, nhưng không thể mở được lối xuống trước khi pháo lại làm người bị thương. Hoàng Chiến kể, họ phải trở về chốt.",
+   "visual": "gate:rescue",
+   "label": "Trở lại cổng Tây"
+  },
+  {
+   "beat": "D07",
+   "text": "Hoàng Chiến bị mảnh bom vào ngực và được đưa về trạm phẫu giữa tháng tám. Cuối tháng ấy, Hoàng Văn Thao cũng bị thương. Sau khi điều trị, cả hai trở lại chiến trường ở các đơn vị khác nhau. Mãi nhiều năm sau họ mới gặp lại tại Thành cổ.",
+   "visual": "portrait:thao",
+   "label": "Hai người lính bị thương"
+  },
+  {
+   "beat": "E01",
+   "text": "Sang tháng chín, lực lượng Thủy quân Lục chiến Việt Nam Cộng hòa dồn sức đánh vào thành. Sử liệu quân đội Hoa Kỳ ghi ngày mười một tháng chín là mốc họ mở được một lối qua tường. Những cuộc đụng độ ở cự ly gần vẫn kéo dài nhiều ngày.",
+   "visual": "date:september",
+   "label": "Mười một tháng chín"
+  },
+  {
+   "beat": "E02",
+   "text": "Cũng ngày mười một tháng chín, một người lính tên Lê Văn Huỳnh viết thư cho gia đình. Anh từng là sinh viên Đại học Xây dựng. Trên những trang giấy sổ tay, anh dặn người nhà cách tìm mình nếu anh không trở về.",
+   "visual": "letter:write",
+   "label": "Lá thư của Lê Văn Huỳnh"
+  },
+  {
+   "beat": "E03",
+   "text": "Trong thư, anh chỉ đường từ thị xã qua Thạch Hãn rồi hỏi về làng bên kia. Đó là đường được ghi ra để người ở nhà có thể đi tìm, nếu họ nhận được tin dữ. Bức thư không kết thúc cuộc chiến của anh. Anh còn làm nhiệm vụ sau khi trận Thành cổ đã khép lại.",
+   "visual": "letter:route",
+   "label": "Chỉ đường về phía bờ sông"
+  },
+  {
+   "beat": "E04",
+   "text": "Ở góc đông bắc, hồi ức của Tiểu đoàn Ba kể lại một tình huống khác. Rạng sáng ngày mười bốn, tiểu đội phó Lê Cảnh Tứ và đồng đội phát hiện một tốp đối phương luồn qua những lỗ tường bị phá. Họ tìm cách áp sát để cắm cờ.",
+   "visual": "fort:northeast",
+   "label": "Rạng sáng mười bốn tháng chín"
+  },
+  {
+   "beat": "E05",
+   "text": "Hãy nhìn khe tường từ phía chốt. Người đứng ngoài khó biết bên trong còn ai. Người giữ chốt phải đợi tới lúc phát hiện được đối phương. Theo lời kể của đơn vị, họ đánh trả và tốp tiến vào không giữ được vị trí ấy.",
+   "visual": "breach:gap",
+   "label": "Giữ lỗ thủng phía đông bắc"
+  },
+  {
+   "beat": "E06",
+   "text": "Trong ngày, các đợt đánh tiếp tục. Hồi ức Tiểu đoàn Ba ghi có xe tăng phun lửa đánh vào các chốt. Người trong thành đã phải trú qua nhiều đợt pháo, giờ phải đối phó với lực lượng áp sát qua cả những lối tường đã vỡ.",
+   "visual": "armor:fire",
+   "label": "Xe phun lửa áp sát"
+  },
+  {
+   "beat": "E07",
+   "text": "Theo người kể của Tiểu đoàn Ba, tới ngày mười bốn, tiểu đoàn chỉ còn gần hai mươi tay súng. Đây là quân số họ nhớ tại đơn vị mình lúc ấy. Những người còn lại chia nhau đối phó từ nhiều hướng, cùng sự chi viện của các đơn vị bạn.",
+   "visual": "fort:counts",
+   "label": "Gần hai mươi tay súng"
+  },
+  {
+   "beat": "E08",
+   "text": "Buổi chiều, một tốp tiến vào từ góc đông nam bị đánh bật. Đến chạng vạng, đợt tiến công lại mở từ ba hướng. Đó là cái giá của việc giữ một vị trí trong những ngày cuối. Chặn được một mũi rồi phải chuẩn bị cho mũi tiếp theo.",
+   "visual": "breach:dusk",
+   "label": "Từ góc đông nam đến ba hướng"
+  },
+  {
+   "beat": "F01",
+   "text": "Đêm mười lăm tháng chín, tổ thông tin A ba năm không nhận lệnh cắt liên lạc. Họ bàn giao máy, ắc quy và máy nổ cho đơn vị thông tin của Trung đoàn Bốn Tám. Rồi rời Thành cổ.",
+   "visual": "radio:off",
+   "label": "Đêm mười lăm tháng chín"
+  },
+  {
+   "beat": "F02",
+   "text": "Rạng sáng ngày mười sáu, lực lượng còn lại rút về phía tả ngạn Thạch Hãn. Đường sông từng đưa người và hàng vào thành giờ là đường rút. Những người vượt sông lần này để lại các chốt họ đã bám suốt mùa hè.",
+   "visual": "cross:withdraw",
+   "label": "Trở lại Thạch Hãn"
+  },
+  {
+   "beat": "F03",
+   "text": "Ngày mười sáu tháng chín, Thủy quân Lục chiến Việt Nam Cộng hòa kiểm soát Thành cổ. Tám mươi mốt ngày đêm khép lại. Cuộc chiến quanh Quảng Trị vẫn chưa dừng. Với gia đình những người lính, còn có một quãng chờ tin dài hơn cả trận đánh.",
+   "visual": "date:end",
+   "label": "Mười sáu tháng chín"
+  },
+  {
+   "beat": "F04",
+   "text": "Lê Văn Huỳnh hy sinh đầu tháng giêng năm sau. Lá thư được đồng đội chuyển về cho gia đình. Những trang giấy từng được viết trong những ngày cuối của trận Thành cổ nay được lưu tại bảo tàng. Người đi qua có thể đọc được lời anh để lại.",
+   "visual": "letter:home",
+   "label": "Lá thư về tới nhà"
+  },
+  {
+   "beat": "F05",
+   "text": "Tòa thành hôm nay có cổng được phục dựng. Còn những đoạn tường, hầm chỉ huy và dấu tích trường Bồ Đề giúp người đến sau tìm lại từng địa điểm mà các nhân chứng từng nhắc đến.",
+   "visual": "photo:2012",
+   "label": "Cổng thành hôm nay"
+  },
+  {
+   "beat": "F06",
+   "text": "Trên Thạch Hãn, người ta thả hoa tưởng niệm. Hãy nhớ những người đã đưa đồng đội sang bờ, gạn nước mưa trong thùng lương khô, giữ tín hiệu qua đêm và đào dưới cổng Tây. Tám mươi mốt ngày đêm được làm nên từ từng việc cụ thể ấy.",
+   "visual": "memorial:flowers",
+   "label": "Sông Thạch Hãn"
+  }
+ ],
+ "chapters": {
+  "A": "DƯỚI CỔNG TÂY",
+  "B": "VƯỢT SÔNG GIỮA BAN NGÀY",
+  "C": "GIỮ LIÊN LẠC GIỮA TÚI BOM",
+  "D": "TỪ LỚP HỌC ĐẾN CHỐT GIỮ",
+  "E": "TỪNG KHE TƯỜNG",
+  "F": "ĐÊM CUỐI CÙNG"
+ },
+ "render": {
+  "grain": false
+ },
+ "sound": {
+  "clips": {
+   "bomb_far": [
+    "synth: one distant heavy bomb blast, muffled rumble",
+    3.0
+   ],
+   "rubble": [
+    "synth: debris and rubble falling and settling",
+    2.4
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "radio_static": [
+    "synth: jammed radio static and crackle",
+    6.0
+   ],
+   "splash": [
+    "synth: huge wave splash with a deep thump",
+    2.4
+   ],
+   "rain": [
+    "synth: heavy tropical storm rain bed",
+    20
+   ],
+   "paper_land": [
+    "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+    0.7
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "bomber_drone": [
+    "synth: high heavy bomber stream drone, throbbing engines, 8 s bed",
+    8.0
+   ],
+   "metal_crash": [
+    "synth: giant robot metal crash and clang",
+    2.2
+   ],
+   "water_drain": [
+    "synth: the whole ocean sucked away, rising roar and gurgle then silence",
+    3.5
+   ],
+   "score": [
+    "Somber local instrumental underscore for Thanh Co Quang Tri Lua",
+    605.994
+   ]
+  },
+  "levels": {
+   "music_lu": -16,
+   "sfx_lu": -15.5
+  },
+  "music": {
+   "clip": "score",
+   "gain": 1
+  },
+  "score": [
+   {
+    "kind": "drone",
+    "to": "A05",
+    "note": 35,
+    "gain": 0.11,
+    "from": "A01"
+   },
+   {
+    "kind": "pad",
+    "to": "B01",
+    "chords": [
+     "Dm",
+     "Bb",
+     "Gm",
+     "Dm"
+    ],
+    "every": 7,
+    "gain": 0.13,
+    "bright": 3,
+    "from": "A05"
+   },
+   {
+    "kind": "pad",
+    "to": "C01",
+    "chords": [
+     "Dm",
+     "Am",
+     "Gm",
+     "Bb"
+    ],
+    "every": 8,
+    "gain": 0.12,
+    "bright": 3,
+    "from": "B01"
+   },
+   {
+    "kind": "drone",
+    "to": "D01",
+    "note": 38,
+    "gain": 0.11,
+    "from": "C01"
+   },
+   {
+    "kind": "pad",
+    "to": "D01",
+    "chords": [
+     "Gm",
+     "Bb",
+     "Dm",
+     "Am"
+    ],
+    "every": 8,
+    "gain": 0.12,
+    "bright": 2,
+    "from": "C01"
+   },
+   {
+    "kind": "pad",
+    "to": "E01",
+    "chords": [
+     "Dm",
+     "Gm",
+     "Bb",
+     "Dm"
+    ],
+    "every": 9,
+    "gain": 0.13,
+    "bright": 3,
+    "from": "D01"
+   },
+   {
+    "kind": "drone",
+    "to": "F01",
+    "note": 33,
+    "gain": 0.1,
+    "from": "E01"
+   },
+   {
+    "kind": "pad",
+    "to": "END",
+    "chords": [
+     "Dm",
+     "Bb",
+     "F",
+     "Gm",
+     "Dm"
+    ],
+    "every": 10,
+    "gain": 0.12,
+    "bright": 3,
+    "from": "E02"
+   },
+   {
+    "kind": "bells",
+    "to": "END",
+    "notes": [
+     74,
+     null,
+     69,
+     null,
+     null,
+     65,
+     null,
+     null,
+     null
+    ],
+    "step": 2.4,
+    "gain": 0.05,
+    "decay": 2.4,
+    "from": "F04"
+   }
+  ],
+  "events": [
+   [
+    "A3+8",
+    "bomb_far",
+    0.25,
+    "onset"
+   ],
+   [
+    "A6+8",
+    "rubble",
+    0.14,
+    "onset"
+   ],
+   [
+    "A12+8",
+    "bomb_far",
+    0.17,
+    "onset"
+   ],
+   [
+    "A19+8",
+    "title_boom",
+    0.17,
+    "onset"
+   ],
+   [
+    "A36+8",
+    "bomb_far",
+    0.12,
+    "onset"
+   ],
+   [
+    "B6+8",
+    "bomber_drone",
+    0.12,
+    "onset"
+   ],
+   [
+    "B9+8",
+    "splash",
+    0.15,
+    "onset"
+   ],
+   [
+    "B12+8",
+    "bomb_far",
+    0.16,
+    "onset"
+   ],
+   [
+    "B25+8",
+    "water_drain",
+    0.12,
+    "onset"
+   ],
+   [
+    "B29+8",
+    "splash",
+    0.1,
+    "onset"
+   ],
+   [
+    "C1+8",
+    "roof_wind",
+    0.09,
+    "onset"
+   ],
+   [
+    "C10+8",
+    "rain",
+    0.22,
+    "onset"
+   ],
+   [
+    "C18+8",
+    "bomber_drone",
+    0.16,
+    "onset"
+   ],
+   [
+    "C23+8",
+    "bomb_far",
+    0.19,
+    "onset"
+   ],
+   [
+    "C28+8",
+    "radio_static",
+    0.08,
+    "onset"
+   ],
+   [
+    "C35+8",
+    "splash",
+    0.12,
+    "onset"
+   ],
+   [
+    "C37+8",
+    "splash",
+    0.18,
+    "onset"
+   ],
+   [
+    "C41+8",
+    "radio_static",
+    0.12,
+    "onset"
+   ],
+   [
+    "C43+8",
+    "rubble",
+    0.17,
+    "onset"
+   ],
+   [
+    "C46+8",
+    "radio_static",
+    0.1,
+    "onset"
+   ],
+   [
+    "D5+8",
+    "bomb_far",
+    0.15,
+    "onset"
+   ],
+   [
+    "D21+8",
+    "bomb_far",
+    0.19,
+    "onset"
+   ],
+   [
+    "D24+8",
+    "rubble",
+    0.17,
+    "onset"
+   ],
+   [
+    "E2+8",
+    "bomb_far",
+    0.16,
+    "onset"
+   ],
+   [
+    "E5+8",
+    "paper_land",
+    0.12,
+    "onset"
+   ],
+   [
+    "E22+8",
+    "bomb_far",
+    0.12,
+    "onset"
+   ],
+   [
+    "E25+8",
+    "metal_crash",
+    0.1,
+    "onset"
+   ],
+   [
+    "E34+8",
+    "bomb_far",
+    0.21,
+    "onset"
+   ],
+   [
+    "F1+8",
+    "radio_static",
+    0.14,
+    "onset"
+   ],
+   [
+    "F6+8",
+    "splash",
+    0.13,
+    "onset"
+   ],
+   [
+    "F14+8",
+    "paper_land",
+    0.1,
+    "onset"
+   ],
+   [
+    "F23+8",
+    "roof_wind",
+    0.08,
+    "onset"
+   ]
+  ],
+  "repeats": []
+ },
+ "shots": [
+  {
+   "id": "A1",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "gate",
+   "key": 17,
+   "note": "Cổng Tây sập"
+  },
+  {
+   "id": "A2",
+   "file": "shots-cha",
+   "size": "medium",
+   "set": "gate",
+   "key": 17,
+   "note": "Cổng Tây sập"
+  },
+  {
+   "id": "A3",
+   "file": "shots-cha",
+   "size": "medium",
+   "set": "gate",
+   "key": 17,
+   "note": "Cổng Tây sập"
+  },
+  {
+   "id": "A4",
+   "file": "shots-cha",
+   "size": "close",
+   "set": "gate",
+   "key": 17,
+   "note": "Cổng Tây sập"
+  },
+  {
+   "id": "A5",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "gate",
+   "key": 17,
+   "note": "Cổng Tây sập"
+  },
+  {
+   "id": "A6",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "gate",
+   "key": 17,
+   "note": "Có tiếng người dưới gạch"
+  },
+  {
+   "id": "A7",
+   "file": "shots-cha",
+   "size": "medium",
+   "set": "gate",
+   "key": 17,
+   "note": "Có tiếng người dưới gạch"
+  },
+  {
+   "id": "A8",
+   "file": "shots-cha",
+   "size": "close",
+   "set": "gate",
+   "key": 17,
+   "note": "Có tiếng người dưới gạch"
+  },
+  {
+   "id": "A9",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "gate",
+   "key": 17,
+   "note": "Có tiếng người dưới gạch"
+  },
+  {
+   "id": "A10",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "gate",
+   "key": 17,
+   "note": "Có tiếng người dưới gạch"
+  },
+  {
+   "id": "A11",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "gate",
+   "key": 17,
+   "note": "Tấm bê tông chắn lối"
+  },
+  {
+   "id": "A12",
+   "file": "shots-cha",
+   "size": "medium",
+   "set": "gate",
+   "key": 17,
+   "note": "Tấm bê tông chắn lối"
+  },
+  {
+   "id": "A13",
+   "file": "shots-cha",
+   "size": "close",
+   "set": "gate",
+   "key": 17,
+   "note": "Tấm bê tông chắn lối"
+  },
+  {
+   "id": "A14",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "gate",
+   "key": 17,
+   "note": "Tấm bê tông chắn lối"
+  },
+  {
+   "id": "A15",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "gate",
+   "key": 17,
+   "note": "Dấu vết trên tường thành"
+  },
+  {
+   "id": "A16",
+   "file": "shots-cha",
+   "size": "archive",
+   "set": "photo",
+   "key": 17,
+   "note": "Dấu vết trên tường thành"
+  },
+  {
+   "id": "A17",
+   "file": "shots-cha",
+   "size": "close",
+   "set": "breach",
+   "key": 17,
+   "note": "Dấu vết trên tường thành"
+  },
+  {
+   "id": "A18",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "gate",
+   "key": 17,
+   "note": "Dấu vết trên tường thành"
+  },
+  {
+   "id": "A19",
+   "file": "shots-cha",
+   "size": "title",
+   "set": "title",
+   "key": 17,
+   "note": "TÁM MƯƠI MỐT NGÀY ĐÊM"
+  },
+  {
+   "id": "A20",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 17,
+   "note": "TÁM MƯƠI MỐT NGÀY ĐÊM"
+  },
+  {
+   "id": "A21",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 17,
+   "note": "TÁM MƯƠI MỐT NGÀY ĐÊM"
+  },
+  {
+   "id": "A22",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 17,
+   "note": "Sông · thị xã · Thành cổ"
+  },
+  {
+   "id": "A23",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Sông · thị xã · Thành cổ"
+  },
+  {
+   "id": "A24",
+   "file": "shots-cha",
+   "size": "close",
+   "set": "cross",
+   "key": 17,
+   "note": "Sông · thị xã · Thành cổ"
+  },
+  {
+   "id": "A25",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "cross",
+   "key": 17,
+   "note": "Sông · thị xã · Thành cổ"
+  },
+  {
+   "id": "A26",
+   "file": "shots-cha",
+   "size": "insert",
+   "set": "insert",
+   "key": 17,
+   "note": "Sông · thị xã · Thành cổ"
+  },
+  {
+   "id": "A27",
+   "file": "shots-cha",
+   "size": "insert",
+   "set": "insert",
+   "key": 17,
+   "note": "Sông · thị xã · Thành cổ"
+  },
+  {
+   "id": "A28",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 17,
+   "note": "Ba mươi tháng ba"
+  },
+  {
+   "id": "A29",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 17,
+   "note": "Ba mươi tháng ba"
+  },
+  {
+   "id": "A30",
+   "file": "shots-cha",
+   "size": "archive",
+   "set": "photo",
+   "key": 17,
+   "note": "Ba mươi tháng ba"
+  },
+  {
+   "id": "A31",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 17,
+   "note": "Ba mươi tháng ba"
+  },
+  {
+   "id": "A32",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 17,
+   "note": "Ba mươi tháng ba"
+  },
+  {
+   "id": "A33",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 17,
+   "note": "Hai mũi tiến quân"
+  },
+  {
+   "id": "A34",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 17,
+   "note": "Hai mũi tiến quân"
+  },
+  {
+   "id": "A35",
+   "file": "shots-cha",
+   "size": "map",
+   "set": "map",
+   "key": 17,
+   "note": "Hai mũi tiến quân"
+  },
+  {
+   "id": "A36",
+   "file": "shots-cha",
+   "size": "archive",
+   "set": "photo",
+   "key": 17,
+   "note": "Hai mũi tiến quân"
+  },
+  {
+   "id": "A37",
+   "file": "shots-cha",
+   "size": "archive",
+   "set": "photo",
+   "key": 17,
+   "note": "Hỏa lực từ ngoài khơi"
+  },
+  {
+   "id": "A38",
+   "file": "shots-cha",
+   "size": "archive",
+   "set": "photo",
+   "key": 17,
+   "note": "Hỏa lực từ ngoài khơi"
+  },
+  {
+   "id": "A39",
+   "file": "shots-cha",
+   "size": "close",
+   "set": "breach",
+   "key": 17,
+   "note": "Hỏa lực từ ngoài khơi"
+  },
+  {
+   "id": "A40",
+   "file": "shots-cha",
+   "size": "wide",
+   "set": "breach",
+   "key": 17,
+   "note": "Hỏa lực từ ngoài khơi"
+  },
+  {
+   "id": "B1",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "portrait",
+   "key": 17,
+   "note": "Đại đội trưởng Hoàng Chiến"
+  },
+  {
+   "id": "B2",
+   "file": "shots-chb",
+   "size": "medium",
+   "set": "portrait",
+   "key": 17,
+   "note": "Đại đội trưởng Hoàng Chiến"
+  },
+  {
+   "id": "B3",
+   "file": "shots-chb",
+   "size": "medium",
+   "set": "portrait",
+   "key": 17,
+   "note": "Đại đội trưởng Hoàng Chiến"
+  },
+  {
+   "id": "B4",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Đại đội trưởng Hoàng Chiến"
+  },
+  {
+   "id": "B5",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "cross",
+   "key": 17,
+   "note": "Đại đội trưởng Hoàng Chiến"
+  },
+  {
+   "id": "B6",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "air",
+   "key": 17,
+   "note": "Máy bay trinh sát"
+  },
+  {
+   "id": "B7",
+   "file": "shots-chb",
+   "size": "medium",
+   "set": "cross",
+   "key": 17,
+   "note": "Máy bay trinh sát"
+  },
+  {
+   "id": "B8",
+   "file": "shots-chb",
+   "size": "close",
+   "set": "cross",
+   "key": 17,
+   "note": "Máy bay trinh sát"
+  },
+  {
+   "id": "B9",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "cross",
+   "key": 17,
+   "note": "Vượt sông theo hàng dọc"
+  },
+  {
+   "id": "B10",
+   "file": "shots-chb",
+   "size": "medium",
+   "set": "cross",
+   "key": 17,
+   "note": "Vượt sông theo hàng dọc"
+  },
+  {
+   "id": "B11",
+   "file": "shots-chb",
+   "size": "close",
+   "set": "cross",
+   "key": 17,
+   "note": "Vượt sông theo hàng dọc"
+  },
+  {
+   "id": "B12",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "cross",
+   "key": 17,
+   "note": "Loạt pháo đến sau"
+  },
+  {
+   "id": "B13",
+   "file": "shots-chb",
+   "size": "medium",
+   "set": "cross",
+   "key": 17,
+   "note": "Loạt pháo đến sau"
+  },
+  {
+   "id": "B14",
+   "file": "shots-chb",
+   "size": "medium",
+   "set": "cross",
+   "key": 17,
+   "note": "Loạt pháo đến sau"
+  },
+  {
+   "id": "B15",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Loạt pháo đến sau"
+  },
+  {
+   "id": "B16",
+   "file": "shots-chb",
+   "size": "insert",
+   "set": "insert",
+   "key": 17,
+   "note": "Loạt pháo đến sau"
+  },
+  {
+   "id": "B17",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Chia nhau giữ mặt thành"
+  },
+  {
+   "id": "B18",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Chia nhau giữ mặt thành"
+  },
+  {
+   "id": "B19",
+   "file": "shots-chb",
+   "size": "close",
+   "set": "breach",
+   "key": 17,
+   "note": "Chia nhau giữ mặt thành"
+  },
+  {
+   "id": "B20",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "breach",
+   "key": 17,
+   "note": "Chia nhau giữ mặt thành"
+  },
+  {
+   "id": "B21",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "portrait",
+   "key": 17,
+   "note": "Một nắm cơm"
+  },
+  {
+   "id": "B22",
+   "file": "shots-chb",
+   "size": "insert",
+   "set": "insert",
+   "key": 17,
+   "note": "Một nắm cơm"
+  },
+  {
+   "id": "B23",
+   "file": "shots-chb",
+   "size": "insert",
+   "set": "insert",
+   "key": 17,
+   "note": "Một nắm cơm"
+  },
+  {
+   "id": "B24",
+   "file": "shots-chb",
+   "size": "insert",
+   "set": "insert",
+   "key": 17,
+   "note": "Một nắm cơm"
+  },
+  {
+   "id": "B25",
+   "file": "shots-chb",
+   "size": "insert",
+   "set": "insert",
+   "key": 17,
+   "note": "Hai giếng nước"
+  },
+  {
+   "id": "B26",
+   "file": "shots-chb",
+   "size": "medium",
+   "set": "trench",
+   "key": 17,
+   "note": "Hai giếng nước"
+  },
+  {
+   "id": "B27",
+   "file": "shots-chb",
+   "size": "insert",
+   "set": "insert",
+   "key": 17,
+   "note": "Hai giếng nước"
+  },
+  {
+   "id": "B28",
+   "file": "shots-chb",
+   "size": "insert",
+   "set": "insert",
+   "key": 17,
+   "note": "Hai giếng nước"
+  },
+  {
+   "id": "B29",
+   "file": "shots-chb",
+   "size": "insert",
+   "set": "insert",
+   "key": 17,
+   "note": "Gạn nước từ vũng mưa"
+  },
+  {
+   "id": "B30",
+   "file": "shots-chb",
+   "size": "insert",
+   "set": "insert",
+   "key": 17,
+   "note": "Gạn nước từ vũng mưa"
+  },
+  {
+   "id": "B31",
+   "file": "shots-chb",
+   "size": "close",
+   "set": "gate",
+   "key": 17,
+   "note": "Gạn nước từ vũng mưa"
+  },
+  {
+   "id": "B32",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "gate",
+   "key": 17,
+   "note": "Gạn nước từ vũng mưa"
+  },
+  {
+   "id": "C1",
+   "file": "shots-chc",
+   "size": "title",
+   "set": "date",
+   "key": 17,
+   "note": "Đêm mùng chín tháng bảy"
+  },
+  {
+   "id": "C2",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Đêm mùng chín tháng bảy"
+  },
+  {
+   "id": "C3",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "cross",
+   "key": 17,
+   "note": "Đêm mùng chín tháng bảy"
+  },
+  {
+   "id": "C4",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "cross",
+   "key": 17,
+   "note": "Từ Nhan Biều sang thị xã"
+  },
+  {
+   "id": "C5",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "cross",
+   "key": 17,
+   "note": "Từ Nhan Biều sang thị xã"
+  },
+  {
+   "id": "C6",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ Nhan Biều sang thị xã"
+  },
+  {
+   "id": "C7",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ Nhan Biều sang thị xã"
+  },
+  {
+   "id": "C8",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ Nhan Biều sang thị xã"
+  },
+  {
+   "id": "C9",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "trench",
+   "key": 17,
+   "note": "Hầm đang ngập"
+  },
+  {
+   "id": "C10",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "trench",
+   "key": 17,
+   "note": "Hầm đang ngập"
+  },
+  {
+   "id": "C11",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "trench",
+   "key": 17,
+   "note": "Hầm đang ngập"
+  },
+  {
+   "id": "C12",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "cross",
+   "key": 17,
+   "note": "Hầm đang ngập"
+  },
+  {
+   "id": "C13",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "cross",
+   "key": 17,
+   "note": "Hầm đang ngập"
+  },
+  {
+   "id": "C14",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Trực thăng của lực lượng phản công"
+  },
+  {
+   "id": "C15",
+   "file": "shots-chc",
+   "size": "archive",
+   "set": "photo",
+   "key": 17,
+   "note": "Trực thăng của lực lượng phản công"
+  },
+  {
+   "id": "C16",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "air",
+   "key": 17,
+   "note": "Trực thăng của lực lượng phản công"
+  },
+  {
+   "id": "C17",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "air",
+   "key": 17,
+   "note": "Trực thăng của lực lượng phản công"
+  },
+  {
+   "id": "C18",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "air",
+   "key": 17,
+   "note": "Mười một tháng bảy"
+  },
+  {
+   "id": "C19",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "air",
+   "key": 17,
+   "note": "Mười một tháng bảy"
+  },
+  {
+   "id": "C20",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Mười một tháng bảy"
+  },
+  {
+   "id": "C21",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Mười một tháng bảy"
+  },
+  {
+   "id": "C22",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "air",
+   "key": 17,
+   "note": "Mười một tháng bảy"
+  },
+  {
+   "id": "C23",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "air",
+   "key": 17,
+   "note": "Đổ quân dưới hỏa lực"
+  },
+  {
+   "id": "C24",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "air",
+   "key": 17,
+   "note": "Đổ quân dưới hỏa lực"
+  },
+  {
+   "id": "C25",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "air",
+   "key": 17,
+   "note": "Đổ quân dưới hỏa lực"
+  },
+  {
+   "id": "C26",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "map",
+   "key": 17,
+   "note": "Đổ quân dưới hỏa lực"
+  },
+  {
+   "id": "C27",
+   "file": "shots-chc",
+   "size": "map",
+   "set": "map",
+   "key": 17,
+   "note": "Đổ quân dưới hỏa lực"
+  },
+  {
+   "id": "C28",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Tổ điện đài A ba năm không"
+  },
+  {
+   "id": "C29",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "radio",
+   "key": 17,
+   "note": "Tổ điện đài A ba năm không"
+  },
+  {
+   "id": "C30",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "radio",
+   "key": 17,
+   "note": "Tổ điện đài A ba năm không"
+  },
+  {
+   "id": "C31",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Tổ điện đài A ba năm không"
+  },
+  {
+   "id": "C32",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Máy, ắc quy, máy nổ"
+  },
+  {
+   "id": "C33",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "radio",
+   "key": 17,
+   "note": "Máy, ắc quy, máy nổ"
+  },
+  {
+   "id": "C34",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "radio",
+   "key": 17,
+   "note": "Máy, ắc quy, máy nổ"
+  },
+  {
+   "id": "C35",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "cross",
+   "key": 17,
+   "note": "Máy, ắc quy, máy nổ"
+  },
+  {
+   "id": "C36",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "cross",
+   "key": 17,
+   "note": "Đàm Văn Ngọ bị nước cuốn"
+  },
+  {
+   "id": "C37",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "cross",
+   "key": 17,
+   "note": "Đàm Văn Ngọ bị nước cuốn"
+  },
+  {
+   "id": "C38",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "cross",
+   "key": 17,
+   "note": "Đàm Văn Ngọ bị nước cuốn"
+  },
+  {
+   "id": "C39",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "cross",
+   "key": 17,
+   "note": "Đàm Văn Ngọ bị nước cuốn"
+  },
+  {
+   "id": "C40",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Sấy máy dưới hầm"
+  },
+  {
+   "id": "C41",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "radio",
+   "key": 17,
+   "note": "Sấy máy dưới hầm"
+  },
+  {
+   "id": "C42",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "radio",
+   "key": 17,
+   "note": "Sấy máy dưới hầm"
+  },
+  {
+   "id": "C43",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Sấy máy dưới hầm"
+  },
+  {
+   "id": "C44",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "radio",
+   "key": 17,
+   "note": "Sấy máy dưới hầm"
+  },
+  {
+   "id": "C45",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Giữ ăng ten bằng tay"
+  },
+  {
+   "id": "C46",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "radio",
+   "key": 17,
+   "note": "Giữ ăng ten bằng tay"
+  },
+  {
+   "id": "C47",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "radio",
+   "key": 17,
+   "note": "Giữ ăng ten bằng tay"
+  },
+  {
+   "id": "C48",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Giữ ăng ten bằng tay"
+  },
+  {
+   "id": "C49",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Tín hiệu qua hai bờ"
+  },
+  {
+   "id": "C50",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "radio",
+   "key": 17,
+   "note": "Tín hiệu qua hai bờ"
+  },
+  {
+   "id": "C51",
+   "file": "shots-chc",
+   "size": "close",
+   "set": "radio",
+   "key": 17,
+   "note": "Tín hiệu qua hai bờ"
+  },
+  {
+   "id": "C52",
+   "file": "shots-chc",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Tín hiệu qua hai bờ"
+  },
+  {
+   "id": "C53",
+   "file": "shots-chc",
+   "size": "medium",
+   "set": "radio",
+   "key": 17,
+   "note": "Tín hiệu qua hai bờ"
+  },
+  {
+   "id": "D1",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "school",
+   "key": 17,
+   "note": "Trường Bồ Đề trước chiến sự"
+  },
+  {
+   "id": "D2",
+   "file": "shots-chd",
+   "size": "medium",
+   "set": "school",
+   "key": 17,
+   "note": "Trường Bồ Đề trước chiến sự"
+  },
+  {
+   "id": "D3",
+   "file": "shots-chd",
+   "size": "close",
+   "set": "school",
+   "key": 17,
+   "note": "Trường Bồ Đề trước chiến sự"
+  },
+  {
+   "id": "D4",
+   "file": "shots-chd",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Trường Bồ Đề trước chiến sự"
+  },
+  {
+   "id": "D5",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "school",
+   "key": 17,
+   "note": "Trung đoàn Tám Tám giữ chốt"
+  },
+  {
+   "id": "D6",
+   "file": "shots-chd",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Trung đoàn Tám Tám giữ chốt"
+  },
+  {
+   "id": "D7",
+   "file": "shots-chd",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Trung đoàn Tám Tám giữ chốt"
+  },
+  {
+   "id": "D8",
+   "file": "shots-chd",
+   "size": "close",
+   "set": "school",
+   "key": 17,
+   "note": "Trung đoàn Tám Tám giữ chốt"
+  },
+  {
+   "id": "D9",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "school",
+   "key": 17,
+   "note": "Trung đoàn Tám Tám giữ chốt"
+  },
+  {
+   "id": "D10",
+   "file": "shots-chd",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Một tòa thành, nhiều hướng đánh"
+  },
+  {
+   "id": "D11",
+   "file": "shots-chd",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Một tòa thành, nhiều hướng đánh"
+  },
+  {
+   "id": "D12",
+   "file": "shots-chd",
+   "size": "medium",
+   "set": "breach",
+   "key": 17,
+   "note": "Một tòa thành, nhiều hướng đánh"
+  },
+  {
+   "id": "D13",
+   "file": "shots-chd",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Một tòa thành, nhiều hướng đánh"
+  },
+  {
+   "id": "D14",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "breach",
+   "key": 17,
+   "note": "Một tòa thành, nhiều hướng đánh"
+  },
+  {
+   "id": "D15",
+   "file": "shots-chd",
+   "size": "archive",
+   "set": "photo",
+   "key": 17,
+   "note": "Gạch đổ vẫn là công sự"
+  },
+  {
+   "id": "D16",
+   "file": "shots-chd",
+   "size": "archive",
+   "set": "photo",
+   "key": 17,
+   "note": "Gạch đổ vẫn là công sự"
+  },
+  {
+   "id": "D17",
+   "file": "shots-chd",
+   "size": "close",
+   "set": "breach",
+   "key": 17,
+   "note": "Gạch đổ vẫn là công sự"
+  },
+  {
+   "id": "D18",
+   "file": "shots-chd",
+   "size": "archive",
+   "set": "photo",
+   "key": 17,
+   "note": "Gạch đổ vẫn là công sự"
+  },
+  {
+   "id": "D19",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ hầm sang hố đạn"
+  },
+  {
+   "id": "D20",
+   "file": "shots-chd",
+   "size": "medium",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ hầm sang hố đạn"
+  },
+  {
+   "id": "D21",
+   "file": "shots-chd",
+   "size": "medium",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ hầm sang hố đạn"
+  },
+  {
+   "id": "D22",
+   "file": "shots-chd",
+   "size": "close",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ hầm sang hố đạn"
+  },
+  {
+   "id": "D23",
+   "file": "shots-chd",
+   "size": "close",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ hầm sang hố đạn"
+  },
+  {
+   "id": "D24",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "gate",
+   "key": 17,
+   "note": "Trở lại cổng Tây"
+  },
+  {
+   "id": "D25",
+   "file": "shots-chd",
+   "size": "medium",
+   "set": "gate",
+   "key": 17,
+   "note": "Trở lại cổng Tây"
+  },
+  {
+   "id": "D26",
+   "file": "shots-chd",
+   "size": "close",
+   "set": "gate",
+   "key": 17,
+   "note": "Trở lại cổng Tây"
+  },
+  {
+   "id": "D27",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "gate",
+   "key": 17,
+   "note": "Trở lại cổng Tây"
+  },
+  {
+   "id": "D28",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "gate",
+   "key": 17,
+   "note": "Trở lại cổng Tây"
+  },
+  {
+   "id": "D29",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "portrait",
+   "key": 17,
+   "note": "Hai người lính bị thương"
+  },
+  {
+   "id": "D30",
+   "file": "shots-chd",
+   "size": "medium",
+   "set": "portrait",
+   "key": 17,
+   "note": "Hai người lính bị thương"
+  },
+  {
+   "id": "D31",
+   "file": "shots-chd",
+   "size": "medium",
+   "set": "portrait",
+   "key": 17,
+   "note": "Hai người lính bị thương"
+  },
+  {
+   "id": "D32",
+   "file": "shots-chd",
+   "size": "close",
+   "set": "cross",
+   "key": 17,
+   "note": "Hai người lính bị thương"
+  },
+  {
+   "id": "D33",
+   "file": "shots-chd",
+   "size": "wide",
+   "set": "portrait",
+   "key": 17,
+   "note": "Hai người lính bị thương"
+  },
+  {
+   "id": "E1",
+   "file": "shots-che",
+   "size": "title",
+   "set": "date",
+   "key": 17,
+   "note": "Mười một tháng chín"
+  },
+  {
+   "id": "E2",
+   "file": "shots-che",
+   "size": "medium",
+   "set": "breach",
+   "key": 17,
+   "note": "Mười một tháng chín"
+  },
+  {
+   "id": "E3",
+   "file": "shots-che",
+   "size": "close",
+   "set": "breach",
+   "key": 17,
+   "note": "Mười một tháng chín"
+  },
+  {
+   "id": "E4",
+   "file": "shots-che",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Mười một tháng chín"
+  },
+  {
+   "id": "E5",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "letter",
+   "key": 17,
+   "note": "Lá thư của Lê Văn Huỳnh"
+  },
+  {
+   "id": "E6",
+   "file": "shots-che",
+   "size": "medium",
+   "set": "letter",
+   "key": 17,
+   "note": "Lá thư của Lê Văn Huỳnh"
+  },
+  {
+   "id": "E7",
+   "file": "shots-che",
+   "size": "medium",
+   "set": "letter",
+   "key": 17,
+   "note": "Lá thư của Lê Văn Huỳnh"
+  },
+  {
+   "id": "E8",
+   "file": "shots-che",
+   "size": "close",
+   "set": "letter",
+   "key": 17,
+   "note": "Lá thư của Lê Văn Huỳnh"
+  },
+  {
+   "id": "E9",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "letter",
+   "key": 17,
+   "note": "Lá thư của Lê Văn Huỳnh"
+  },
+  {
+   "id": "E10",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "letter",
+   "key": 17,
+   "note": "Chỉ đường về phía bờ sông"
+  },
+  {
+   "id": "E11",
+   "file": "shots-che",
+   "size": "medium",
+   "set": "letter",
+   "key": 17,
+   "note": "Chỉ đường về phía bờ sông"
+  },
+  {
+   "id": "E12",
+   "file": "shots-che",
+   "size": "close",
+   "set": "letter",
+   "key": 17,
+   "note": "Chỉ đường về phía bờ sông"
+  },
+  {
+   "id": "E13",
+   "file": "shots-che",
+   "size": "close",
+   "set": "letter",
+   "key": 17,
+   "note": "Chỉ đường về phía bờ sông"
+  },
+  {
+   "id": "E14",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "letter",
+   "key": 17,
+   "note": "Chỉ đường về phía bờ sông"
+  },
+  {
+   "id": "E15",
+   "file": "shots-che",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Rạng sáng mười bốn tháng chín"
+  },
+  {
+   "id": "E16",
+   "file": "shots-che",
+   "size": "medium",
+   "set": "breach",
+   "key": 17,
+   "note": "Rạng sáng mười bốn tháng chín"
+  },
+  {
+   "id": "E17",
+   "file": "shots-che",
+   "size": "close",
+   "set": "breach",
+   "key": 17,
+   "note": "Rạng sáng mười bốn tháng chín"
+  },
+  {
+   "id": "E18",
+   "file": "shots-che",
+   "size": "close",
+   "set": "breach",
+   "key": 17,
+   "note": "Rạng sáng mười bốn tháng chín"
+  },
+  {
+   "id": "E19",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "breach",
+   "key": 17,
+   "note": "Giữ lỗ thủng phía đông bắc"
+  },
+  {
+   "id": "E20",
+   "file": "shots-che",
+   "size": "medium",
+   "set": "breach",
+   "key": 17,
+   "note": "Giữ lỗ thủng phía đông bắc"
+  },
+  {
+   "id": "E21",
+   "file": "shots-che",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Giữ lỗ thủng phía đông bắc"
+  },
+  {
+   "id": "E22",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "breach",
+   "key": 17,
+   "note": "Giữ lỗ thủng phía đông bắc"
+  },
+  {
+   "id": "E23",
+   "file": "shots-che",
+   "size": "medium",
+   "set": "breach",
+   "key": 17,
+   "note": "Giữ lỗ thủng phía đông bắc"
+  },
+  {
+   "id": "E24",
+   "file": "shots-che",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Xe phun lửa áp sát"
+  },
+  {
+   "id": "E25",
+   "file": "shots-che",
+   "size": "medium",
+   "set": "armor",
+   "key": 17,
+   "note": "Xe phun lửa áp sát"
+  },
+  {
+   "id": "E26",
+   "file": "shots-che",
+   "size": "close",
+   "set": "breach",
+   "key": 17,
+   "note": "Xe phun lửa áp sát"
+  },
+  {
+   "id": "E27",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "breach",
+   "key": 17,
+   "note": "Xe phun lửa áp sát"
+  },
+  {
+   "id": "E28",
+   "file": "shots-che",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Gần hai mươi tay súng"
+  },
+  {
+   "id": "E29",
+   "file": "shots-che",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Gần hai mươi tay súng"
+  },
+  {
+   "id": "E30",
+   "file": "shots-che",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Gần hai mươi tay súng"
+  },
+  {
+   "id": "E31",
+   "file": "shots-che",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Gần hai mươi tay súng"
+  },
+  {
+   "id": "E32",
+   "file": "shots-che",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Gần hai mươi tay súng"
+  },
+  {
+   "id": "E33",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "breach",
+   "key": 17,
+   "note": "Từ góc đông nam đến ba hướng"
+  },
+  {
+   "id": "E34",
+   "file": "shots-che",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Từ góc đông nam đến ba hướng"
+  },
+  {
+   "id": "E35",
+   "file": "shots-che",
+   "size": "close",
+   "set": "trench",
+   "key": 17,
+   "note": "Từ góc đông nam đến ba hướng"
+  },
+  {
+   "id": "E36",
+   "file": "shots-che",
+   "size": "wide",
+   "set": "breach",
+   "key": 17,
+   "note": "Từ góc đông nam đến ba hướng"
+  },
+  {
+   "id": "F1",
+   "file": "shots-chf",
+   "size": "wide",
+   "set": "radio",
+   "key": 17,
+   "note": "Đêm mười lăm tháng chín"
+  },
+  {
+   "id": "F2",
+   "file": "shots-chf",
+   "size": "medium",
+   "set": "radio",
+   "key": 17,
+   "note": "Đêm mười lăm tháng chín"
+  },
+  {
+   "id": "F3",
+   "file": "shots-chf",
+   "size": "medium",
+   "set": "radio",
+   "key": 17,
+   "note": "Đêm mười lăm tháng chín"
+  },
+  {
+   "id": "F4",
+   "file": "shots-chf",
+   "size": "close",
+   "set": "radio",
+   "key": 17,
+   "note": "Đêm mười lăm tháng chín"
+  },
+  {
+   "id": "F5",
+   "file": "shots-chf",
+   "size": "close",
+   "set": "cross",
+   "key": 17,
+   "note": "Đêm mười lăm tháng chín"
+  },
+  {
+   "id": "F6",
+   "file": "shots-chf",
+   "size": "wide",
+   "set": "cross",
+   "key": 17,
+   "note": "Trở lại Thạch Hãn"
+  },
+  {
+   "id": "F7",
+   "file": "shots-chf",
+   "size": "medium",
+   "set": "cross",
+   "key": 17,
+   "note": "Trở lại Thạch Hãn"
+  },
+  {
+   "id": "F8",
+   "file": "shots-chf",
+   "size": "map",
+   "set": "fort",
+   "key": 17,
+   "note": "Trở lại Thạch Hãn"
+  },
+  {
+   "id": "F9",
+   "file": "shots-chf",
+   "size": "title",
+   "set": "date",
+   "key": 17,
+   "note": "Mười sáu tháng chín"
+  },
+  {
+   "id": "F10",
+   "file": "shots-chf",
+   "size": "title",
+   "set": "title",
+   "key": 17,
+   "note": "Mười sáu tháng chín"
+  },
+  {
+   "id": "F11",
+   "file": "shots-chf",
+   "size": "map",
+   "set": "map",
+   "key": 17,
+   "note": "Mười sáu tháng chín"
+  },
+  {
+   "id": "F12",
+   "file": "shots-chf",
+   "size": "wide",
+   "set": "letter",
+   "key": 17,
+   "note": "Mười sáu tháng chín"
+  },
+  {
+   "id": "F13",
+   "file": "shots-chf",
+   "size": "medium",
+   "set": "letter",
+   "key": 17,
+   "note": "Mười sáu tháng chín"
+  },
+  {
+   "id": "F14",
+   "file": "shots-chf",
+   "size": "wide",
+   "set": "letter",
+   "key": 17,
+   "note": "Lá thư về tới nhà"
+  },
+  {
+   "id": "F15",
+   "file": "shots-chf",
+   "size": "medium",
+   "set": "letter",
+   "key": 17,
+   "note": "Lá thư về tới nhà"
+  },
+  {
+   "id": "F16",
+   "file": "shots-chf",
+   "size": "close",
+   "set": "letter",
+   "key": 17,
+   "note": "Lá thư về tới nhà"
+  },
+  {
+   "id": "F17",
+   "file": "shots-chf",
+   "size": "wide",
+   "set": "letter",
+   "key": 17,
+   "note": "Lá thư về tới nhà"
+  },
+  {
+   "id": "F18",
+   "file": "shots-chf",
+   "size": "wide",
+   "set": "letter",
+   "key": 17,
+   "note": "Lá thư về tới nhà"
+  },
+  {
+   "id": "F19",
+   "file": "shots-chf",
+   "size": "archive",
+   "set": "photo",
+   "key": 17,
+   "note": "Cổng thành hôm nay"
+  },
+  {
+   "id": "F20",
+   "file": "shots-chf",
+   "size": "medium",
+   "set": "school",
+   "key": 17,
+   "note": "Cổng thành hôm nay"
+  },
+  {
+   "id": "F21",
+   "file": "shots-chf",
+   "size": "close",
+   "set": "school",
+   "key": 17,
+   "note": "Cổng thành hôm nay"
+  },
+  {
+   "id": "F22",
+   "file": "shots-chf",
+   "size": "archive",
+   "set": "photo",
+   "key": 17,
+   "note": "Sông Thạch Hãn"
+  },
+  {
+   "id": "F23",
+   "file": "shots-chf",
+   "size": "medium",
+   "set": "memorial",
+   "key": 17,
+   "note": "Sông Thạch Hãn"
+  },
+  {
+   "id": "F24",
+   "file": "shots-chf",
+   "size": "close",
+   "set": "memorial",
+   "key": 17,
+   "note": "Sông Thạch Hãn"
+  },
+  {
+   "id": "F25",
+   "file": "shots-chf",
+   "size": "close",
+   "set": "memorial",
+   "key": 17,
+   "note": "Sông Thạch Hãn"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "s:0.0000"
+  },
+  {
+   "shot": "A2",
+   "at": "s:1.0333"
+  },
+  {
+   "shot": "A3",
+   "at": "s:3.7333"
+  },
+  {
+   "shot": "A4",
+   "at": "s:5.6000"
+  },
+  {
+   "shot": "A5",
+   "at": "s:7.5667"
+  },
+  {
+   "shot": "A6",
+   "at": "s:9.4333"
+  },
+  {
+   "shot": "A7",
+   "at": "s:11.1667"
+  },
+  {
+   "shot": "A8",
+   "at": "s:13.1667"
+  },
+  {
+   "shot": "A9",
+   "at": "s:14.6333"
+  },
+  {
+   "shot": "A10",
+   "at": "s:17.7000"
+  },
+  {
+   "shot": "A11",
+   "at": "s:19.6333"
+  },
+  {
+   "shot": "A12",
+   "at": "s:22.3333"
+  },
+  {
+   "shot": "A13",
+   "at": "s:23.3000"
+  },
+  {
+   "shot": "A14",
+   "at": "s:25.3000"
+  },
+  {
+   "shot": "A15",
+   "at": "s:28.1667"
+  },
+  {
+   "shot": "A16",
+   "at": "s:31.2333"
+  },
+  {
+   "shot": "A17",
+   "at": "s:35.0667"
+  },
+  {
+   "shot": "A18",
+   "at": "s:37.4000"
+  },
+  {
+   "shot": "A19",
+   "at": "s:39.7000"
+  },
+  {
+   "shot": "A20",
+   "at": "s:43.3667"
+  },
+  {
+   "shot": "A21",
+   "at": "s:48.0000"
+  },
+  {
+   "shot": "A22",
+   "at": "s:49.9000"
+  },
+  {
+   "shot": "A23",
+   "at": "s:52.4333"
+  },
+  {
+   "shot": "A24",
+   "at": "s:54.4333"
+  },
+  {
+   "shot": "A25",
+   "at": "s:55.5333"
+  },
+  {
+   "shot": "A26",
+   "at": "s:59.5667"
+  },
+  {
+   "shot": "A27",
+   "at": "s:61.0667"
+  },
+  {
+   "shot": "A28",
+   "at": "s:64.4667"
+  },
+  {
+   "shot": "A29",
+   "at": "s:66.6667"
+  },
+  {
+   "shot": "A30",
+   "at": "s:68.9000"
+  },
+  {
+   "shot": "A31",
+   "at": "s:72.8667"
+  },
+  {
+   "shot": "A32",
+   "at": "s:75.3333"
+  },
+  {
+   "shot": "A33",
+   "at": "s:78.9667"
+  },
+  {
+   "shot": "A34",
+   "at": "s:82.9667"
+  },
+  {
+   "shot": "A35",
+   "at": "s:86.7667"
+  },
+  {
+   "shot": "A36",
+   "at": "s:88.9667"
+  },
+  {
+   "shot": "A37",
+   "at": "s:92.1000"
+  },
+  {
+   "shot": "A38",
+   "at": "s:95.7333"
+  },
+  {
+   "shot": "A39",
+   "at": "s:98.9333"
+  },
+  {
+   "shot": "A40",
+   "at": "s:100.1000"
+  },
+  {
+   "shot": "B1",
+   "at": "s:104.5667"
+  },
+  {
+   "shot": "B2",
+   "at": "s:106.0000"
+  },
+  {
+   "shot": "B3",
+   "at": "s:110.0667"
+  },
+  {
+   "shot": "B4",
+   "at": "s:111.7333"
+  },
+  {
+   "shot": "B5",
+   "at": "s:114.5333"
+  },
+  {
+   "shot": "B6",
+   "at": "s:116.0333"
+  },
+  {
+   "shot": "B7",
+   "at": "s:120.3667"
+  },
+  {
+   "shot": "B8",
+   "at": "s:124.0667"
+  },
+  {
+   "shot": "B9",
+   "at": "s:126.0000"
+  },
+  {
+   "shot": "B10",
+   "at": "s:130.2667"
+  },
+  {
+   "shot": "B11",
+   "at": "s:132.8667"
+  },
+  {
+   "shot": "B12",
+   "at": "s:136.9000"
+  },
+  {
+   "shot": "B13",
+   "at": "s:138.5000"
+  },
+  {
+   "shot": "B14",
+   "at": "s:141.6333"
+  },
+  {
+   "shot": "B15",
+   "at": "s:145.3333"
+  },
+  {
+   "shot": "B16",
+   "at": "s:148.7667"
+  },
+  {
+   "shot": "B17",
+   "at": "s:150.1333"
+  },
+  {
+   "shot": "B18",
+   "at": "s:154.1000"
+  },
+  {
+   "shot": "B19",
+   "at": "s:155.8667"
+  },
+  {
+   "shot": "B20",
+   "at": "s:157.0333"
+  },
+  {
+   "shot": "B21",
+   "at": "s:160.7000"
+  },
+  {
+   "shot": "B22",
+   "at": "s:164.0000"
+  },
+  {
+   "shot": "B23",
+   "at": "s:166.7667"
+  },
+  {
+   "shot": "B24",
+   "at": "s:168.9667"
+  },
+  {
+   "shot": "B25",
+   "at": "s:171.9333"
+  },
+  {
+   "shot": "B26",
+   "at": "s:175.0333"
+  },
+  {
+   "shot": "B27",
+   "at": "s:177.7000"
+  },
+  {
+   "shot": "B28",
+   "at": "s:180.5667"
+  },
+  {
+   "shot": "B29",
+   "at": "s:182.7667"
+  },
+  {
+   "shot": "B30",
+   "at": "s:184.2333"
+  },
+  {
+   "shot": "B31",
+   "at": "s:187.2333"
+  },
+  {
+   "shot": "B32",
+   "at": "s:192.3667"
+  },
+  {
+   "shot": "C1",
+   "at": "s:194.4000"
+  },
+  {
+   "shot": "C2",
+   "at": "s:197.9000"
+  },
+  {
+   "shot": "C3",
+   "at": "s:200.9667"
+  },
+  {
+   "shot": "C4",
+   "at": "s:204.1000"
+  },
+  {
+   "shot": "C5",
+   "at": "s:205.8000"
+  },
+  {
+   "shot": "C6",
+   "at": "s:210.0667"
+  },
+  {
+   "shot": "C7",
+   "at": "s:212.8333"
+  },
+  {
+   "shot": "C8",
+   "at": "s:214.7667"
+  },
+  {
+   "shot": "C9",
+   "at": "s:217.8333"
+  },
+  {
+   "shot": "C10",
+   "at": "s:219.8667"
+  },
+  {
+   "shot": "C11",
+   "at": "s:222.6333"
+  },
+  {
+   "shot": "C12",
+   "at": "s:224.8667"
+  },
+  {
+   "shot": "C13",
+   "at": "s:226.9333"
+  },
+  {
+   "shot": "C14",
+   "at": "s:229.8667"
+  },
+  {
+   "shot": "C15",
+   "at": "s:232.2667"
+  },
+  {
+   "shot": "C16",
+   "at": "s:237.0000"
+  },
+  {
+   "shot": "C17",
+   "at": "s:238.2333"
+  },
+  {
+   "shot": "C18",
+   "at": "s:241.8333"
+  },
+  {
+   "shot": "C19",
+   "at": "s:243.1333"
+  },
+  {
+   "shot": "C20",
+   "at": "s:248.0667"
+  },
+  {
+   "shot": "C21",
+   "at": "s:250.5000"
+  },
+  {
+   "shot": "C22",
+   "at": "s:252.7667"
+  },
+  {
+   "shot": "C23",
+   "at": "s:255.4000"
+  },
+  {
+   "shot": "C24",
+   "at": "s:257.6667"
+  },
+  {
+   "shot": "C25",
+   "at": "s:260.4000"
+  },
+  {
+   "shot": "C26",
+   "at": "s:262.9000"
+  },
+  {
+   "shot": "C27",
+   "at": "s:265.2000"
+  },
+  {
+   "shot": "C28",
+   "at": "s:267.7333"
+  },
+  {
+   "shot": "C29",
+   "at": "s:271.9333"
+  },
+  {
+   "shot": "C30",
+   "at": "s:273.5667"
+  },
+  {
+   "shot": "C31",
+   "at": "s:275.8667"
+  },
+  {
+   "shot": "C32",
+   "at": "s:279.2000"
+  },
+  {
+   "shot": "C33",
+   "at": "s:280.7667"
+  },
+  {
+   "shot": "C34",
+   "at": "s:283.1000"
+  },
+  {
+   "shot": "C35",
+   "at": "s:286.2667"
+  },
+  {
+   "shot": "C36",
+   "at": "s:289.3333"
+  },
+  {
+   "shot": "C37",
+   "at": "s:292.8667"
+  },
+  {
+   "shot": "C38",
+   "at": "s:295.5000"
+  },
+  {
+   "shot": "C39",
+   "at": "s:297.6667"
+  },
+  {
+   "shot": "C40",
+   "at": "s:300.2667"
+  },
+  {
+   "shot": "C41",
+   "at": "s:304.2000"
+  },
+  {
+   "shot": "C42",
+   "at": "s:305.5000"
+  },
+  {
+   "shot": "C43",
+   "at": "s:309.0667"
+  },
+  {
+   "shot": "C44",
+   "at": "s:310.3000"
+  },
+  {
+   "shot": "C45",
+   "at": "s:312.8667"
+  },
+  {
+   "shot": "C46",
+   "at": "s:315.9333"
+  },
+  {
+   "shot": "C47",
+   "at": "s:319.8000"
+  },
+  {
+   "shot": "C48",
+   "at": "s:321.8667"
+  },
+  {
+   "shot": "C49",
+   "at": "s:324.9667"
+  },
+  {
+   "shot": "C50",
+   "at": "s:328.6667"
+  },
+  {
+   "shot": "C51",
+   "at": "s:331.0667"
+  },
+  {
+   "shot": "C52",
+   "at": "s:333.1333"
+  },
+  {
+   "shot": "C53",
+   "at": "s:334.5000"
+  },
+  {
+   "shot": "D1",
+   "at": "s:338.0667"
+  },
+  {
+   "shot": "D2",
+   "at": "s:340.3667"
+  },
+  {
+   "shot": "D3",
+   "at": "s:342.4000"
+  },
+  {
+   "shot": "D4",
+   "at": "s:345.4333"
+  },
+  {
+   "shot": "D5",
+   "at": "s:349.5333"
+  },
+  {
+   "shot": "D6",
+   "at": "s:352.1667"
+  },
+  {
+   "shot": "D7",
+   "at": "s:354.2000"
+  },
+  {
+   "shot": "D8",
+   "at": "s:356.5667"
+  },
+  {
+   "shot": "D9",
+   "at": "s:358.9000"
+  },
+  {
+   "shot": "D10",
+   "at": "s:361.0667"
+  },
+  {
+   "shot": "D11",
+   "at": "s:362.7333"
+  },
+  {
+   "shot": "D12",
+   "at": "s:365.4667"
+  },
+  {
+   "shot": "D13",
+   "at": "s:368.9333"
+  },
+  {
+   "shot": "D14",
+   "at": "s:372.4667"
+  },
+  {
+   "shot": "D15",
+   "at": "s:374.9333"
+  },
+  {
+   "shot": "D16",
+   "at": "s:378.0667"
+  },
+  {
+   "shot": "D17",
+   "at": "s:381.6667"
+  },
+  {
+   "shot": "D18",
+   "at": "s:383.8333"
+  },
+  {
+   "shot": "D19",
+   "at": "s:387.6667"
+  },
+  {
+   "shot": "D20",
+   "at": "s:389.6000"
+  },
+  {
+   "shot": "D21",
+   "at": "s:392.7333"
+  },
+  {
+   "shot": "D22",
+   "at": "s:393.7667"
+  },
+  {
+   "shot": "D23",
+   "at": "s:397.6667"
+  },
+  {
+   "shot": "D24",
+   "at": "s:401.1667"
+  },
+  {
+   "shot": "D25",
+   "at": "s:403.0000"
+  },
+  {
+   "shot": "D26",
+   "at": "s:404.9667"
+  },
+  {
+   "shot": "D27",
+   "at": "s:407.2000"
+  },
+  {
+   "shot": "D28",
+   "at": "s:411.1667"
+  },
+  {
+   "shot": "D29",
+   "at": "s:413.4667"
+  },
+  {
+   "shot": "D30",
+   "at": "s:415.5667"
+  },
+  {
+   "shot": "D31",
+   "at": "s:417.9667"
+  },
+  {
+   "shot": "D32",
+   "at": "s:420.7667"
+  },
+  {
+   "shot": "D33",
+   "at": "s:424.2667"
+  },
+  {
+   "shot": "E1",
+   "at": "s:427.0333"
+  },
+  {
+   "shot": "E2",
+   "at": "s:432.1000"
+  },
+  {
+   "shot": "E3",
+   "at": "s:434.2333"
+  },
+  {
+   "shot": "E4",
+   "at": "s:437.3667"
+  },
+  {
+   "shot": "E5",
+   "at": "s:440.6667"
+  },
+  {
+   "shot": "E6",
+   "at": "s:442.2333"
+  },
+  {
+   "shot": "E7",
+   "at": "s:445.1667"
+  },
+  {
+   "shot": "E8",
+   "at": "s:446.8667"
+  },
+  {
+   "shot": "E9",
+   "at": "s:448.3333"
+  },
+  {
+   "shot": "E10",
+   "at": "s:451.8000"
+  },
+  {
+   "shot": "E11",
+   "at": "s:455.9667"
+  },
+  {
+   "shot": "E12",
+   "at": "s:458.9333"
+  },
+  {
+   "shot": "E13",
+   "at": "s:460.7333"
+  },
+  {
+   "shot": "E14",
+   "at": "s:462.9000"
+  },
+  {
+   "shot": "E15",
+   "at": "s:466.2667"
+  },
+  {
+   "shot": "E16",
+   "at": "s:470.2333"
+  },
+  {
+   "shot": "E17",
+   "at": "s:471.8333"
+  },
+  {
+   "shot": "E18",
+   "at": "s:477.5667"
+  },
+  {
+   "shot": "E19",
+   "at": "s:479.6000"
+  },
+  {
+   "shot": "E20",
+   "at": "s:481.4667"
+  },
+  {
+   "shot": "E21",
+   "at": "s:483.8333"
+  },
+  {
+   "shot": "E22",
+   "at": "s:487.0667"
+  },
+  {
+   "shot": "E23",
+   "at": "s:488.2000"
+  },
+  {
+   "shot": "E24",
+   "at": "s:491.7667"
+  },
+  {
+   "shot": "E25",
+   "at": "s:493.8667"
+  },
+  {
+   "shot": "E26",
+   "at": "s:497.4667"
+  },
+  {
+   "shot": "E27",
+   "at": "s:500.2333"
+  },
+  {
+   "shot": "E28",
+   "at": "s:504.3667"
+  },
+  {
+   "shot": "E29",
+   "at": "s:507.1667"
+  },
+  {
+   "shot": "E30",
+   "at": "s:509.6000"
+  },
+  {
+   "shot": "E31",
+   "at": "s:512.0000"
+  },
+  {
+   "shot": "E32",
+   "at": "s:514.7667"
+  },
+  {
+   "shot": "E33",
+   "at": "s:517.0333"
+  },
+  {
+   "shot": "E34",
+   "at": "s:521.0000"
+  },
+  {
+   "shot": "E35",
+   "at": "s:524.5000"
+  },
+  {
+   "shot": "E36",
+   "at": "s:527.4333"
+  },
+  {
+   "shot": "F1",
+   "at": "s:530.9000"
+  },
+  {
+   "shot": "F2",
+   "at": "s:532.3000"
+  },
+  {
+   "shot": "F3",
+   "at": "s:535.2667"
+  },
+  {
+   "shot": "F4",
+   "at": "s:536.4333"
+  },
+  {
+   "shot": "F5",
+   "at": "s:540.4667"
+  },
+  {
+   "shot": "F6",
+   "at": "s:541.8000"
+  },
+  {
+   "shot": "F7",
+   "at": "s:545.8667"
+  },
+  {
+   "shot": "F8",
+   "at": "s:549.6333"
+  },
+  {
+   "shot": "F9",
+   "at": "s:553.7000"
+  },
+  {
+   "shot": "F10",
+   "at": "s:558.0000"
+  },
+  {
+   "shot": "F11",
+   "at": "s:560.0667"
+  },
+  {
+   "shot": "F12",
+   "at": "s:562.1667"
+  },
+  {
+   "shot": "F13",
+   "at": "s:563.5333"
+  },
+  {
+   "shot": "F14",
+   "at": "s:566.5333"
+  },
+  {
+   "shot": "F15",
+   "at": "s:569.3667"
+  },
+  {
+   "shot": "F16",
+   "at": "s:571.6000"
+  },
+  {
+   "shot": "F17",
+   "at": "s:573.7333"
+  },
+  {
+   "shot": "F18",
+   "at": "s:576.5000"
+  },
+  {
+   "shot": "F19",
+   "at": "s:578.9333"
+  },
+  {
+   "shot": "F20",
+   "at": "s:581.1000"
+  },
+  {
+   "shot": "F21",
+   "at": "s:582.2000"
+  },
+  {
+   "shot": "F22",
+   "at": "s:589.2667"
+  },
+  {
+   "shot": "F23",
+   "at": "s:591.6333"
+  },
+  {
+   "shot": "F24",
+   "at": "s:593.8333"
+  },
+  {
+   "shot": "F25",
+   "at": "s:598.7000"
+  }
+ ],
+ "fx": [
+  {
+   "at": "A3+11",
+   "kind": "shake",
+   "amp": 9,
+   "len": 9
+  },
+  {
+   "at": "C23+11",
+   "kind": "shake",
+   "amp": 9,
+   "len": 9
+  },
+  {
+   "at": "D24+11",
+   "kind": "shake",
+   "amp": 9,
+   "len": 9
+  },
+  {
+   "at": "E34+11",
+   "kind": "shake",
+   "amp": 9,
+   "len": 9
+  }
+ ]
+}

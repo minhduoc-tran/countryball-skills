@@ -1,0 +1,575 @@
+{
+"chapter": "b",
+"shots": [
+{
+"id": "B1",
+"file": "shots-chb-tay-nguyen",
+"size": "wide",
+"set": "map",
+"key": 60,
+"note": "Tay Nguyen 03.1975"
+},
+{
+"id": "B2",
+"file": "shots-chb-tay-nguyen",
+"size": "wide",
+"set": "map",
+"key": 80,
+"note": "10.03 attack on Buon Ma Thuot"
+},
+{
+"id": "B3",
+"file": "shots-chb-tay-nguyen",
+"size": "wide",
+"set": "map",
+"key": 60,
+"note": "11.03 town changes hands + CMH map"
+},
+{
+"id": "B4",
+"file": "shots-chb-tay-nguyen",
+"size": "wide",
+"set": "card",
+"key": 50,
+"note": "Thieu name card, order to withdraw"
+},
+{
+"id": "B5",
+"file": "shots-chb-tay-nguyen",
+"size": "wide",
+"set": "map",
+"key": 45,
+"note": "yellow arrow to the coast"
+},
+{
+"id": "B6",
+"file": "shots-chb-tay-nguyen",
+"size": "wide",
+"set": "map",
+"key": 60,
+"note": "route 7 column"
+},
+{
+"id": "B7",
+"file": "shots-chb-tay-nguyen",
+"size": "wide",
+"set": "map",
+"key": 80,
+"note": "soldiers + civilians one narrow road"
+},
+{
+"id": "B8",
+"file": "shots-chb-coast-and-decision",
+"size": "wide",
+"set": "card",
+"key": 70,
+"note": "calendar 11 -> 26.03, faster than predicted"
+},
+{
+"id": "B9",
+"file": "shots-chb-coast-and-decision",
+"size": "wide",
+"set": "map",
+"key": 60,
+"note": "26.03 Hue flag"
+},
+{
+"id": "B10",
+"file": "shots-chb-coast-and-decision",
+"size": "wide",
+"set": "map",
+"key": 80,
+"note": "29.03 Da Nang flag, second largest city"
+},
+{
+"id": "B11",
+"file": "shots-chb-coast-and-decision",
+"size": "wide",
+"set": "photo",
+"key": 60,
+"note": "ships south, Pioneer Contender photo"
+},
+{
+"id": "B12",
+"file": "shots-chb-coast-and-decision",
+"size": "wide",
+"set": "map",
+"key": 50,
+"note": "Ha Noi Bo Chinh tri -> Sai Gon"
+},
+{
+"id": "B13",
+"file": "shots-chb-coast-and-decision",
+"size": "wide",
+"set": "card",
+"key": 60,
+"note": "before rainy season, few weeks"
+},
+{
+"id": "B14",
+"file": "shots-chb-coast-and-decision",
+"size": "wide",
+"set": "card",
+"key": 110,
+"note": "14.04 calendar, mystery name tag"
+},
+{
+"id": "B15",
+"file": "shots-chb-coast-and-decision",
+"size": "wide",
+"set": "card",
+"key": 50,
+"note": "title CHIEN DICH HO CHI MINH"
+},
+{
+"id": "B16",
+"file": "shots-chb-xuan-loc",
+"size": "wide",
+"set": "map",
+"key": 60,
+"note": "steel door at Xuan Loc"
+},
+{
+"id": "B17",
+"file": "shots-chb-xuan-loc",
+"size": "wide",
+"set": "map",
+"key": 60,
+"note": "about 80 km on QL1"
+},
+{
+"id": "B18",
+"file": "shots-chb-xuan-loc",
+"size": "wide",
+"set": "map",
+"key": 60,
+"note": "Su doan 18 + RVN ball"
+},
+{
+"id": "B19",
+"file": "shots-chb-xuan-loc",
+"size": "wide",
+"set": "card",
+"key": 40,
+"note": "Le Minh Dao name card"
+},
+{
+"id": "B20",
+"file": "shots-chb-xuan-loc",
+"size": "wide",
+"set": "map",
+"key": 70,
+"note": "artillery both ways 09.04-20.04"
+},
+{
+"id": "B21",
+"file": "shots-chb-xuan-loc",
+"size": "wide",
+"set": "photo",
+"key": 45,
+"note": "last big battle, CMH map card"
+},
+{
+"id": "B22",
+"file": "shots-chb-xuan-loc",
+"size": "wide",
+"set": "card",
+"key": 45,
+"note": "two sad balls, candles"
+},
+{
+"id": "B23",
+"file": "shots-chb-xuan-loc",
+"size": "wide",
+"set": "map",
+"key": 60,
+"note": "night 20->21.04"
+},
+{
+"id": "B24",
+"file": "shots-chb-xuan-loc",
+"size": "wide",
+"set": "map",
+"key": 45,
+"note": "RVN withdraws, yellow arrow"
+},
+{
+"id": "B25",
+"file": "shots-chb-xuan-loc",
+"size": "wide",
+"set": "map",
+"key": 55,
+"note": "east door opens"
+},
+{
+"id": "B26",
+"file": "shots-chb-phan-rang-south",
+"size": "wide",
+"set": "map",
+"key": 50,
+"note": "meanwhile central coast"
+},
+{
+"id": "B27",
+"file": "shots-chb-phan-rang-south",
+"size": "wide",
+"set": "map",
+"key": 95,
+"note": "Phan Rang line broken 16.04"
+},
+{
+"id": "B28",
+"file": "shots-chb-phan-rang-south",
+"size": "wide",
+"set": "map",
+"key": 70,
+"note": "divisions march south day and night"
+},
+{
+"id": "B29",
+"file": "shots-chb-phan-rang-south",
+"size": "wide",
+"set": "card",
+"key": 80,
+"note": "truck, captured vehicle, ship tiles"
+},
+{
+"id": "B30",
+"file": "shots-chb-phan-rang-south",
+"size": "wide",
+"set": "map",
+"key": 45,
+"note": "arrows converge on Sai Gon"
+}
+],
+"edit": [
+{
+"shot": "B1",
+"at": "s:84.08"
+},
+{
+"shot": "B2",
+"at": "s:87.31"
+},
+{
+"shot": "B3",
+"at": "s:91.02"
+},
+{
+"shot": "B4",
+"at": "s:93.77"
+},
+{
+"shot": "B5",
+"at": "s:95.89"
+},
+{
+"shot": "B6",
+"at": "s:97.75"
+},
+{
+"shot": "B7",
+"at": "s:100.37"
+},
+{
+"shot": "B8",
+"at": "s:104.11"
+},
+{
+"shot": "B9",
+"at": "s:107.63"
+},
+{
+"shot": "B10",
+"at": "s:110.35"
+},
+{
+"shot": "B11",
+"at": "s:114.27"
+},
+{
+"shot": "B12",
+"at": "s:116.89"
+},
+{
+"shot": "B13",
+"at": "s:119.42"
+},
+{
+"shot": "B14",
+"at": "s:121.71"
+},
+{
+"shot": "B15",
+"at": "s:126.63"
+},
+{
+"shot": "B16",
+"at": "s:128.91"
+},
+{
+"shot": "B17",
+"at": "s:131.73"
+},
+{
+"shot": "B18",
+"at": "s:134.73"
+},
+{
+"shot": "B19",
+"at": "s:137.55"
+},
+{
+"shot": "B20",
+"at": "s:139.60"
+},
+{
+"shot": "B21",
+"at": "s:142.19"
+},
+{
+"shot": "B22",
+"at": "s:144.44"
+},
+{
+"shot": "B23",
+"at": "s:146.81"
+},
+{
+"shot": "B24",
+"at": "s:149.29"
+},
+{
+"shot": "B25",
+"at": "s:151.45"
+},
+{
+"shot": "B26",
+"at": "s:153.55"
+},
+{
+"shot": "B27",
+"at": "s:155.90"
+},
+{
+"shot": "B28",
+"at": "s:159.84"
+},
+{
+"shot": "B29",
+"at": "s:163.48"
+},
+{
+"shot": "B30",
+"at": "s:166.87"
+}
+],
+"events": [
+[
+"B2+24",
+"bomb_far",
+0.07
+],
+[
+"B3+27",
+"pop",
+0.12
+],
+[
+"B4+4",
+"paper_land",
+0.12
+],
+[
+"B5+2",
+"swoosh",
+0.08
+],
+[
+"B6+2",
+"drone_buzz",
+0.05,
+"onset",
+"B8"
+],
+[
+"B9+27",
+"pop",
+0.12
+],
+[
+"B10+27",
+"pop",
+0.12
+],
+[
+"B11",
+"sea_waves",
+0.07,
+"onset",
+"B12"
+],
+[
+"B11+3",
+"paper_land",
+0.12
+],
+[
+"B12+9",
+"ding",
+0.08
+],
+[
+"B13",
+"rain",
+0.05,
+"onset",
+"B14"
+],
+[
+"B14+5",
+"swoosh",
+0.08
+],
+[
+"B14+95",
+"ting",
+0.1
+],
+[
+"B15",
+"title_boom",
+0.16
+],
+[
+"B16+10",
+"swoosh",
+0.06
+],
+[
+"B18+14",
+"swoosh",
+0.06
+],
+[
+"B19+3",
+"paper_land",
+0.12
+],
+[
+"B21+3",
+"paper_land",
+0.12
+],
+[
+"B22",
+"room_tone",
+0.06,
+"onset",
+"B24"
+],
+[
+"B24+6",
+"swoosh",
+0.06
+],
+[
+"B25+9",
+"crack",
+0.07
+],
+[
+"B26",
+"sea_waves",
+0.06,
+"onset",
+"B27"
+],
+[
+"B27+40",
+"bomb_far",
+0.06
+],
+[
+"B27+57",
+"crack",
+0.07
+],
+[
+"B27+81",
+"pop",
+0.12
+],
+[
+"B28",
+"drone_buzz",
+0.05,
+"onset",
+"B29"
+],
+[
+"B29+28",
+"pop",
+0.12
+],
+[
+"B29+50",
+"pop",
+0.12
+],
+[
+"B29+75",
+"pop",
+0.12
+],
+[
+"B30",
+"swoosh",
+0.08
+]
+],
+"repeats": [
+{
+"at": "B8+6",
+"clip": "counter_tick",
+"n": 14,
+"every": 4,
+"gain": [
+0.05,
+0.07
+],
+"pitch": [
+0.95,
+1.2
+]
+},
+{
+"at": "B20+6",
+"clip": "bomb_far",
+"n": 5,
+"every": 14,
+"gain": [
+0.05,
+0.08
+],
+"pitch": [
+0.9,
+1.1
+]
+}
+],
+"fx": [
+{
+"at": "B15",
+"kind": "flash",
+"color": "#FFF3DC",
+"o": 0.25
+},
+{
+"at": "B27+57",
+"kind": "shake",
+"len": 8,
+"amp": 5
+}
+]
+}

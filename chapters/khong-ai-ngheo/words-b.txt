@@ -1,0 +1,15 @@
+# chapter B: beats 8-10. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "3 fun: children"  49.39-63.56 s
+# Thay đổi đầu tiên là trẻ em. Năm hai nghìn không trăm hai mươi hai, gần năm triệu trẻ em trên thế giới mất trước sinh nhật năm tuổi, phần lớn vì những bệnh chữa được. Viêm phổi. Tiêu chảy. Sốt rét. Trong thế giới mới, một vỉ thuốc không còn là thứ xa xỉ.
+Thay@49.32 đổi@49.52 đầu@49.69 tiên@49.92 là@50.12 trẻ@50.24 em.@50.41 Năm@51.08 hai@51.24 nghìn@51.39 không@51.62 trăm@51.91 hai@52.10 mươi@52.26 hai,@52.45 gần@52.90 năm@53.06 triệu@53.22 trẻ@53.45 em@53.61 trên@53.73 thế@53.92 giới@54.08 mất@54.27 trước@54.43 sinh@54.88 nhật@55.07 năm@55.33 tuổi,@55.49 phần@55.98 lớn@56.18 vì@56.34 những@56.75 bệnh@56.98 chữa@57.17 được.@57.37 Viêm@57.99 phổi.@58.24 Tiêu@58.82 chảy.@59.02 Sốt@59.57 rét.@59.77 Trong@60.28 thế@60.51 giới@60.68 mới,@60.88 một@61.34 vỉ@61.53 thuốc@61.69 không@62.29 còn@62.57 là@62.84 thứ@62.99 xa@63.19 xỉ.@63.34
+
+## beat "3 fun: world"  63.97-79.16 s
+# Khắp thế giới, những thứ nhỏ bé bắt đầu thay đổi. Một bóng đèn sáng lên trong căn nhà chưa từng có điện. Ngày nay, gần bảy trăm triệu người vẫn sống không có điện. Một chiếc cặp sách cho đứa trẻ chưa từng tới lớp. Khoảng hai trăm năm mươi triệu trẻ em vẫn đang không được đi học. Đó là thật.
+Khắp@63.90 thế@64.18 giới,@64.32 những@64.79 thứ@65.02 nhỏ@65.18 bé@65.34 bắt@65.46 đầu@65.62 thay@65.78 đổi.@65.97 Một@66.50 bóng@66.67 đèn@66.89 sáng@67.06 lên@67.28 trong@67.45 căn@67.70 nhà@67.88 chưa@68.05 từng@68.48 có@68.69 điện.@68.83 Ngày@69.35 nay,@69.57 gần@70.05 bảy@70.21 trăm@70.37 triệu@70.57 người@70.81 vẫn@71.04 sống@71.20 không@71.40 có@71.64 điện.@71.76 Một@72.47 chiếc@72.64 cặp@72.87 sách@73.04 cho@73.36 đứa@73.53 trẻ@73.69 chưa@73.86 từng@74.23 tới@74.43 lớp.@74.60 Khoảng@75.31 hai@75.58 trăm@75.74 năm@75.93 mươi@76.09 triệu@76.28 trẻ@76.51 em@76.67 vẫn@76.80 đang@77.33 không@77.52 được@77.75 đi@77.95 học.@78.07 Đó@78.68 là@78.78 thật.@78.87
+
+## beat "3 fun: mind"  79.49-96.56 s
+# Rồi đến cái đầu. Các nhà khoa học theo dõi những nông dân trồng mía ở Ấn Độ. Trước mùa thu hoạch, khi túi gần rỗng, họ làm bài kiểm tra trí tuệ kém hẳn. Sau mùa thu hoạch, khi đã có tiền, cùng những người đó làm tốt hơn. Nỗi lo tiền bạc chiếm chỗ trong đầu, giống như mất trắng một đêm ngủ. Đó là thật.
+Rồi@79.43 đến@79.59 cái@79.75 đầu.@79.91 Các@80.54 nhà@80.70 khoa@80.87 học@81.07 theo@81.55 dõi@81.75 những@81.92 nông@82.15 dân@82.35 trồng@82.52 mía@82.76 ở@83.15 Ấn@83.24 Độ.@83.37 Trước@84.00 mùa@84.20 thu@84.34 hoạch,@84.48 khi@84.98 túi@85.16 gần@85.34 rỗng,@85.52 họ@86.04 làm@86.17 bài@86.35 kiểm@86.61 tra@86.82 trí@87.00 tuệ@87.30 kém@87.47 hẳn.@87.74 Sau@88.28 mùa@88.44 thu@88.59 hoạch,@88.75 khi@89.28 đã@89.43 có@89.56 tiền,@89.76 cùng@90.25 những@90.47 người@90.72 đó@90.98 làm@91.12 tốt@91.29 hơn.@91.47 Nỗi@92.15 lo@92.32 tiền@92.45 bạc@92.66 chiếm@92.83 chỗ@93.22 trong@93.39 đầu,@93.64 giống@94.11 như@94.35 mất@94.52 trắng@94.80 một@95.04 đêm@95.21 ngủ.@95.38 Đó@96.06 là@96.18 thật.@96.31
+
+# chapter ends at s:96.97 (next chapter's first cut, or the episode end)

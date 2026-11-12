@@ -1,0 +1,51 @@
+# chapter A: beats 0-11. Cue = word start - 2 frames (use as "s:<cue>" in edit).
+
+## beat "0 cold open, demo 1"  0.01-2.53 s
+# Cả hộp bánh, không ai giành. Chỉ còn mình bạn.
+Cả@0.00 hộp@0.09 bánh,@0.28 không@0.80 ai@1.03 giành.@1.16 Chỉ@1.83 còn@1.98 mình@2.13 bạn.@2.31
+
+## beat "0 cold open, demo 2"  3.02-5.76 s
+# Lớp học không thầy, không kiểm tra. Chỉ còn mình bạn.
+Lớp@2.95 học@3.10 không@3.33 thầy,@3.54 không@4.01 kiểm@4.25 tra.@4.44 Chỉ@5.03 còn@5.19 mình@5.35 bạn.@5.54
+
+## beat "0 cold open, demo 3"  6.15-8.14 s
+# Gọi cho bạn thân. Không ai bắt máy.
+Gọi@6.08 cho@6.25 bạn@6.42 thân.@6.60 Không@7.32 ai@7.58 bắt@7.72 máy.@7.90
+
+## beat "0 title"  8.51-10.69 s
+# Sẽ ra sao nếu thế giới chỉ còn mình bạn?
+Sẽ@8.44 ra@8.59 sao@8.73 nếu@8.91 thế@9.44 giới@9.62 chỉ@9.85 còn@10.03 mình@10.21 bạn?@10.44
+
+## beat "1 morning: alarm"  11.69-15.99 s
+# Bảy giờ sáng. Chuông báo thức reo. Bạn nằm chờ tiếng mẹ gọi dậy, như mọi ngày.
+Bảy@11.62 giờ@11.85 sáng.@12.07 Chuông@12.67 báo@12.92 thức@13.08 reo.@13.27 Bạn@13.85 nằm@14.02 chờ@14.19 tiếng@14.36 mẹ@14.60 gọi@14.73 dậy,@14.91 như@15.38 mọi@15.55 ngày.@15.72
+
+## beat "1 morning: silence"  16.54-22.92 s
+# Nhưng hôm nay, không ai gọi cả. Cả nhà im phăng phắc. Không tiếng xe máy, không tiếng loa phường, không cả tiếng chó sủa.
+Nhưng@16.48 hôm@16.69 nay,@16.84 không@17.29 ai@17.52 gọi@17.65 cả.@17.82 Cả@18.47 nhà@18.58 im@18.73 phăng@18.84 phắc.@19.06 Không@19.79 tiếng@20.02 xe@20.26 máy,@20.38 không@20.85 tiếng@21.05 loa@21.26 phường,@21.40 không@21.94 cả@22.17 tiếng@22.30 chó@22.53 sủa.@22.69
+
+## beat "1 morning: kitchen"  23.27-28.12 s
+# Dưới bếp, bữa sáng vẫn nằm trên bàn. Ấm nước vẫn còn ấm. Nhưng mẹ không có ở đó.
+Dưới@23.20 bếp,@23.38 bữa@23.83 sáng@24.02 vẫn@24.26 nằm@24.45 trên@24.64 bàn.@24.87 Ấm@25.53 nước@25.67 vẫn@26.01 còn@26.19 ấm.@26.37 Nhưng@26.94 mẹ@27.20 không@27.41 có@27.67 ở@27.81 đó.@27.91
+
+## beat "1 morning: calls"  28.49-33.53 s
+# Bạn gọi cho mẹ. Gọi cho bố. Gọi cho em gái. Điện thoại cứ đổ chuông, rồi tắt.
+Bạn@28.42 gọi@28.61 cho@28.79 mẹ.@28.98 Gọi@29.56 cho@29.80 bố.@30.04 Gọi@30.50 cho@30.71 em@30.92 gái.@31.08 Điện@31.71 thoại@31.92 cứ@32.28 đổ@32.42 chuông,@32.55 rồi@33.14 tắt.@33.30
+
+## beat "1 morning: feed"  34.02-42.59 s
+# Bạn mở mạng xã hội. Bài đăng mới nhất là lúc ba giờ sáng. Sau đó, không có gì nữa. Không một bài mới, không một bình luận, không một dòng tin nhắn.
+Bạn@33.95 mở@34.15 mạng@34.30 xã@34.54 hội.@34.70 Bài@35.21 đăng@35.38 mới@35.58 nhất@35.74 là@36.46 lúc@36.70 ba@36.87 giờ@36.99 sáng.@37.16 Sau@37.88 đó,@38.15 không@38.66 có@38.91 gì@39.05 nữa.@39.18 Không@39.81 một@40.04 bài@40.19 mới,@40.35 không@40.80 một@40.97 bình@41.08 luận,@41.22 không@41.66 một@41.88 dòng@42.02 tin@42.20 nhắn.@42.35
+
+## beat "1 morning: street"  42.97-52.89 s
+# Bạn chạy xuống cầu thang, lao ra đường. Con đường mọi khi kẹt cứng, giờ trống trơn. Xe máy dựng giữa đường, chìa khóa vẫn cắm. Đèn giao thông vẫn nhảy xanh, nhảy đỏ, cho không một ai.
+Bạn@42.90 chạy@43.07 xuống@43.27 cầu@43.51 thang,@43.68 lao@44.21 ra@44.39 đường.@44.52 Con@45.12 đường@45.27 mọi@45.50 khi@45.65 kẹt@45.81 cứng,@46.07 giờ@46.56 trống@46.76 trơn.@47.05 Xe@47.57 máy@47.70 dựng@47.86 giữa@48.07 đường,@48.27 chìa@48.81 khóa@49.02 vẫn@49.24 cắm.@49.41 Đèn@49.92 giao@50.09 thông@50.29 vẫn@50.53 nhảy@50.70 xanh,@50.91 nhảy@51.39 đỏ,@51.65 cho@52.11 không@52.26 một@52.48 ai.@52.70
+
+## beat "1 morning: market"  53.30-63.91 s
+# Bạn đi về phía chợ. Các sạp hàng vẫn bày đầy rau, đầy cá. Chiếc xe buýt số chín đỗ ở trạm, cửa mở, động cơ đã nguội. Bạn gọi to: có ai không? Chỉ có tiếng vọng trả lời.
+Bạn@53.23 đi@53.40 về@53.53 phía@53.67 chợ.@53.88 Các@54.41 sạp@54.61 hàng@54.81 vẫn@55.05 bày@55.25 đầy@55.45 rau,@55.65 đầy@56.15 cá.@56.46 Chiếc@57.04 xe@57.30 buýt@57.44 số@57.66 chín@57.79 đỗ@58.01 ở@58.15 trạm,@58.25 cửa@58.77 mở,@59.01 động@59.50 cơ@59.70 đã@59.83 nguội.@59.96 Bạn@60.68 gọi@60.90 to:@61.20 có@61.73 ai@61.86 không?@61.98 Chỉ@62.73 có@62.89 tiếng@63.09 vọng@63.32 trả@63.52 lời.@63.68
+
+## beat "2 premise and rule"  64.46-69.51 s
+# Hơn tám tỷ người, biến mất sau một đêm. Không tiếng động, không dấu vết. Chỉ còn mình bạn.
+Hơn@64.39 tám@64.60 tỷ@64.92 người,@65.08 biến@65.68 mất@65.89 sau@66.27 một@66.44 đêm.@66.61 Không@67.17 tiếng@67.32 động,@67.48 không@67.90 dấu@68.10 vết.@68.24 Chỉ@68.83 còn@68.98 mình@69.12 bạn.@69.30
+
+# chapter ends at s:70.44 (next chapter's first cut, or the episode end)

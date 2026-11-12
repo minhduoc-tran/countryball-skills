@@ -1,0 +1,475 @@
+{
+ "chapter": "g",
+ "shots": [
+  {
+   "id": "G1",
+   "file": "shots-chg-tallies",
+   "size": "wide",
+   "set": "map",
+   "key": 40,
+   "note": "title: NHÌN LẠI NHỮNG CON SỐ over dim map"
+  },
+  {
+   "id": "G2",
+   "file": "shots-chg-tallies",
+   "size": "wide",
+   "set": "map",
+   "key": 70,
+   "note": "12 night chips, B-52 cell crosses"
+  },
+  {
+   "id": "G3",
+   "file": "shots-chg-tallies",
+   "size": "wide",
+   "set": "card",
+   "key": 50,
+   "note": "729 count-up, B-52 cells fly past"
+  },
+  {
+   "id": "G4",
+   "file": "shots-chg-tallies",
+   "size": "wide",
+   "set": "map",
+   "key": 85,
+   "note": "night map north VN, bomb carpets, 20.000+ tons counter"
+  },
+  {
+   "id": "G5",
+   "file": "shots-chg-tallies",
+   "size": "wide",
+   "set": "card",
+   "key": 100,
+   "note": "VNM vs USA ball, two ? cards, not-equal sign"
+  },
+  {
+   "id": "G6",
+   "file": "shots-chg-tallies",
+   "size": "wide",
+   "set": "card",
+   "key": 95,
+   "note": "VN column: 81 máy bay"
+  },
+  {
+   "id": "G7",
+   "file": "shots-chg-tallies",
+   "size": "wide",
+   "set": "card",
+   "key": 80,
+   "note": "VN column: 34 B-52 icons"
+  },
+  {
+   "id": "G8",
+   "file": "shots-chg-tallies",
+   "size": "wide",
+   "set": "card",
+   "key": 100,
+   "note": "US column: 15 B-52"
+  },
+  {
+   "id": "G9",
+   "file": "shots-chg-tallies",
+   "size": "wide",
+   "set": "card",
+   "key": 75,
+   "note": "US column: ~12 tactical aircraft"
+  },
+  {
+   "id": "G10",
+   "file": "shots-chg-tallies",
+   "size": "wide",
+   "set": "card",
+   "key": 45,
+   "note": "both columns, each side counts its own way"
+  },
+  {
+   "id": "G11",
+   "file": "shots-chg-tallies",
+   "size": "wide",
+   "set": "card",
+   "key": 60,
+   "note": "balls agree: both sides admit"
+  },
+  {
+   "id": "G12",
+   "file": "shots-chg-tallies",
+   "size": "wide",
+   "set": "card",
+   "key": 100,
+   "note": "never lost so many B-52 card"
+  },
+  {
+   "id": "G13",
+   "file": "shots-chg-tallies",
+   "size": "wide",
+   "set": "map",
+   "key": 40,
+   "note": "Hà Nội night dims, the price"
+  },
+  {
+   "id": "G14",
+   "file": "shots-chg-tallies",
+   "size": "wide",
+   "set": "card",
+   "key": 100,
+   "note": "quiet card: 1.624 civilians, candles"
+  },
+  {
+   "id": "G15",
+   "file": "shots-chg-tallies",
+   "size": "wide",
+   "set": "card",
+   "key": 110,
+   "note": "same card: 18-29.12, mostly civilians"
+  },
+  {
+   "id": "G16",
+   "file": "shots-chg-deal",
+   "size": "wide",
+   "set": "card",
+   "key": 70,
+   "note": "historians: books shelf"
+  },
+  {
+   "id": "G17",
+   "file": "shots-chg-deal",
+   "size": "wide",
+   "set": "card",
+   "key": 70,
+   "note": "US ball with book: US historians too"
+  },
+  {
+   "id": "G18",
+   "file": "shots-chg-deal",
+   "size": "wide",
+   "set": "card",
+   "key": 60,
+   "note": "HIỆP ĐỊNH document, Jan 1973"
+  },
+  {
+   "id": "G19",
+   "file": "shots-chg-deal",
+   "size": "wide",
+   "set": "card",
+   "key": 60,
+   "note": "draft Oct 1972 ~ agreement Jan 1973"
+  },
+  {
+   "id": "G20",
+   "file": "shots-chg-deal",
+   "size": "wide",
+   "set": "map",
+   "key": 60,
+   "note": "bombs fall on night map"
+  },
+  {
+   "id": "G21",
+   "file": "shots-chg-deal",
+   "size": "wide",
+   "set": "card",
+   "key": 85,
+   "note": "two documents, KHÔNG THAY ĐỔI stamp, balls"
+  },
+  {
+   "id": "G22",
+   "file": "shots-chg-deal",
+   "size": "wide",
+   "set": "map",
+   "key": 70,
+   "note": "map to Paris, 8.1.1973"
+  },
+  {
+   "id": "G23",
+   "file": "shots-chg-deal",
+   "size": "wide",
+   "set": "card",
+   "key": 70,
+   "note": "negotiating table: VNM, USA, FRA host"
+  },
+  {
+   "id": "G24",
+   "file": "shots-chg-deal",
+   "size": "wide",
+   "set": "card",
+   "key": 60,
+   "note": "calendar 8 to 27 Jan fast"
+  },
+  {
+   "id": "G25",
+   "file": "shots-chg-accords",
+   "size": "wide",
+   "set": "photo",
+   "key": 80,
+   "note": "photo: Paris accords signing"
+  },
+  {
+   "id": "G26",
+   "file": "shots-chg-accords",
+   "size": "wide",
+   "set": "card",
+   "key": 50,
+   "note": "HIỆP ĐỊNH PARIS document ĐÃ KÝ"
+  },
+  {
+   "id": "G27",
+   "file": "shots-chg-accords",
+   "size": "wide",
+   "set": "map",
+   "key": 100,
+   "note": "US balls leave Vietnam, 60 days"
+  },
+  {
+   "id": "G28",
+   "file": "shots-chg-accords",
+   "size": "wide",
+   "set": "card",
+   "key": 95,
+   "note": "POW exchange pictograms, 591"
+  },
+  {
+   "id": "G29",
+   "file": "shots-chg-accords",
+   "size": "wide",
+   "set": "photo",
+   "key": 100,
+   "note": "photo: Hỏa Lò + B-52 falling icon"
+  },
+  {
+   "id": "G30",
+   "file": "shots-chg-accords",
+   "size": "wide",
+   "set": "map",
+   "key": 80,
+   "note": "map zoom to Gia Lâm, 12.02.1973"
+  },
+  {
+   "id": "G31",
+   "file": "shots-chg-accords",
+   "size": "wide",
+   "set": "photo",
+   "key": 90,
+   "note": "photo: POWs await at Gia Lâm"
+  },
+  {
+   "id": "G32",
+   "file": "shots-chg-accords",
+   "size": "wide",
+   "set": "photo",
+   "key": 120,
+   "note": "photo: Homecoming, trở về nhà"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "G1",
+   "at": "s:600.66"
+  },
+  {
+   "shot": "G2",
+   "at": "s:602.36"
+  },
+  {
+   "shot": "G3",
+   "at": "s:605.21"
+  },
+  {
+   "shot": "G4",
+   "at": "s:607.43"
+  },
+  {
+   "shot": "G5",
+   "at": "s:610.60"
+  },
+  {
+   "shot": "G6",
+   "at": "s:614.65"
+  },
+  {
+   "shot": "G7",
+   "at": "s:617.93"
+  },
+  {
+   "shot": "G8",
+   "at": "s:620.79"
+  },
+  {
+   "shot": "G9",
+   "at": "s:624.60"
+  },
+  {
+   "shot": "G10",
+   "at": "s:627.35"
+  },
+  {
+   "shot": "G11",
+   "at": "s:629.11"
+  },
+  {
+   "shot": "G12",
+   "at": "s:631.47"
+  },
+  {
+   "shot": "G13",
+   "at": "s:635.60"
+  },
+  {
+   "shot": "G14",
+   "at": "s:637.71"
+  },
+  {
+   "shot": "G15",
+   "at": "s:641.33"
+  },
+  {
+   "shot": "G16",
+   "at": "s:645.31"
+  },
+  {
+   "shot": "G17",
+   "at": "s:647.84"
+  },
+  {
+   "shot": "G18",
+   "at": "s:650.47"
+  },
+  {
+   "shot": "G19",
+   "at": "s:653.08"
+  },
+  {
+   "shot": "G20",
+   "at": "s:655.29"
+  },
+  {
+   "shot": "G21",
+   "at": "s:657.54"
+  },
+  {
+   "shot": "G22",
+   "at": "s:660.52"
+  },
+  {
+   "shot": "G23",
+   "at": "s:663.22"
+  },
+  {
+   "shot": "G24",
+   "at": "s:665.91"
+  },
+  {
+   "shot": "G25",
+   "at": "s:668.24"
+  },
+  {
+   "shot": "G26",
+   "at": "s:671.51"
+  },
+  {
+   "shot": "G27",
+   "at": "s:673.50"
+  },
+  {
+   "shot": "G28",
+   "at": "s:677.56"
+  },
+  {
+   "shot": "G29",
+   "at": "s:681.17"
+  },
+  {
+   "shot": "G30",
+   "at": "s:685.19"
+  },
+  {
+   "shot": "G31",
+   "at": "s:688.00"
+  },
+  {
+   "shot": "G32",
+   "at": "s:691.37"
+  }
+ ],
+ "fx": [],
+ "events": [
+  [
+   "G2+5",
+   "pop",
+   0.1
+  ],
+  [
+   "G3",
+   "bomber_drone",
+   0.08
+  ],
+  [
+   "G3+30",
+   "counter_tick",
+   0.1
+  ],
+  [
+   "G4+8",
+   "bomb_far",
+   0.06
+  ],
+  [
+   "G4+36",
+   "bomb_far",
+   0.048
+  ],
+  [
+   "G6+30",
+   "counter_tick",
+   0.08
+  ],
+  [
+   "G12",
+   "drone_hit",
+   0.1
+  ],
+  [
+   "G18+10",
+   "paper_land",
+   0.1
+  ],
+  [
+   "G21+57",
+   "pop",
+   0.12
+  ],
+  [
+   "G25+3",
+   "paper_land",
+   0.12
+  ],
+  [
+   "G26+27",
+   "pop",
+   0.12
+  ],
+  [
+   "G28+49",
+   "counter_tick",
+   0.1
+  ],
+  [
+   "G29+3",
+   "paper_land",
+   0.1
+  ],
+  [
+   "G31+3",
+   "paper_land",
+   0.1
+  ],
+  [
+   "G32+3",
+   "paper_land",
+   0.1
+  ],
+  [
+   "G32+76",
+   "ding",
+   0.1
+  ]
+ ],
+ "repeats": []
+}

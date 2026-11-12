@@ -1,0 +1,670 @@
+{
+ "chapter": "d",
+ "shots": [
+  {
+   "id": "D1",
+   "file": "shots-chd-night-one",
+   "size": "wide",
+   "set": "map",
+   "key": 80,
+   "note": "dusk map pushes in on Hà Nội, sirens, blackout"
+  },
+  {
+   "id": "D2",
+   "file": "shots-chd-night-one",
+   "size": "wide",
+   "set": "map",
+   "key": 110,
+   "note": "129 B-52 counter, three waves"
+  },
+  {
+   "id": "D3",
+   "file": "shots-chd-night-one",
+   "size": "wide",
+   "set": "card",
+   "key": 70,
+   "note": "night sky: flares, flak, tracers, searchlights"
+  },
+  {
+   "id": "D4",
+   "file": "shots-chd-night-one",
+   "size": "wide",
+   "set": "map",
+   "key": 50,
+   "note": "ring of SAM sites, dozen launches"
+  },
+  {
+   "id": "D5",
+   "file": "shots-chd-night-one",
+   "size": "wide",
+   "set": "map",
+   "key": 85,
+   "note": "B-52 cell, SAM tracks left wingman"
+  },
+  {
+   "id": "D6",
+   "file": "shots-chd-night-one",
+   "size": "wide",
+   "set": "map",
+   "key": 30,
+   "note": "B-52 hit, burns, spirals down"
+  },
+  {
+   "id": "D7",
+   "file": "shots-chd-night-one",
+   "size": "wide",
+   "set": "card",
+   "key": 60,
+   "note": "US figure card: 3 B-52 (theo phía Mỹ)"
+  },
+  {
+   "id": "D8",
+   "file": "shots-chd-routes-and-turn",
+   "size": "wide",
+   "set": "map",
+   "key": 60,
+   "note": "same route 3 nights + raid diagram photo"
+  },
+  {
+   "id": "D9",
+   "file": "shots-chd-routes-and-turn",
+   "size": "wide",
+   "set": "card",
+   "key": 50,
+   "note": "same altitude, side view"
+  },
+  {
+   "id": "D10",
+   "file": "shots-chd-routes-and-turn",
+   "size": "wide",
+   "set": "map",
+   "key": 36,
+   "note": "same turning spot ring"
+  },
+  {
+   "id": "D11",
+   "file": "shots-chd-routes-and-turn",
+   "size": "wide",
+   "set": "card",
+   "key": 90,
+   "note": "crew lesson notes, sketches tighten"
+  },
+  {
+   "id": "D12",
+   "file": "shots-chd-routes-and-turn",
+   "size": "wide",
+   "set": "map",
+   "key": 100,
+   "note": "crews predict entry + turn"
+  },
+  {
+   "id": "D13",
+   "file": "shots-chd-routes-and-turn",
+   "size": "wide",
+   "set": "card",
+   "key": 80,
+   "note": "weak spot, crosshair on B-52"
+  },
+  {
+   "id": "D14",
+   "file": "shots-chd-routes-and-turn",
+   "size": "wide",
+   "set": "map",
+   "key": 50,
+   "note": "bombs away then banking turn"
+  },
+  {
+   "id": "D15",
+   "file": "shots-chd-routes-and-turn",
+   "size": "wide",
+   "set": "card",
+   "key": 80,
+   "note": "jam beam swings off radar"
+  },
+  {
+   "id": "D16",
+   "file": "shots-chd-routes-and-turn",
+   "size": "wide",
+   "set": "radar",
+   "key": 60,
+   "note": "radar scope, jam thins, blip clear"
+  },
+  {
+   "id": "D17",
+   "file": "shots-chd-routes-and-turn",
+   "size": "wide",
+   "set": "map",
+   "key": 90,
+   "note": "timer ring, SAM climbs to banking B-52"
+  },
+  {
+   "id": "D18",
+   "file": "shots-chd-days-and-gunner",
+   "size": "wide",
+   "set": "map",
+   "key": 120,
+   "note": "not only Hà Nội: Hải Phòng, Thái Nguyên, more"
+  },
+  {
+   "id": "D19",
+   "file": "shots-chd-days-and-gunner",
+   "size": "wide",
+   "set": "map",
+   "key": 80,
+   "note": "daylight tactical aircraft F-4 / A-7"
+  },
+  {
+   "id": "D20",
+   "file": "shots-chd-days-and-gunner",
+   "size": "wide",
+   "set": "map",
+   "key": 45,
+   "note": "sun to moon, B-52 again"
+  },
+  {
+   "id": "D21",
+   "file": "shots-chd-days-and-gunner",
+   "size": "wide",
+   "set": "card",
+   "key": 70,
+   "note": "24 h clock, no quiet hour"
+  },
+  {
+   "id": "D22",
+   "file": "shots-chd-days-and-gunner",
+   "size": "wide",
+   "set": "card",
+   "key": 50,
+   "note": "B-52 fires back from tail"
+  },
+  {
+   "id": "D23",
+   "file": "shots-chd-days-and-gunner",
+   "size": "wide",
+   "set": "card",
+   "key": 105,
+   "note": "tail gunner alone, four guns"
+  },
+  {
+   "id": "D24",
+   "file": "shots-chd-days-and-gunner",
+   "size": "wide",
+   "set": "card",
+   "key": 60,
+   "note": "US Air Force record card"
+  },
+  {
+   "id": "D25",
+   "file": "shots-chd-days-and-gunner",
+   "size": "wide",
+   "set": "card",
+   "key": 36,
+   "note": "MiG hit by tail tracers (US claim)"
+  },
+  {
+   "id": "D26",
+   "file": "shots-chd-days-and-gunner",
+   "size": "wide",
+   "set": "card",
+   "key": 55,
+   "note": "two columns: US claim vs VN not confirm"
+  },
+  {
+   "id": "D27",
+   "file": "shots-chd-days-and-gunner",
+   "size": "wide",
+   "set": "card",
+   "key": 40,
+   "note": "two balls, common in war"
+  },
+  {
+   "id": "D28",
+   "file": "shots-chd-days-and-gunner",
+   "size": "wide",
+   "set": "card",
+   "key": 75,
+   "note": "each side its own story"
+  },
+  {
+   "id": "D29",
+   "file": "shots-chd-night-three",
+   "size": "wide",
+   "set": "map",
+   "key": 36,
+   "note": "20.12 date rolls, stamp"
+  },
+  {
+   "id": "D30",
+   "file": "shots-chd-night-three",
+   "size": "wide",
+   "set": "map",
+   "key": 70,
+   "note": "worst night: B-52s hit over Hà Nội"
+  },
+  {
+   "id": "D31",
+   "file": "shots-chd-night-three",
+   "size": "wide",
+   "set": "card",
+   "key": 100,
+   "note": "99 B-52 grid, six burn out"
+  },
+  {
+   "id": "D32",
+   "file": "shots-chd-night-three",
+   "size": "wide",
+   "set": "card",
+   "key": 40,
+   "note": "US figure card 6/99"
+  },
+  {
+   "id": "D33",
+   "file": "shots-chd-night-three",
+   "size": "wide",
+   "set": "card",
+   "key": 60,
+   "note": "6% donut"
+  },
+  {
+   "id": "D34",
+   "file": "shots-chd-night-three",
+   "size": "wide",
+   "set": "card",
+   "key": 70,
+   "note": "worried USA ball, cannot sustain"
+  },
+  {
+   "id": "D35",
+   "file": "shots-chd-night-three",
+   "size": "wide",
+   "set": "map",
+   "key": 55,
+   "note": "pan to Guam, new plan"
+  },
+  {
+   "id": "D36",
+   "file": "shots-chd-night-three",
+   "size": "wide",
+   "set": "map",
+   "key": 100,
+   "note": "old route struck, new routes"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "D1",
+   "at": "s:302.53"
+  },
+  {
+   "shot": "D2",
+   "at": "s:306.39"
+  },
+  {
+   "shot": "D3",
+   "at": "s:310.90"
+  },
+  {
+   "shot": "D4",
+   "at": "s:313.94"
+  },
+  {
+   "shot": "D5",
+   "at": "s:316.01"
+  },
+  {
+   "shot": "D6",
+   "at": "s:319.08"
+  },
+  {
+   "shot": "D7",
+   "at": "s:320.77"
+  },
+  {
+   "shot": "D8",
+   "at": "s:323.82"
+  },
+  {
+   "shot": "D9",
+   "at": "s:326.49"
+  },
+  {
+   "shot": "D10",
+   "at": "s:328.69"
+  },
+  {
+   "shot": "D11",
+   "at": "s:330.52"
+  },
+  {
+   "shot": "D12",
+   "at": "s:333.91"
+  },
+  {
+   "shot": "D13",
+   "at": "s:337.70"
+  },
+  {
+   "shot": "D14",
+   "at": "s:341.26"
+  },
+  {
+   "shot": "D15",
+   "at": "s:344.19"
+  },
+  {
+   "shot": "D16",
+   "at": "s:347.54"
+  },
+  {
+   "shot": "D17",
+   "at": "s:350.35"
+  },
+  {
+   "shot": "D18",
+   "at": "s:353.96"
+  },
+  {
+   "shot": "D19",
+   "at": "s:359.29"
+  },
+  {
+   "shot": "D20",
+   "at": "s:364.01"
+  },
+  {
+   "shot": "D21",
+   "at": "s:366.38"
+  },
+  {
+   "shot": "D22",
+   "at": "s:369.08"
+  },
+  {
+   "shot": "D23",
+   "at": "s:372.37"
+  },
+  {
+   "shot": "D24",
+   "at": "s:376.45"
+  },
+  {
+   "shot": "D25",
+   "at": "s:379.43"
+  },
+  {
+   "shot": "D26",
+   "at": "s:381.24"
+  },
+  {
+   "shot": "D27",
+   "at": "s:383.64"
+  },
+  {
+   "shot": "D28",
+   "at": "s:385.64"
+  },
+  {
+   "shot": "D29",
+   "at": "s:388.67"
+  },
+  {
+   "shot": "D30",
+   "at": "s:390.60"
+  },
+  {
+   "shot": "D31",
+   "at": "s:393.41"
+  },
+  {
+   "shot": "D32",
+   "at": "s:396.92"
+  },
+  {
+   "shot": "D33",
+   "at": "s:398.89"
+  },
+  {
+   "shot": "D34",
+   "at": "s:401.61"
+  },
+  {
+   "shot": "D35",
+   "at": "s:404.25"
+  },
+  {
+   "shot": "D36",
+   "at": "s:406.61"
+  }
+ ],
+ "fx": [
+  {
+   "at": "D6+3",
+   "kind": "shake",
+   "len": 8,
+   "amp": 6
+  },
+  {
+   "at": "D30+34",
+   "kind": "shake",
+   "len": 8,
+   "amp": 5
+  }
+ ],
+ "events": [
+  [
+   "D1+56",
+   "air_raid_siren",
+   0.072,
+   "onset",
+   "D2"
+  ],
+  [
+   "D2",
+   "bomber_drone",
+   0.1,
+   "onset",
+   "D4"
+  ],
+  [
+   "D3+50",
+   "flak",
+   0.1
+  ],
+  [
+   "D3+62",
+   "flak",
+   0.08
+  ],
+  [
+   "D4+2",
+   "sam_launch",
+   0.12
+  ],
+  [
+   "D4+24",
+   "sam_launch",
+   0.1
+  ],
+  [
+   "D5+50",
+   "sam_launch",
+   0.12
+  ],
+  [
+   "D6+3",
+   "bomb_far",
+   0.14
+  ],
+  [
+   "D6+49",
+   "bomb_far",
+   0.1
+  ],
+  [
+   "D7+4",
+   "ting",
+   0.1
+  ],
+  [
+   "D8",
+   "bomber_drone",
+   0.07,
+   "onset",
+   "D9"
+  ],
+  [
+   "D8+12",
+   "paper_land",
+   0.12
+  ],
+  [
+   "D11+14",
+   "paper_land",
+   0.07
+  ],
+  [
+   "D11+44",
+   "paper_land",
+   0.07
+  ],
+  [
+   "D11+74",
+   "paper_land",
+   0.07
+  ],
+  [
+   "D13+40",
+   "ting",
+   0.1
+  ],
+  [
+   "D15+30",
+   "radio_static",
+   0.07,
+   "onset",
+   "D16"
+  ],
+  [
+   "D16+36",
+   "radar_ping",
+   0.12
+  ],
+  [
+   "D17+40",
+   "sam_launch",
+   0.12
+  ],
+  [
+   "D17+102",
+   "flak",
+   0.12
+  ],
+  [
+   "D18+34",
+   "bomb_far",
+   0.064
+  ],
+  [
+   "D18+56",
+   "bomb_far",
+   0.064
+  ],
+  [
+   "D18+78",
+   "bomb_far",
+   0.056
+  ],
+  [
+   "D19+10",
+   "jet_pass",
+   0.09
+  ],
+  [
+   "D19+60",
+   "jet_pass",
+   0.08
+  ],
+  [
+   "D20+4",
+   "bomber_drone",
+   0.09,
+   "onset",
+   "D21"
+  ],
+  [
+   "D24+8",
+   "paper_land",
+   0.1
+  ],
+  [
+   "D25+22",
+   "flak",
+   0.1
+  ],
+  [
+   "D26+10",
+   "paper_land",
+   0.08
+  ],
+  [
+   "D29",
+   "bomber_drone",
+   0.08,
+   "onset",
+   "D31"
+  ],
+  [
+   "D29+16",
+   "drone_hit",
+   0.12
+  ],
+  [
+   "D30+6",
+   "sam_launch",
+   0.1
+  ],
+  [
+   "D30+34",
+   "bomb_far",
+   0.1
+  ],
+  [
+   "D30+60",
+   "bomb_far",
+   0.1
+  ],
+  [
+   "D31+54",
+   "drone_hit",
+   0.1
+  ],
+  [
+   "D36",
+   "bomber_drone",
+   0.08,
+   "onset"
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "D21+4",
+   "clip": "counter_tick",
+   "n": 16,
+   "every": 4,
+   "gain": [
+    0.04,
+    0.06
+   ]
+  },
+  {
+   "at": "D31+3",
+   "clip": "counter_tick",
+   "n": 10,
+   "every": 5,
+   "gain": [
+    0.04,
+    0.07
+   ]
+  }
+ ]
+}

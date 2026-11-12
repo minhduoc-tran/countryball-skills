@@ -1,0 +1,778 @@
+{
+ "chapter": "a",
+ "shots": [
+  {
+   "id": "A1",
+   "file": "shots-cha-cockroach-and-robot",
+   "size": "wide",
+   "set": "street",
+   "key": 30,
+   "note": "giant cockroach scuttles in on the night street"
+  },
+  {
+   "id": "A2",
+   "file": "shots-cha-cockroach-and-robot",
+   "size": "medium",
+   "set": "street",
+   "key": 18,
+   "note": "crowd flees past calm Pip"
+  },
+  {
+   "id": "A3",
+   "file": "shots-cha-cockroach-and-robot",
+   "size": "insert",
+   "set": "fist",
+   "key": 24,
+   "note": "fist clenches"
+  },
+  {
+   "id": "A4",
+   "file": "shots-cha-cockroach-and-robot",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "Pip winds up, beast closing in"
+  },
+  {
+   "id": "A5",
+   "file": "shots-cha-cockroach-and-robot",
+   "size": "close",
+   "set": "street",
+   "key": 8,
+   "note": "THE HIT: cockroach flies"
+  },
+  {
+   "id": "A6",
+   "file": "shots-cha-cockroach-and-robot",
+   "size": "wide",
+   "set": "street",
+   "key": 20,
+   "note": "robot stomps down the street"
+  },
+  {
+   "id": "A7",
+   "file": "shots-cha-cockroach-and-robot",
+   "size": "wide",
+   "set": "street",
+   "key": 28,
+   "note": "low angle up the 10-storey robot, Pip tiny"
+  },
+  {
+   "id": "A8",
+   "file": "shots-cha-cockroach-and-robot",
+   "size": "medium",
+   "set": "street",
+   "key": 26,
+   "note": "wind-up at the robot shin"
+  },
+  {
+   "id": "A9",
+   "file": "shots-cha-cockroach-and-robot",
+   "size": "wide",
+   "set": "street",
+   "key": 14,
+   "note": "THE HIT: robot bursts"
+  },
+  {
+   "id": "A10",
+   "file": "shots-cha-cloud-hook-premise",
+   "size": "wide",
+   "set": "sky",
+   "key": 20,
+   "note": "black cloud deck over the city"
+  },
+  {
+   "id": "A11",
+   "file": "shots-cha-cloud-hook-premise",
+   "size": "wide",
+   "set": "street",
+   "key": 34,
+   "note": "cloud ceiling swallows the sky, figures look up"
+  },
+  {
+   "id": "A12",
+   "file": "shots-cha-cloud-hook-premise",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 22,
+   "note": "Pip winds up at the sky"
+  },
+  {
+   "id": "A13",
+   "file": "shots-cha-cloud-hook-premise",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 8,
+   "note": "THE HIT: the deck splits"
+  },
+  {
+   "id": "A14",
+   "file": "shots-cha-cloud-hook-premise",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 18,
+   "note": "blue sky returns"
+  },
+  {
+   "id": "A15",
+   "file": "shots-cha-cloud-hook-premise",
+   "size": "wide",
+   "set": "panels",
+   "key": 26,
+   "note": "triptych: three beaten monsters"
+  },
+  {
+   "id": "A16",
+   "file": "shots-cha-cloud-hook-premise",
+   "size": "insert",
+   "set": "tally",
+   "key": 26,
+   "note": "three tally strokes slam"
+  },
+  {
+   "id": "A17",
+   "file": "shots-cha-cloud-hook-premise",
+   "size": "medium",
+   "set": "rubble",
+   "key": 34,
+   "note": "Pip bored on rubble, yawning"
+  },
+  {
+   "id": "A18",
+   "file": "shots-cha-cloud-hook-premise",
+   "size": "wide",
+   "set": "street",
+   "key": 36,
+   "note": "title card over ruined street"
+  },
+  {
+   "id": "A19",
+   "file": "shots-cha-cloud-hook-premise",
+   "size": "medium",
+   "set": "street",
+   "key": 50,
+   "note": "push in on Pip, title stays"
+  },
+  {
+   "id": "A20",
+   "file": "shots-cha-cloud-hook-premise",
+   "size": "insert",
+   "set": "fist",
+   "key": 24,
+   "note": "fist thrusts at lens: \"một cú đấm?\""
+  },
+  {
+   "id": "A21",
+   "file": "shots-cha-alarm-clock",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 32,
+   "note": "Pip wakes and stretches"
+  },
+  {
+   "id": "A22",
+   "file": "shots-cha-alarm-clock",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "normal morning, smiles at window"
+  },
+  {
+   "id": "A23",
+   "file": "shots-cha-alarm-clock",
+   "size": "close",
+   "set": "bedroom",
+   "key": 20,
+   "note": "smile drops: except one thing"
+  },
+  {
+   "id": "A24",
+   "file": "shots-cha-alarm-clock",
+   "size": "macro",
+   "set": "bedroom",
+   "key": 24,
+   "note": "alarm clock rings and shakes"
+  },
+  {
+   "id": "A25",
+   "file": "shots-cha-alarm-clock",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 12,
+   "note": "half asleep, slaps the clock by habit"
+  },
+  {
+   "id": "A26",
+   "file": "shots-cha-alarm-clock",
+   "size": "macro",
+   "set": "bedroom",
+   "key": 30,
+   "note": "the fist rises over the clock"
+  },
+  {
+   "id": "A27",
+   "file": "shots-cha-alarm-clock",
+   "size": "macro",
+   "set": "bedroom",
+   "key": 9,
+   "note": "THE HIT: the clock bursts"
+  },
+  {
+   "id": "A28",
+   "file": "shots-cha-alarm-clock",
+   "size": "macro",
+   "set": "bedroom",
+   "key": 30,
+   "note": "clock turned to dust"
+  },
+  {
+   "id": "A29",
+   "file": "shots-cha-alarm-clock",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 22,
+   "note": "the table snaps in two"
+  },
+  {
+   "id": "A30",
+   "file": "shots-cha-alarm-clock",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 20,
+   "note": "mum in the doorway"
+  },
+  {
+   "id": "A31",
+   "file": "shots-cha-alarm-clock",
+   "size": "close",
+   "set": "bedroom",
+   "key": 20,
+   "note": "mum jaw dropped"
+  },
+  {
+   "id": "A32",
+   "file": "shots-cha-one-rule",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 24,
+   "note": "big 1: one rule"
+  },
+  {
+   "id": "A33",
+   "file": "shots-cha-one-rule",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 30,
+   "note": "slider zips to MAX, NHE crossed out"
+  },
+  {
+   "id": "A34",
+   "file": "shots-cha-one-rule",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 20,
+   "note": "knob stuck at MAX 100%"
+  },
+  {
+   "id": "A35",
+   "file": "shots-cha-one-rule",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "Pip stares at his fist, worried"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "s:0.00"
+  },
+  {
+   "shot": "A2",
+   "at": "s:2.01"
+  },
+  {
+   "shot": "A3",
+   "at": "s:3.29",
+   "look": "fight"
+  },
+  {
+   "shot": "A4",
+   "at": "s:4.59",
+   "look": "fight"
+  },
+  {
+   "shot": "A5",
+   "at": "s:5.69",
+   "look": "fight"
+  },
+  {
+   "shot": "A6",
+   "at": "s:6.30"
+  },
+  {
+   "shot": "A7",
+   "at": "s:7.40"
+  },
+  {
+   "shot": "A8",
+   "at": "s:8.57",
+   "look": "fight"
+  },
+  {
+   "shot": "A9",
+   "at": "s:9.55",
+   "look": "fight"
+  },
+  {
+   "shot": "A10",
+   "at": "s:10.24"
+  },
+  {
+   "shot": "A11",
+   "at": "s:11.31"
+  },
+  {
+   "shot": "A12",
+   "at": "s:12.51",
+   "look": "fight"
+  },
+  {
+   "shot": "A13",
+   "at": "s:13.42",
+   "look": "fight"
+  },
+  {
+   "shot": "A14",
+   "at": "s:14.02",
+   "look": "fight"
+  },
+  {
+   "shot": "A15",
+   "at": "s:14.74"
+  },
+  {
+   "shot": "A16",
+   "at": "s:15.74"
+  },
+  {
+   "shot": "A17",
+   "at": "s:16.78",
+   "look": "bored"
+  },
+  {
+   "shot": "A18",
+   "at": "s:18.29"
+  },
+  {
+   "shot": "A19",
+   "at": "s:19.55"
+  },
+  {
+   "shot": "A20",
+   "at": "s:21.54"
+  },
+  {
+   "shot": "A21",
+   "at": "s:23.09"
+  },
+  {
+   "shot": "A22",
+   "at": "s:24.36"
+  },
+  {
+   "shot": "A23",
+   "at": "s:25.88"
+  },
+  {
+   "shot": "A24",
+   "at": "s:26.78"
+  },
+  {
+   "shot": "A25",
+   "at": "s:27.97"
+  },
+  {
+   "shot": "A26",
+   "at": "s:29.48",
+   "look": "fight"
+  },
+  {
+   "shot": "A27",
+   "at": "s:30.50",
+   "look": "fight"
+  },
+  {
+   "shot": "A28",
+   "at": "s:31.32",
+   "look": "fight"
+  },
+  {
+   "shot": "A29",
+   "at": "s:32.71",
+   "look": "fight"
+  },
+  {
+   "shot": "A30",
+   "at": "s:33.81"
+  },
+  {
+   "shot": "A31",
+   "at": "s:34.98"
+  },
+  {
+   "shot": "A32",
+   "at": "s:35.94"
+  },
+  {
+   "shot": "A33",
+   "at": "s:37.08"
+  },
+  {
+   "shot": "A34",
+   "at": "s:38.40"
+  },
+  {
+   "shot": "A35",
+   "at": "s:39.48"
+  }
+ ],
+ "fx": [
+  {
+   "at": "A5+5",
+   "kind": "shake",
+   "amp": 24,
+   "len": 12
+  },
+  {
+   "at": "A5+5",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.6
+  },
+  {
+   "at": "A9+5",
+   "kind": "shake",
+   "amp": 30,
+   "len": 16
+  },
+  {
+   "at": "A9+5",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.7
+  },
+  {
+   "at": "A13+2",
+   "kind": "shake",
+   "amp": 20,
+   "len": 12
+  },
+  {
+   "at": "A13+2",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.6
+  },
+  {
+   "at": "A20+17",
+   "kind": "shake",
+   "amp": 22,
+   "len": 12
+  },
+  {
+   "at": "A20+17",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.5
+  },
+  {
+   "at": "A27+5",
+   "kind": "shake",
+   "amp": 28,
+   "len": 14
+  },
+  {
+   "at": "A27+5",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.7
+  },
+  {
+   "at": "A29+6",
+   "kind": "shake",
+   "amp": 16,
+   "len": 10
+  },
+  {
+   "at": "A16+6",
+   "kind": "shake",
+   "amp": 10,
+   "len": 6
+  },
+  {
+   "at": "A16+15",
+   "kind": "shake",
+   "amp": 10,
+   "len": 6
+  },
+  {
+   "at": "A16+24",
+   "kind": "shake",
+   "amp": 12,
+   "len": 8
+  }
+ ],
+ "events": [
+  [
+   "A1",
+   "siren",
+   0.05,
+   "onset",
+   "A5"
+  ],
+  [
+   "A2",
+   "class_murmur",
+   0.1,
+   "onset",
+   "A4"
+  ],
+  [
+   "A4+8",
+   "swoosh",
+   0.2,
+   "peak"
+  ],
+  [
+   "A5+5",
+   "punch_hit",
+   0.3,
+   "onset"
+  ],
+  [
+   "A5+5",
+   "sonic_crack",
+   0.14,
+   "onset"
+  ],
+  [
+   "A5+8",
+   "fall_whoosh",
+   0.14
+  ],
+  [
+   "A6+6",
+   "big_step",
+   0.2
+  ],
+  [
+   "A6+22",
+   "big_step",
+   0.2
+  ],
+  [
+   "A7+10",
+   "big_step",
+   0.2
+  ],
+  [
+   "A7+26",
+   "big_step",
+   0.2
+  ],
+  [
+   "A8+22",
+   "swoosh",
+   0.2,
+   "peak"
+  ],
+  [
+   "A9+5",
+   "punch_hit",
+   0.3,
+   "onset"
+  ],
+  [
+   "A9+6",
+   "metal_crash",
+   0.24
+  ],
+  [
+   "A9+14",
+   "rubble",
+   0.12
+  ],
+  [
+   "A10",
+   "rain",
+   0.07,
+   "onset",
+   "A14"
+  ],
+  [
+   "A10+4",
+   "thunder",
+   0.12
+  ],
+  [
+   "A12+16",
+   "swoosh",
+   0.2,
+   "peak"
+  ],
+  [
+   "A13+2",
+   "punch_hit",
+   0.3,
+   "onset"
+  ],
+  [
+   "A13+3",
+   "sonic_crack",
+   0.14,
+   "onset"
+  ],
+  [
+   "A14+4",
+   "sparkle",
+   0.08
+  ],
+  [
+   "A15+2",
+   "pop",
+   0.1
+  ],
+  [
+   "A15+9",
+   "pop",
+   0.1
+  ],
+  [
+   "A15+16",
+   "pop",
+   0.1
+  ],
+  [
+   "A16+6",
+   "punch_hit",
+   0.2,
+   "onset"
+  ],
+  [
+   "A16+15",
+   "punch_hit",
+   0.2,
+   "onset"
+  ],
+  [
+   "A16+24",
+   "punch_hit",
+   0.22,
+   "onset"
+  ],
+  [
+   "A17",
+   "roof_wind",
+   0.06,
+   "onset",
+   "A18"
+  ],
+  [
+   "A18+5",
+   "title_boom",
+   0.18,
+   "peak"
+  ],
+  [
+   "A20+17",
+   "punch_hit",
+   0.22,
+   "onset"
+  ],
+  [
+   "A21",
+   "room_tone",
+   0.08,
+   "onset",
+   "A32"
+  ],
+  [
+   "A24",
+   "phone_ring",
+   0.1,
+   "onset",
+   "A26"
+  ],
+  [
+   "A25+12",
+   "pop",
+   0.1
+  ],
+  [
+   "A25+31",
+   "pop",
+   0.1
+  ],
+  [
+   "A27+5",
+   "punch_hit",
+   0.3,
+   "onset"
+  ],
+  [
+   "A27+5",
+   "shatter",
+   0.2
+  ],
+  [
+   "A27+8",
+   "crack",
+   0.16
+  ],
+  [
+   "A29+5",
+   "crack",
+   0.25
+  ],
+  [
+   "A29+12",
+   "land",
+   0.14
+  ],
+  [
+   "A29+20",
+   "clink",
+   0.12
+  ],
+  [
+   "A30+8",
+   "gasp",
+   0.14
+  ],
+  [
+   "A33+19",
+   "clink",
+   0.18
+  ],
+  [
+   "A34",
+   "power_hum",
+   0.1,
+   "onset",
+   "A35"
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "A1+4",
+   "clip": "big_step",
+   "n": 6,
+   "every": 9,
+   "gain": [
+    0.08,
+    0.14
+   ]
+  }
+ ]
+}

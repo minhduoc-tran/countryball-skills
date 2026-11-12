@@ -1,0 +1,4 @@
+import React from 'react';
+import {AbsoluteFill} from 'remotion';
+import {KitDefs,SetDefs,Rooftop,Hero,LOOKS,basePose,FONT} from '../../engine';
+export const TypeOneThumbnail:React.FC=()=><AbsoluteFill><svg width={1920} height={1080} viewBox="0 0 1920 1080"><KitDefs/><SetDefs/><Rooftop t={30} sunX={1390} sunY={550} cityLit={3}/><rect width={1920} height={1080} fill="#071323" opacity={0.3}/><Hero look={LOOKS.pipHood} pose={{...basePose,x:440,y:1450,scale:4.2,expr:'shock',yaw:0.15}} rimId="rimR"/><text x={990} y={400} fontFamily={FONT.title} fontSize={140} fill="#f6efdf">VĂN MINH</text><text x={970} y={620} fontFamily={FONT.title} fontSize={210} fill="#ffb25c">CẤP I</text><rect x={1000} y={710} width={690} height={130} rx={22} fill="#bd494b"/><text x={1345} y={800} textAnchor="middle" fontFamily={FONT.title} fontSize={65} fill="#fff1da">NGAY NGÀY MAI?</text></svg></AbsoluteFill>;

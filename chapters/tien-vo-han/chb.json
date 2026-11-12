@@ -1,0 +1,767 @@
+{
+ "chapter": "b",
+ "shots": [
+  {
+   "id": "B1",
+   "file": "shots-chb-fun-breakfast-and-card",
+   "size": "wide",
+   "set": "street",
+   "key": 34,
+   "note": "alley at dawn, Pip arms wide, neighbours erupt"
+  },
+  {
+   "id": "B2",
+   "file": "shots-chb-fun-breakfast-and-card",
+   "size": "medium",
+   "set": "street",
+   "key": 20,
+   "note": "neighbours cheering at the table"
+  },
+  {
+   "id": "B3",
+   "file": "shots-chb-fun-breakfast-and-card",
+   "size": "insert",
+   "set": "table",
+   "key": 30,
+   "note": "banh mi + pho pop on"
+  },
+  {
+   "id": "B4",
+   "file": "shots-chb-fun-breakfast-and-card",
+   "size": "insert",
+   "set": "table",
+   "key": 36,
+   "note": "xoi + ca phe pop on"
+  },
+  {
+   "id": "B5",
+   "file": "shots-chb-fun-breakfast-and-card",
+   "size": "close",
+   "set": "cart",
+   "key": 22,
+   "note": "card taps terminal, beep, tick"
+  },
+  {
+   "id": "B6",
+   "file": "shots-chb-fun-family-gifts",
+   "size": "insert",
+   "set": "contract/kitchen",
+   "key": 48,
+   "note": "contract stamped DA TAT TOAN, whip to mum hugging Pip"
+  },
+  {
+   "id": "B7",
+   "file": "shots-chb-fun-family-gifts",
+   "size": "wide",
+   "set": "supermarket",
+   "key": 50,
+   "note": "sis leaps in toy store, toys fly"
+  },
+  {
+   "id": "B8",
+   "file": "shots-chb-fun-family-gifts",
+   "size": "medium",
+   "set": "street",
+   "key": 50,
+   "note": "Mo + new scooter, red bow"
+  },
+  {
+   "id": "B9",
+   "file": "shots-chb-fun-family-gifts",
+   "size": "insert",
+   "set": "terminal",
+   "key": 60,
+   "note": "three fast swipes"
+  },
+  {
+   "id": "B10",
+   "file": "shots-chb-fun-school-cinema",
+   "size": "wide",
+   "set": "school",
+   "key": 44,
+   "note": "school repainted new, Pip arms wide"
+  },
+  {
+   "id": "B11",
+   "file": "shots-chb-fun-school-cinema",
+   "size": "medium",
+   "set": "classroom",
+   "key": 20,
+   "note": "bright cool classroom"
+  },
+  {
+   "id": "B12",
+   "file": "shots-chb-fun-school-cinema",
+   "size": "insert",
+   "set": "library",
+   "key": 26,
+   "note": "books fill shelves"
+  },
+  {
+   "id": "B13",
+   "file": "shots-chb-fun-school-cinema",
+   "size": "wide",
+   "set": "pitch",
+   "key": 24,
+   "note": "Pip kicks into goal, new pitch"
+  },
+  {
+   "id": "B14",
+   "file": "shots-chb-fun-school-cinema",
+   "size": "wide",
+   "set": "cinema",
+   "key": 30,
+   "note": "cinema doors open, light floods"
+  },
+  {
+   "id": "B15",
+   "file": "shots-chb-fun-school-cinema",
+   "size": "medium",
+   "set": "cinema",
+   "key": 46,
+   "note": "hall of laughing classmates, MIEN PHI ticket"
+  },
+  {
+   "id": "B16",
+   "file": "shots-chb-fun-tower-space",
+   "size": "low",
+   "set": "tower",
+   "key": 40,
+   "note": "tallest tower, low angle"
+  },
+  {
+   "id": "B17",
+   "file": "shots-chb-fun-tower-space",
+   "size": "medium",
+   "set": "roof",
+   "key": 36,
+   "note": "roof door opens, crowd streams out"
+  },
+  {
+   "id": "B18",
+   "file": "shots-chb-fun-tower-space",
+   "size": "wide",
+   "set": "roof",
+   "key": 34,
+   "note": "sunset rooftop full of people"
+  },
+  {
+   "id": "B19",
+   "file": "shots-chb-fun-tower-space",
+   "size": "medium",
+   "set": "launch",
+   "key": 40,
+   "note": "rocket launch"
+  },
+  {
+   "id": "B20",
+   "file": "shots-chb-fun-tower-space",
+   "size": "medium",
+   "set": "capsule",
+   "key": 60,
+   "note": "Pip floats in capsule, Earth behind, price, swipe"
+  },
+  {
+   "id": "B21",
+   "file": "shots-chb-fun-hunger-map",
+   "size": "medium",
+   "set": "map",
+   "key": 30,
+   "note": "Pip looks at a world map"
+  },
+  {
+   "id": "B22",
+   "file": "shots-chb-fun-hunger-map",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 50,
+   "note": "CERES2030 report card"
+  },
+  {
+   "id": "B23",
+   "file": "shots-chb-fun-hunger-map",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 50,
+   "note": "rice bowl 33 TY USD / NAM"
+  },
+  {
+   "id": "B24",
+   "file": "shots-chb-fun-hunger-map",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 70,
+   "note": "hunger to 2030 timeline"
+  },
+  {
+   "id": "B25",
+   "file": "shots-chb-fun-hunger-map",
+   "size": "medium",
+   "set": "schematic",
+   "key": 30,
+   "note": "Pip with card: 33 ty vs infinity"
+  },
+  {
+   "id": "B26",
+   "file": "shots-chb-fun-hunger-map",
+   "size": "schematic",
+   "set": "map",
+   "key": 24,
+   "note": "swipe, map lights up with bowls"
+  },
+  {
+   "id": "B27",
+   "file": "shots-chb-fun-dream-turn",
+   "size": "medium",
+   "set": "roof",
+   "key": 40,
+   "note": "Pip on roof golden hour, confetti halo"
+  },
+  {
+   "id": "B28",
+   "file": "shots-chb-fun-dream-turn",
+   "size": "close",
+   "set": "roof",
+   "key": 40,
+   "note": "close, halo, question"
+  },
+  {
+   "id": "B29",
+   "file": "shots-chb-fun-dream-turn",
+   "size": "close",
+   "set": "table",
+   "key": 40,
+   "note": "card on table, crack/glitch"
+  },
+  {
+   "id": "B30",
+   "file": "shots-chb-fun-dream-turn",
+   "size": "close",
+   "set": "roof",
+   "key": 40,
+   "note": "smile drops, drone"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "B1",
+   "at": "s:44.94"
+  },
+  {
+   "shot": "B2",
+   "at": "s:46.21"
+  },
+  {
+   "shot": "B3",
+   "at": "s:47.60"
+  },
+  {
+   "shot": "B4",
+   "at": "s:48.85"
+  },
+  {
+   "shot": "B5",
+   "at": "s:50.35",
+   "look": "card"
+  },
+  {
+   "shot": "B6",
+   "at": "s:51.31"
+  },
+  {
+   "shot": "B7",
+   "at": "s:53.15"
+  },
+  {
+   "shot": "B8",
+   "at": "s:55.62"
+  },
+  {
+   "shot": "B9",
+   "at": "s:57.86",
+   "look": "card"
+  },
+  {
+   "shot": "B10",
+   "at": "s:60.10"
+  },
+  {
+   "shot": "B11",
+   "at": "s:61.98"
+  },
+  {
+   "shot": "B12",
+   "at": "s:62.92"
+  },
+  {
+   "shot": "B13",
+   "at": "s:63.90"
+  },
+  {
+   "shot": "B14",
+   "at": "s:65.29"
+  },
+  {
+   "shot": "B15",
+   "at": "s:66.88"
+  },
+  {
+   "shot": "B16",
+   "at": "s:68.68"
+  },
+  {
+   "shot": "B17",
+   "at": "s:70.60"
+  },
+  {
+   "shot": "B18",
+   "at": "s:72.42"
+  },
+  {
+   "shot": "B19",
+   "at": "s:73.96"
+  },
+  {
+   "shot": "B20",
+   "at": "s:75.84",
+   "look": "card"
+  },
+  {
+   "shot": "B21",
+   "at": "s:78.69"
+  },
+  {
+   "shot": "B22",
+   "at": "s:79.96"
+  },
+  {
+   "shot": "B23",
+   "at": "s:82.70"
+  },
+  {
+   "shot": "B24",
+   "at": "s:85.00"
+  },
+  {
+   "shot": "B25",
+   "at": "s:88.55",
+   "look": "card"
+  },
+  {
+   "shot": "B26",
+   "at": "s:89.96",
+   "look": "card"
+  },
+  {
+   "shot": "B27",
+   "at": "s:90.92"
+  },
+  {
+   "shot": "B28",
+   "at": "s:92.61"
+  },
+  {
+   "shot": "B29",
+   "at": "s:94.39",
+   "look": "card"
+  },
+  {
+   "shot": "B30",
+   "at": "s:96.42"
+  }
+ ],
+ "fx": [
+  {
+   "at": "B5+16",
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.2
+  },
+  {
+   "at": "B6+14",
+   "kind": "shake",
+   "len": 8,
+   "amp": 6
+  },
+  {
+   "at": "B9+13",
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.22
+  },
+  {
+   "at": "B9+35",
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.22
+  },
+  {
+   "at": "B9+57",
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.26
+  },
+  {
+   "at": "B19+10",
+   "kind": "shake",
+   "len": 40,
+   "amp": 4
+  },
+  {
+   "at": "B20+68",
+   "kind": "flash",
+   "color": "#E9FFF2",
+   "o": 0.2
+  },
+  {
+   "at": "B26+12",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.25
+  },
+  {
+   "at": "B29+30",
+   "kind": "shake",
+   "len": 10,
+   "amp": 8
+  },
+  {
+   "at": "B29+30",
+   "kind": "flash",
+   "color": "#FF6A5A",
+   "o": 0.3
+  }
+ ],
+ "events": [
+  [
+   "B1",
+   "room_tone",
+   0.1,
+   "onset",
+   "B6"
+  ],
+  [
+   "B1+26",
+   "laugh",
+   0.07
+  ],
+  [
+   "B3+3",
+   "paste_pop",
+   0.06
+  ],
+  [
+   "B3+17",
+   "paste_pop",
+   0.06
+  ],
+  [
+   "B4+3",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "B4+21",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "B5+17",
+   "ting",
+   0.11
+  ],
+  [
+   "B6+14",
+   "paper_land",
+   0.18
+  ],
+  [
+   "B6+46",
+   "sparkle",
+   0.1
+  ],
+  [
+   "B7",
+   "room_tone",
+   0.08,
+   "onset",
+   "B8"
+  ],
+  [
+   "B7+34",
+   "sparkle",
+   0.1
+  ],
+  [
+   "B8+3",
+   "paste_pop",
+   0.12
+  ],
+  [
+   "B8+39",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "B8+41",
+   "sparkle",
+   0.1
+  ],
+  [
+   "B9+13",
+   "ting",
+   0.1
+  ],
+  [
+   "B9+35",
+   "ting",
+   0.1
+  ],
+  [
+   "B9+57",
+   "ting",
+   0.12
+  ],
+  [
+   "B10+28",
+   "sparkle",
+   0.1
+  ],
+  [
+   "B11",
+   "class_murmur",
+   0.07,
+   "onset",
+   "B13"
+  ],
+  [
+   "B13+8",
+   "pop",
+   0.12
+  ],
+  [
+   "B13+22",
+   "sparkle",
+   0.1
+  ],
+  [
+   "B14+8",
+   "ding",
+   0.08
+  ],
+  [
+   "B14+14",
+   "sparkle",
+   0.1
+  ],
+  [
+   "B14+20",
+   "laugh",
+   0.06
+  ],
+  [
+   "B15+2",
+   "laugh",
+   0.1,
+   "onset",
+   "B16"
+  ],
+  [
+   "B15+33",
+   "paste_pop",
+   0.14
+  ],
+  [
+   "B15+35",
+   "sparkle",
+   0.1
+  ],
+  [
+   "B16",
+   "roof_wind",
+   0.1,
+   "onset",
+   "B19"
+  ],
+  [
+   "B17+6",
+   "ding",
+   0.08
+  ],
+  [
+   "B18+10",
+   "sparkle",
+   0.1
+  ],
+  [
+   "B19+8",
+   "power_hum",
+   0.06,
+   "onset",
+   "B20"
+  ],
+  [
+   "B19+16",
+   "fall_whoosh",
+   0.06
+  ],
+  [
+   "B20",
+   "room_tone",
+   0.1,
+   "onset",
+   "B21"
+  ],
+  [
+   "B20+12",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "B20+69",
+   "ting",
+   0.1
+  ],
+  [
+   "B21+12",
+   "select_draw",
+   0.06
+  ],
+  [
+   "B22+4",
+   "paper_land",
+   0.1
+  ],
+  [
+   "B24+96",
+   "ding",
+   0.08
+  ],
+  [
+   "B25+6",
+   "paste_pop",
+   0.1
+  ],
+  [
+   "B26+14",
+   "ting",
+   0.12
+  ],
+  [
+   "B27",
+   "roof_wind",
+   0.08,
+   "onset",
+   "B30"
+  ],
+  [
+   "B27+10",
+   "sparkle",
+   0.12
+  ],
+  [
+   "B29+28",
+   "crack",
+   0.07
+  ],
+  [
+   "B29+30",
+   "glitch",
+   0.07
+  ],
+  [
+   "B29+30",
+   "drone_hit",
+   0.12
+  ],
+  [
+   "B30+14",
+   "power_down",
+   0.1
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "B7+3",
+   "clip": "step",
+   "n": 4,
+   "every": 7,
+   "gain": [
+    0.05,
+    0.07
+   ]
+  },
+  {
+   "at": "B7+32",
+   "clip": "paste_pop",
+   "n": 4,
+   "every": 2,
+   "gain": [
+    0.06,
+    0.1
+   ],
+   "pitch": [
+    0.9,
+    1.3
+   ]
+  },
+  {
+   "at": "B12+2",
+   "clip": "paste_pop",
+   "n": 5,
+   "every": 5,
+   "gain": [
+    0.04,
+    0.07
+   ],
+   "pitch": [
+    1.0,
+    1.3
+   ]
+  },
+  {
+   "at": "B17+16",
+   "clip": "step",
+   "n": 6,
+   "every": 5,
+   "gain": [
+    0.04,
+    0.06
+   ]
+  },
+  {
+   "at": "B23+20",
+   "clip": "counter_tick",
+   "n": 10,
+   "every": 2,
+   "gain": [
+    0.05,
+    0.07
+   ]
+  },
+  {
+   "at": "B24+10",
+   "clip": "counter_tick",
+   "n": 8,
+   "every": 9,
+   "gain": [
+    0.04,
+    0.06
+   ]
+  },
+  {
+   "at": "B26+8",
+   "clip": "sparkle",
+   "n": 6,
+   "every": 3,
+   "gain": [
+    0.05,
+    0.08
+   ],
+   "pitch": [
+    1.0,
+    1.4
+   ]
+  }
+ ]
+}

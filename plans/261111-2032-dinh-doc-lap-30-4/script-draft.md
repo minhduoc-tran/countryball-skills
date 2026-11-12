@@ -1,0 +1,95 @@
+# Kịch bản nháp: 30/4/1975 (slug dinh-doc-lap-30-4)
+
+**[0 cold open]** Gần trưa ngày ba mươi tháng Tư năm một nghìn chín trăm bảy mươi lăm. Trên con đường rợp bóng cây giữa Sài Gòn, một đoàn xe tăng đang tiến thẳng về phía một cánh cổng sắt đang đóng chặt. Phía sau cánh cổng ấy là Dinh Độc Lập, nơi làm việc của Tổng thống Việt Nam Cộng hòa. Chỉ vài phút nữa thôi, cánh cổng sẽ đổ xuống. Và một cuộc chiến kéo dài hơn hai mươi năm sẽ đi đến hồi kết.
+
+**[1 title]** Đây là câu chuyện về những ngày cuối cùng của cuộc chiến. Ngày ba mươi tháng Tư.
+
+**[2 paris]** Hãy quay lại hai năm trước đó. Ngày hai mươi bảy tháng Một năm một nghìn chín trăm bảy mươi ba, Hiệp định Pa ri được ký kết. Mỹ cam kết rút hết quân đội khỏi Việt Nam. Chỉ hai tháng sau, những đơn vị chiến đấu cuối cùng của Mỹ lên máy bay về nước.
+
+**[2a paris table]** Hiệp định ấy là kết quả của gần năm năm đàm phán căng thẳng giữa bốn bên: Việt Nam Dân chủ Cộng hòa, Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam, Mỹ và Việt Nam Cộng hòa. Trên giấy tờ, hòa bình đã được ký.
+
+**[2b ceasefire breaks]** Nhưng tiếng súng không im lặng. Hiệp định cho phép quân đội hai bên ở lại những vùng mình đang giữ, và chẳng bao lâu, giao tranh lại nổ ra khắp miền Nam. Quân đội Sài Gòn vẫn còn rất đông, có máy bay, có xe tăng. Nhưng viện trợ từ Mỹ ngày càng bị cắt giảm, đạn dược và nhiên liệu bắt đầu thiếu hụt.
+
+**[2c phuoc long]** Ngày sáu tháng Một năm một nghìn chín trăm bảy mươi lăm, Quân Giải phóng làm chủ hoàn toàn tỉnh Phước Long, ở phía bắc Sài Gòn. Đó là một phép thử. Cả hai phía cùng chờ xem Mỹ có quay lại hay không. Và lần này, máy bay Mỹ đã không quay lại.
+
+**[3 tay nguyen]** Đầu tháng Ba, đòn đánh lớn bắt đầu ở Tây Nguyên. Ngày mười tháng Ba, Quân Giải phóng tấn công thị xã Buôn Ma Thuột. Chỉ hơn một ngày sau, thị xã đã đổi chủ. Tổng thống Nguyễn Văn Thiệu quyết định rút quân khỏi Tây Nguyên để giữ những vùng gần biển. Nhưng cuộc rút lui trên đường số bảy biến thành hỗn loạn, cả binh lính lẫn dân thường cùng chen nhau trên một con đường hẹp.
+
+**[3b hue danang]** Từ đó, mọi thứ diễn ra nhanh hơn bất kỳ ai dự đoán. Ngày hai mươi sáu tháng Ba, Huế được giải phóng. Ba ngày sau, đến lượt Đà Nẵng, thành phố lớn thứ hai miền Nam. Tàu thuyền chở đầy người di tản xuôi về phía nam.
+
+**[3c decision]** Ở Hà Nội, Bộ Chính trị quyết định giải phóng Sài Gòn trước mùa mưa, nghĩa là chỉ còn vài tuần. Ngày mười bốn tháng Tư, chiến dịch cuối cùng được đặt một cái tên đặc biệt. Chiến dịch Hồ Chí Minh.
+
+**[4 xuan loc]** Trên đường tiến về Sài Gòn có một cánh cửa thép. Đó là Xuân Lộc, cách thành phố khoảng tám mươi cây số. Tại đây, Sư đoàn mười tám của quân đội Sài Gòn, do chuẩn tướng Lê Minh Đảo chỉ huy, đã chống trả quyết liệt suốt gần hai tuần. Đây là trận đánh lớn cuối cùng của cuộc chiến, và hai bên đều chịu tổn thất nặng nề.
+
+**[4b xuan loc falls]** Đêm hai mươi rạng sáng hai mươi mốt tháng Tư, quân Việt Nam Cộng hòa rút khỏi Xuân Lộc. Cánh cửa phía đông Sài Gòn đã mở.
+
+**[4b2 phan rang]** Cùng thời gian đó, ở ven biển miền Trung, tuyến phòng thủ Phan Rang cũng bị chọc thủng vào ngày mười sáu tháng Tư. Từ miền Trung, các binh đoàn chủ lực ngày đêm hành quân về phía nam bằng mọi phương tiện, xe tải, xe thu được, cả tàu thủy, để kịp có mặt quanh Sài Gòn.
+
+**[4c thieu]** Cũng trong ngày hai mươi mốt tháng Tư, Tổng thống Thiệu từ chức. Trong bài phát biểu dài trên truyền hình, ông trách Mỹ đã không giữ lời hứa với đồng minh. Phó Tổng thống Trần Văn Hương lên thay. Vài ngày sau, ông Thiệu rời Việt Nam.
+
+**[4d trung]** Trước đó ít lâu, ngày tám tháng Tư, một chiếc máy bay chiến đấu đã bất ngờ ném bom xuống chính Dinh Độc Lập. Người lái là Nguyễn Thành Trung, một phi công của không quân Sài Gòn, nhưng thực chất là người của phía cách mạng hoạt động bí mật nhiều năm. Thiệt hại không lớn, nhưng cả Sài Gòn đều hiểu, chiến tranh đã đến rất gần.
+
+**[5 five columns]** Năm giờ chiều ngày hai mươi sáu tháng Tư, Chiến dịch Hồ Chí Minh chính thức bắt đầu. Hãy nhìn bản đồ. Sài Gòn nằm ở giữa, và có năm cánh quân đang khép lại từ năm hướng.
+
+**[5b directions]** Từ hướng bắc, Quân đoàn một nhắm vào Bộ Tổng tham mưu. Từ hướng tây bắc, Quân đoàn ba nhắm vào sân bay Tân Sơn Nhất. Từ hướng đông, Quân đoàn bốn nhắm vào Bộ Quốc phòng. Từ hướng đông nam, Quân đoàn hai, mục tiêu là Dinh Độc Lập. Và từ hướng tây nam, Đoàn hai trăm ba mươi hai tiến vào Biệt khu Thủ đô và Tổng nha Cảnh sát.
+
+**[5c plan]** Kế hoạch là đánh thật nhanh vào thẳng các cơ quan đầu não, để chính quyền Sài Gòn sụp đổ trước khi thành phố biến thành chiến trường. Chỉ huy toàn bộ chiến dịch là Đại tướng Văn Tiến Dũng.
+
+**[6 minh]** Chiều ngày hai mươi tám tháng Tư, Đại tướng Dương Văn Minh nhậm chức Tổng thống. Ông hy vọng vẫn còn có thể thương lượng. Nhưng thời gian không còn nữa.
+
+**[6b a37]** Ngay sau lễ nhậm chức, một tốp máy bay A ba mươi bảy xuất hiện trên bầu trời và ném bom sân bay Tân Sơn Nhất. Đó là phi đội Quyết Thắng, bay trên chính những chiếc máy bay vừa thu được của đối phương. Rạng sáng hôm sau, sân bay tiếp tục bị pháo kích. Máy bay vận tải lớn không thể cất cánh được nữa.
+
+**[6c rockets]** Trong trận pháo kích ấy, hai người lính thủy quân lục chiến Mỹ thiệt mạng, Charles McMahon và Darwin Judge. Họ là những quân nhân Mỹ cuối cùng hy sinh trong chiến tranh Việt Nam.
+
+**[7 frequent wind]** Trưa hôm đó, Mỹ phát lệnh di tản bằng trực thăng. Chiến dịch có tên Gió Lốc. Trên đài phát thanh của quân đội Mỹ, tín hiệu được phát đi là một bài hát quen thuộc về một mùa Giáng sinh trắng.
+
+**[7b helicopters]** Suốt chiều và đêm hôm ấy, từng đoàn trực thăng bay qua lại giữa Sài Gòn và hạm đội Mỹ ngoài khơi. Trên các sân thượng, trong khuôn viên tòa đại sứ, hàng nghìn người chờ đợi đến lượt mình. Theo tài liệu phía Mỹ, chỉ bằng trực thăng, khoảng một nghìn ba trăm bảy mươi ba người Mỹ và hơn năm nghìn năm trăm người Việt Nam cùng người nước khác đã được đưa đi.
+
+**[7c ships]** Ngoài biển, boong tàu chật kín. Có những lúc, người ta phải đẩy cả trực thăng xuống biển để lấy chỗ cho những chiếc khác hạ cánh. Rất nhiều người khác đã tự tìm đường ra đi bằng thuyền nhỏ.
+
+**[7c2 ly bung]** Có một câu chuyện ít người biết. Một phi công Việt Nam, thiếu tá Lý Bửng, chở vợ và năm người con trên một chiếc máy bay trinh sát nhỏ, bay ra biển tìm hạm đội Mỹ. Ông thả một mẩu giấy xuống boong tàu sân bay Midway, xin được hạ cánh. Thủy thủ trên tàu đẩy nhiều chiếc trực thăng xuống biển để dọn đường băng, và chiếc máy bay nhỏ đã hạ cánh an toàn.
+
+**[7d martin]** Bốn giờ năm mươi tám phút sáng ngày ba mươi tháng Tư, Đại sứ Mỹ Graham Martin rời Sài Gòn. Bảy giờ năm mươi ba phút, chiếc trực thăng cuối cùng cất cánh từ nóc tòa đại sứ, mang theo những người lính thủy quân lục chiến cuối cùng. Sự hiện diện quân sự của Mỹ ở Việt Nam đã kết thúc.
+
+**[8 morning]** Cùng buổi sáng ấy, từ hướng đông nam, Lữ đoàn xe tăng hai trăm linh ba của Quân đoàn hai đang lao trên xa lộ Biên Hòa. Đi cùng xe tăng là bộ binh, ngồi trên thùng xe, trên nóc xe, trên cả những chiếc xe vừa thu được dọc đường.
+
+**[8b bridge]** Chắn trước mặt họ là cầu Sài Gòn. Đây là một trong những trận đánh cuối cùng của cuộc chiến. Phía bên kia vẫn còn lực lượng phòng thủ, có cả xe tăng. Trận chiến trên cầu diễn ra quyết liệt, có xe tăng bị bắn cháy, có những người lính ngã xuống ở cả hai bên, chỉ vài giờ trước khi chiến tranh kết thúc.
+
+**[8c ceasefire]** Mười giờ hai mươi tư phút, giọng của Tổng thống Dương Văn Minh vang lên trên đài phát thanh. Ông kêu gọi binh sĩ ngừng nổ súng, ở nguyên vị trí, chờ để bàn giao chính quyền. Ở nhiều nơi, súng bắt đầu im lặng.
+
+**[8d into city]** Đoàn xe tăng vượt qua cầu, chạy qua ngã tư Hàng Xanh, rồi rẽ vào trung tâm. Người dân Sài Gòn đứng hai bên đường nhìn theo. Có người vẫy tay, có người lặng lẽ quan sát, có người khép cửa. Phía trước là đại lộ Thống Nhất, và ở cuối con đường là Dinh Độc Lập.
+
+**[8e palace history]** Tòa nhà ấy chưa đầy mười năm tuổi. Dinh cũ ở đó, dinh Norodom thời Pháp, đã bị chính hai phi công của không quân Sài Gòn ném bom vào năm một nghìn chín trăm sáu mươi hai. Dinh mới được kiến trúc sư Ngô Viết Thụ thiết kế, khánh thành ngày ba mươi mốt tháng Mười năm một nghìn chín trăm sáu mươi sáu, với mặt tiền là những thanh bê tông như những đốt trúc.
+
+**[9 gate]** Mười giờ bốn mươi lăm phút. Theo Khu di tích Dinh Độc Lập, chiếc xe tăng mang số hiệu tám trăm bốn mươi ba húc vào cổng phụ. Ngay sau đó, xe tăng số hiệu ba trăm chín mươi húc tung cổng chính, tiến thẳng vào sân Dinh.
+
+**[9b crews]** Chỉ huy xe tám trăm bốn mươi ba là đại đội trưởng Bùi Quang Thận. Trên xe ba trăm chín mươi có bốn người, chỉ huy xe là chính trị viên Vũ Đăng Toàn, người lái là Nguyễn Văn Tập. Họ đều còn rất trẻ, phần lớn mới ngoài hai mươi tuổi.
+
+**[9c which first]** Trong nhiều năm, người ta vẫn tranh luận chiếc xe nào đã húc đổ cổng chính. Chính những tấm ảnh và thước phim của các phóng viên nước ngoài có mặt hôm đó đã giúp xác định: xe ba trăm chín mươi húc cổng chính, còn xe tám trăm bốn mươi ba húc cổng phụ.
+
+**[9d flag]** Bùi Quang Thận nhảy xuống xe, ôm lá cờ chạy vào bên trong, leo lên tận nóc Dinh. Ông hạ lá cờ Việt Nam Cộng hòa xuống, và kéo lên lá cờ nửa đỏ nửa xanh, ở giữa có ngôi sao vàng, lá cờ của Mặt trận Dân tộc Giải phóng miền Nam. Lúc ấy là mười một giờ ba mươi phút.
+
+**[10 inside]** Bên trong Dinh, Tổng thống Dương Văn Minh cùng nội các vẫn đang chờ. Ông Minh nói rằng họ chờ để bàn giao chính quyền. Phía Quân Giải phóng trả lời rằng chính quyền cũ đã sụp đổ hoàn toàn, và điều duy nhất còn lại là đầu hàng vô điều kiện.
+
+**[10b radio]** Đầu giờ chiều, ông Minh được đưa đến Đài phát thanh Sài Gòn. Tại đây, ông đọc lời tuyên bố đầu hàng vô điều kiện. Tiếp theo là lời của Chính ủy Lữ đoàn hai trăm linh ba, Bùi Văn Tùng, tuyên bố thành phố Sài Gòn đã hoàn toàn giải phóng.
+
+**[10c city]** Trên khắp thành phố, những lá cờ mới xuất hiện ở cửa sổ, trên nóc nhà, trên xe. Ở các tỉnh miền Tây, quân đội Sài Gòn cũng lần lượt buông súng. Đến ngày hai tháng Năm, toàn bộ miền Nam đã hoàn toàn giải phóng.
+
+**[10c2 intact]** Điều mà nhiều người nhớ nhất về ngày hôm ấy là Sài Gòn, một thành phố hàng triệu dân, gần như không bị tàn phá. Không có những trận đánh kéo dài trên từng con phố. Trường học, chợ, nhà thờ, bến cảng vẫn còn nguyên.
+
+**[10d end of war]** Cuộc chiến tranh dài nhất của Việt Nam trong thế kỷ hai mươi đã kết thúc. Nó đã lấy đi sinh mạng của hàng triệu người, ở cả hai miền, cả hai chiến tuyến.
+
+**[11 reunification]** Một năm sau, ngày hai tháng Bảy năm một nghìn chín trăm bảy mươi sáu, Quốc hội của nước Việt Nam thống nhất quyết định lấy tên nước là Cộng hòa Xã hội chủ nghĩa Việt Nam. Sài Gòn, Gia Định được đổi tên thành Thành phố Hồ Chí Minh.
+
+**[11b two feelings]** Với hàng triệu người, ngày ba mươi tháng Tư là ngày đoàn tụ, ngày được trở về sau nhiều năm xa cách. Nhưng với không ít người khác, đó cũng là ngày của mất mát và chia ly. Nhiều năm sau, cố Thủ tướng Võ Văn Kiệt đã nói một câu được nhắc lại rất nhiều: có triệu người vui, cũng có triệu người buồn.
+
+**[11c healing]** Từ đó đến nay, những người con của cùng một đất nước vẫn đang đi trên một con đường dài, con đường hàn gắn.
+
+**[12 today palace]** Ngày nay, Dinh Độc Lập vẫn đứng đó, giữa trung tâm thành phố, gần như còn nguyên như năm xưa. Năm hai nghìn không trăm linh chín, nơi đây được xếp hạng di tích quốc gia đặc biệt. Trên nóc Dinh vẫn còn dấu vết của những quả bom ngày tám tháng Tư.
+
+**[12b tanks today]** Hai chiếc xe tăng ba trăm chín mươi và tám trăm bốn mươi ba đã được công nhận là bảo vật quốc gia vào năm hai nghìn không trăm mười hai. Xe tám trăm bốn mươi ba hiện ở Bảo tàng Lịch sử Quân sự Việt Nam, xe ba trăm chín mươi ở Bảo tàng Tăng thiết giáp. Còn trong sân Dinh, hai chiếc xe cùng loại vẫn đứng đó, như đang dừng lại ở buổi trưa năm ấy.
+
+**[12c fifty years]** Năm hai nghìn không trăm hai mươi lăm, tròn năm mươi năm, đoàn diễu binh lại đi qua chính con đường mà những chiếc xe tăng đã đi qua. Lần này, trong tiếng reo hò và những lá cờ, không còn tiếng súng.
+
+**[12d memory]** Những người lính lái xe tăng năm ấy giờ đã là những ông cụ tóc bạc. Bùi Quang Thận, người cắm cờ trên nóc Dinh, qua đời năm hai nghìn không trăm mười hai. Nhưng mỗi dịp tháng Tư, câu chuyện về cánh cổng sắt lại được kể lại cho thế hệ sau.
+
+**[13 cta]** Còn bạn, bạn đã từng đứng trước cánh cổng Dinh Độc Lập chưa? Hãy kể cho mình nghe ở phần bình luận nhé.

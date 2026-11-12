@@ -1,0 +1,339 @@
+{
+ "chapter": "b",
+ "shots": [
+  {
+   "id": "B1",
+   "file": "shots-chb",
+   "size": "title",
+   "set": "title",
+   "key": 20,
+   "note": "30/03 · Mặt trận mùa xuân"
+  },
+  {
+   "id": "B2",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "30/03 · Mặt trận mùa xuân"
+  },
+  {
+   "id": "B3",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "30/03 · Mặt trận mùa xuân"
+  },
+  {
+   "id": "B4",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "30/03 · Mặt trận mùa xuân"
+  },
+  {
+   "id": "B5",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "30/03 · Mặt trận mùa xuân"
+  },
+  {
+   "id": "B6",
+   "file": "shots-chb",
+   "size": "archive",
+   "set": "photo",
+   "key": 20,
+   "note": "Các tuyến phòng thủ ở Đông Hà"
+  },
+  {
+   "id": "B7",
+   "file": "shots-chb",
+   "size": "archive",
+   "set": "photo",
+   "key": 20,
+   "note": "Các tuyến phòng thủ ở Đông Hà"
+  },
+  {
+   "id": "B8",
+   "file": "shots-chb",
+   "size": "close",
+   "set": "battle",
+   "key": 20,
+   "note": "Các tuyến phòng thủ ở Đông Hà"
+  },
+  {
+   "id": "B9",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "battle",
+   "key": 20,
+   "note": "Các tuyến phòng thủ ở Đông Hà"
+  },
+  {
+   "id": "B10",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "battle",
+   "key": 20,
+   "note": "Tuyến phòng thủ bị chia cắt"
+  },
+  {
+   "id": "B11",
+   "file": "shots-chb",
+   "size": "medium",
+   "set": "battle",
+   "key": 20,
+   "note": "Tuyến phòng thủ bị chia cắt"
+  },
+  {
+   "id": "B12",
+   "file": "shots-chb",
+   "size": "medium",
+   "set": "battle",
+   "key": 20,
+   "note": "Tuyến phòng thủ bị chia cắt"
+  },
+  {
+   "id": "B13",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Tuyến phòng thủ bị chia cắt"
+  },
+  {
+   "id": "B14",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Tuyến phòng thủ bị chia cắt"
+  },
+  {
+   "id": "B15",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Đầu tháng Năm · Rút về phía nam"
+  },
+  {
+   "id": "B16",
+   "file": "shots-chb",
+   "size": "medium",
+   "set": "battle",
+   "key": 20,
+   "note": "Đầu tháng Năm · Rút về phía nam"
+  },
+  {
+   "id": "B17",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Đầu tháng Năm · Rút về phía nam"
+  },
+  {
+   "id": "B18",
+   "file": "shots-chb",
+   "size": "archive",
+   "set": "photo",
+   "key": 20,
+   "note": "Người dân rời nhà"
+  },
+  {
+   "id": "B19",
+   "file": "shots-chb",
+   "size": "archive",
+   "set": "photo",
+   "key": 20,
+   "note": "Người dân rời nhà"
+  },
+  {
+   "id": "B20",
+   "file": "shots-chb",
+   "size": "archive",
+   "set": "photo",
+   "key": 20,
+   "note": "Người dân rời nhà"
+  },
+  {
+   "id": "B21",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Người dân rời nhà"
+  },
+  {
+   "id": "B22",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Tuyến Mỹ Chánh"
+  },
+  {
+   "id": "B23",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Tuyến Mỹ Chánh"
+  },
+  {
+   "id": "B24",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Tuyến Mỹ Chánh"
+  },
+  {
+   "id": "B25",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Tuyến Mỹ Chánh"
+  },
+  {
+   "id": "B26",
+   "file": "shots-chb",
+   "size": "map",
+   "set": "map",
+   "key": 20,
+   "note": "Tuyến Mỹ Chánh"
+  },
+  {
+   "id": "B27",
+   "file": "shots-chb",
+   "size": "wide",
+   "set": "battle",
+   "key": 20,
+   "note": "Tuyến Mỹ Chánh"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "B1",
+   "at": "s:97.276"
+  },
+  {
+   "shot": "B2",
+   "at": "s:101.957"
+  },
+  {
+   "shot": "B3",
+   "at": "s:103.290"
+  },
+  {
+   "shot": "B4",
+   "at": "s:107.302"
+  },
+  {
+   "shot": "B5",
+   "at": "s:112.038"
+  },
+  {
+   "shot": "B6",
+   "at": "s:114.687"
+  },
+  {
+   "shot": "B7",
+   "at": "s:118.354"
+  },
+  {
+   "shot": "B8",
+   "at": "s:124.071"
+  },
+  {
+   "shot": "B9",
+   "at": "s:127.370"
+  },
+  {
+   "shot": "B10",
+   "at": "s:130.732"
+  },
+  {
+   "shot": "B11",
+   "at": "s:132.755"
+  },
+  {
+   "shot": "B12",
+   "at": "s:136.169"
+  },
+  {
+   "shot": "B13",
+   "at": "s:140.440"
+  },
+  {
+   "shot": "B14",
+   "at": "s:144.417"
+  },
+  {
+   "shot": "B15",
+   "at": "s:146.831"
+  },
+  {
+   "shot": "B16",
+   "at": "s:150.600"
+  },
+  {
+   "shot": "B17",
+   "at": "s:153.186"
+  },
+  {
+   "shot": "B18",
+   "at": "s:161.038"
+  },
+  {
+   "shot": "B19",
+   "at": "s:165.244"
+  },
+  {
+   "shot": "B20",
+   "at": "s:171.031"
+  },
+  {
+   "shot": "B21",
+   "at": "s:174.249"
+  },
+  {
+   "shot": "B22",
+   "at": "s:177.605"
+  },
+  {
+   "shot": "B23",
+   "at": "s:180.177"
+  },
+  {
+   "shot": "B24",
+   "at": "s:182.589"
+  },
+  {
+   "shot": "B25",
+   "at": "s:185.613"
+  },
+  {
+   "shot": "B26",
+   "at": "s:187.762"
+  },
+  {
+   "shot": "B27",
+   "at": "s:190.249"
+  }
+ ],
+ "events": [
+  [
+   "B1",
+   "rubble",
+   0.1,
+   "onset"
+  ]
+ ]
+}

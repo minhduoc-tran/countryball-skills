@@ -1,0 +1,721 @@
+{
+ "chapter": "b",
+ "shots": [
+  {
+   "id": "B1",
+   "file": "shots-chb-arcade-intro",
+   "size": "wide",
+   "set": "arcade front",
+   "key": 30,
+   "note": "Mo drags Pip by the wrist to the arcade door"
+  },
+  {
+   "id": "B2",
+   "file": "shots-chb-arcade-intro",
+   "size": "wide",
+   "set": "arcade",
+   "key": 25,
+   "note": "inside the neon arcade, boxing machine glows at the back"
+  },
+  {
+   "id": "B3",
+   "file": "shots-chb-arcade-intro",
+   "size": "medium",
+   "set": "arcade",
+   "key": 30,
+   "note": "boxing machine push-in, Mo points"
+  },
+  {
+   "id": "B4",
+   "file": "shots-chb-arcade-intro",
+   "size": "medium",
+   "set": "arcade",
+   "key": 22,
+   "note": "record board KY LUC 900, Mo and Pip look up"
+  },
+  {
+   "id": "B5",
+   "file": "shots-chb-arcade-intro",
+   "size": "wide",
+   "set": "arcade",
+   "key": 16,
+   "note": "Mo punches the pad"
+  },
+  {
+   "id": "B6",
+   "file": "shots-chb-arcade-intro",
+   "size": "insert",
+   "set": "display",
+   "key": 28,
+   "note": "display counts up to 420, record 900 below"
+  },
+  {
+   "id": "B7",
+   "file": "shots-chb-arcade-intro",
+   "size": "wide",
+   "set": "arcade",
+   "key": 20,
+   "note": "Pip steps up, speed lines gather"
+  },
+  {
+   "id": "B8",
+   "file": "shots-chb-arcade-punch",
+   "size": "insert",
+   "set": "fist",
+   "key": 22,
+   "note": "fist clenches, thrusts at lens"
+  },
+  {
+   "id": "B9",
+   "file": "shots-chb-arcade-punch",
+   "size": "wide",
+   "set": "arcade",
+   "key": 10,
+   "note": "THE HIT: machine rips off its base"
+  },
+  {
+   "id": "B10",
+   "file": "shots-chb-arcade-punch",
+   "size": "medium",
+   "set": "arcade wall",
+   "key": 10,
+   "note": "wall bursts, machine goes through"
+  },
+  {
+   "id": "B11",
+   "file": "shots-chb-arcade-punch",
+   "size": "wide",
+   "set": "arcade front",
+   "key": 16,
+   "note": "machine bursts out of the wall towards camera"
+  },
+  {
+   "id": "B12",
+   "file": "shots-chb-arcade-punch",
+   "size": "insert",
+   "set": "display",
+   "key": 46,
+   "note": "display 9999, flickers, dies"
+  },
+  {
+   "id": "B13",
+   "file": "shots-chb-arcade-punch",
+   "size": "medium",
+   "set": "arcade",
+   "key": 12,
+   "note": "Mo jaw drops, daylight hole behind"
+  },
+  {
+   "id": "B14",
+   "file": "shots-chb-roach-setup",
+   "size": "wide",
+   "set": "street night",
+   "key": 22,
+   "note": "night street, manhole cover rattles and pops"
+  },
+  {
+   "id": "B15",
+   "file": "shots-chb-roach-setup",
+   "size": "wide",
+   "set": "street night",
+   "key": 34,
+   "note": "cockroach beside the bus: same size"
+  },
+  {
+   "id": "B16",
+   "file": "shots-chb-roach-setup",
+   "size": "medium",
+   "set": "street night",
+   "key": 36,
+   "note": "cockroach hauls itself out of the manhole"
+  },
+  {
+   "id": "B17",
+   "file": "shots-chb-roach-setup",
+   "size": "wide",
+   "set": "street night",
+   "key": 20,
+   "note": "whole street runs screaming, bikes bolt"
+  },
+  {
+   "id": "B18",
+   "file": "shots-chb-roach-setup",
+   "size": "wide",
+   "set": "street night",
+   "key": 20,
+   "note": "Pip steps forward against the stream"
+  },
+  {
+   "id": "B19",
+   "file": "shots-chb-roach-setup",
+   "size": "wide",
+   "set": "street night",
+   "key": 30,
+   "note": "wind-up, speed lines gather"
+  },
+  {
+   "id": "B20",
+   "file": "shots-chb-roach-punch",
+   "size": "wide",
+   "set": "street night",
+   "key": 10,
+   "note": "THE HIT on the cockroach"
+  },
+  {
+   "id": "B21",
+   "file": "shots-chb-roach-punch",
+   "size": "wide",
+   "set": "rooftops",
+   "key": 30,
+   "note": "it flies over three rows of houses, shrinking"
+  },
+  {
+   "id": "B22",
+   "file": "shots-chb-roach-punch",
+   "size": "wide",
+   "set": "street night",
+   "key": 40,
+   "note": "everyone films with REC phones"
+  },
+  {
+   "id": "B23",
+   "file": "shots-chb-roach-punch",
+   "size": "wide",
+   "set": "street morning",
+   "key": 20,
+   "note": "morning, people stare at phones with Pip face"
+  },
+  {
+   "id": "B24",
+   "file": "shots-chb-roach-punch",
+   "size": "wide",
+   "set": "tv + feeds",
+   "key": 30,
+   "note": "TIN NONG, Pip face on TV and phone feeds"
+  },
+  {
+   "id": "B25",
+   "file": "shots-chb-robot-approach",
+   "size": "wide",
+   "set": "industrial",
+   "key": 30,
+   "note": "rogue robot marches in among factories"
+  },
+  {
+   "id": "B26",
+   "file": "shots-chb-robot-approach",
+   "size": "wide",
+   "set": "industrial",
+   "key": 20,
+   "note": "factories slide past, robot stomps"
+  },
+  {
+   "id": "B27",
+   "file": "shots-chb-robot-approach",
+   "size": "wide",
+   "set": "industrial",
+   "key": 20,
+   "note": "bullets ping off the armour"
+  },
+  {
+   "id": "B28",
+   "file": "shots-chb-robot-approach",
+   "size": "low",
+   "set": "industrial",
+   "key": 18,
+   "note": "low angle: Pip crouches and leaps"
+  },
+  {
+   "id": "B29",
+   "file": "shots-chb-robot-punch",
+   "size": "wide",
+   "set": "industrial",
+   "key": 30,
+   "note": "mid-air, fist cocked, speed lines"
+  },
+  {
+   "id": "B30",
+   "file": "shots-chb-robot-punch",
+   "size": "wide",
+   "set": "industrial",
+   "key": 8,
+   "note": "THE HIT mid-air, robot bursts"
+  },
+  {
+   "id": "B31",
+   "file": "shots-chb-robot-punch",
+   "size": "wide",
+   "set": "industrial",
+   "key": 14,
+   "note": "fireball fades, bolts rain"
+  },
+  {
+   "id": "B32",
+   "file": "shots-chb-robot-punch",
+   "size": "insert",
+   "set": "tarmac",
+   "key": 10,
+   "note": "bolts bounce on the tarmac"
+  },
+  {
+   "id": "B33",
+   "file": "shots-chb-robot-punch",
+   "size": "wide",
+   "set": "industrial",
+   "key": 14,
+   "note": "Pip lands, dust ring, black smoke"
+  },
+  {
+   "id": "B34",
+   "file": "shots-chb-robot-punch",
+   "size": "medium",
+   "set": "industrial",
+   "key": 20,
+   "note": "Pip dusts off his hands"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "B1",
+   "at": "s:40.97"
+  },
+  {
+   "shot": "B2",
+   "at": "s:42.90"
+  },
+  {
+   "shot": "B3",
+   "at": "s:44.48"
+  },
+  {
+   "shot": "B4",
+   "at": "s:45.85"
+  },
+  {
+   "shot": "B5",
+   "at": "s:47.07"
+  },
+  {
+   "shot": "B6",
+   "at": "s:47.91"
+  },
+  {
+   "shot": "B7",
+   "at": "s:49.06"
+  },
+  {
+   "shot": "B8",
+   "at": "s:49.84",
+   "look": "fight"
+  },
+  {
+   "shot": "B9",
+   "at": "s:50.82",
+   "look": "fight"
+  },
+  {
+   "shot": "B10",
+   "at": "s:51.60",
+   "look": "fight"
+  },
+  {
+   "shot": "B11",
+   "at": "s:52.45",
+   "look": "fight"
+  },
+  {
+   "shot": "B12",
+   "at": "s:53.41"
+  },
+  {
+   "shot": "B13",
+   "at": "s:55.43"
+  },
+  {
+   "shot": "B14",
+   "at": "s:56.20"
+  },
+  {
+   "shot": "B15",
+   "at": "s:57.30"
+  },
+  {
+   "shot": "B16",
+   "at": "s:58.95"
+  },
+  {
+   "shot": "B17",
+   "at": "s:60.51"
+  },
+  {
+   "shot": "B18",
+   "at": "s:61.73"
+  },
+  {
+   "shot": "B19",
+   "at": "s:62.70",
+   "look": "fight"
+  },
+  {
+   "shot": "B20",
+   "at": "s:63.79",
+   "look": "fight"
+  },
+  {
+   "shot": "B21",
+   "at": "s:64.53",
+   "look": "fight"
+  },
+  {
+   "shot": "B22",
+   "at": "s:66.58"
+  },
+  {
+   "shot": "B23",
+   "at": "s:68.44"
+  },
+  {
+   "shot": "B24",
+   "at": "s:69.41"
+  },
+  {
+   "shot": "B25",
+   "at": "s:70.52"
+  },
+  {
+   "shot": "B26",
+   "at": "s:72.68"
+  },
+  {
+   "shot": "B27",
+   "at": "s:74.02"
+  },
+  {
+   "shot": "B28",
+   "at": "s:75.29"
+  },
+  {
+   "shot": "B29",
+   "at": "s:76.27",
+   "look": "fight"
+  },
+  {
+   "shot": "B30",
+   "at": "s:77.38",
+   "look": "fight"
+  },
+  {
+   "shot": "B31",
+   "at": "s:78.09",
+   "look": "fight"
+  },
+  {
+   "shot": "B32",
+   "at": "s:79.05",
+   "look": "fight"
+  },
+  {
+   "shot": "B33",
+   "at": "s:79.65"
+  },
+  {
+   "shot": "B34",
+   "at": "s:80.64"
+  }
+ ],
+ "fx": [
+  {
+   "at": "B9+3",
+   "kind": "shake",
+   "amp": 22,
+   "len": 14
+  },
+  {
+   "at": "B9+3",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.5
+  },
+  {
+   "at": "B20+3",
+   "kind": "shake",
+   "amp": 20,
+   "len": 14
+  },
+  {
+   "at": "B20+3",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.45
+  },
+  {
+   "at": "B30+3",
+   "kind": "shake",
+   "amp": 28,
+   "len": 16
+  },
+  {
+   "at": "B30+3",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.6
+  },
+  {
+   "at": "B5+9",
+   "kind": "shake",
+   "amp": 10,
+   "len": 8
+  }
+ ],
+ "events": [
+  [
+   "B1",
+   "room_tone",
+   0.07,
+   "onset",
+   "B13"
+  ],
+  [
+   "B2",
+   "power_hum",
+   0.05,
+   "onset",
+   "B13"
+  ],
+  [
+   "B8+22",
+   "swoosh",
+   0.15,
+   "peak"
+  ],
+  [
+   "B5+9",
+   "punch_hit",
+   0.12,
+   "onset"
+  ],
+  [
+   "B6",
+   "arcade_count",
+   0.16,
+   "onset"
+  ],
+  [
+   "B9+3",
+   "punch_hit",
+   0.28,
+   "onset"
+  ],
+  [
+   "B9+19",
+   "metal_crash",
+   0.24,
+   "onset"
+  ],
+  [
+   "B10+2",
+   "rubble",
+   0.2,
+   "onset"
+  ],
+  [
+   "B12+40",
+   "glitch",
+   0.1,
+   "onset"
+  ],
+  [
+   "B12+58",
+   "power_down",
+   0.14,
+   "onset"
+  ],
+  [
+   "B13+2",
+   "gasp",
+   0.12,
+   "onset"
+  ],
+  [
+   "B14",
+   "roof_wind",
+   0.05,
+   "onset",
+   "B22"
+  ],
+  [
+   "B14+8",
+   "clink",
+   0.1,
+   "onset"
+  ],
+  [
+   "B14+24",
+   "clink",
+   0.16,
+   "onset"
+  ],
+  [
+   "B16+28",
+   "big_step",
+   0.16,
+   "onset"
+  ],
+  [
+   "B17",
+   "class_murmur",
+   0.1,
+   "onset",
+   "B18"
+  ],
+  [
+   "B17",
+   "siren",
+   0.05,
+   "onset",
+   "B20"
+  ],
+  [
+   "B17+2",
+   "gasp",
+   0.14,
+   "onset"
+  ],
+  [
+   "B20+3",
+   "punch_hit",
+   0.3,
+   "onset"
+  ],
+  [
+   "B20+3",
+   "sonic_crack",
+   0.12,
+   "onset"
+  ],
+  [
+   "B21",
+   "swoosh",
+   0.2,
+   "peak"
+  ],
+  [
+   "B28+10",
+   "swoosh",
+   0.2,
+   "peak"
+  ],
+  [
+   "B30+3",
+   "punch_hit",
+   0.3,
+   "onset"
+  ],
+  [
+   "B30+4",
+   "metal_crash",
+   0.26,
+   "onset"
+  ],
+  [
+   "B33+8",
+   "land",
+   0.2,
+   "onset"
+  ],
+  [
+   "B25",
+   "drone_hit",
+   0.06,
+   "onset"
+  ]
+ ],
+ "repeats": [
+  {
+   "at": "B22+8",
+   "clip": "ting",
+   "n": 6,
+   "every": 6,
+   "gain": [
+    0.05,
+    0.1
+   ],
+   "pitch": [
+    0.9,
+    1.2
+   ]
+  },
+  {
+   "at": "B24+4",
+   "clip": "ting",
+   "n": 6,
+   "every": 4,
+   "gain": [
+    0.05,
+    0.1
+   ],
+   "pitch": [
+    0.9,
+    1.3
+   ]
+  },
+  {
+   "at": "B25+6",
+   "clip": "big_step",
+   "n": 4,
+   "every": 14,
+   "gain": [
+    0.1,
+    0.16
+   ]
+  },
+  {
+   "at": "B26+4",
+   "clip": "big_step",
+   "n": 3,
+   "every": 14,
+   "gain": [
+    0.12,
+    0.18
+   ]
+  },
+  {
+   "at": "B27",
+   "clip": "clink",
+   "n": 12,
+   "every": 3,
+   "gain": [
+    0.05,
+    0.11
+   ],
+   "pitch": [
+    0.9,
+    1.3
+   ]
+  },
+  {
+   "at": "B31+2",
+   "clip": "clink",
+   "n": 14,
+   "every": 2,
+   "gain": [
+    0.05,
+    0.12
+   ],
+   "pitch": [
+    0.8,
+    1.4
+   ]
+  },
+  {
+   "at": "B17+4",
+   "clip": "step",
+   "n": 8,
+   "every": 4,
+   "gain": [
+    0.06,
+    0.12
+   ]
+  }
+ ]
+}
